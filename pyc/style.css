@@ -259,28 +259,58 @@ button{
 
 
 
-
-header nav ul li.dropdown {
-    cursor: pointer;
+header nav ul li {
+    display: flex;
+    align-items: center;
 }
 
+header nav ul li.dropdown {
+    position: relative; /* Anclar el menú al li */
+}
+
+/* Enlace principal */
+header nav ul li.dropdown > a {
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Hover en Idiomas igual que Inicio e Inmuebles */
+header nav ul li.dropdown > a:hover {
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+/* Ampliar área de hover con pseudo-elemento invisible */
+header nav ul li.dropdown::after {
+    content: "";
+    position: absolute;
+    top: 100%;   /* justo debajo del enlace */
+    left: 0;
+    width: 100%;
+    height: 12px; /* margen extra de hover */
+}
+
+/* Menú desplegable */
 header nav ul li.dropdown .dropdown-menu {
     display: none;
     position: absolute;
     top: 100%;
-    left: 0;
+    left: 50%;                /* centrado respecto al enlace */
+    transform: translateX(-50%); /* corrige el punto de referencia */
     background-color: #444;
     border-radius: 5px;
     overflow: hidden;
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
-    z-index: 1;
+    z-index: 999;
+    width: max-content; /* se ajusta al contenido */
+    min-width: 120px;
+    margin-top: 0;      /* pegado al enlace */
 }
 
 header nav ul li.dropdown:hover .dropdown-menu {
-    display: block;
-}
-
-header nav ul li.dropdown .dropdown-menu li {
     display: block;
 }
 
@@ -294,8 +324,6 @@ header nav ul li.dropdown .dropdown-menu li a {
 header nav ul li.dropdown .dropdown-menu li a:hover {
     background-color: #555;
 }
-
-
 
 
 
