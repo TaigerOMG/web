@@ -1,0 +1,497 @@
+{
+  "media": {
+    "poster": "/images/Inmueble/ImgVideo.PNG",
+    "video": "/images/Inmueble/Video.mp4",
+    "images": [
+      {
+        "src": "/images/Inmueble/1.jpg",
+        "alt_es": "Vista exterior Masía"
+      },
+      {
+        "src": "/images/Inmueble/2.jpg",
+        "alt_es": "Jardín y terraza"
+      },
+      {
+        "src": "/images/Inmueble/3.jpg",
+        "alt_es": "Interior"
+      },
+      {
+        "src": "/images/Inmueble/4.jpg",
+        "alt_es": "Piscina y zona de spa"
+      },
+      {
+        "src": "/images/Inmueble/5.jpg",
+        "alt_es": "Dormitorio"
+      }
+    ],
+    "pdf": "/images/Finca%20siglo%20XVI%20con%20proyecto%20de%20hotel.pdf",
+    "map_embed": "https://www.google.com/maps?q=Port%20d%27Aro%2C%20Platja%20d%27Aro%2C%20Girona&output=embed"
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Masía en Port d'Aro",
+      "seo_title": "Masía en Port d'Aro | LacostaHaus",
+      "seo_description": "Proyecto hotelero en una masía histórica en Port d'Aro, cerca de Platja d'Aro, con parcela de 10.680 m² y proyecto aprobado.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "4.500.000 €",
+      "details": [
+        [
+          "Tipo",
+          "Masía"
+        ],
+        [
+          "Plantas",
+          "3"
+        ],
+        [
+          "Construidos",
+          "1.141 m²"
+        ],
+        [
+          "Útiles",
+          "1.100 m²"
+        ],
+        [
+          "Habitaciones",
+          "11"
+        ],
+        [
+          "Parcela",
+          "10.680 m²"
+        ],
+        [
+          "Terraza/Balcón",
+          "Sí"
+        ],
+        [
+          "Garaje",
+          "Incluido en el precio"
+        ],
+        [
+          "Estado",
+          "Segunda mano / para reformar"
+        ],
+        [
+          "Trastero",
+          "Sí"
+        ],
+        [
+          "Orientación",
+          "Sur, Este"
+        ],
+        [
+          "Año construcción",
+          "1988"
+        ],
+        [
+          "Calefacción",
+          "No dispone"
+        ],
+        [
+          "Equipamiento",
+          "Jardín"
+        ],
+        [
+          "Certificado energético",
+          "En trámite"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma — LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "description_title": "Descripción",
+      "description": [
+        "Desde <strong>LacostaHaus</strong> queremos presentar este fabuloso proyecto hotelero de 4 estrellas superior en la histórica masía <em>Mas Candell</em> del siglo XVI, reconocida como patrimonio cultural de Catalunya.",
+        "Esta increíble propiedad descansa sobre una parcela de <strong>10.680 m²</strong>, a menos de 2 kilómetros de las estupendas playas de Platja d’Aro y del bullicioso centro urbano, donde poder disfrutar de una variada oferta gastronómica y comercial, así como de actividades de ocio. Además, queda próxima al puerto deportivo y de diversos campos de golf de renombre.",
+        "El proyecto del hotel se centra en conservar y realzar la belleza histórica de la masía, mientras se fusiona con dos edificios modernos. La capacidad del hotel será de <strong>90 huéspedes</strong>, hasta un máximo de <strong>107 huéspedes</strong>.",
+        "La masía albergará el corazón del hotel, con su encantadora sala de recepción y lounge, <strong>11 suites</strong> y <strong>6 habitaciones superiores</strong>, así como un restaurante con capacidad para <strong>50 comensales</strong> y cocina propia. Los huéspedes disfrutarán de dos amplias terrazas: una con capacidad para <strong>100 personas</strong> y otra con un área de <strong>chill-out de 200 m²</strong>, perfectas para relajarse y disfrutar del clima mediterráneo.",
+        "Otra parte del hotel consistirá en un complejo de <strong>14 bungalows</strong> individuales para familias, con su propia entrada y amplias terrazas. Los bungalows estarán situados junto a una amplia zona verde con grandes árboles frondosos, que proporcionan mucha sombra y crean un ambiente totalmente relajante.",
+        "El hotel también cuenta con <strong>dos piscinas</strong>, <strong>zona de spa</strong> y <strong>jacuzzi</strong>, así como un <strong>espacio multifuncional</strong> para bodas, conciertos y eventos con capacidad para hasta <strong>200 personas</strong>, con <strong>7.087 m²</strong> de jardines y <strong>2.470 m²</strong> de zonas comunes.",
+        "Este proyecto está completamente desarrollado y aprobado por las autoridades locales y regionales, por lo que sería una inversión con un gran potencial de rentabilidad.",
+        "<strong>El precio anunciado incluye la propiedad en su estado actual; el coste de la reforma se contrata por separado.</strong>",
+        "Para cualquier información, no duden en contactar con nosotros."
+      ],
+      "location_title": "Ubicación",
+      "location_text": "Barrio Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Hablamos",
+      "video_fallback": "Tu navegador no soporta la reproducción de vídeo."
+    },
+    "en": {
+      "nav_home": "Home",
+      "nav_properties": "Properties",
+      "nav_languages": "Languages",
+      "title": "Farmhouse for sale in Port d'Aro",
+      "seo_title": "Farmhouse for sale in Port d'Aro | LacostaHaus",
+      "seo_description": "Hotel project in a historic farmhouse in Port d'Aro, near Platja d'Aro, with a 10,680 m² plot and an approved project.",
+      "details_title": "Property Details",
+      "price": "€4,500,000",
+      "details": [
+        [
+          "Type",
+          "Farmhouse"
+        ],
+        [
+          "Floors",
+          "3"
+        ],
+        [
+          "Built area",
+          "1,141 m²"
+        ],
+        [
+          "Usable area",
+          "1,100 m²"
+        ],
+        [
+          "Bedrooms",
+          "11"
+        ],
+        [
+          "Plot",
+          "10,680 m²"
+        ],
+        [
+          "Terrace/Balcony",
+          "Yes"
+        ],
+        [
+          "Garage",
+          "Included in the price"
+        ],
+        [
+          "Condition",
+          "Second hand / to renovate"
+        ],
+        [
+          "Storage room",
+          "Yes"
+        ],
+        [
+          "Orientation",
+          "South, East"
+        ],
+        [
+          "Year built",
+          "1988"
+        ],
+        [
+          "Heating",
+          "Not available"
+        ],
+        [
+          "Equipment",
+          "Garden"
+        ],
+        [
+          "Energy certificate",
+          "In progress"
+        ]
+      ],
+      "project_title": "Project",
+      "pdf_title": "Renovation project — LacostaHaus",
+      "download_pdf": "Download PDF",
+      "description_title": "Description",
+      "description": [
+        "At <strong>LacostaHaus</strong>, we are pleased to present this outstanding 4-star superior hotel project in the historic 16th-century <em>Mas Candell</em> farmhouse, recognised as part of Catalonia's cultural heritage.",
+        "This remarkable property sits on a <strong>10,680 m²</strong> plot, less than 2 kilometres from the beautiful beaches of Platja d’Aro and the lively town centre, with restaurants, shops and leisure activities. It is also close to the marina and several renowned golf courses.",
+        "The hotel project focuses on preserving and enhancing the historic beauty of the farmhouse while combining it with two modern buildings. The hotel capacity will be <strong>90 guests</strong>, up to a maximum of <strong>107 guests</strong>.",
+        "The farmhouse will be the heart of the hotel, with a charming reception and lounge area, <strong>11 suites</strong> and <strong>6 superior rooms</strong>, as well as a restaurant for <strong>50 diners</strong> with its own kitchen. Guests will enjoy two spacious terraces: one for <strong>100 people</strong> and another with a <strong>200 m² chill-out area</strong>.",
+        "Another part of the hotel will consist of <strong>14 individual family bungalows</strong>, each with its own entrance and spacious terraces. The bungalows will be located next to a large green area with mature trees that provide shade and a relaxing atmosphere.",
+        "The hotel also includes <strong>two swimming pools</strong>, a <strong>spa area</strong> and <strong>jacuzzi</strong>, as well as a <strong>multifunctional space</strong> for weddings, concerts and events for up to <strong>200 people</strong>, with <strong>7,087 m²</strong> of gardens and <strong>2,470 m²</strong> of common areas.",
+        "The project is fully developed and approved by the local and regional authorities, making it an investment with strong profitability potential.",
+        "<strong>The advertised price includes the property in its current condition; renovation costs are contracted separately.</strong>",
+        "Please contact us for further information."
+      ],
+      "location_title": "Location",
+      "location_text": "Port d'Aro area · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+      "contact_label": "Contact",
+      "email_label": "Email",
+      "spoken_label": "We speak",
+      "video_fallback": "Your browser does not support video playback."
+    },
+    "fr": {
+      "nav_home": "Accueil",
+      "nav_properties": "Biens",
+      "nav_languages": "Langues",
+      "title": "Masia à vendre à Port d'Aro",
+      "seo_title": "Masia à vendre à Port d'Aro | LacostaHaus",
+      "seo_description": "Projet hôtelier dans une masia historique à Port d'Aro, près de Platja d'Aro, avec terrain de 10 680 m² et projet approuvé.",
+      "details_title": "Détails de la propriété",
+      "price": "4.500.000 €",
+      "details": [
+        [
+          "Type",
+          "Masia"
+        ],
+        [
+          "Étages",
+          "3"
+        ],
+        [
+          "Surface construite",
+          "1.141 m²"
+        ],
+        [
+          "Surface utile",
+          "1.100 m²"
+        ],
+        [
+          "Chambres",
+          "11"
+        ],
+        [
+          "Terrain",
+          "10.680 m²"
+        ],
+        [
+          "Terrasse/Balcon",
+          "Oui"
+        ],
+        [
+          "Garage",
+          "Inclus dans le prix"
+        ],
+        [
+          "État",
+          "Seconde main / à rénover"
+        ],
+        [
+          "Débarras",
+          "Oui"
+        ],
+        [
+          "Orientation",
+          "Sud, Est"
+        ],
+        [
+          "Année de construction",
+          "1988"
+        ],
+        [
+          "Chauffage",
+          "Non disponible"
+        ],
+        [
+          "Équipement",
+          "Jardin"
+        ],
+        [
+          "Certificat énergétique",
+          "En cours"
+        ]
+      ],
+      "project_title": "Projet",
+      "pdf_title": "Projet de rénovation — LacostaHaus",
+      "download_pdf": "Télécharger le PDF",
+      "description_title": "Description",
+      "description": [
+        "Chez <strong>LacostaHaus</strong>, nous présentons ce magnifique projet hôtelier 4 étoiles supérieur dans l’historique masia <em>Mas Candell</em> du XVIe siècle, reconnue comme patrimoine culturel de Catalogne.",
+        "Cette propriété exceptionnelle repose sur un terrain de <strong>10.680 m²</strong>, à moins de 2 kilomètres des plages de Platja d’Aro et de son centre animé, avec restaurants, commerces et loisirs. Elle est également proche du port de plaisance et de plusieurs terrains de golf renommés.",
+        "Le projet hôtelier vise à préserver et valoriser la beauté historique de la masia tout en l’associant à deux bâtiments modernes. La capacité de l’hôtel sera de <strong>90 clients</strong>, jusqu’à un maximum de <strong>107 clients</strong>.",
+        "La masia accueillera le cœur de l’hôtel, avec une charmante réception et un lounge, <strong>11 suites</strong> et <strong>6 chambres supérieures</strong>, ainsi qu’un restaurant de <strong>50 couverts</strong> avec cuisine propre. Les clients profiteront de deux grandes terrasses : l’une pour <strong>100 personnes</strong> et l’autre avec un espace <strong>chill-out de 200 m²</strong>.",
+        "Une autre partie de l’hôtel comprendra <strong>14 bungalows familiaux individuels</strong>, avec entrée privée et grandes terrasses. Ils seront situés à côté d’un vaste espace vert arboré offrant de l’ombre et une atmosphère relaxante.",
+        "L’hôtel dispose également de <strong>deux piscines</strong>, d’un <strong>espace spa</strong> et d’un <strong>jacuzzi</strong>, ainsi que d’un <strong>espace multifonctionnel</strong> pour mariages, concerts et événements jusqu’à <strong>200 personnes</strong>, avec <strong>7.087 m²</strong> de jardins et <strong>2.470 m²</strong> d’espaces communs.",
+        "Le projet est entièrement développé et approuvé par les autorités locales et régionales, ce qui en fait un investissement à fort potentiel de rentabilité.",
+        "<strong>Le prix annoncé inclut la propriété dans son état actuel ; le coût de la rénovation est contracté séparément.</strong>",
+        "Pour toute information complémentaire, n’hésitez pas à nous contacter."
+      ],
+      "location_title": "Emplacement",
+      "location_text": "Quartier Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Gérone",
+      "contact_label": "Contact",
+      "email_label": "Email",
+      "spoken_label": "Nous parlons",
+      "video_fallback": "Votre navigateur ne prend pas en charge la lecture vidéo."
+    },
+    "de": {
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Masia zum Verkauf in Port d'Aro",
+      "seo_title": "Masia zum Verkauf in Port d'Aro | LacostaHaus",
+      "seo_description": "Hotelprojekt in einer historischen Masia in Port d'Aro, nahe Platja d'Aro, mit 10.680 m² Grundstück und genehmigtem Projekt.",
+      "details_title": "Immobiliendetails",
+      "price": "4.500.000 €",
+      "details": [
+        [
+          "Typ",
+          "Masia"
+        ],
+        [
+          "Etagen",
+          "3"
+        ],
+        [
+          "Bebaute Fläche",
+          "1.141 m²"
+        ],
+        [
+          "Nutzfläche",
+          "1.100 m²"
+        ],
+        [
+          "Zimmer",
+          "11"
+        ],
+        [
+          "Grundstück",
+          "10.680 m²"
+        ],
+        [
+          "Terrasse/Balkon",
+          "Ja"
+        ],
+        [
+          "Garage",
+          "Im Preis enthalten"
+        ],
+        [
+          "Zustand",
+          "Gebraucht / renovierungsbedürftig"
+        ],
+        [
+          "Abstellraum",
+          "Ja"
+        ],
+        [
+          "Ausrichtung",
+          "Süd, Ost"
+        ],
+        [
+          "Baujahr",
+          "1988"
+        ],
+        [
+          "Heizung",
+          "Nicht vorhanden"
+        ],
+        [
+          "Ausstattung",
+          "Garten"
+        ],
+        [
+          "Energieausweis",
+          "In Bearbeitung"
+        ]
+      ],
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt — LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "description_title": "Beschreibung",
+      "description": [
+        "<strong>LacostaHaus</strong> präsentiert dieses außergewöhnliche 4-Sterne-Superior-Hotelprojekt in der historischen Masia <em>Mas Candell</em> aus dem 16. Jahrhundert, die als Kulturerbe Kataloniens anerkannt ist.",
+        "Diese beeindruckende Immobilie befindet sich auf einem <strong>10.680 m²</strong> großen Grundstück, weniger als 2 Kilometer von den Stränden von Platja d’Aro und dem lebhaften Zentrum mit Gastronomie, Geschäften und Freizeitangeboten entfernt. Auch der Yachthafen und mehrere bekannte Golfplätze liegen in der Nähe.",
+        "Das Hotelprojekt konzentriert sich darauf, die historische Schönheit der Masia zu bewahren und aufzuwerten, während sie mit zwei modernen Gebäuden kombiniert wird. Die Kapazität beträgt <strong>90 Gäste</strong>, bis zu maximal <strong>107 Gäste</strong>.",
+        "Die Masia wird das Herzstück des Hotels bilden, mit einem charmanten Empfangs- und Loungebereich, <strong>11 Suiten</strong> und <strong>6 Superior-Zimmern</strong> sowie einem Restaurant für <strong>50 Gäste</strong> mit eigener Küche. Die Gäste genießen zwei großzügige Terrassen: eine für <strong>100 Personen</strong> und eine weitere mit einem <strong>200 m² großen Chill-out-Bereich</strong>.",
+        "Ein weiterer Teil des Hotels besteht aus <strong>14 einzelnen Familienbungalows</strong> mit eigenem Eingang und großen Terrassen. Sie liegen neben einer weitläufigen Grünfläche mit alten Bäumen, die Schatten und eine entspannte Atmosphäre bieten.",
+        "Das Hotel verfügt außerdem über <strong>zwei Pools</strong>, einen <strong>Spa-Bereich</strong> und einen <strong>Jacuzzi</strong> sowie einen <strong>multifunktionalen Raum</strong> für Hochzeiten, Konzerte und Veranstaltungen mit bis zu <strong>200 Personen</strong>, mit <strong>7.087 m²</strong> Gartenflächen und <strong>2.470 m²</strong> Gemeinschaftsbereichen.",
+        "Das Projekt ist vollständig ausgearbeitet und von den lokalen und regionalen Behörden genehmigt, wodurch es ein Investment mit hohem Renditepotenzial darstellt.",
+        "<strong>Der angegebene Preis beinhaltet die Immobilie im aktuellen Zustand; die Renovierungskosten werden separat beauftragt.</strong>",
+        "Für weitere Informationen kontaktieren Sie uns bitte."
+      ],
+      "location_title": "Lage",
+      "location_text": "Gebiet Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+      "contact_label": "Kontakt",
+      "email_label": "E-Mail",
+      "spoken_label": "Wir sprechen",
+      "video_fallback": "Ihr Browser unterstützt keine Videowiedergabe."
+    },
+    "ru": {
+      "nav_home": "Главная",
+      "nav_properties": "Недвижимость",
+      "nav_languages": "Языки",
+      "title": "Масия на продажу в Порт-д'Аро",
+      "seo_title": "Масия на продажу в Порт-д'Аро | LacostaHaus",
+      "seo_description": "Гостиничный проект в исторической масии в Порт-д'Аро, рядом с Плайя-де-Аро, участок 10 680 м² и утверждённый проект.",
+      "details_title": "Детали недвижимости",
+      "price": "4.500.000 €",
+      "details": [
+        [
+          "Тип",
+          "Масия"
+        ],
+        [
+          "Этажи",
+          "3"
+        ],
+        [
+          "Построенная площадь",
+          "1.141 м²"
+        ],
+        [
+          "Полезная площадь",
+          "1.100 м²"
+        ],
+        [
+          "Комнаты",
+          "11"
+        ],
+        [
+          "Участок",
+          "10.680 м²"
+        ],
+        [
+          "Терраса/Балкон",
+          "Да"
+        ],
+        [
+          "Гараж",
+          "Включён в цену"
+        ],
+        [
+          "Состояние",
+          "Вторичный рынок / требуется ремонт"
+        ],
+        [
+          "Кладовая",
+          "Да"
+        ],
+        [
+          "Ориентация",
+          "Юг, Восток"
+        ],
+        [
+          "Год постройки",
+          "1988"
+        ],
+        [
+          "Отопление",
+          "Нет"
+        ],
+        [
+          "Оснащение",
+          "Сад"
+        ],
+        [
+          "Энергетический сертификат",
+          "В процессе оформления"
+        ]
+      ],
+      "project_title": "Проект",
+      "pdf_title": "Проект реконструкции — LacostaHaus",
+      "download_pdf": "Скачать PDF",
+      "description_title": "Описание",
+      "description": [
+        "Компания <strong>LacostaHaus</strong> представляет великолепный гостиничный проект категории 4 звезды superior в исторической масии <em>Mas Candell</em> XVI века, признанной частью культурного наследия Каталонии.",
+        "Эта уникальная недвижимость расположена на участке <strong>10.680 м²</strong>, менее чем в 2 километрах от пляжей Плайя-де-Аро и оживлённого центра с ресторанами, магазинами и развлечениями. Также рядом находятся порт и несколько известных гольф-полей.",
+        "Проект отеля направлен на сохранение и подчёркивание исторической красоты масии, объединяя её с двумя современными зданиями. Вместимость отеля составит <strong>90 гостей</strong>, максимум до <strong>107 гостей</strong>.",
+        "Масия станет сердцем отеля: здесь разместятся уютная зона ресепшн и lounge, <strong>11 сьютов</strong> и <strong>6 улучшенных номеров</strong>, а также ресторан на <strong>50 гостей</strong> с собственной кухней. Гости смогут пользоваться двумя просторными террасами: одной на <strong>100 человек</strong> и другой с <strong>зоной chill-out площадью 200 м²</strong>.",
+        "Другая часть отеля будет состоять из <strong>14 отдельных семейных бунгало</strong> с собственным входом и просторными террасами. Они будут расположены рядом с большой зелёной зоной с взрослыми деревьями, создающими тень и спокойную атмосферу.",
+        "В отеле также предусмотрены <strong>два бассейна</strong>, <strong>spa-зона</strong> и <strong>джакузи</strong>, а также <strong>многофункциональное пространство</strong> для свадеб, концертов и мероприятий до <strong>200 человек</strong>, с <strong>7.087 м²</strong> садов и <strong>2.470 м²</strong> общих зон.",
+        "Проект полностью разработан и утверждён местными и региональными органами, что делает его инвестицией с высоким потенциалом доходности.",
+        "<strong>Указанная цена включает недвижимость в текущем состоянии; стоимость реконструкции оплачивается отдельно.</strong>",
+        "Свяжитесь с нами для получения дополнительной информации."
+      ],
+      "location_title": "Расположение",
+      "location_text": "Район Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+      "contact_label": "Контакт",
+      "email_label": "Email",
+      "spoken_label": "Мы говорим",
+      "video_fallback": "Ваш браузер не поддерживает воспроизведение видео."
+    }
+  }
+}

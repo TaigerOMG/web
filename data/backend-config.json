@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "sourceMode": "merge",
+  "supabaseUrl": "",
+  "anonKey": "",
+  "storageBucket": "property-images"
+}

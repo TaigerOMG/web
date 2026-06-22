@@ -1,0 +1,57 @@
+{
+  "id": "nuevo-inmueble-ejemplo",
+  "route": "nuevo-inmueble-ejemplo/",
+  "addToHome": true,
+  "addToCatalog": true,
+  "homeHero": false,
+  "image": "assets/masia.svg",
+  "types": ["masia", "proyecto"],
+  "media": {
+    "poster": "assets/masia.svg",
+    "video": "",
+    "images": [
+      {
+        "src": "assets/masia.svg",
+        "alt_es": "Imagen principal del inmueble"
+      }
+    ],
+    "pdf": "",
+    "map_embed": ""
+  },
+  "card": {
+    "es": {
+      "tag": "Nuevo",
+      "title": "Nuevo inmueble ejemplo",
+      "location": "Costa Brava",
+      "price": "Consultar",
+      "excerpt": "Descripción breve para la tarjeta del catálogo y la portada."
+    }
+  },
+  "translations": {
+    "es": {
+      "title": "Nuevo inmueble ejemplo",
+      "seo_title": "Nuevo inmueble ejemplo | LacostaHaus",
+      "seo_description": "Ficha de ejemplo para crear un inmueble nuevo en LacostaHaus.",
+      "details_title": "Detalles de la propiedad",
+      "price": "Consultar",
+      "details": [
+        ["Tipo", "Masía"],
+        ["Estado", "Proyecto"],
+        ["Ubicación", "Costa Brava"]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto del inmueble",
+      "download_pdf": "Descargar PDF",
+      "description_title": "Descripción",
+      "description": [
+        "Texto principal del inmueble. Puedes añadir varios párrafos en esta lista."
+      ],
+      "location_title": "Ubicación",
+      "location_text": "Costa Brava",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Hablamos",
+      "video_fallback": "Tu navegador no soporta la reproducción de vídeo."
+    }
+  }
+}
