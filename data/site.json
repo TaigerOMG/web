@@ -1,0 +1,29 @@
+{
+  "defaultLanguage": "es",
+  "siteUrl": "https://lacostahaus.com",
+  "gtmId": "GTM-5GS9NM3P",
+  "brand": "LacostaHaus",
+  "logo": "assets/logo-lacostahaus.png",
+  "contact": {
+    "phone": "+34 722 279 795",
+    "email": "lacostahaus@gmail.com",
+    "spokenLanguages": "Español - Català - Română - Français - Deutsch - Русский",
+    "image": "assets/contacto-asesor.png"
+  },
+  "languages": [
+    { "code": "es", "label": "Español", "htmlLang": "es" },
+    { "code": "en", "label": "English", "htmlLang": "en" },
+    { "code": "fr", "label": "Français", "htmlLang": "fr" },
+    { "code": "de", "label": "Deutsch", "htmlLang": "de" },
+    { "code": "ru", "label": "Русский", "htmlLang": "ru" }
+  ],
+  "routes": {
+    "home": "index.html",
+    "properties": "inmuebles/",
+    "property": "masia/",
+    "contact": "contacto/",
+    "cookies": "politica-cookies/",
+    "privacy": "politica-privacidad/",
+    "agent": "agente-inmobiliario/"
+  }
+}

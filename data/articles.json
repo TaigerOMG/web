@@ -1,0 +1,1729 @@
+{
+  "translations": {
+    "es": {
+      "seo_title": "Artículos inmobiliarios Costa Brava | LacostaHaus",
+      "seo_description": "Guías breves sobre comprar, vender y valorar inmuebles en la Costa Brava.",
+      "title": "Guías inmobiliarias Costa Brava",
+      "intro": "Artículos breves pensados para posicionamiento orgánico, enlaces internos y futuras campañas de medición."
+    },
+    "en": {
+      "seo_title": "Costa Brava real estate articles | LacostaHaus",
+      "seo_description": "Short guides about buying, selling and valuing property on the Costa Brava.",
+      "title": "Costa Brava real estate guides",
+      "intro": "Brief articles designed for organic positioning, internal links and future marketing measurement."
+    },
+    "fr": {
+      "seo_title": "Articles immobiliers Costa Brava | LacostaHaus",
+      "seo_description": "Guides courts pour acheter, vendre et estimer des biens sur la Costa Brava.",
+      "title": "Guides immobiliers Costa Brava",
+      "intro": "Articles courts pensés pour le référencement organique, les liens internes et les futures campagnes de mesure."
+    },
+    "de": {
+      "seo_title": "Immobilienartikel Costa Brava | LacostaHaus",
+      "seo_description": "Kurze Leitfäden zum Kaufen, Verkaufen und Bewerten von Immobilien an der Costa Brava.",
+      "title": "Immobilienratgeber Costa Brava",
+      "intro": "Kurze Artikel für organische Sichtbarkeit, interne Verlinkung und spätere Marketing-Auswertung."
+    },
+    "ru": {
+      "seo_title": "Статьи о недвижимости на Коста-Брава | LacostaHaus",
+      "seo_description": "Краткие гиды о покупке, продаже и оценке недвижимости на Коста-Брава.",
+      "title": "Гиды по недвижимости на Коста-Брава",
+      "intro": "Короткие статьи для органического продвижения, внутренних ссылок и будущей аналитики маркетинга."
+    }
+  },
+  "articles": [
+    {
+      "id": "comprar-casa-costa-brava",
+      "route": "articulos/comprar-casa-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Comprar casa en Costa Brava: zonas y criterios | LacostaHaus",
+          "seo_description": "Cómo comprar casa, villa o masía en Costa Brava con mejor criterio: zona, uso real, privacidad, costes y potencial futuro.",
+          "category": "Compra",
+          "date": "Actualizado 2026",
+          "title": "Comprar casa en Costa Brava: cómo elegir zona sin perder oportunidades",
+          "excerpt": "Una guía rápida para compradores que quieren comparar zonas sin perderse entre anuncios parecidos.",
+          "read_more": "Leer guía",
+          "sections": [
+            {
+              "title": "La zona define más que el precio",
+              "paragraphs": [
+                "Comprar casa en Costa Brava no consiste solo en comparar metros y precio. Dos viviendas con cifras parecidas pueden ofrecer experiencias muy distintas según orientación, privacidad, acceso al mar, ruido, pendiente del terreno, mantenimiento y servicios cercanos.",
+                "Platja d'Aro y S'Agaró suelen atraer a compradores que buscan actividad, servicios y buena conexión. Begur y el Baix Empordà encajan mejor con perfiles que priorizan carácter, calma y propiedades más singulares. La decisión correcta nace de cruzar zona, uso y estilo de vida."
+              ]
+            },
+            {
+              "title": "Qué revisar antes de visitar",
+              "paragraphs": [
+                "Antes de organizar visitas conviene filtrar por objetivo: vivienda habitual, segunda residencia, inversión, proyecto de reforma o inmueble con potencial turístico. Sin ese filtro, el comprador suele perder tiempo viendo propiedades bonitas pero poco adecuadas.",
+                "En LacostaHaus trabajamos este filtrado desde el servicio de <a href=\"../../servicios/personal-shopper/?utm_source=blog&utm_medium=organic&utm_campaign=comprar_costa_brava\">Personal Shopper Inmobiliario</a>: reducimos ruido, comparamos zonas con criterio local y ayudamos a que cada visita tenga una razón concreta."
+              ]
+            },
+            {
+              "title": "La mejor compra es la que encaja con tu uso",
+              "paragraphs": [
+                "Una villa con vistas puede ser perfecta para un comprador y poco práctica para otro. Una masía con proyecto puede tener mucho potencial, pero exige otra lectura financiera, documental y de tiempos. El “mejor inmueble” no siempre es el más espectacular, sino el que encaja con el uso previsto.",
+                "Por eso recomendamos comparar cada oportunidad con una matriz sencilla: ubicación, estado, privacidad, costes, potencial, facilidad de mantenimiento y salida futura al mercado. Esa lectura evita decisiones impulsivas y mejora la negociación."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Buying a house on the Costa Brava: areas and criteria | LacostaHaus",
+          "seo_description": "Tips for buying a house, villa or farmhouse on the Costa Brava, including Platja d'Aro, S'Agaró, Begur and Baix Empordà.",
+          "category": "Buying",
+          "date": "Updated 2026",
+          "title": "Buying a house on the Costa Brava: how to choose the right area without missing opportunities",
+          "excerpt": "A quick guide for buyers comparing Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols and Baix Empordà.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "The area defines more than the price",
+              "paragraphs": [
+                "Buying a house on the Costa Brava is not only about comparing square metres and price. Orientation, privacy, access to the sea, proximity to services and maintenance needs can greatly change the real use experience.",
+                "Platja d'Aro and S'Agaró often attract buyers looking for activity, services and good connections. Begur and Baix Empordà tend to suit profiles that prioritise character, calm and more distinctive properties."
+              ]
+            },
+            {
+              "title": "What to review before arranging visits",
+              "paragraphs": [
+                "Before arranging visits, it is useful to filter by objective: main residence, second home, investment, renovation project or property for tourism use.",
+                "At LacostaHaus we work on this filtering through our <a href=\"../../servicios/personal-shopper/?utm_source=blog&utm_medium=organic&utm_campaign=comprar_costa_brava\">Real Estate Personal Shopper</a> service to reduce unnecessary visits and improve the quality of each decision."
+              ]
+            },
+            {
+              "title": "The best purchase is the one that fits your use",
+              "paragraphs": [
+                "A villa with views may be perfect for one buyer and impractical for another. A farmhouse with a project may have strong potential, but it requires a different financial and legal reading.",
+                "That is why we recommend comparing properties with a simple matrix: location, condition, privacy, costs, potential and future resale ease."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Acheter une maison sur la Costa Brava : zones et critères | LacostaHaus",
+          "seo_description": "Conseils pour acheter une maison, villa ou masia sur la Costa Brava, à Platja d'Aro, S'Agaró, Begur et dans le Baix Empordà.",
+          "category": "Achat",
+          "date": "Mis à jour 2026",
+          "title": "Acheter une maison sur la Costa Brava : comment choisir la zone sans manquer d'opportunités",
+          "excerpt": "Un guide rapide pour les acheteurs qui comparent Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols et le Baix Empordà.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "La zone définit plus que le prix",
+              "paragraphs": [
+                "Acheter une maison sur la Costa Brava ne consiste pas seulement à comparer les mètres carrés et le prix. L'orientation, la confidentialité, l'accès à la mer, la proximité des services et la facilité d'entretien changent beaucoup l'expérience réelle.",
+                "Platja d'Aro et S'Agaró attirent souvent des acheteurs qui recherchent activité, services et bonnes connexions. Begur et le Baix Empordà correspondent davantage aux profils qui privilégient le caractère, le calme et les biens singuliers."
+              ]
+            },
+            {
+              "title": "Que vérifier avant les visites",
+              "paragraphs": [
+                "Avant d'organiser des visites, il convient de filtrer selon l'objectif : résidence principale, résidence secondaire, investissement, projet de rénovation ou bien destiné à une exploitation touristique.",
+                "Chez LacostaHaus, nous travaillons ce filtrage avec le service <a href=\"../../servicios/personal-shopper/?utm_source=blog&utm_medium=organic&utm_campaign=comprar_costa_brava\">Personal Shopper Immobilier</a> afin de réduire les visites inutiles et d'améliorer la qualité de la décision."
+              ]
+            },
+            {
+              "title": "Le meilleur achat est celui qui correspond à votre usage",
+              "paragraphs": [
+                "Une villa avec vue peut être parfaite pour un acheteur et peu pratique pour un autre. Une masia avec projet peut offrir un fort potentiel, mais demande une autre lecture financière et documentaire.",
+                "C'est pourquoi nous recommandons de comparer les biens avec une matrice simple : emplacement, état, confidentialité, coûts, potentiel et facilité de revente future."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Hauskauf an der Costa Brava: Regionen und Kriterien | LacostaHaus",
+          "seo_description": "Tipps für den Kauf eines Hauses, einer Villa oder Masia an der Costa Brava, in Platja d'Aro, S'Agaró, Begur und Baix Empordà.",
+          "category": "Kauf",
+          "date": "Aktualisiert 2026",
+          "title": "Haus kaufen an der Costa Brava: die richtige Lage wählen, ohne Chancen zu verlieren",
+          "excerpt": "Ein kurzer Leitfaden für Käufer, die Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols und Baix Empordà vergleichen.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Die Lage bestimmt mehr als den Preis",
+              "paragraphs": [
+                "Beim Kauf eines Hauses an der Costa Brava geht es nicht nur um Quadratmeter und Preis. Ausrichtung, Privatsphäre, Zugang zum Meer, Nähe zu Dienstleistungen und Pflegeaufwand verändern die tatsächliche Nutzung stark.",
+                "Platja d'Aro und S'Agaró sprechen häufig Käufer an, die Aktivität, Service und gute Anbindung suchen. Begur und Baix Empordà passen eher zu Profilen, die Charakter, Ruhe und besondere Immobilien priorisieren."
+              ]
+            },
+            {
+              "title": "Was vor Besichtigungen geprüft werden sollte",
+              "paragraphs": [
+                "Vor der Organisation von Besichtigungen sollte nach Ziel gefiltert werden: Hauptwohnsitz, Zweitwohnsitz, Investition, Renovierungsprojekt oder Objekt für touristische Nutzung.",
+                "Bei LacostaHaus übernehmen wir diese Vorauswahl im Service <a href=\"../../servicios/personal-shopper/?utm_source=blog&utm_medium=organic&utm_campaign=comprar_costa_brava\">Immobilien Personal Shopper</a>, um unnötige Besichtigungen zu reduzieren und Entscheidungen klarer zu machen."
+              ]
+            },
+            {
+              "title": "Der beste Kauf passt zur tatsächlichen Nutzung",
+              "paragraphs": [
+                "Eine Villa mit Aussicht kann für einen Käufer perfekt und für einen anderen unpraktisch sein. Eine Masia mit Projekt kann viel Potenzial haben, verlangt aber eine andere finanzielle und rechtliche Betrachtung.",
+                "Deshalb empfehlen wir einen einfachen Vergleich: Lage, Zustand, Privatsphäre, Kosten, Potenzial und spätere Wiederverkaufbarkeit."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Покупка дома на Коста-Брава: районы и критерии | LacostaHaus",
+          "seo_description": "Советы по покупке дома, виллы или масии на Коста-Брава, включая Platja d'Aro, S'Agaró, Begur и Baix Empordà.",
+          "category": "Покупка",
+          "date": "Обновлено 2026",
+          "title": "Покупка дома на Коста-Брава: как выбрать район и не упустить возможности",
+          "excerpt": "Краткий гид для покупателей, сравнивающих Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols и Baix Empordà.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Район определяет больше, чем цену",
+              "paragraphs": [
+                "Покупка дома на Коста-Брава — это не только сравнение метров и цены. Ориентация, приватность, доступ к морю, близость услуг и простота обслуживания сильно меняют реальный опыт использования.",
+                "Platja d'Aro и S'Agaró чаще привлекают покупателей, которым нужны активность, сервисы и хорошая связь. Begur и Baix Empordà больше подходят тем, кто ценит характер, спокойствие и более уникальные объекты."
+              ]
+            },
+            {
+              "title": "Что проверить до просмотра",
+              "paragraphs": [
+                "Перед организацией просмотров стоит определить цель: основное жильё, вторая резиденция, инвестиция, проект реконструкции или объект для туристического использования.",
+                "В LacostaHaus мы делаем такую предварительную фильтрацию через услугу <a href=\"../../servicios/personal-shopper/?utm_source=blog&utm_medium=organic&utm_campaign=comprar_costa_brava\">Personal Shopper Inmobiliario</a>, чтобы сократить лишние визиты и повысить качество решения."
+              ]
+            },
+            {
+              "title": "Лучшая покупка — та, что подходит вашему сценарию",
+              "paragraphs": [
+                "Вилла с видом может быть идеальной для одного покупателя и неудобной для другого. Масия с проектом может иметь высокий потенциал, но требует другого финансового и документального анализа.",
+                "Поэтому мы рекомендуем сравнивать объекты по простой матрице: расположение, состояние, приватность, расходы, потенциал и лёгкость будущей продажи."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "tasacion-vivienda-costa-brava",
+      "route": "articulos/tasacion-vivienda-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Tasación de vivienda en Costa Brava: cómo valorar bien | LacostaHaus",
+          "seo_description": "Cómo preparar una tasación estratégica para vender una vivienda en Costa Brava con precio defendible, mejor presentación y salida al mercado más seria.",
+          "category": "Tasación",
+          "date": "Actualizado 2026",
+          "title": "Tasación de vivienda en Costa Brava: precio, demanda y estrategia",
+          "excerpt": "Por qué una valoración útil debe mirar competencia, demanda, presentación y margen de negociación.",
+          "read_more": "Leer artículo",
+          "sections": [
+            {
+              "title": "El precio no se decide aislado",
+              "paragraphs": [
+                "Una tasación inmobiliaria en Costa Brava debe ir más allá de una media de anuncios. El valor percibido depende de la zona exacta, el estado real, la orientación, las vistas, la privacidad, la documentación y el tipo de comprador activo.",
+                "El precio de salida y el precio de cierre no siempre son lo mismo. Salir demasiado alto puede quemar una propiedad; salir sin preparar la presentación puede generar dudas incluso cuando el precio es razonable."
+              ]
+            },
+            {
+              "title": "Qué aporta una valoración estratégica",
+              "paragraphs": [
+                "Una valoración estratégica no solo responde “cuánto vale”. Ayuda a decidir cómo presentar el inmueble, qué objeciones aparecerán, qué margen de negociación es razonable y qué elementos conviene reforzar antes de publicar.",
+                "Nuestro servicio de <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=tasacion_costa_brava\">Tasación estratégica</a> está pensado para propietarios que quieren vender con una salida al mercado más seria, evitando improvisar el precio delante del comprador."
+              ]
+            },
+            {
+              "title": "Datos que conviene preparar",
+              "paragraphs": [
+                "Antes de valorar una propiedad conviene reunir metros, estado registral, planos, año de construcción, reformas, gastos, orientación, vistas, privacidad, accesos y elementos diferenciales. Cuanto más clara sea la base, más defendible será el precio.",
+                "Con esa información es más fácil comparar inmuebles similares, detectar puntos fuertes, anticipar objeciones y construir una estrategia comercial coherente antes de exponer la vivienda al mercado."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Property valuation on the Costa Brava: price and strategy | LacostaHaus",
+          "seo_description": "Strategic valuation for houses, villas and farmhouses on the Costa Brava: demand, presentation and pricing criteria.",
+          "category": "Valuation",
+          "date": "Updated 2026",
+          "title": "Property valuation on the Costa Brava: price, demand and strategy",
+          "excerpt": "A practical guide for owners who want to price a premium property with more clarity before going to market.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Price is not decided in isolation",
+              "paragraphs": [
+                "A real estate valuation on the Costa Brava must consider much more than an average of online listings. Perceived value depends on the exact area, condition, orientation, views, privacy and the active buyer profile.",
+                "Going to market too high can exhaust a property; going out without preparing the presentation can create doubts even when the price is reasonable."
+              ]
+            },
+            {
+              "title": "What a strategic valuation adds",
+              "paragraphs": [
+                "A strategic valuation helps decide how to present the property, which objections may appear and what negotiation margin is realistic.",
+                "Our <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=tasacion_costa_brava\">Strategic valuation</a> service is designed for owners who want a more serious market launch."
+              ]
+            },
+            {
+              "title": "Information worth preparing",
+              "paragraphs": [
+                "Before valuing a property, gather built area, registry status, plans, year of construction, renovations, expenses, orientation and differentiating features.",
+                "With that base, it is easier to compare similar properties and build a coherent commercial strategy."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Estimation immobilière Costa Brava : prix et stratégie | LacostaHaus",
+          "seo_description": "Estimation stratégique pour maisons, villas et masias sur la Costa Brava : demande, présentation et critères de prix.",
+          "category": "Estimation",
+          "date": "Mis à jour 2026",
+          "title": "Estimation de maison sur la Costa Brava : prix, demande et stratégie",
+          "excerpt": "Un guide pratique pour fixer le prix d’un bien premium avec plus de clarté avant la mise sur le marché.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Le prix ne se décide pas isolément",
+              "paragraphs": [
+                "Une estimation immobilière sur la Costa Brava doit tenir compte de bien plus qu’une moyenne d’annonces. La valeur perçue dépend de la zone exacte, de l’état, de l’orientation, des vues, de la confidentialité et du profil d’acheteur actif.",
+                "Sortir trop haut peut user un bien ; sortir sans préparer la présentation peut créer des doutes même lorsque le prix est correct."
+              ]
+            },
+            {
+              "title": "Ce qu’apporte une estimation stratégique",
+              "paragraphs": [
+                "Une estimation stratégique aide à décider comment présenter le bien, quelles objections apparaîtront et quelle marge de négociation est raisonnable.",
+                "Notre service d’<a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=tasacion_costa_brava\">estimation stratégique</a> est pensé pour les propriétaires qui veulent une mise sur le marché plus sérieuse."
+              ]
+            },
+            {
+              "title": "Les données à préparer",
+              "paragraphs": [
+                "Avant d’estimer un bien, il convient de réunir surfaces, situation registrale, plans, année de construction, rénovations, charges, orientation et éléments différenciateurs.",
+                "Avec cette base, il est plus facile de comparer des biens similaires et de construire une stratégie commerciale cohérente."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Immobilienbewertung Costa Brava: Preis und Strategie | LacostaHaus",
+          "seo_description": "Strategische Bewertung für Häuser, Villen und Masias an der Costa Brava: Nachfrage, Präsentation und Preislogik.",
+          "category": "Bewertung",
+          "date": "Aktualisiert 2026",
+          "title": "Immobilienbewertung an der Costa Brava: Preis, Nachfrage und Strategie",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die eine Premium-Immobilie klarer positionieren möchten.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Der Preis entsteht nicht isoliert",
+              "paragraphs": [
+                "Eine Immobilienbewertung an der Costa Brava muss mehr berücksichtigen als den Durchschnitt aktiver Anzeigen. Der wahrgenommene Wert hängt von genauer Lage, Zustand, Ausrichtung, Aussicht, Privatsphäre und aktivem Käuferprofil ab.",
+                "Ein zu hoher Startpreis kann ein Objekt schwächen; eine unvorbereitete Präsentation kann Zweifel erzeugen, selbst wenn der Preis stimmt."
+              ]
+            },
+            {
+              "title": "Was eine strategische Bewertung leistet",
+              "paragraphs": [
+                "Eine strategische Bewertung hilft zu entscheiden, wie das Objekt präsentiert wird, welche Einwände entstehen und welcher Verhandlungsspielraum sinnvoll ist.",
+                "Unser Service <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=tasacion_costa_brava\">Strategische Bewertung</a> richtet sich an Eigentümer, die professioneller starten möchten."
+              ]
+            },
+            {
+              "title": "Welche Daten vorbereitet werden sollten",
+              "paragraphs": [
+                "Vor der Bewertung sollten Flächen, Grundbuchstatus, Pläne, Baujahr, Renovierungen, Kosten, Ausrichtung und besondere Merkmale gesammelt werden.",
+                "Damit lassen sich vergleichbare Objekte besser einordnen und eine stimmige Verkaufsstrategie entwickeln."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Оценка недвижимости на Коста-Брава: цена и стратегия | LacostaHaus",
+          "seo_description": "Стратегическая оценка домов, вилл и масий на Коста-Брава: спрос, презентация и логика цены.",
+          "category": "Оценка",
+          "date": "Обновлено 2026",
+          "title": "Оценка жилья на Коста-Брава: цена, спрос и стратегия",
+          "excerpt": "Практическое руководство для собственников, которые хотят точнее определить позиционирование премиального объекта.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Цена не определяется отдельно",
+              "paragraphs": [
+                "Оценка недвижимости на Коста-Брава должна учитывать не только среднее значение объявлений. Воспринимаемая ценность зависит от точной локации, состояния, ориентации, видов, приватности и типа активного покупателя.",
+                "Слишком высокий старт может ослабить интерес к объекту; неподготовленная презентация может вызвать сомнения даже при корректной цене."
+              ]
+            },
+            {
+              "title": "Что дает стратегическая оценка",
+              "paragraphs": [
+                "Стратегическая оценка помогает понять, как представить объект, какие возражения появятся и какой торг выглядит разумным.",
+                "Наш сервис <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=tasacion_costa_brava\">стратегической оценки</a> создан для собственников, которые хотят выйти на рынок более серьезно."
+              ]
+            },
+            {
+              "title": "Какие данные подготовить",
+              "paragraphs": [
+                "До оценки полезно собрать площади, регистрационный статус, планы, год постройки, реформы, расходы, ориентацию и отличительные характеристики.",
+                "Так проще сравнить объект с похожими предложениями и построить последовательную коммерческую стратегию."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vender-inmueble-clientes-internacionales",
+      "route": "articulos/vender-inmueble-clientes-internacionales/",
+      "translations": {
+        "es": {
+          "seo_title": "Vender inmueble en Costa Brava a compradores internacionales | LacostaHaus",
+          "seo_description": "Claves para vender una propiedad en Costa Brava a compradores internacionales: presentación multilingüe, claridad documental, canales adecuados y seguimiento profesional.",
+          "category": "Venta internacional",
+          "date": "Actualizado 2026",
+          "title": "Vender un inmueble en Costa Brava a compradores internacionales",
+          "excerpt": "Cómo preparar una propiedad para compradores extranjeros que buscan claridad, confianza y buena documentación.",
+          "read_more": "Leer claves",
+          "sections": [
+            {
+              "title": "El comprador internacional necesita claridad",
+              "paragraphs": [
+                "Cuando un comprador no vive en la zona, la ficha del inmueble debe explicar más que una dirección y un precio. Debe transmitir ubicación, uso posible, estado, costes aproximados, documentación disponible y contexto de la Costa Brava.",
+                "Una presentación incompleta genera dudas y retrasa la conversación. Una presentación clara facilita contactos más cualificados, porque el comprador entiende antes si la propiedad encaja con su objetivo personal, familiar o de inversión."
+              ]
+            },
+            {
+              "title": "Idiomas, seguimiento y confianza",
+              "paragraphs": [
+                "La atención multilingüe no consiste solo en traducir títulos. Hay que explicar la zona, los tiempos, la documentación, el estado real del inmueble y los siguientes pasos de forma comprensible para compradores de distintos mercados.",
+                "Con el servicio de <a href=\"../../servicios/venta-internacional/?utm_source=blog&utm_medium=organic&utm_campaign=venta_internacional\">Venta internacional</a> organizamos la información para que el comprador entienda rápido el valor del inmueble y el propietario no pierda oportunidades por falta de seguimiento."
+              ]
+            },
+            {
+              "title": "Canales y contactos medibles",
+              "paragraphs": [
+                "Vender a compradores internacionales exige saber qué canales atraen contactos útiles: búsqueda orgánica, portales, recomendaciones, redes sociales, artículos o campañas concretas. No todos los contactos tienen la misma calidad.",
+                "Por eso conviene medir de dónde llegan las consultas y qué tipo de comprador aporta cada canal. Esa información ayuda a ajustar la presentación y a invertir más energía en los lugares que realmente generan conversaciones serias."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Selling property to international buyers on the Costa Brava | LacostaHaus",
+          "seo_description": "Prepare a Costa Brava property for international buyers with multilingual communication, channel strategy and qualified contacts.",
+          "category": "International sale",
+          "date": "Updated 2026",
+          "title": "Selling a Costa Brava property to international buyers",
+          "excerpt": "How to make a property easier to understand for buyers who do not live in the area.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "International buyers need clarity",
+              "paragraphs": [
+                "When a buyer does not live locally, the property file must explain more than an address and a price. It should communicate location, possible use, condition, approximate costs and available documents.",
+                "An incomplete presentation creates doubt; a clear presentation produces more qualified contacts."
+              ]
+            },
+            {
+              "title": "Languages, follow-up and trust",
+              "paragraphs": [
+                "International selling requires quick answers, consistent information and a tone adapted to each buyer. Translating only the headline is not enough.",
+                "At LacostaHaus we combine multilingual communication with local context so buyers understand the area, the property and the next steps."
+              ]
+            },
+            {
+              "title": "Measuring where contacts come from",
+              "paragraphs": [
+                "A serious international strategy should track portals, organic searches, social links, direct referrals and internal articles.",
+                "That helps improve the campaign instead of repeating the same listing without knowing what is working."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Vendre à des acheteurs internationaux Costa Brava | LacostaHaus",
+          "seo_description": "Préparer un bien de Costa Brava pour des acheteurs internationaux : communication multilingue, canaux et contacts qualifiés.",
+          "category": "Vente internationale",
+          "date": "Mis à jour 2026",
+          "title": "Vendre un bien sur la Costa Brava à des acheteurs internationaux",
+          "excerpt": "Comment rendre un bien plus clair pour des acheteurs qui ne vivent pas dans la zone.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "L’acheteur international a besoin de clarté",
+              "paragraphs": [
+                "Quand l’acheteur ne vit pas dans la région, la fiche doit expliquer plus qu’une adresse et un prix. Elle doit transmettre l’emplacement, l’usage possible, l’état, les coûts approximatifs et la documentation disponible.",
+                "Une présentation incomplète crée des doutes ; une présentation claire génère des contacts plus qualifiés."
+              ]
+            },
+            {
+              "title": "Langues, suivi et confiance",
+              "paragraphs": [
+                "La vente internationale exige des réponses rapides, une information cohérente et un ton adapté à chaque acheteur. Traduire seulement le titre ne suffit pas.",
+                "Chez LacostaHaus, nous associons communication multilingue et contexte local pour que l’acheteur comprenne la zone, le bien et les étapes suivantes."
+              ]
+            },
+            {
+              "title": "Mesurer d’où viennent les contacts",
+              "paragraphs": [
+                "Une stratégie internationale sérieuse doit mesurer les portails, recherches organiques, réseaux sociaux, recommandations et articles internes.",
+                "Cela permet d’améliorer la campagne au lieu de répéter la même annonce sans savoir ce qui fonctionne."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Immobilie an internationale Käufer verkaufen Costa Brava | LacostaHaus",
+          "seo_description": "Immobilien an der Costa Brava für internationale Käufer vorbereiten: Sprachen, Kanäle und qualifizierte Kontakte.",
+          "category": "Internationaler Verkauf",
+          "date": "Aktualisiert 2026",
+          "title": "Eine Immobilie an der Costa Brava an internationale Käufer verkaufen",
+          "excerpt": "Wie eine Immobilie für Käufer verständlich wird, die nicht vor Ort leben.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Internationale Käufer brauchen Klarheit",
+              "paragraphs": [
+                "Wenn ein Käufer nicht in der Region lebt, muss das Exposé mehr erklären als Adresse und Preis. Es sollte Lage, mögliche Nutzung, Zustand, ungefähre Kosten und verfügbare Unterlagen vermitteln.",
+                "Eine unvollständige Präsentation erzeugt Zweifel; eine klare Präsentation bringt qualifiziertere Kontakte."
+              ]
+            },
+            {
+              "title": "Sprachen, Nachverfolgung und Vertrauen",
+              "paragraphs": [
+                "Internationaler Verkauf verlangt schnelle Antworten, konsistente Information und eine Ansprache, die zum Käufer passt. Nur die Überschrift zu übersetzen reicht nicht.",
+                "LacostaHaus verbindet mehrsprachige Kommunikation mit lokalem Kontext, damit Käufer Region, Objekt und nächste Schritte verstehen."
+              ]
+            },
+            {
+              "title": "Messen, wo Kontakte entstehen",
+              "paragraphs": [
+                "Eine seriöse internationale Strategie sollte Portale, organische Suche, soziale Links, Empfehlungen und interne Artikel messen.",
+                "So lässt sich die Kampagne verbessern, statt dieselbe Anzeige ohne Erkenntnis zu wiederholen."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Продажа недвижимости международным покупателям на Коста-Брава | LacostaHaus",
+          "seo_description": "Как подготовить объект на Коста-Брава для иностранных покупателей: языки, каналы и качественные контакты.",
+          "category": "Международная продажа",
+          "date": "Обновлено 2026",
+          "title": "Продажа объекта на Коста-Брава международным покупателям",
+          "excerpt": "Как сделать объект понятнее для покупателей, которые не живут в регионе.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Международному покупателю нужна ясность",
+              "paragraphs": [
+                "Если покупатель не живет в регионе, карточка объекта должна объяснять больше, чем адрес и цену. Важно показать локацию, возможное использование, состояние, примерные расходы и доступные документы.",
+                "Неполная презентация вызывает сомнения; ясная презентация дает более качественные обращения."
+              ]
+            },
+            {
+              "title": "Языки, сопровождение и доверие",
+              "paragraphs": [
+                "Международная продажа требует быстрых ответов, последовательной информации и подходящего тона общения. Перевести только заголовок недостаточно.",
+                "LacostaHaus сочетает многоязычную коммуникацию с местным контекстом, чтобы покупатель понял район, объект и следующие шаги."
+              ]
+            },
+            {
+              "title": "Измерять, откуда приходят контакты",
+              "paragraphs": [
+                "Серьезная международная стратегия должна отслеживать порталы, органический поиск, социальные ссылки, рекомендации и внутренние статьи.",
+                "Это помогает улучшать кампанию, а не повторять одно объявление без понимания результата."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vender-casa-lujo-costa-brava",
+      "route": "articulos/vender-casa-lujo-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Cómo vender una casa de lujo sin malvenderla en Costa Brava | LacostaHaus",
+          "seo_description": "Guía para propietarios que quieren vender una villa, masía o piso premium en Costa Brava sin perder valor por precio, mala presentación o compradores poco cualificados.",
+          "category": "Venta premium",
+          "date": "Actualizado 2026",
+          "title": "Cómo vender una casa de lujo sin malvenderla en Costa Brava",
+          "excerpt": "Una guía para propietarios de villas, masías y pisos premium que quieren vender con estrategia, mejor presentación y compradores realmente cualificados.",
+          "read_more": "Leer guía",
+          "sections": [
+            {
+              "title": "Malvender no siempre significa vender barato",
+              "paragraphs": [
+                "Muchos propietarios asocian malvender con aceptar una oferta demasiado baja. En inmuebles premium, el riesgo suele empezar antes: salir al mercado con un precio poco defendible, una presentación débil o un relato comercial que no explica por qué la propiedad merece atención.",
+                "Una villa con vistas, una masía histórica o un piso singular en Costa Brava no se valora solo por metros cuadrados. Influyen la zona, orientación, privacidad, estado real, potencial de reforma, distancia al mar, costes de mantenimiento, documentación y tipo de comprador que puede entender ese valor.",
+                "Por eso el primer paso no debería ser publicar en portales, sino construir una lectura estratégica. En LacostaHaus recomendamos empezar con una <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=vender_lujo_costa_brava\">tasación estratégica</a> para saber cómo posicionar el inmueble antes de exponerlo."
+              ]
+            },
+            {
+              "title": "Por qué una propiedad premium se quema en portales",
+              "paragraphs": [
+                "Cuando una vivienda de alto valor aparece durante meses con las mismas fotos, el mismo precio y una descripción genérica, el mercado empieza a leerla como una oportunidad problemática. No significa que la propiedad sea mala; significa que su salida al mercado no ha sido trabajada.",
+                "El comprador premium compara rápido. Si no entiende la ubicación, la privacidad, el estado, el uso posible o la documentación disponible, no pregunta o pregunta solo para negociar a la baja. Una ficha incompleta atrae curiosidad; una ficha clara atrae contactos más cualificados.",
+                "También conviene evitar una exposición desordenada. Publicar el mismo inmueble en demasiados lugares, con textos distintos y precios no coordinados, puede dañar la percepción de exclusividad. En propiedades singulares, menos ruido y más criterio suele funcionar mejor que más anuncios sin estrategia."
+              ]
+            },
+            {
+              "title": "La presentación vende confianza antes de la visita",
+              "paragraphs": [
+                "Antes de visitar, el comprador ya está tomando decisiones. Las fotografías, el orden de la información, los planos, la explicación de la zona y la claridad documental influyen directamente en la calidad del contacto. Una buena imagen no es decoración: reduce dudas y prepara mejor la negociación.",
+                "En una vivienda premium conviene preparar un dossier que explique qué se vende y qué posibilidades tiene: vivienda familiar, segunda residencia, reforma, proyecto hotelero, inversión o uso mixto. En villas y masías, el potencial puede pesar tanto como el estado actual.",
+                "La presentación debe estar pensada también para compradores internacionales. Idiomas, contexto de la zona, acceso, servicios cercanos, impuestos aproximados y documentación básica ayudan a que el comprador no dependa solo de una foto bonita para decidir si avanza."
+              ]
+            },
+            {
+              "title": "Cuándo compensa dejarlo en manos de una inmobiliaria",
+              "paragraphs": [
+                "Vender por cuenta propia puede parecer más económico al principio, pero en inmuebles de alto valor el coste real aparece en el tiempo invertido, las visitas poco filtradas, la exposición incorrecta, las negociaciones sin datos y los errores de documentación.",
+                "Una inmobiliaria especializada no debería limitarse a subir el inmueble a portales. Debe valorar, posicionar, preparar la presentación, filtrar compradores, coordinar visitas, proteger la percepción del inmueble y acompañar la negociación con información clara.",
+                "En LacostaHaus trabajamos especialmente con propietarios que quieren vender villas, masías, proyectos y pisos premium en Costa Brava con una salida al mercado más cuidada. Si antes de publicar tienes dudas sobre el precio, también puedes revisar <a href=\"../../articulos/casa-sobrevalorada-antes-vender/?utm_source=blog&utm_medium=organic&utm_campaign=vender_lujo_costa_brava\">cómo saber si una casa está sobrevalorada</a>. Para estudiar tu caso, puedes <a href=\"../../contacto/?utm_source=blog&utm_medium=organic&utm_campaign=vender_lujo_costa_brava\">contactar con nosotros</a> y revisar una estrategia inicial."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "How to sell a luxury house on the Costa Brava without underselling | LacostaHaus",
+          "seo_description": "Guide for owners of luxury houses, villas and farmhouses on the Costa Brava: valuation, presentation and qualified buyers.",
+          "category": "Premium selling",
+          "date": "Updated 2026",
+          "title": "How to sell a luxury house on the Costa Brava without underselling",
+          "excerpt": "A practical guide for owners who want to sell well without weakening the value of their property.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Vendre une maison de luxe Costa Brava sans la brader | LacostaHaus",
+          "seo_description": "Guide pour propriétaires de maisons, villas et masias premium sur la Costa Brava : estimation, présentation et acheteurs qualifiés.",
+          "category": "Vente premium",
+          "date": "Mis à jour 2026",
+          "title": "Comment vendre une maison de luxe sur la Costa Brava sans la brader",
+          "excerpt": "Un guide pratique pour vendre correctement sans affaiblir la valeur du bien.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Luxushaus an der Costa Brava verkaufen, ohne unter Wert zu verkaufen | LacostaHaus",
+          "seo_description": "Leitfaden für Eigentümer von Luxusvillen, Häusern und Masias an der Costa Brava: Bewertung, Präsentation und qualifizierte Käufer.",
+          "category": "Premium-Verkauf",
+          "date": "Aktualisiert 2026",
+          "title": "Luxushaus an der Costa Brava verkaufen, ohne unter Wert zu verkaufen",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die gut verkaufen möchten, ohne den Wert zu schwächen.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Как продать дом класса люкс на Коста-Брава не ниже его ценности | LacostaHaus",
+          "seo_description": "Гид для владельцев домов, вилл и масий премиум-класса на Коста-Брава: оценка, презентация и качественные покупатели.",
+          "category": "Премиальная продажа",
+          "date": "Обновлено 2026",
+          "title": "Как продать дом класса люкс на Коста-Брава не ниже его ценности",
+          "excerpt": "Практическое руководство для собственников, которые хотят продать хорошо и не ослабить ценность объекта.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "casa-sobrevalorada-antes-vender",
+      "route": "articulos/casa-sobrevalorada-antes-vender/",
+      "translations": {
+        "es": {
+          "seo_title": "Casa sobrevalorada antes de vender: señales | LacostaHaus",
+          "seo_description": "Cómo saber si una casa, villa o masía está sobrevalorada antes de venderla en Costa Brava y qué hacer antes de publicarla.",
+          "category": "Precio de venta",
+          "date": "Actualizado 2026",
+          "title": "Cómo saber si mi casa está sobrevalorada antes de venderla",
+          "excerpt": "Señales prácticas para detectar si el precio puede frenar la venta de una vivienda premium antes de exponerla al mercado.",
+          "read_more": "Leer señales",
+          "sections": [
+            {
+              "title": "El primer error suele aparecer antes de publicar",
+              "paragraphs": [
+                "Una casa no empieza a perder fuerza cuando recibe una oferta baja. Muchas veces empieza antes, cuando sale al mercado con un precio que no está bien defendido por sus fotos, su documentación, su estado real o el tipo de comprador al que se dirige.",
+                "En viviendas premium de Costa Brava, una villa con vistas, una masía histórica o un piso singular pueden tener mucho valor, pero ese valor debe explicarse. Si el precio parece alto y la presentación no lo acompaña, el comprador no suele pedir más información: simplemente pasa al siguiente inmueble.",
+                "Por eso una propiedad sobrevalorada no siempre es una propiedad cara. A veces es una propiedad mal posicionada, con un relato comercial débil o con una comparativa de mercado demasiado optimista."
+              ]
+            },
+            {
+              "title": "Señales de que el precio puede estar frenando la venta",
+              "paragraphs": [
+                "La primera señal es recibir muchas visitas online pero pocas consultas reales. Eso suele indicar que la propiedad despierta curiosidad, pero el comprador no encuentra suficiente justificación para avanzar.",
+                "Otra señal es atraer compradores que preguntan solo por descuento. Cuando casi todas las conversaciones empiezan por una rebaja, el problema puede no ser solo el precio, sino la forma en que se está defendiendo el valor del inmueble.",
+                "También conviene revisar el tiempo en mercado. Si pasan semanas o meses sin contactos cualificados, repetir el mismo anuncio con el mismo precio rara vez mejora el resultado. En ese punto, la vivienda puede empezar a percibirse como una oportunidad desgastada."
+              ]
+            },
+            {
+              "title": "Comparar anuncios no es valorar una propiedad",
+              "paragraphs": [
+                "Muchos propietarios miran otros anuncios y colocan su vivienda un poco por encima, pensando que así tendrán margen de negociación. El problema es que los anuncios publicados no siempre representan precios de cierre ni demanda real.",
+                "Una valoración útil debe mirar competencia, estado, ubicación exacta, privacidad, orientación, vistas, documentación, costes y tipo de comprador activo. No se valora igual una casa lista para entrar a vivir que una masía con potencial, ni una villa discreta que una propiedad muy expuesta.",
+                "Por eso en LacostaHaus trabajamos la <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=casa_sobrevalorada\">tasación estratégica</a> como una herramienta de posicionamiento, no como una cifra aislada."
+              ]
+            },
+            {
+              "title": "Qué hacer antes de bajar el precio",
+              "paragraphs": [
+                "Bajar el precio puede ser necesario, pero no debería ser el primer movimiento automático. Antes conviene revisar si la propiedad está bien presentada, si las fotos explican sus puntos fuertes, si la descripción habla al comprador correcto y si la documentación está preparada.",
+                "En inmuebles de alto valor, una mejora en presentación, orden del dossier, claridad de planos, explicación de uso posible o enfoque internacional puede cambiar la calidad de los contactos sin romper el posicionamiento del precio.",
+                "Si quieres vender una vivienda premium en Costa Brava sin empezar por una rebaja innecesaria, lo razonable es revisar estrategia, precio y presentación antes de publicar o relanzar el inmueble. Si la propiedad ya lleva tiempo publicada, revisa también <a href=\"../../articulos/casa-meses-en-venta-sin-ofertas/?utm_source=blog&utm_medium=organic&utm_campaign=casa_sobrevalorada\">qué hacer cuando una casa lleva meses en venta sin ofertas serias</a>. Puedes <a href=\"../../contacto/?utm_source=blog&utm_medium=organic&utm_campaign=casa_sobrevalorada\">contactar con LacostaHaus</a> para estudiar una salida al mercado más cuidada."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Overpriced house before selling: warning signs | LacostaHaus",
+          "seo_description": "How to know if a house, villa or farmhouse is overpriced before selling on the Costa Brava and what to review first.",
+          "category": "Selling price",
+          "date": "Updated 2026",
+          "title": "How to know if my house is overpriced before selling",
+          "excerpt": "Practical signs to detect whether the price may slow down the sale of a premium property.",
+          "read_more": "Read signs",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Maison surévaluée avant la vente : signaux | LacostaHaus",
+          "seo_description": "Comment savoir si une maison, villa ou masia est surévaluée avant de vendre sur la Costa Brava.",
+          "category": "Prix de vente",
+          "date": "Mis à jour 2026",
+          "title": "Comment savoir si ma maison est surévaluée avant de la vendre",
+          "excerpt": "Des signaux pratiques pour détecter si le prix peut freiner la vente d’un bien premium.",
+          "read_more": "Lire les signaux",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Überbewertetes Haus vor dem Verkauf: Warnsignale | LacostaHaus",
+          "seo_description": "Wie Sie erkennen, ob ein Haus, eine Villa oder Masia vor dem Verkauf an der Costa Brava überbewertet ist.",
+          "category": "Verkaufspreis",
+          "date": "Aktualisiert 2026",
+          "title": "Wie erkenne ich, ob mein Haus vor dem Verkauf überbewertet ist?",
+          "excerpt": "Praktische Signale, die zeigen, ob der Preis den Verkauf einer Premium-Immobilie bremst.",
+          "read_more": "Signale lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Переоцененный дом перед продажей: признаки | LacostaHaus",
+          "seo_description": "Как понять, что дом, вилла или масия переоценены перед продажей на Коста-Брава.",
+          "category": "Цена продажи",
+          "date": "Обновлено 2026",
+          "title": "Как понять, что мой дом переоценен перед продажей",
+          "excerpt": "Практические признаки, что цена может тормозить продажу премиального объекта.",
+          "read_more": "Читать признаки",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "casa-meses-en-venta-sin-ofertas",
+      "route": "articulos/casa-meses-en-venta-sin-ofertas/",
+      "translations": {
+        "es": {
+          "seo_title": "Casa meses en venta sin ofertas: qué revisar | LacostaHaus",
+          "seo_description": "Qué hacer si una casa, villa o masía lleva meses en venta sin ofertas serias en Costa Brava: precio, presentación y relanzamiento.",
+          "category": "Relanzar venta",
+          "date": "Actualizado 2026",
+          "title": "Mi casa lleva meses en venta y no recibo ofertas serias: qué revisar",
+          "excerpt": "Una guía para propietarios que tienen una vivienda premium publicada desde hace tiempo y quieren entender por qué no llegan compradores cualificados.",
+          "read_more": "Leer diagnóstico",
+          "sections": [
+            {
+              "title": "No siempre falta comprador: a veces falta estrategia",
+              "paragraphs": [
+                "Cuando una casa lleva meses en venta, es fácil pensar que el mercado está parado o que solo falta esperar al comprador adecuado. A veces es cierto, pero en inmuebles premium la falta de ofertas serias suele indicar que algo no está alineado: precio, presentación, canal, relato comercial o filtrado de compradores.",
+                "Una villa, una masía o un piso singular en Costa Brava puede tener demanda real y aun así no recibir contactos buenos si el comprador no entiende rápido qué valor tiene, qué uso permite, qué documentación existe y por qué el precio tiene sentido.",
+                "El objetivo no es bajar por bajar. El primer paso es diagnosticar por qué la propiedad no está generando conversaciones útiles. Solo después tiene sentido decidir si conviene ajustar precio, mejorar imagen, cambiar enfoque o relanzar la venta."
+              ]
+            },
+            {
+              "title": "Señales de que el anuncio se está desgastando",
+              "paragraphs": [
+                "Una señal clara es recibir visitas de curiosos pero pocas solicitudes concretas. También lo es que los compradores pregunten siempre por descuento antes de pedir documentación, planos o una visita seria.",
+                "Otra señal aparece cuando el inmueble se ve en muchos sitios con mensajes distintos, fotografías repetidas o precios que no transmiten control. En propiedades de alto valor, esa exposición desordenada puede reducir la sensación de exclusividad y debilitar la negociación.",
+                "Si el anuncio lleva tiempo publicado y cada nueva conversación empieza desde la duda, puede que la propiedad ya necesite un relanzamiento. Eso no significa esconder el pasado, sino reconstruir la salida al mercado con una presentación más precisa."
+              ]
+            },
+            {
+              "title": "Qué revisar antes de tocar el precio",
+              "paragraphs": [
+                "Antes de aceptar que el problema es solo el precio, conviene revisar si las fotos enseñan lo importante, si la descripción explica la zona, si el dossier responde dudas habituales y si el comprador entiende el estado real de la vivienda.",
+                "También hay que comparar con criterio. No basta mirar otros anuncios activos: conviene estudiar competencia directa, demanda actual, estado de conservación, privacidad, orientación, vistas, acceso, gastos y potencial de reforma o explotación.",
+                "Si el precio no está bien justificado, puedes empezar por revisar <a href=\"../../articulos/casa-sobrevalorada-antes-vender/?utm_source=blog&utm_medium=organic&utm_campaign=meses_sin_ofertas\">cómo saber si una casa está sobrevalorada</a>. Si el precio sí tiene sentido, entonces el problema puede estar en la presentación o en el tipo de comprador que estás atrayendo."
+              ]
+            },
+            {
+              "title": "Cómo relanzar una vivienda premium sin perder fuerza",
+              "paragraphs": [
+                "Relanzar no debería consistir en cambiar dos fotos y republicar. En una vivienda premium, relanzar significa ordenar el mensaje, preparar documentación, definir el comprador objetivo, revisar canales, ajustar el relato comercial y decidir qué información se muestra antes y después del primer contacto.",
+                "En LacostaHaus trabajamos este tipo de situaciones desde una lectura conjunta de precio, imagen, zona y comprador. Una <a href=\"../../servicios/tasacion-estrategica/?utm_source=blog&utm_medium=organic&utm_campaign=meses_sin_ofertas\">tasación estratégica</a> ayuda a decidir si conviene corregir precio, reposicionar el inmueble o preparar mejor la presentación antes de seguir acumulando tiempo en mercado.",
+                "Si tu propiedad lleva meses publicada y no recibes ofertas serias, puedes <a href=\"../../contacto/?utm_source=blog&utm_medium=organic&utm_campaign=meses_sin_ofertas\">contactar con LacostaHaus</a> para revisar qué está frenando la venta y plantear una salida más cuidada."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "House months on the market without serious offers | LacostaHaus",
+          "seo_description": "What to review if a house, villa or farmhouse has been for sale for months on the Costa Brava without serious offers.",
+          "category": "Sale relaunch",
+          "date": "Updated 2026",
+          "title": "My house has been for sale for months and I get no serious offers: what to review",
+          "excerpt": "A guide for owners whose premium property has been published for a long time without qualified buyers.",
+          "read_more": "Read diagnosis",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Maison en vente depuis des mois sans offres sérieuses | LacostaHaus",
+          "seo_description": "Que vérifier si une maison, villa ou masia est en vente depuis des mois sur la Costa Brava sans offres sérieuses.",
+          "category": "Relancer la vente",
+          "date": "Mis à jour 2026",
+          "title": "Ma maison est en vente depuis des mois sans offres sérieuses : que vérifier",
+          "excerpt": "Un guide pour les propriétaires dont le bien premium est publié depuis longtemps sans acheteurs qualifiés.",
+          "read_more": "Lire le diagnostic",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Haus seit Monaten ohne ernsthafte Angebote | LacostaHaus",
+          "seo_description": "Was zu prüfen ist, wenn ein Haus, eine Villa oder Masia an der Costa Brava seit Monaten ohne seriöse Angebote inseriert ist.",
+          "category": "Verkauf neu starten",
+          "date": "Aktualisiert 2026",
+          "title": "Mein Haus ist seit Monaten im Verkauf und erhält keine seriösen Angebote: was prüfen?",
+          "excerpt": "Ein Leitfaden für Eigentümer, deren Premium-Immobilie lange online ist, aber keine qualifizierten Käufer anzieht.",
+          "read_more": "Diagnose lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Дом месяцами продается без серьезных предложений | LacostaHaus",
+          "seo_description": "Что проверить, если дом, вилла или масия на Коста-Брава продается месяцами без серьезных предложений.",
+          "category": "Перезапуск продажи",
+          "date": "Обновлено 2026",
+          "title": "Мой дом месяцами в продаже и нет серьезных предложений: что проверить",
+          "excerpt": "Гид для собственников, чей премиальный объект давно опубликован, но не привлекает качественных покупателей.",
+          "read_more": "Читать диагностику",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "documentacion-vender-casa-costa-brava",
+      "route": "articulos/documentacion-vender-casa-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Documentos que conviene preparar antes de vender una casa, villa, piso o masía en Costa Brava para evitar dudas y retrasos en la negociación.",
+          "category": "Documentación",
+          "date": "Actualizado 2026",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "Una guía para propietarios que quieren evitar retrasos, dudas de compradores y negociaciones débiles por falta de documentación.",
+          "read_more": "Leer documentación",
+          "sections": [
+            {
+              "title": "La documentación también vende",
+              "paragraphs": [
+                "En una vivienda premium, los documentos no son un trámite secundario. Planos, nota simple, superficies, estado registral, gastos, certificado energético y licencias ayudan a que el comprador entienda mejor qué está comprando.",
+                "Cuando la documentación aparece tarde, surgen dudas justo en el momento más delicado de la negociación. Prepararla antes reduce fricción, evita improvisaciones y transmite una sensación de control muy valiosa en operaciones de alto importe."
+              ]
+            },
+            {
+              "title": "Qué conviene tener preparado",
+              "paragraphs": [
+                "Antes de publicar conviene revisar escritura, nota simple actualizada, referencia catastral, planos, certificado energético, IBI, gastos comunitarios, reformas realizadas y cualquier licencia, proyecto o limitación relevante. En Cataluña pueden existir documentos adicionales según el tipo de inmueble y operación.",
+                "En villas, masías y proyectos singulares también conviene ordenar información sobre usos posibles, metros útiles y construidos, parcelas, accesos, suministros, estado urbanístico y elementos que puedan influir en una futura reforma o explotación."
+              ]
+            },
+            {
+              "title": "Por qué ayuda a vender mejor",
+              "paragraphs": [
+                "Un comprador serio no solo pregunta por precio. Pregunta por seguridad, tiempos, impuestos, reformas, riesgos y próximos pasos. Si las respuestas están preparadas, la conversación avanza con más confianza y menos desgaste.",
+                "En LacostaHaus usamos esta revisión como parte de la preparación comercial antes de salir al mercado. Si quieres ordenar tu caso antes de publicar, puedes <a href=\"../../contacto/?utm_source=blog&utm_medium=organic&utm_campaign=documentacion_venta\">contactar con nosotros</a> y revisar qué documentación conviene tener lista."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Seller guide for premium property owners on the Costa Brava.",
+          "category": "Seller guide",
+          "date": "Updated 2026",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "A practical guide for owners who want to prepare a premium sale with more clarity.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Guide vendeur pour propriétaires de biens premium sur la Costa Brava.",
+          "category": "Guide vendeur",
+          "date": "Mis à jour 2026",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "Un guide pratique pour préparer une vente premium avec plus de clarté.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Verkäuferleitfaden für Eigentümer von Premium-Immobilien an der Costa Brava.",
+          "category": "Verkäufer-Ratgeber",
+          "date": "Aktualisiert 2026",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die einen Premium-Verkauf klarer vorbereiten möchten.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Гид для собственников премиальной недвижимости на Коста-Брава.",
+          "category": "Гид продавца",
+          "date": "Обновлено 2026",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "Практическое руководство для собственников, которые хотят яснее подготовить премиальную продажу.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cuanto-tarda-vender-casa-lujo-costa-brava",
+      "route": "articulos/cuanto-tarda-vender-casa-lujo-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Cuánto tarda en venderse una casa de lujo Costa Brava | LacostaHaus",
+          "seo_description": "Factores que influyen en el tiempo de venta de casas, villas y masías premium en Costa Brava: precio, presentación, demanda y estrategia.",
+          "category": "Plazos de venta",
+          "date": "Actualizado 2026",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "No existe un plazo único: precio, presentación, documentación y comprador objetivo cambian mucho la velocidad de venta.",
+          "read_more": "Leer plazos",
+          "sections": [
+            {
+              "title": "El tiempo de venta no depende solo del mercado",
+              "paragraphs": [
+                "Dos propiedades parecidas pueden tardar tiempos muy distintos en venderse. La diferencia suele estar en precio, estado, privacidad, documentación, presentación, claridad del comprador objetivo y capacidad de respuesta ante consultas serias.",
+                "Una casa premium puede necesitar más tiempo que un piso estándar, pero eso no significa esperar sin estrategia. Cada semana en mercado debe aportar información útil: qué perfiles preguntan, qué dudas se repiten y dónde se está perdiendo interés."
+              ]
+            },
+            {
+              "title": "Factores que aceleran o frenan",
+              "paragraphs": [
+                "Un precio defendible, buena fotografía, dossier claro, documentación preparada y canales adecuados suelen acelerar contactos cualificados. En cambio, una presentación débil o un precio sin soporte puede alargar meses la venta sin que el propietario reciba señales claras.",
+                "También influyen la estacionalidad, el tipo de inmueble, la zona exacta, el estado de mantenimiento y si el comprador es local, nacional o internacional. No se vende igual una villa lista para entrar que una masía con proyecto pendiente."
+              ]
+            },
+            {
+              "title": "Cuándo revisar la estrategia",
+              "paragraphs": [
+                "Si pasan semanas sin consultas útiles, conviene revisar el anuncio antes de que se desgaste. Si pasan meses sin ofertas serias, la propiedad probablemente necesita diagnóstico, ajuste de relato, mejora visual o relanzamiento ordenado.",
+                "Cuando una venta se alarga, no siempre hay que empezar por bajar el precio. Primero conviene revisar qué está frenando la decisión. Para profundizar, puedes leer <a href=\"../../articulos/casa-meses-en-venta-sin-ofertas/?utm_source=blog&utm_medium=organic&utm_campaign=tiempo_venta\">qué hacer si una casa lleva meses en venta sin ofertas</a>."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Cuánto tarda en venderse una casa de lujo Costa Brava | LacostaHaus",
+          "seo_description": "Seller guide for premium property owners on the Costa Brava.",
+          "category": "Seller guide",
+          "date": "Updated 2026",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "A practical guide for owners who want to prepare a premium sale with more clarity.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Cuánto tarda en venderse una casa de lujo Costa Brava | LacostaHaus",
+          "seo_description": "Guide vendeur pour propriétaires de biens premium sur la Costa Brava.",
+          "category": "Guide vendeur",
+          "date": "Mis à jour 2026",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "Un guide pratique pour préparer une vente premium avec plus de clarté.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Cuánto tarda en venderse una casa de lujo Costa Brava | LacostaHaus",
+          "seo_description": "Verkäuferleitfaden für Eigentümer von Premium-Immobilien an der Costa Brava.",
+          "category": "Verkäufer-Ratgeber",
+          "date": "Aktualisiert 2026",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die einen Premium-Verkauf klarer vorbereiten möchten.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Cuánto tarda en venderse una casa de lujo Costa Brava | LacostaHaus",
+          "seo_description": "Гид для собственников премиальной недвижимости на Коста-Брава.",
+          "category": "Гид продавца",
+          "date": "Обновлено 2026",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "Практическое руководство для собственников, которые хотят яснее подготовить премиальную продажу.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "vender-con-inmobiliaria-o-particular",
+      "route": "articulos/vender-con-inmobiliaria-o-particular/",
+      "translations": {
+        "es": {
+          "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
+          "seo_description": "Comparativa profesional para propietarios que dudan entre vender una vivienda premium con inmobiliaria o por cuenta propia en Costa Brava.",
+          "category": "Decisión de venta",
+          "date": "Actualizado 2026",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "Una comparación clara para propietarios que dudan entre gestionar la venta solos o apoyarse en una inmobiliaria especializada.",
+          "read_more": "Leer comparativa",
+          "sections": [
+            {
+              "title": "La pregunta no es solo la comisión",
+              "paragraphs": [
+                "Muchos propietarios comparan vender con inmobiliaria o por cuenta propia mirando solo la comisión. En una vivienda premium, el coste real también está en el tiempo, la exposición, la negociación, la seguridad documental y el riesgo de transmitir mal el valor.",
+                "Si el inmueble no se presenta bien o atrae compradores poco filtrados, la supuesta ventaja inicial puede convertirse en desgaste, visitas improductivas y rebajas innecesarias. En propiedades de alto importe, cada error de salida deja huella."
+              ]
+            },
+            {
+              "title": "Qué aporta una inmobiliaria especializada",
+              "paragraphs": [
+                "Una inmobiliaria no debería limitarse a subir anuncios. Debe valorar, posicionar, preparar material, filtrar compradores, coordinar visitas, proteger información sensible y acompañar la negociación con criterio.",
+                "En Costa Brava, además, puede aportar lectura local, idiomas, contexto para compradores internacionales y una estrategia de canales más ordenada. La diferencia está en convertir el inmueble en una oportunidad comprensible, no en una ficha más."
+              ]
+            },
+            {
+              "title": "Cuándo vender solo puede salir caro",
+              "paragraphs": [
+                "Vender solo puede funcionar en operaciones sencillas, pero en villas, masías o propiedades de alto valor los errores pesan más. Un precio mal enfocado, una descripción pobre o una exposición desordenada pueden dejar rastro durante meses.",
+                "Si estás valorando ambas opciones, revisa también <a href=\"../../articulos/vender-casa-lujo-costa-brava/?utm_source=blog&utm_medium=organic&utm_campaign=inmobiliaria_o_particular\">cómo vender sin malvender</a>. Una conversación inicial con una inmobiliaria especializada puede ayudarte a decidir con más información, incluso antes de firmar nada."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
+          "seo_description": "Seller guide for premium property owners on the Costa Brava.",
+          "category": "Seller guide",
+          "date": "Updated 2026",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "A practical guide for owners who want to prepare a premium sale with more clarity.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
+          "seo_description": "Guide vendeur pour propriétaires de biens premium sur la Costa Brava.",
+          "category": "Guide vendeur",
+          "date": "Mis à jour 2026",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "Un guide pratique pour préparer une vente premium avec plus de clarté.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
+          "seo_description": "Verkäuferleitfaden für Eigentümer von Premium-Immobilien an der Costa Brava.",
+          "category": "Verkäufer-Ratgeber",
+          "date": "Aktualisiert 2026",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die einen Premium-Verkauf klarer vorbereiten möchten.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
+          "seo_description": "Гид для собственников премиальной недвижимости на Коста-Брава.",
+          "category": "Гид продавца",
+          "date": "Обновлено 2026",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "Практическое руководство для собственников, которые хотят яснее подготовить премиальную продажу.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "preparar-villa-antes-vender-costa-brava",
+      "route": "articulos/preparar-villa-antes-vender-costa-brava/",
+      "translations": {
+        "es": {
+          "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
+          "seo_description": "Cómo preparar una villa, casa o masía premium antes de ponerla a la venta en Costa Brava: imagen, orden, documentación y estrategia.",
+          "category": "Preparación",
+          "date": "Actualizado 2026",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "Pequeñas decisiones antes de publicar pueden cambiar la percepción, la calidad de los contactos y la negociación.",
+          "read_more": "Leer preparación",
+          "sections": [
+            {
+              "title": "Preparar no significa reformar todo",
+              "paragraphs": [
+                "Antes de vender una villa o masía no siempre hace falta una gran reforma. A veces basta ordenar, reparar detalles visibles, mejorar iluminación, despejar espacios, cuidar exteriores y preparar una presentación coherente.",
+                "El objetivo es que el comprador entienda el potencial sin distraerse con dudas evitables. Una propiedad premium debe transmitir cuidado desde el primer vistazo, pero sin ocultar información relevante."
+              ]
+            },
+            {
+              "title": "Qué revisar antes de la sesión de fotos",
+              "paragraphs": [
+                "Conviene revisar jardín, piscina, accesos, terrazas, vistas, interiores principales, zonas de sombra, orientación y puntos diferenciales. También es útil decidir qué no se mostrará públicamente y qué se explicará solo a compradores filtrados.",
+                "En inmuebles premium, la primera impresión online suele decidir si habrá una consulta seria. Una sesión de fotos no debería improvisarse: hay que saber qué historia quiere contar la propiedad antes de encender la cámara."
+              ]
+            },
+            {
+              "title": "Preparación comercial y documental",
+              "paragraphs": [
+                "La preparación visual debe ir acompañada de datos: superficies, planos, gastos, estado de reformas, usos posibles y documentación básica. Una presentación bonita sin respuestas genera dudas y puede debilitar la negociación.",
+                "LacostaHaus puede ayudarte a preparar una salida al mercado con enfoque de precio, imagen y comprador. Puedes <a href=\"../../contacto/?utm_source=blog&utm_medium=organic&utm_campaign=preparar_villa\">solicitar una revisión inicial</a> antes de publicar la propiedad."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
+          "seo_description": "Seller guide for premium property owners on the Costa Brava.",
+          "category": "Seller guide",
+          "date": "Updated 2026",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "A practical guide for owners who want to prepare a premium sale with more clarity.",
+          "read_more": "Read guide",
+          "sections": [
+            {
+              "title": "Start with the commercial diagnosis",
+              "paragraphs": [
+                "A premium property should not be published only because the owner has chosen a price. The first step is to understand buyer profile, documents, presentation, timing and the real reasons why the property should be trusted.",
+                "This avoids empty visits, weak negotiations and unnecessary reductions before the market has understood the value."
+              ]
+            },
+            {
+              "title": "What should be reviewed",
+              "paragraphs": [
+                "Review price logic, comparable properties, documentation, visual material, privacy, condition, possible use and the channels where the property will appear.",
+                "In villas, farmhouses and luxury apartments, small gaps in the dossier can create large doubts during negotiation."
+              ]
+            },
+            {
+              "title": "Why specialist support matters",
+              "paragraphs": [
+                "A specialist agency adds local reading, buyer filtering, multilingual follow-up and a more consistent launch. The point is not only to publish, but to protect value while finding qualified demand.",
+                "LacostaHaus uses this approach for owners who want a more careful sale on the Costa Brava."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
+          "seo_description": "Guide vendeur pour propriétaires de biens premium sur la Costa Brava.",
+          "category": "Guide vendeur",
+          "date": "Mis à jour 2026",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "Un guide pratique pour préparer une vente premium avec plus de clarté.",
+          "read_more": "Lire le guide",
+          "sections": [
+            {
+              "title": "Commencer par le diagnostic commercial",
+              "paragraphs": [
+                "Un bien premium ne devrait pas être publié uniquement parce que le propriétaire a choisi un prix. Il faut d’abord comprendre le profil d’acheteur, les documents, la présentation, les délais et les raisons qui soutiennent la valeur.",
+                "Cela évite les visites inutiles, les négociations faibles et les baisses prématurées avant que le marché comprenne le bien."
+              ]
+            },
+            {
+              "title": "Ce qu’il faut vérifier",
+              "paragraphs": [
+                "Il faut revoir logique de prix, comparables, documentation, matériel visuel, confidentialité, état, usage possible et canaux de diffusion.",
+                "Dans les villas, masias et appartements de luxe, une petite lacune dans le dossier peut créer de grands doutes pendant la négociation."
+              ]
+            },
+            {
+              "title": "Pourquoi l’accompagnement spécialisé compte",
+              "paragraphs": [
+                "Une agence spécialisée apporte lecture locale, filtrage des acheteurs, suivi multilingue et lancement plus cohérent. Il ne s’agit pas seulement de publier, mais de protéger la valeur en cherchant une demande qualifiée.",
+                "LacostaHaus travaille ainsi avec les propriétaires qui veulent une vente plus soignée sur la Costa Brava."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
+          "seo_description": "Verkäuferleitfaden für Eigentümer von Premium-Immobilien an der Costa Brava.",
+          "category": "Verkäufer-Ratgeber",
+          "date": "Aktualisiert 2026",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die einen Premium-Verkauf klarer vorbereiten möchten.",
+          "read_more": "Ratgeber lesen",
+          "sections": [
+            {
+              "title": "Mit der kommerziellen Diagnose beginnen",
+              "paragraphs": [
+                "Eine Premium-Immobilie sollte nicht nur veröffentlicht werden, weil ein Eigentümer einen Preis gewählt hat. Zuerst müssen Käuferprofil, Unterlagen, Präsentation, Timing und Wertargumente verstanden werden.",
+                "So vermeidet man leere Besichtigungen, schwache Verhandlungen und unnötige Preissenkungen, bevor der Markt den Wert verstanden hat."
+              ]
+            },
+            {
+              "title": "Was geprüft werden sollte",
+              "paragraphs": [
+                "Zu prüfen sind Preislogik, Vergleichsobjekte, Unterlagen, Bildmaterial, Privatsphäre, Zustand, mögliche Nutzung und die Kanäle, in denen das Objekt erscheint.",
+                "Bei Villen, Masias und Luxuswohnungen können kleine Lücken im Dossier große Zweifel in der Verhandlung erzeugen."
+              ]
+            },
+            {
+              "title": "Warum spezialisierte Begleitung zählt",
+              "paragraphs": [
+                "Eine spezialisierte Agentur bringt lokale Einordnung, Käuferfilterung, mehrsprachige Betreuung und einen stimmigeren Marktstart. Es geht nicht nur um Veröffentlichung, sondern um Werterhalt und qualifizierte Nachfrage.",
+                "LacostaHaus arbeitet so mit Eigentümern, die an der Costa Brava sorgfältiger verkaufen möchten."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
+          "seo_description": "Гид для собственников премиальной недвижимости на Коста-Брава.",
+          "category": "Гид продавца",
+          "date": "Обновлено 2026",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "Практическое руководство для собственников, которые хотят яснее подготовить премиальную продажу.",
+          "read_more": "Читать гид",
+          "sections": [
+            {
+              "title": "Начать с коммерческой диагностики",
+              "paragraphs": [
+                "Премиальный объект не стоит публиковать только потому, что владелец выбрал цену. Сначала нужно понять профиль покупателя, документы, презентацию, сроки и аргументы ценности.",
+                "Это помогает избежать пустых просмотров, слабых переговоров и ненужных снижений до того, как рынок понял ценность объекта."
+              ]
+            },
+            {
+              "title": "Что нужно проверить",
+              "paragraphs": [
+                "Стоит проверить логику цены, аналоги, документы, визуальные материалы, приватность, состояние, возможное использование и каналы публикации.",
+                "Для вилл, масий и люксовых квартир небольшие пробелы в досье могут вызвать большие сомнения на переговорах."
+              ]
+            },
+            {
+              "title": "Почему важна специализированная поддержка",
+              "paragraphs": [
+                "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
+                "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

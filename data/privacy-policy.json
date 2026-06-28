@@ -1,0 +1,88 @@
+{
+  "translations": {
+    "es": {
+      "seo_title": "Política de privacidad | LacostaHaus",
+      "seo_description": "Información sobre el tratamiento de datos personales en LacostaHaus.",
+      "title": "Política de privacidad",
+      "updated": "Última actualización: junio de 2026",
+      "back_home": "Volver al inicio",
+      "identity_title": "Responsable del tratamiento",
+      "identity": [
+        "El responsable de los datos recogidos a través de esta web es LacostaHaus. Puedes contactar con nosotros en lacostahaus@gmail.com o en el teléfono +34 722 279 795.",
+        "Esta política se aplica a los formularios de contacto, solicitudes de información, solicitudes de valoración y comunicaciones relacionadas con servicios inmobiliarios."
+      ],
+      "data_title": "Datos que podemos recoger",
+      "data": [
+        "Podemos tratar datos identificativos y de contacto como nombre, correo electrónico, teléfono y el contenido del mensaje que envíes voluntariamente.",
+        "Si solicitas información sobre un inmueble o una valoración, también podremos tratar datos relacionados con la propiedad, ubicación aproximada, características básicas y preferencias de compra o venta."
+      ],
+      "purpose_title": "Finalidad del tratamiento",
+      "purpose": [
+        "Utilizamos los datos para responder consultas, gestionar solicitudes de contacto, preparar valoraciones inmobiliarias, enviar información solicitada y prestar servicios de intermediación o asesoramiento inmobiliario.",
+        "También podemos usar datos técnicos y de navegación, siempre según la configuración de cookies, para analizar el funcionamiento de la web y mejorar la experiencia."
+      ],
+      "legal_title": "Base legal",
+      "legal": [
+        "La base legal principal es tu consentimiento al enviar un formulario o solicitar información. En algunos casos, el tratamiento puede ser necesario para aplicar medidas precontractuales o para atender obligaciones legales.",
+        "Puedes retirar tu consentimiento en cualquier momento escribiendo a lacostahaus@gmail.com."
+      ],
+      "rights_title": "Derechos de las personas usuarias",
+      "rights": [
+        "Puedes solicitar acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de tus datos cuando corresponda.",
+        "Para ejercer estos derechos, envía un correo a lacostahaus@gmail.com indicando el derecho que deseas ejercer y la información necesaria para identificar tu solicitud."
+      ],
+      "retention_title": "Conservación",
+      "retention": [
+        "Conservaremos tus datos durante el tiempo necesario para gestionar tu solicitud, mantener la relación comercial o cumplir obligaciones legales aplicables.",
+        "Cuando los datos dejen de ser necesarios, se eliminarán o bloquearán según corresponda."
+      ],
+      "third_title": "Cesiones y proveedores",
+      "third": [
+        "No vendemos tus datos personales. Podremos compartirlos únicamente cuando sea necesario para atender tu solicitud, cumplir una obligación legal o trabajar con proveedores técnicos que ayudan al funcionamiento de la web.",
+        "Si se activan herramientas de medición o terceros, su uso se gestionará junto con la política de cookies y las preferencias aceptadas por el usuario."
+      ]
+    },
+    "ru": {
+      "seo_title": "Политика конфиденциальности | LacostaHaus",
+      "seo_description": "Информация об обработке персональных данных на сайте LacostaHaus.",
+      "title": "Политика конфиденциальности",
+      "updated": "Последнее обновление: июнь 2026",
+      "back_home": "Вернуться на главную",
+      "identity_title": "Ответственный за обработку данных",
+      "identity": [
+        "Ответственным за данные, собранные через этот сайт, является LacostaHaus. Вы можете связаться с нами по адресу lacostahaus@gmail.com или по телефону +34 722 279 795.",
+        "Эта политика применяется к контактным формам, запросам информации, запросам оценки недвижимости и сообщениям, связанным с риелторскими услугами."
+      ],
+      "data_title": "Какие данные мы можем собирать",
+      "data": [
+        "Мы можем обрабатывать идентификационные и контактные данные, такие как имя, адрес электронной почты, телефон и содержание сообщения, которое вы отправляете добровольно.",
+        "Если вы запрашиваете информацию об объекте недвижимости или оценку, мы также можем обрабатывать данные, связанные с объектом, примерным местоположением, основными характеристиками и предпочтениями покупки или продажи."
+      ],
+      "purpose_title": "Цель обработки",
+      "purpose": [
+        "Мы используем данные для ответа на запросы, управления обращениями, подготовки оценок недвижимости, отправки запрошенной информации и оказания услуг по сопровождению или консультации в сфере недвижимости.",
+        "Мы также можем использовать технические данные и данные навигации, в соответствии с настройками cookies, для анализа работы сайта и улучшения пользовательского опыта."
+      ],
+      "legal_title": "Правовое основание",
+      "legal": [
+        "Основным правовым основанием является ваше согласие при отправке формы или запросе информации. В некоторых случаях обработка может быть необходима для преддоговорных действий или выполнения юридических обязательств.",
+        "Вы можете отозвать свое согласие в любое время, написав на lacostahaus@gmail.com."
+      ],
+      "rights_title": "Права пользователей",
+      "rights": [
+        "Вы можете запросить доступ, исправление, удаление, возражение, ограничение обработки и переносимость ваших данных, когда это применимо.",
+        "Чтобы воспользоваться этими правами, отправьте письмо на lacostahaus@gmail.com, указав право, которое хотите реализовать, и информацию, необходимую для идентификации вашего запроса."
+      ],
+      "retention_title": "Срок хранения",
+      "retention": [
+        "Мы будем хранить ваши данные в течение времени, необходимого для обработки запроса, поддержания коммерческих отношений или выполнения применимых юридических обязательств.",
+        "Когда данные перестанут быть необходимыми, они будут удалены или заблокированы в соответствии с применимыми правилами."
+      ],
+      "third_title": "Передача данных и поставщики",
+      "third": [
+        "Мы не продаем ваши персональные данные. Мы можем передавать их только тогда, когда это необходимо для обработки вашего запроса, выполнения юридического обязательства или работы с техническими поставщиками, обеспечивающими функционирование сайта.",
+        "Если активируются инструменты аналитики или сторонние сервисы, их использование будет регулироваться политикой cookies и настройками, принятыми пользователем."
+      ]
+    }
+  }
+}
