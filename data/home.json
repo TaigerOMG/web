@@ -1,15 +1,10 @@
-﻿{
+{
   "assets": {
-    "logo": "assets/logo-lacostahaus.png",
+    "logo": "assets/logo-lacostahaus-small.png",
     "hero": "assets/hero-principal.png",
     "heroCard": "assets/hero-clean.svg"
   },
   "featuredCards": [
-    {
-      "image": "assets/masia.svg",
-      "route": "property",
-      "key": "masia"
-    },
     {
       "image": "assets/villa.svg",
       "route": "properties",
@@ -34,8 +29,8 @@
   "translations": {
     "es": {
       "seo": {
-        "title": "LacostaHaus | Inmobiliaria boutique en la Costa Brava",
-        "description": "Compra, venta y tasación de inmuebles premium en la Costa Brava con acompañamiento personalizado y atención internacional."
+        "title": "LacostaHaus | Inmobiliaria premium en Costa Brava",
+        "description": "Compra, vende y valora propiedades premium en la Costa Brava. Masías, villas y proyectos inmobiliarios con atención internacional y asesoramiento personalizado."
       },
       "nav": {
         "home": "Inicio",
@@ -43,7 +38,6 @@
         "languages": "Idiomas",
         "contact": "Contacto",
         "valuation": "Tasación gratuita",
-        "propertyMasia": "Masía",
         "allProperties": "Inmuebles"
       },
       "hero": {
@@ -94,12 +88,6 @@
         "text": "Una selección visual para dar más vida a la home y facilitar la navegación.",
         "all": "Ver todos los inmuebles",
         "cards": {
-          "masia": {
-            "tag": "Destacado",
-            "title": "Masía en Port d'Aro",
-            "location": "Port d'Aro · Costa Brava",
-            "price": "4.500.000 €"
-          },
           "villa": {
             "tag": "Nuevo",
             "title": "Villa con vistas al mar",
@@ -165,7 +153,7 @@
       "catalog": {
         "eyebrow": "Catálogo",
         "title": "Inmuebles LacostaHaus",
-        "text": "Primer listado editable desde JSON. La ficha principal conecta con la página de Masía."
+        "text": "Listado editable desde Admin. Los inmuebles publicados aparecerán aquí."
       },
       "footer": {
         "text": "Inmobiliaria orientada a clientes nacionales e internacionales en la Costa Brava.",
@@ -192,8 +180,8 @@
     },
     "en": {
       "seo": {
-        "title": "LacostaHaus | Boutique real estate on the Costa Brava",
-        "description": "Premium property purchase, sale and valuation on the Costa Brava with personal guidance and international service."
+        "title": "LacostaHaus | Premium Real Estate in Costa Brava",
+        "description": "Buy, sell and value premium properties on the Costa Brava. Villas, farmhouses and real estate projects with international guidance."
       },
       "nav": {
         "home": "Home",
@@ -201,7 +189,6 @@
         "languages": "Languages",
         "contact": "Contact",
         "valuation": "Free valuation",
-        "propertyMasia": "Farmhouse",
         "allProperties": "Properties"
       },
       "hero": {
@@ -252,7 +239,6 @@
         "text": "A visual selection to give the home page more life and make navigation easier.",
         "all": "View all properties",
         "cards": {
-          "masia": { "tag": "Featured", "title": "Farmhouse in Port d'Aro", "location": "Port d'Aro · Costa Brava", "price": "€4,500,000" },
           "villa": { "tag": "New", "title": "Villa with sea views", "location": "S'Agaró", "price": "€2,350,000" },
           "casa": { "tag": "Exclusive", "title": "Renovated manor house", "location": "Begur", "price": "€1,980,000" },
           "apartamento": { "tag": "Luxury", "title": "Premium apartment", "location": "Platja d'Aro", "price": "€890,000" },
@@ -278,7 +264,7 @@
       "catalog": {
         "eyebrow": "Catalogue",
         "title": "LacostaHaus properties",
-        "text": "First JSON-editable listing. The main card connects to the Farmhouse page."
+        "text": "Editable listing from Admin. Published properties will appear here."
       },
       "footer": {
         "text": "Real estate agency for national and international clients on the Costa Brava.",
@@ -305,8 +291,8 @@
     },
     "fr": {
       "seo": {
-        "title": "LacostaHaus | Immobilier boutique sur la Costa Brava",
-        "description": "Achat, vente et estimation de biens premium sur la Costa Brava avec accompagnement personnalisé et service international."
+        "title": "LacostaHaus | Immobilier premium sur la Costa Brava",
+        "description": "Achetez, vendez et estimez des biens premium sur la Costa Brava. Villas, masias et projets immobiliers avec accompagnement international."
       },
       "nav": {
         "home": "Accueil",
@@ -314,7 +300,6 @@
         "languages": "Langues",
         "contact": "Contact",
         "valuation": "Estimation gratuite",
-        "propertyMasia": "Masia",
         "allProperties": "Biens"
       },
       "hero": {
@@ -353,7 +338,6 @@
         "text": "Une sélection visuelle pour donner plus de vie à la page d'accueil et faciliter la navigation.",
         "all": "Voir tous les biens",
         "cards": {
-          "masia": { "tag": "Vedette", "title": "Masia à Port d'Aro", "location": "Port d'Aro · Costa Brava", "price": "4.500.000 €" },
           "villa": { "tag": "Nouveau", "title": "Villa avec vue sur mer", "location": "S'Agaró", "price": "2.350.000 €" },
           "casa": { "tag": "Exclusive", "title": "Maison de maître rénovée", "location": "Begur", "price": "1.980.000 €" },
           "apartamento": { "tag": "Luxe", "title": "Appartement premium", "location": "Platja d'Aro", "price": "890.000 €" },
@@ -379,7 +363,7 @@
       "catalog": {
         "eyebrow": "Catalogue",
         "title": "Biens LacostaHaus",
-        "text": "Premier listing modifiable depuis JSON. La fiche principale mène à la page Masia."
+        "text": "Liste modifiable depuis Admin. Les biens publiés apparaîtront ici."
       },
       "footer": {
         "text": "Agence immobilière pour clients nationaux et internationaux sur la Costa Brava.",
@@ -406,8 +390,8 @@
     },
     "de": {
       "seo": {
-        "title": "LacostaHaus | Boutique-Immobilien an der Costa Brava",
-        "description": "Kauf, Verkauf und Bewertung von Premium-Immobilien an der Costa Brava mit persönlicher Begleitung und internationalem Service."
+        "title": "LacostaHaus | Premium-Immobilien an der Costa Brava",
+        "description": "Kaufen, verkaufen und bewerten Sie Premium-Immobilien an der Costa Brava. Villen, Masias und Immobilienprojekte mit internationaler Begleitung."
       },
       "nav": {
         "home": "Startseite",
@@ -415,7 +399,6 @@
         "languages": "Sprachen",
         "contact": "Kontakt",
         "valuation": "Kostenlose Bewertung",
-        "propertyMasia": "Masia",
         "allProperties": "Immobilien"
       },
       "hero": {
@@ -454,7 +437,6 @@
         "text": "Eine visuelle Auswahl, die der Startseite mehr Leben gibt und die Navigation erleichtert.",
         "all": "Alle Immobilien ansehen",
         "cards": {
-          "masia": { "tag": "Highlight", "title": "Masia in Port d'Aro", "location": "Port d'Aro · Costa Brava", "price": "4.500.000 €" },
           "villa": { "tag": "Neu", "title": "Villa mit Meerblick", "location": "S'Agaró", "price": "2.350.000 €" },
           "casa": { "tag": "Exklusiv", "title": "Renoviertes Herrenhaus", "location": "Begur", "price": "1.980.000 €" },
           "apartamento": { "tag": "Luxus", "title": "Premium-Apartment", "location": "Platja d'Aro", "price": "890.000 €" },
@@ -480,7 +462,7 @@
       "catalog": {
         "eyebrow": "Katalog",
         "title": "LacostaHaus Immobilien",
-        "text": "Erstes Listing, das über JSON bearbeitet wird. Die Hauptkarte führt zur Masia-Seite."
+        "text": "Bearbeitbares Listing aus Admin. Veröffentlichte Immobilien erscheinen hier."
       },
       "footer": {
         "text": "Immobilienagentur für nationale und internationale Kunden an der Costa Brava.",
@@ -507,8 +489,8 @@
     },
     "ru": {
       "seo": {
-        "title": "LacostaHaus | Бутик-недвижимость на Коста-Брава",
-        "description": "Покупка, продажа и оценка премиальной недвижимости на Коста-Брава с персональным сопровождением и международным сервисом."
+        "title": "LacostaHaus | Премиальная недвижимость на Коста-Брава",
+        "description": "Покупка, продажа и оценка премиальной недвижимости на Коста-Брава: виллы, масии и инвестиционные проекты с международным сопровождением."
       },
       "nav": {
         "home": "Главная",
@@ -516,7 +498,6 @@
         "languages": "Языки",
         "contact": "Контакт",
         "valuation": "Бесплатная оценка",
-        "propertyMasia": "Масия",
         "allProperties": "Объекты"
       },
       "hero": {
@@ -555,7 +536,6 @@
         "text": "Визуальная подборка, которая делает главную страницу живее и упрощает навигацию.",
         "all": "Смотреть все объекты",
         "cards": {
-          "masia": { "tag": "Избранное", "title": "Масия в Port d'Aro", "location": "Port d'Aro · Costa Brava", "price": "4.500.000 €" },
           "villa": { "tag": "Новое", "title": "Вилла с видом на море", "location": "S'Agaró", "price": "2.350.000 €" },
           "casa": { "tag": "Эксклюзив", "title": "Отреставрированный особняк", "location": "Begur", "price": "1.980.000 €" },
           "apartamento": { "tag": "Люкс", "title": "Премиальные апартаменты", "location": "Platja d'Aro", "price": "890.000 €" },
@@ -581,7 +561,7 @@
       "catalog": {
         "eyebrow": "Каталог",
         "title": "Объекты LacostaHaus",
-        "text": "Первый список, редактируемый через JSON. Основная карточка ведет на страницу Масии."
+        "text": "Опубликованные объекты будут отображаться здесь."
       },
       "footer": {
         "text": "Агентство недвижимости для местных и международных клиентов на Коста-Брава.",

@@ -1,0 +1,21 @@
+{
+  "name": "LacostaHaus",
+  "short_name": "LacostaHaus",
+  "description": "Inmobiliaria premium en Costa Brava para compra, venta y valoración de propiedades.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071827",
+  "theme_color": "#071827",
+  "icons": [
+    {
+      "src": "/assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

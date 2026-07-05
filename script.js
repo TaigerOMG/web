@@ -4,6 +4,7 @@
   const SCROLL_RESTORE_KEY = "lacostahaus_restore_scroll";
   const scriptUrl = document.currentScript ? document.currentScript.src : window.location.href;
   const baseUrl = new URL(".", scriptUrl);
+  const DATA_VERSION = "20260702-gallery-opt2";
   const page = document.body.dataset.page || "home";
 
   let site = null;
@@ -11,6 +12,8 @@
   let propertiesData = null;
   let currentLanguage = "es";
   let currentText = null;
+  let propertyGalleryItems = [];
+  let propertyGalleryIndex = 0;
 
   const propertyMapLabels = {
     es: "Abrir ubicacion en Google Maps",
@@ -431,11 +434,14 @@
     ad_user_data: "denied",
     ad_personalization: "denied",
     functionality_storage: "granted",
-    security_storage: "granted"
+    security_storage: "granted",
+    wait_for_update: 500
   });
 
   function jsonUrl(name) {
-    return new URL("data/" + name, baseUrl).href;
+    const url = new URL("data/" + name, baseUrl);
+    url.searchParams.set("v", DATA_VERSION);
+    return url.href;
   }
 
   async function loadJson(name) {
@@ -445,7 +451,9 @@
   }
 
   async function loadJsonPath(path) {
-    const response = await fetch(new URL(path, baseUrl).href, { cache: "no-store" });
+    const url = new URL(path, baseUrl);
+    url.searchParams.set("v", DATA_VERSION);
+    const response = await fetch(url.href, { cache: "no-store" });
     if (!response.ok) throw new Error("No se pudo cargar " + path);
     return response.json();
   }
@@ -611,7 +619,7 @@
 
   function currentPropertyId() {
     const params = new URLSearchParams(window.location.search);
-    return params.get("id") || document.body.dataset.propertyId || propertiesData?.homeHeroProperty || "masia-port-daro";
+    return params.get("id") || document.body.dataset.propertyId || propertiesData?.homeHeroProperty || "";
   }
 
   function routeForCurrentPage() {
@@ -843,15 +851,55 @@
       return new URL("assets/inmueble-masia/" + path.split("/").pop(), baseUrl).href;
     }
 
-    if (path.includes("Finca%20siglo") || path.includes("Finca siglo")) {
-      return new URL("assets/proyecto-masia-port-daro.pdf", baseUrl).href;
-    }
-
     if (path.startsWith("/images/")) {
       return new URL("assets/" + path.split("/").pop(), baseUrl).href;
     }
 
     return new URL(path.replace(/^\//, ""), baseUrl).href;
+  }
+
+  function escapeAttribute(value) {
+    return String(value || "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function isVideoSource(src) {
+    return /\.mp4(\?|#|$)/i.test(src || "");
+  }
+
+  function localImageVariant(src, variant) {
+    if (!src || /^(data:|blob:)/i.test(src)) return "";
+    try {
+      const url = new URL(src, window.location.href);
+      if (url.origin !== window.location.origin) return "";
+      if (!/\/assets\//.test(url.pathname)) return "";
+      if (!/\.(jpe?g|png)$/i.test(url.pathname)) return "";
+      const suffix = variant === "thumb" ? "-thumb.jpg" : "-medium.jpg";
+      url.pathname = url.pathname.replace(/\.(jpe?g|png)$/i, suffix);
+      return url.href;
+    } catch (error) {
+      return "";
+    }
+  }
+
+  function imageSrcset(src, includeFull = false) {
+    if (!src) return "";
+    const thumb = localImageVariant(src, "thumb");
+    const medium = localImageVariant(src, "medium");
+    const sources = [thumb && `${thumb} 360w`, medium && `${medium} 1280w`].filter(Boolean);
+    if (includeFull || !sources.length) sources.push(`${src} 1800w`);
+    return sources.join(", ");
+  }
+
+  function responsiveImageMarkup(src, alt, sizes, className = "") {
+    const full = resolveAsset(src);
+    if (!full) return "";
+    const preferred = localImageVariant(full, "medium") || full;
+    const classAttr = className ? ` class="${escapeAttribute(className)}"` : "";
+    return `<img src="${escapeAttribute(preferred)}" srcset="${escapeAttribute(imageSrcset(full))}" sizes="${escapeAttribute(sizes || "100vw")}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
   }
 
   function renderFooter() {
@@ -1089,7 +1137,7 @@
       const text = propertyTranslation(property);
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
-          <img src="${resolveAsset(property.image)}" alt="${text.title || ""}">
+          ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 82vw, 340px")}
           <div class="coverflow-info">
             <span>${text.tag || ""}</span>
             <h3>${text.title || ""}</h3>
@@ -1177,12 +1225,17 @@
     const grid = document.querySelector("[data-catalog-grid]");
     if (!grid) return;
     setSeo(currentText.catalog.title + " | LacostaHaus", currentText.catalog.text);
-    grid.innerHTML = orderedProperties(propertiesData.catalog).map((property) => {
+    const properties = orderedProperties(propertiesData.catalog);
+    if (!properties.length) {
+      grid.innerHTML = '<p class="catalog-empty">No hay inmuebles publicados todavia.</p>';
+      return;
+    }
+    grid.innerHTML = properties.map((property) => {
       const text = propertyTranslation(property);
       return `
         <a class="catalog-card" href="${propertyUrl(property)}">
           <div class="catalog-card__media">
-            <img src="${resolveAsset(property.image)}" alt="${text.title || ""}">
+            ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 100vw, 33vw")}
           </div>
           <div class="catalog-card__body">
             <span>${text.tag || ""}</span>
@@ -1197,31 +1250,41 @@
   }
 
   function initCoverflow() {
+    const track = document.querySelector(".coverflow-track");
     const cards = Array.from(document.querySelectorAll(".coverflow-card"));
     const prevBtn = document.getElementById("coverflowPrev");
     const nextBtn = document.getElementById("coverflowNext");
-    if (!cards.length || !prevBtn || !nextBtn) return;
+    if (!track || !cards.length || !prevBtn || !nextBtn) return;
+    track.classList.toggle("is-single-card", cards.length === 1);
 
     const isMobileCoverflow = () => window.matchMedia("(max-width: 850px)").matches;
+    const stateClasses = ["is-active", "is-prev", "is-next", "is-prev-2", "is-next-2", "is-single"];
+    const clearCoverflowState = () => {
+      cards.forEach((card) => {
+        card.classList.remove(...stateClasses);
+      });
+    };
+
+    if (cards.length === 1) {
+      clearCoverflowState();
+      cards[0].classList.add("is-active", "is-single");
+      prevBtn.hidden = true;
+      nextBtn.hidden = true;
+      return;
+    }
 
     if (isMobileCoverflow()) {
-      cards.forEach((card) => {
-        card.classList.remove("is-active", "is-prev", "is-next", "is-prev-2", "is-next-2");
-      });
+      clearCoverflowState();
       return;
     }
 
     let current = 0;
     function updateCoverflow() {
       if (isMobileCoverflow()) {
-        cards.forEach((card) => {
-          card.classList.remove("is-active", "is-prev", "is-next", "is-prev-2", "is-next-2");
-        });
+        clearCoverflowState();
         return;
       }
-      cards.forEach((card) => {
-        card.classList.remove("is-active", "is-prev", "is-next", "is-prev-2", "is-next-2");
-      });
+      clearCoverflowState();
       const total = cards.length;
       cards[current].classList.add("is-active");
       cards[(current - 1 + total) % total].classList.add("is-prev");
@@ -1256,7 +1319,8 @@
     if (!mainContainer) return;
     mainContainer.innerHTML = "";
     mainContainer.classList.remove("is-video-loading");
-    const isVideo = /\.mp4(\?|#|$)/i.test(src);
+    mainContainer.classList.remove("is-image-openable");
+    const isVideo = isVideoSource(src);
 
     if (isVideo) {
       const video = document.createElement("video");
@@ -1298,31 +1362,124 @@
 
     const image = document.createElement("img");
     image.className = "media-content";
-    image.src = src;
+    image.src = localImageVariant(src, "medium") || src;
+    image.srcset = imageSrcset(src);
+    image.sizes = "(max-width: 860px) 100vw, 68vw";
     image.alt = altText || "LacostaHaus";
+    image.loading = "eager";
+    image.decoding = "async";
+    image.tabIndex = 0;
+    image.setAttribute("role", "button");
+    image.setAttribute("aria-label", "Abrir imagen en pantalla completa");
+    mainContainer.classList.add("is-image-openable");
+    image.addEventListener("click", () => {
+      const index = Number(image.dataset.galleryIndex || 0);
+      openPropertyLightbox(index);
+    });
+    image.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        const index = Number(image.dataset.galleryIndex || 0);
+        openPropertyLightbox(index);
+      }
+    });
     mainContainer.appendChild(image);
+  }
+
+  function ensurePropertyLightbox() {
+    let lightbox = document.querySelector("[data-property-lightbox]");
+    if (lightbox) return lightbox;
+
+    lightbox = document.createElement("div");
+    lightbox.className = "property-lightbox";
+    lightbox.dataset.propertyLightbox = "";
+    lightbox.hidden = true;
+    lightbox.innerHTML = `
+      <button class="property-lightbox__close" type="button" data-lightbox-close aria-label="Cerrar imagen">&times;</button>
+      <button class="property-lightbox__nav property-lightbox__nav--prev" type="button" data-lightbox-prev aria-label="Imagen anterior">&lsaquo;</button>
+      <figure class="property-lightbox__figure">
+        <img data-lightbox-image alt="">
+        <figcaption data-lightbox-counter></figcaption>
+      </figure>
+      <button class="property-lightbox__nav property-lightbox__nav--next" type="button" data-lightbox-next aria-label="Imagen siguiente">&rsaquo;</button>
+    `;
+    document.body.appendChild(lightbox);
+
+    lightbox.querySelector("[data-lightbox-close]").addEventListener("click", closePropertyLightbox);
+    lightbox.querySelector("[data-lightbox-prev]").addEventListener("click", () => stepPropertyLightbox(-1));
+    lightbox.querySelector("[data-lightbox-next]").addEventListener("click", () => stepPropertyLightbox(1));
+    lightbox.addEventListener("click", (event) => {
+      if (event.target === lightbox) closePropertyLightbox();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (lightbox.hidden) return;
+      if (event.key === "Escape") closePropertyLightbox();
+      if (event.key === "ArrowLeft") stepPropertyLightbox(-1);
+      if (event.key === "ArrowRight") stepPropertyLightbox(1);
+    });
+
+    return lightbox;
+  }
+
+  function updatePropertyLightbox() {
+    const lightbox = ensurePropertyLightbox();
+    const item = propertyGalleryItems[propertyGalleryIndex];
+    if (!item) return;
+    const image = lightbox.querySelector("[data-lightbox-image]");
+    const counter = lightbox.querySelector("[data-lightbox-counter]");
+    image.src = item.full;
+    image.alt = item.alt || "LacostaHaus";
+    counter.textContent = `${propertyGalleryIndex + 1}/${propertyGalleryItems.length}`;
+    lightbox.querySelector("[data-lightbox-prev]").disabled = propertyGalleryItems.length < 2;
+    lightbox.querySelector("[data-lightbox-next]").disabled = propertyGalleryItems.length < 2;
+  }
+
+  function openPropertyLightbox(index) {
+    if (!propertyGalleryItems.length) return;
+    propertyGalleryIndex = Math.max(0, Math.min(index || 0, propertyGalleryItems.length - 1));
+    const lightbox = ensurePropertyLightbox();
+    updatePropertyLightbox();
+    lightbox.hidden = false;
+    document.documentElement.classList.add("is-property-lightbox-open");
+  }
+
+  function closePropertyLightbox() {
+    const lightbox = ensurePropertyLightbox();
+    lightbox.hidden = true;
+    document.documentElement.classList.remove("is-property-lightbox-open");
+  }
+
+  function stepPropertyLightbox(direction) {
+    if (!propertyGalleryItems.length) return;
+    propertyGalleryIndex = (propertyGalleryIndex + direction + propertyGalleryItems.length) % propertyGalleryItems.length;
+    updatePropertyLightbox();
   }
 
   function initPropertyGallery() {
     const thumbs = Array.from(document.querySelectorAll(".thumbnail-container img"));
     if (!thumbs.length) return;
 
-    function setActive(thumb) {
+    function setActive(thumb, openLightbox = false) {
       thumbs.forEach((item) => item.classList.remove("active"));
       thumb.classList.add("active");
+      const galleryIndex = thumb.dataset.galleryIndex || "";
       setMainMedia(thumb.dataset.full || thumb.src, thumb.dataset.poster || "", thumb.alt);
+      const mainImage = document.querySelector("#mainContainer img.media-content");
+      if (mainImage && galleryIndex !== "") mainImage.dataset.galleryIndex = galleryIndex;
+      if (openLightbox && galleryIndex !== "") openPropertyLightbox(Number(galleryIndex));
     }
 
     thumbs.forEach((thumb) => {
-      thumb.addEventListener("click", () => setActive(thumb));
+      thumb.addEventListener("click", () => setActive(thumb, !isVideoSource(thumb.dataset.full || thumb.src)));
       thumb.addEventListener("keydown", (event) => {
         if (event.key === "Enter" || event.key === " ") {
           event.preventDefault();
-          setActive(thumb);
+          setActive(thumb, !isVideoSource(thumb.dataset.full || thumb.src));
         }
       });
       thumb.tabIndex = 0;
       thumb.setAttribute("role", "button");
+      thumb.setAttribute("aria-label", isVideoSource(thumb.dataset.full || thumb.src) ? "Ver video del inmueble" : "Abrir imagen en pantalla completa");
     });
 
     setActive(thumbs[0]);
@@ -1331,9 +1488,18 @@
   async function renderPropertyPage() {
     if (page !== "property") return;
     const registryProperty = propertyById(currentPropertyId());
-    const propertyData = registryProperty?.propertyData || await loadJsonPath(registryProperty?.data || "data/properties/masia-port-daro.json");
+    if (!registryProperty) {
+      setSeo("Inmueble no disponible | LacostaHaus", "Este inmueble no esta publicado.");
+      document.querySelector("[data-property-title]").textContent = "Inmueble no disponible";
+      document.querySelector("[data-property-location]").textContent = "";
+      document.querySelector("[data-property-details]").innerHTML = "";
+      document.querySelector("[data-property-description]").innerHTML = "<p>Este inmueble se ha quitado del catalogo.</p>";
+      return;
+    }
+    const propertyData = registryProperty.propertyData || await loadJsonPath(registryProperty.data);
     const propertyText = pickTranslation(propertyData.translations, currentLanguage);
     const media = propertyData.media || {};
+    propertyGalleryItems = [];
     const poster = resolveAsset(media.poster || registryProperty?.image || "");
     const video = resolveAsset(media.video || "");
     const pdf = resolveAsset(media.pdf || "");
@@ -1392,14 +1558,23 @@
 
     const thumbs = document.querySelector("[data-property-thumbs]");
     if (thumbs) {
-      const videoThumb = video ? `
-        <img src="${poster}" data-full="${video}" data-poster="${poster}" alt="${propertyText.title}" class="active">
-      ` : "";
-      const imageThumbs = (media.images || []).map((image) => {
+      propertyGalleryItems = (media.images || []).map((image) => {
+        const full = resolveAsset(image.src);
         const alt = image["alt_" + currentLanguage] || image.alt_es || propertyText.title;
-        return `<img src="${resolveAsset(image.src)}" data-full="${resolveAsset(image.src)}" alt="${alt}">`;
+        return { full, alt };
+      }).filter((item) => item.full && !isVideoSource(item.full));
+
+      const videoThumb = video ? `
+        <img src="${escapeAttribute(localImageVariant(poster, "thumb") || poster)}" srcset="${escapeAttribute(imageSrcset(poster))}" sizes="112px" data-full="${escapeAttribute(video)}" data-poster="${escapeAttribute(poster)}" alt="${escapeAttribute(propertyText.title)}" class="active" loading="lazy" decoding="async">
+      ` : "";
+      const imageThumbs = propertyGalleryItems.map((image, index) => {
+        const thumbSrc = localImageVariant(image.full, "thumb") || image.full;
+        return `<img src="${escapeAttribute(thumbSrc)}" srcset="${escapeAttribute(imageSrcset(image.full))}" sizes="112px" data-full="${escapeAttribute(image.full)}" data-gallery-index="${index}" alt="${escapeAttribute(image.alt)}" loading="lazy" decoding="async">`;
       }).join("");
-      const fallbackThumb = !videoThumb && !imageThumbs && poster ? `<img src="${poster}" data-full="${poster}" alt="${propertyText.title}" class="active">` : "";
+      if (!videoThumb && !imageThumbs && poster && !isVideoSource(poster)) {
+        propertyGalleryItems = [{ full: poster, alt: propertyText.title }];
+      }
+      const fallbackThumb = !videoThumb && !imageThumbs && poster ? `<img src="${escapeAttribute(localImageVariant(poster, "thumb") || poster)}" srcset="${escapeAttribute(imageSrcset(poster))}" sizes="112px" data-full="${escapeAttribute(poster)}" data-gallery-index="0" alt="${escapeAttribute(propertyText.title)}" class="active" loading="lazy" decoding="async">` : "";
       thumbs.innerHTML = videoThumb + imageThumbs + fallbackThumb;
     }
 
@@ -1472,7 +1647,7 @@
     if (!image || !image.src) return "";
     return `
       <figure class="${className}">
-        <img src="${resolveAsset(image.src)}" alt="${image.alt || ""}" loading="lazy">
+        ${responsiveImageMarkup(image.src, image.alt || "", "(max-width: 860px) 100vw, 760px")}
       </figure>
     `;
   }
@@ -1705,7 +1880,7 @@
         return `
           <a class="article-card" href="${urlForPath(article.route)}">
             <figure class="article-card__media">
-              <img src="${resolveAsset(cardImage)}" alt="${item.title}" loading="lazy">
+              ${responsiveImageMarkup(cardImage, item.title, "(max-width: 860px) 100vw, 360px")}
             </figure>
             <span>${item.category}</span>
             <h2>${item.title}</h2>
@@ -1726,10 +1901,15 @@
 
     const heroImage = articleHeroImages[article.id] || (articleSectionImages[article.id] || [])[0]?.src || "assets/articulos-guias-costa-brava-hero.png";
     setSeo(text.seo_title, text.seo_description, heroImage);
-    document.querySelector("[data-article-category]").textContent = text.category;
-    document.querySelector("[data-article-title]").textContent = text.title;
-    document.querySelector("[data-article-excerpt]").textContent = text.excerpt;
-    document.querySelector("[data-article-date]").textContent = text.date;
+    document.title = text.seo_title || `${text.title} | LacostaHaus`;
+    const categoryEl = document.querySelector("[data-article-category]");
+    const titleEl = document.querySelector("[data-article-title]");
+    const excerptEl = document.querySelector("[data-article-excerpt]");
+    const dateEl = document.querySelector("[data-article-date]");
+    if (categoryEl) categoryEl.textContent = text.category;
+    if (titleEl) titleEl.textContent = text.title;
+    if (excerptEl) excerptEl.textContent = text.excerpt;
+    if (dateEl) dateEl.textContent = text.date;
 
     const content = document.querySelector("[data-article-content]");
     const images = articleSectionImages[article.id] || [];
@@ -1804,9 +1984,10 @@
       banner.hidden = true;
     }
 
+    loadGtm();
+
     if (saved === "accepted") {
       updateConsent(true);
-      loadGtm();
       banner.hidden = true;
     } else if (saved === "rejected") {
       updateConsent(false);
@@ -1818,7 +1999,6 @@
     if (accept) {
       accept.addEventListener("click", () => {
         updateConsent(true);
-        loadGtm();
         close("accepted");
       });
     }
@@ -1829,6 +2009,85 @@
         close("rejected");
       });
     }
+  }
+
+  function analyticsAllowed() {
+    return localStorage.getItem(CONSENT_KEY) === "accepted";
+  }
+
+  function trackEvent(name, params = {}) {
+    if (!analyticsAllowed()) return;
+    const payload = {
+      page_path: window.location.pathname,
+      page_language: currentLanguage,
+      ...params
+    };
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event: name, ...payload });
+    window.gtag?.("event", name, payload);
+  }
+
+  function eventLabel(element) {
+    return (element?.textContent || element?.getAttribute("aria-label") || "").trim().replace(/\s+/g, " ").slice(0, 90);
+  }
+
+  function initAnalyticsEvents() {
+    document.addEventListener("click", (event) => {
+      const link = event.target.closest("a, button");
+      if (!link) return;
+      const href = link.getAttribute("href") || "";
+      const absoluteHref = link.href || href;
+      const label = eventLabel(link);
+
+      if (absoluteHref.includes("api.whatsapp.com") || absoluteHref.includes("wa.me")) {
+        trackEvent("contact_whatsapp_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (absoluteHref.includes("t.me")) {
+        trackEvent("contact_telegram_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (href.startsWith("mailto:")) {
+        trackEvent("contact_email_click", { link_text: label, link_url: href });
+        return;
+      }
+
+      if (href.startsWith("tel:")) {
+        trackEvent("contact_phone_click", { link_text: label, link_url: href });
+        return;
+      }
+
+      if (link.closest(".language-menu")) {
+        trackEvent("language_change_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (link.closest(".site-nav")) {
+        trackEvent("navigation_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (link.closest(".catalog-card")) {
+        trackEvent("property_catalog_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (link.closest(".coverflow-card")) {
+        trackEvent("property_showcase_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (link.closest(".hero-selection-card")) {
+        trackEvent("property_selection_click", { link_text: label, link_url: absoluteHref });
+        return;
+      }
+
+      if (link.matches(".btn-primary-home, .btn-secondary-home, .btn-outline, .btn-hover-effect") || link.closest(".service-card-home")) {
+        trackEvent("cta_click", { link_text: label, link_url: absoluteHref });
+      }
+    });
   }
 
   function dropdownTrigger(dropdown) {
@@ -1907,6 +2166,7 @@
       applyStaticTranslations();
       renderFooter();
       initMenuToggle();
+      initAnalyticsEvents();
 
       if (page === "home") {
         renderStats();

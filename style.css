@@ -1331,6 +1331,12 @@ header li:hover > a {
   transform-style: preserve-3d;
 }
 
+.coverflow-track.is-single-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .coverflow-card {
   position: absolute;
   top: 22px;
@@ -1420,6 +1426,21 @@ header li:hover > a {
   transform: translateX(-50%) translateZ(120px) scale(1);
 }
 
+.coverflow-card.is-single {
+  opacity: 1;
+  z-index: 5;
+  pointer-events: auto;
+  filter: brightness(1);
+  transform: translateX(-50%) translateZ(90px) scale(1);
+}
+
+.coverflow-track.is-single-card .coverflow-card {
+  position: relative;
+  top: auto;
+  left: auto;
+  transform: translateZ(90px) scale(1);
+}
+
 .coverflow-card:hover,
 .coverflow-card:focus-visible {
   border-color: rgba(214,174,111,.48);
@@ -1436,6 +1457,16 @@ header li:hover > a {
 .coverflow-card.is-active:hover,
 .coverflow-card.is-active:focus-visible {
   transform: translateX(-50%) translateY(-6px) translateZ(130px) scale(1.015);
+}
+
+.coverflow-card.is-single:hover,
+.coverflow-card.is-single:focus-visible {
+  transform: translateX(-50%) translateY(-6px) translateZ(100px) scale(1.015);
+}
+
+.coverflow-track.is-single-card .coverflow-card:hover,
+.coverflow-track.is-single-card .coverflow-card:focus-visible {
+  transform: translateY(-6px) translateZ(100px) scale(1.015);
 }
 
 .coverflow-card.is-prev {
@@ -1498,8 +1529,10 @@ header li:hover > a {
 }
 
 .coverflow-controls button {
+  position: relative;
   width: 58px;
   height: 58px;
+  padding: 0;
 
   border-radius: 50%;
   border: 2px solid rgba(255,255,255,0.55);
@@ -1507,12 +1540,31 @@ header li:hover > a {
   background: rgba(255,255,255,0.06);
   color: #ffffff;
 
-  font-size: 2.4rem;
+  display: inline-grid;
+  place-items: center;
+  appearance: none;
+  font-size: 0;
   line-height: 1;
   cursor: pointer;
 
   backdrop-filter: blur(8px);
   transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+
+.coverflow-controls button::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  border-left: 3px solid currentColor;
+  border-bottom: 3px solid currentColor;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+#coverflowNext::before {
+  transform: translate(-50%, -50%) rotate(-135deg);
 }
 
 .coverflow-controls button:hover {
@@ -1521,24 +1573,40 @@ header li:hover > a {
   border-color: #18d2d1;
 }
 
+.coverflow-controls:has(button[hidden]) {
+  display: none;
+}
+
 /* Responsive */
 @media (max-width: 850px) {
   .coverflow-property-slider {
     height: auto;
     perspective: none;
-    overflow: visible;
-    padding-top: 20px;
-    padding-bottom: 8px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 22px 0 64px;
+    scroll-snap-type: x mandatory;
+    touch-action: pan-x;
+    -webkit-overflow-scrolling: touch;
   }
 
   .coverflow-track {
     height: auto;
-    width: 100%;
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-items: center;
-    gap: 18px;
+    width: max-content;
+    min-width: max-content;
+    display: flex;
+    justify-content: flex-start;
+    gap: 16px;
+    padding: 0 18px;
     transform-style: flat;
+    transform: none !important;
+  }
+
+  .coverflow-track:has(.coverflow-card:only-child),
+  .coverflow-track.is-single-card {
+    width: 100%;
+    min-width: 100%;
+    justify-content: center;
   }
 
   .coverflow-card,
@@ -1546,17 +1614,21 @@ header li:hover > a {
   .coverflow-card.is-prev,
   .coverflow-card.is-next,
   .coverflow-card.is-prev-2,
-  .coverflow-card.is-next-2 {
+  .coverflow-card.is-next-2,
+  .coverflow-card.is-single {
     position: relative;
     top: auto;
     left: auto;
-    width: min(100%, 340px);
-    min-width: 0;
+    flex: 0 0 clamp(270px, 82vw, 330px);
+    width: clamp(270px, 82vw, 330px);
+    min-width: clamp(270px, 82vw, 330px);
+    max-width: clamp(270px, 82vw, 330px);
     height: auto;
     opacity: 1;
     pointer-events: auto;
     filter: none;
     transform: none !important;
+    scroll-snap-align: center;
     transition: border-color .18s ease, box-shadow .18s ease, background .18s ease;
     backface-visibility: visible;
     transform-style: flat;
@@ -1569,7 +1641,9 @@ header li:hover > a {
   .coverflow-card.is-prev:hover,
   .coverflow-card.is-prev:focus-visible,
   .coverflow-card.is-next:hover,
-  .coverflow-card.is-next:focus-visible {
+  .coverflow-card.is-next:focus-visible,
+  .coverflow-card.is-single:hover,
+  .coverflow-card.is-single:focus-visible {
     transform: none !important;
   }
 
@@ -1688,15 +1762,25 @@ header li:hover > a {
 
 .menu-toggle {
   display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
   margin-left: auto;
   width: 44px;
   height: 44px;
   border: 1px solid rgba(255,255,255,.18);
   border-radius: 8px;
   background: rgba(255,255,255,.06);
-  color: #fff;
-  font-size: 1.35rem;
   cursor: pointer;
+}
+
+.menu-toggle span {
+  display: block;
+  width: 20px;
+  height: 2px;
+  border-radius: 999px;
+  background: #fff;
 }
 
 .language-menu {
@@ -1771,6 +1855,13 @@ header li:hover > a {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 22px;
+}
+
+.catalog-empty {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.05rem;
 }
 
 .catalog-card {
@@ -1866,6 +1957,10 @@ header li:hover > a {
   background: rgba(255,255,255,.065);
 }
 
+.property-media-main.is-image-openable .media-content {
+  cursor: zoom-in;
+}
+
 .property-media-main .media-content {
   width: 100%;
   max-width: 100%;
@@ -1932,6 +2027,92 @@ header li:hover > a {
 .thumbnail-container img.active {
   border-color: #d6ae6f;
   opacity: 1;
+}
+
+.is-property-lightbox-open {
+  overflow: hidden;
+}
+
+.property-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: grid;
+  grid-template-columns: 88px minmax(0, 1fr) 88px;
+  grid-template-rows: minmax(0, 1fr);
+  align-items: center;
+  background: rgba(0, 0, 0, .88);
+  color: #fff;
+}
+
+.property-lightbox[hidden] {
+  display: none;
+}
+
+.property-lightbox__figure {
+  grid-column: 2;
+  width: min(84vw, 1600px);
+  max-height: 88vh;
+  margin: 0 auto;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  background: #fff;
+  box-shadow: 0 24px 80px rgba(0,0,0,.45);
+}
+
+.property-lightbox__figure img {
+  width: 100%;
+  max-height: calc(88vh - 66px);
+  display: block;
+  object-fit: contain;
+  background: #111;
+}
+
+.property-lightbox__figure figcaption {
+  min-height: 66px;
+  display: flex;
+  align-items: center;
+  padding: 0 22px;
+  color: #111;
+  font-weight: 800;
+}
+
+.property-lightbox__close,
+.property-lightbox__nav {
+  border: 0;
+  background: rgba(0, 0, 0, .18);
+  color: #fff;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.property-lightbox__close {
+  position: fixed;
+  top: 18px;
+  right: 18px;
+  width: 52px;
+  height: 52px;
+  font-size: 42px;
+}
+
+.property-lightbox__nav {
+  width: 72px;
+  height: 112px;
+  margin: 0 auto;
+  font-size: 58px;
+}
+
+.property-lightbox__nav:disabled {
+  opacity: .25;
+  cursor: default;
+}
+
+.property-lightbox__nav--prev {
+  grid-column: 1;
+}
+
+.property-lightbox__nav--next {
+  grid-column: 3;
 }
 
 .property-details-panel {
@@ -2938,6 +3119,38 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
     height: 320px;
   }
 
+  .property-lightbox {
+    grid-template-columns: 52px minmax(0, 1fr) 52px;
+  }
+
+  .property-lightbox__figure {
+    width: 100%;
+    max-height: 82vh;
+  }
+
+  .property-lightbox__figure img {
+    max-height: calc(82vh - 52px);
+  }
+
+  .property-lightbox__figure figcaption {
+    min-height: 52px;
+    padding: 0 16px;
+  }
+
+  .property-lightbox__nav {
+    width: 48px;
+    height: 92px;
+    font-size: 44px;
+  }
+
+  .property-lightbox__close {
+    top: 10px;
+    right: 10px;
+    width: 44px;
+    height: 44px;
+    font-size: 34px;
+  }
+
   .pdf-wrap iframe,
   .map-wrap iframe {
     height: 420px;
@@ -2945,40 +3158,17 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
 
   .map-wrap {
     min-height: 220px;
-    display: grid;
-    place-items: center;
-    background:
-      linear-gradient(135deg, rgba(9, 23, 39, .9), rgba(17, 48, 65, .82)),
-      rgba(255,255,255,.06);
   }
 
   .map-wrap iframe {
-    position: absolute;
-    inset: 0;
     height: 100%;
-    opacity: .12;
-    filter: grayscale(.9) contrast(.8);
-    pointer-events: none;
+    opacity: 1;
+    filter: none;
+    pointer-events: auto;
   }
 
   .map-mobile-card {
-    width: min(100% - 32px, 360px);
-    min-height: 132px;
-    padding: 24px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 10px;
-    position: relative;
-    z-index: 1;
-    color: #fff;
-    text-align: center;
-    text-decoration: none;
-    border: 1px solid rgba(214,174,111,.62);
-    border-radius: 8px;
-    background:
-      linear-gradient(135deg, rgba(14, 39, 61, .94), rgba(7, 25, 43, .96));
-    box-shadow: 0 18px 38px rgba(0,0,0,.28);
+    display: none;
   }
 
   .map-mobile-card span {
