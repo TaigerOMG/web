@@ -4,7 +4,7 @@
   const SCROLL_RESTORE_KEY = "lacostahaus_restore_scroll";
   const scriptUrl = document.currentScript ? document.currentScript.src : window.location.href;
   const baseUrl = new URL(".", scriptUrl);
-  const DATA_VERSION = "20260702-gallery-opt2";
+  const DATA_VERSION = "20260706-main-image-lightbox";
   const page = document.body.dataset.page || "home";
 
   let site = null;
@@ -1459,27 +1459,26 @@
     const thumbs = Array.from(document.querySelectorAll(".thumbnail-container img"));
     if (!thumbs.length) return;
 
-    function setActive(thumb, openLightbox = false) {
+    function setActive(thumb) {
       thumbs.forEach((item) => item.classList.remove("active"));
       thumb.classList.add("active");
       const galleryIndex = thumb.dataset.galleryIndex || "";
       setMainMedia(thumb.dataset.full || thumb.src, thumb.dataset.poster || "", thumb.alt);
       const mainImage = document.querySelector("#mainContainer img.media-content");
       if (mainImage && galleryIndex !== "") mainImage.dataset.galleryIndex = galleryIndex;
-      if (openLightbox && galleryIndex !== "") openPropertyLightbox(Number(galleryIndex));
     }
 
     thumbs.forEach((thumb) => {
-      thumb.addEventListener("click", () => setActive(thumb, !isVideoSource(thumb.dataset.full || thumb.src)));
+      thumb.addEventListener("click", () => setActive(thumb));
       thumb.addEventListener("keydown", (event) => {
         if (event.key === "Enter" || event.key === " ") {
           event.preventDefault();
-          setActive(thumb, !isVideoSource(thumb.dataset.full || thumb.src));
+          setActive(thumb);
         }
       });
       thumb.tabIndex = 0;
       thumb.setAttribute("role", "button");
-      thumb.setAttribute("aria-label", isVideoSource(thumb.dataset.full || thumb.src) ? "Ver video del inmueble" : "Abrir imagen en pantalla completa");
+      thumb.setAttribute("aria-label", isVideoSource(thumb.dataset.full || thumb.src) ? "Ver video del inmueble" : "Cambiar imagen principal");
     });
 
     setActive(thumbs[0]);
