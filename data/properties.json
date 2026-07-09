@@ -1,6 +1,67 @@
 {
-  "homeHeroProperty": "",
-  "homeFeatured": [],
-  "catalog": [],
-  "properties": []
+  "homeHeroProperty": "masia-port-daro",
+  "homeFeatured": [
+    "masia-port-daro"
+  ],
+  "catalog": [
+    "masia-port-daro"
+  ],
+  "properties": [
+    {
+      "id": "masia-port-daro",
+      "route": "inmuebles/ficha/?id=masia-port-daro",
+      "image": "assets/inmueble-masia/1.jpg",
+      "types": [
+        "masia",
+        "hotel",
+        "proyecto"
+      ],
+      "data": "data/properties/masia-port-daro.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Masía en Port d'Aro",
+          "location": "Barrio Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+          "price": "2.9M €",
+          "excerpt": "Proyecto hotelero en una masía histórica de Port d'Aro, cerca de Platja d'Aro, con parcela de 10.680 m² y proyecto aprobado.",
+          "cta": "Ver inmueble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Farmhouse for sale in Port d'Aro",
+          "location": "Port d'Aro area · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+          "price": "2.9M €",
+          "excerpt": "Hotel project in a historic farmhouse in Port d'Aro, near Platja d'Aro, with a 10,680 m² plot and an approved project.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet hôtelier",
+          "title": "Masia à vendre à Port d'Aro",
+          "location": "Quartier Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Gérone",
+          "price": "2.9M €",
+          "excerpt": "Projet hôtelier dans une masia historique à Port d'Aro, près de Platja d'Aro, avec terrain de 10 680 m² et projet approuvé.",
+          "cta": "Voir la propriété"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Masia zum Verkauf in Port d'Aro",
+          "location": "Gebiet Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+          "price": "2.9M €",
+          "excerpt": "Hotelprojekt in einer historischen Masia in Port d'Aro, nahe Platja d'Aro, mit 10.680 m² Grundstück und genehmigtem Projekt.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "Гостиничный проект",
+          "title": "Масия на продажу в Порт-д'Аро",
+          "location": "Район Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+          "price": "2.9M €",
+          "excerpt": "Гостиничный проект в исторической масии в Порт-д'Аро, рядом с Плайя-де-Аро, участок 10 680 м² и утверждённый проект.",
+          "cta": "Смотреть объект"
+        }
+      },
+      "showHome": true,
+      "homeHero": true,
+      "sortOrder": 6
+    }
+  ]
 }
