@@ -1380,6 +1380,9 @@ header li:hover > a {
   border-radius: 18px 18px 0 0;
   padding: 0;
   transition: transform .28s ease, filter .28s ease;
+  image-rendering: auto;
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 .coverflow-info {

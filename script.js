@@ -902,6 +902,13 @@
     return `<img src="${escapeAttribute(preferred)}" srcset="${escapeAttribute(imageSrcset(full))}" sizes="${escapeAttribute(sizes || "100vw")}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
   }
 
+  function fullImageMarkup(src, alt, className = "") {
+    const full = resolveAsset(src);
+    if (!full) return "";
+    const classAttr = className ? ` class="${escapeAttribute(className)}"` : "";
+    return `<img src="${escapeAttribute(full)}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
+  }
+
   function renderFooter() {
     const footer = document.querySelector("[data-site-footer]");
     if (!footer) return;
@@ -1137,7 +1144,7 @@
       const text = propertyTranslation(property);
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
-          ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 82vw, 340px")}
+          ${fullImageMarkup(property.image, text.title || "")}
           <div class="coverflow-info">
             <span>${text.tag || ""}</span>
             <h3>${text.title || ""}</h3>
