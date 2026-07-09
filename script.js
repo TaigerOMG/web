@@ -751,7 +751,7 @@
 
   function setGlobalStructuredData() {
     const siteUrl = (site.siteUrl || window.location.origin).replace(/\/+$/, "") + "/";
-    const logoUrl = productionAssetUrl(site.logo || "assets/logo-lacostahaus.png");
+    const logoUrl = productionAssetUrl(site.searchLogo || site.logo || "assets/google-logo-144x144.png");
     const phone = site.contact?.phone || "+34 722 279 795";
     const email = site.contact?.email || "lacostahaus@gmail.com";
 
@@ -1535,6 +1535,17 @@
       pdfDownload.textContent = propertyText.download_pdf;
     }
     if (projectSection && !pdf) projectSection.hidden = true;
+
+    const plotSection = document.querySelector("[data-property-plot-section]");
+    const plotImage = document.querySelector("[data-property-plot-image]");
+    const plotTitle = document.querySelector("[data-property-plot-title]");
+    const plotGraphic = resolveAsset(media.plot_graphic || "");
+    if (plotSection) plotSection.hidden = !plotGraphic;
+    if (plotImage && plotGraphic) {
+      plotImage.src = plotGraphic;
+      plotImage.alt = propertyText.plot_title || "Gráfico parcela del inmueble";
+    }
+    if (plotTitle) plotTitle.textContent = propertyText.plot_title || "Gráfico parcela";
 
     const mapFrame = document.querySelector("[data-property-map]");
     const mapSection = document.querySelector("[data-property-map-section]");
