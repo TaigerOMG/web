@@ -1140,7 +1140,8 @@
   function renderFeaturedCoverflow() {
     const track = document.querySelector("[data-featured-coverflow]");
     if (!track) return;
-    track.innerHTML = orderedProperties(propertiesData.homeFeatured).map((property) => {
+    const featuredProperties = orderedProperties(propertiesData.homeFeatured);
+    track.innerHTML = featuredProperties.map((property) => {
       const text = propertyTranslation(property);
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
@@ -1154,6 +1155,20 @@
         </a>
       `;
     }).join("");
+
+    if (featuredProperties.length === 1) {
+      track.classList.add("is-single-card");
+      const card = track.querySelector(".coverflow-card");
+      if (card) {
+        card.style.position = "relative";
+        card.style.top = "0";
+        card.style.left = "0";
+        card.style.transform = "none";
+        card.style.margin = "0 auto";
+        card.style.opacity = "1";
+        card.style.pointerEvents = "auto";
+      }
+    }
   }
 
   function renderProcess() {
