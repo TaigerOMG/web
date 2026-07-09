@@ -1,68 +1,68 @@
-﻿{
-    "homeHeroProperty":  "masia-port-daro",
-    "homeFeatured":  [
-                         "masia-port-daro",
-                         "masia-port-daro"
-                     ],
-    "catalog":  [
-                    "masia-port-daro"
-                ],
-    "properties":  [
-                       {
-                           "id":  "masia-port-daro",
-                           "route":  "inmuebles/ficha/?id=masia-port-daro",
-                           "image":  "assets/inmueble-masia/1.jpg",
-                           "types":  [
-                                         "masia",
-                                         "hotel",
-                                         "proyecto"
-                                     ],
-                           "data":  "data/properties/masia-port-daro.json",
-                           "translations":  {
-                                                "es":  {
-                                                           "tag":  "Proyecto hotelero",
-                                                           "title":  "MasÃ­a en Port d\u0027Aro",
-                                                           "location":  "Barrio Port d\u0027Aro Â· Platja d\u0027Aro Â· Castell-Platja d\u0027Aro Â· Baix EmpordÃ , Girona",
-                                                           "price":  "2.9M â‚¬",
-                                                           "excerpt":  "Proyecto hotelero en una masÃ­a histÃ³rica de Port d\u0027Aro, cerca de Platja d\u0027Aro, con parcela de 10.680 mÂ² y proyecto aprobado.",
-                                                           "cta":  "Ver inmueble"
-                                                       },
-                                                "en":  {
-                                                           "tag":  "Hotel project",
-                                                           "title":  "Farmhouse for sale in Port d\u0027Aro",
-                                                           "location":  "Port d\u0027Aro area Â· Platja d\u0027Aro Â· Castell-Platja d\u0027Aro Â· Baix EmpordÃ , Girona",
-                                                           "price":  "2.9M â‚¬",
-                                                           "excerpt":  "Hotel project in a historic farmhouse in Port d\u0027Aro, near Platja d\u0027Aro, with a 10,680 mÂ² plot and an approved project.",
-                                                           "cta":  "View property"
-                                                       },
-                                                "fr":  {
-                                                           "tag":  "Projet hÃ´telier",
-                                                           "title":  "Masia Ã  vendre Ã  Port d\u0027Aro",
-                                                           "location":  "Quartier Port d\u0027Aro Â· Platja d\u0027Aro Â· Castell-Platja d\u0027Aro Â· Baix EmpordÃ , GÃ©rone",
-                                                           "price":  "2.9M â‚¬",
-                                                           "excerpt":  "Projet hÃ´telier dans une masia historique Ã  Port d\u0027Aro, prÃ¨s de Platja d\u0027Aro, avec terrain de 10 680 mÂ² et projet approuvÃ©.",
-                                                           "cta":  "Voir la propriÃ©tÃ©"
-                                                       },
-                                                "de":  {
-                                                           "tag":  "Hotelprojekt",
-                                                           "title":  "Masia zum Verkauf in Port d\u0027Aro",
-                                                           "location":  "Gebiet Port d\u0027Aro Â· Platja d\u0027Aro Â· Castell-Platja d\u0027Aro Â· Baix EmpordÃ , Girona",
-                                                           "price":  "2.9M â‚¬",
-                                                           "excerpt":  "Hotelprojekt in einer historischen Masia in Port d\u0027Aro, nahe Platja d\u0027Aro, mit 10.680 mÂ² GrundstÃ¼ck und genehmigtem Projekt.",
-                                                           "cta":  "Immobilie ansehen"
-                                                       },
-                                                "ru":  {
-                                                           "tag":  "Ð“Ð¾ÑÑ‚Ð¸Ð½Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾ÐµÐºÑ‚",
-                                                           "title":  "ÐœÐ°ÑÐ¸Ñ Ð½Ð° Ð¿Ñ€Ð¾Ð´Ð°Ð¶Ñƒ Ð² ÐŸÐ¾Ñ€Ñ‚-Ð´\u0027ÐÑ€Ð¾",
-                                                           "location":  "Ð Ð°Ð¹Ð¾Ð½ Port d\u0027Aro Â· Platja d\u0027Aro Â· Castell-Platja d\u0027Aro Â· Baix EmpordÃ , Girona",
-                                                           "price":  "2.9M â‚¬",
-                                                           "excerpt":  "Ð“Ð¾ÑÑ‚Ð¸Ð½Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾ÐµÐºÑ‚ Ð² Ð¸ÑÑ‚Ð¾Ñ€Ð¸Ñ‡ÐµÑÐºÐ¾Ð¹ Ð¼Ð°ÑÐ¸Ð¸ Ð² ÐŸÐ¾Ñ€Ñ‚-Ð´\u0027ÐÑ€Ð¾, Ñ€ÑÐ´Ð¾Ð¼ Ñ ÐŸÐ»Ð°Ð¹Ñ-Ð´Ðµ-ÐÑ€Ð¾, ÑƒÑ‡Ð°ÑÑ‚Ð¾Ðº 10 680 Ð¼Â² Ð¸ ÑƒÑ‚Ð²ÐµÑ€Ð¶Ð´Ñ‘Ð½Ð½Ñ‹Ð¹ Ð¿Ñ€Ð¾ÐµÐºÑ‚.",
-                                                           "cta":  "Ð¡Ð¼Ð¾Ñ‚Ñ€ÐµÑ‚ÑŒ Ð¾Ð±ÑŠÐµÐºÑ‚"
-                                                       }
-                                            },
-                           "showHome":  true,
-                           "homeHero":  true,
-                           "sortOrder":  6
-                       }
-                   ]
+{
+  "homeHeroProperty": "masia-port-daro",
+  "homeFeatured": [
+    "masia-port-daro",
+    "masia-port-daro"
+  ],
+  "catalog": [
+    "masia-port-daro"
+  ],
+  "properties": [
+    {
+      "id": "masia-port-daro",
+      "route": "inmuebles/ficha/?id=masia-port-daro",
+      "image": "assets/inmueble-masia/1.jpg",
+      "types": [
+        "masia",
+        "hotel",
+        "proyecto"
+      ],
+      "data": "data/properties/masia-port-daro.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Mas\u00eda en Port d'Aro",
+          "location": "Barrio Port d'Aro \u00b7 Platja d'Aro \u00b7 Castell-Platja d'Aro \u00b7 Baix Empord\u00e0, Girona",
+          "price": "2.9M \u20ac",
+          "excerpt": "Proyecto hotelero en una mas\u00eda hist\u00f3rica de Port d'Aro, cerca de Platja d'Aro, con parcela de 10.680 m\u00b2 y proyecto aprobado.",
+          "cta": "Ver inmueble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Farmhouse for sale in Port d'Aro",
+          "location": "Port d'Aro area \u00b7 Platja d'Aro \u00b7 Castell-Platja d'Aro \u00b7 Baix Empord\u00e0, Girona",
+          "price": "2.9M \u20ac",
+          "excerpt": "Hotel project in a historic farmhouse in Port d'Aro, near Platja d'Aro, with a 10,680 m\u00b2 plot and an approved project.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet h\u00f4telier",
+          "title": "Masia \u00e0 vendre \u00e0 Port d'Aro",
+          "location": "Quartier Port d'Aro \u00b7 Platja d'Aro \u00b7 Castell-Platja d'Aro \u00b7 Baix Empord\u00e0, G\u00e9rone",
+          "price": "2.9M \u20ac",
+          "excerpt": "Projet h\u00f4telier dans une masia historique \u00e0 Port d'Aro, pr\u00e8s de Platja d'Aro, avec terrain de 10 680 m\u00b2 et projet approuv\u00e9.",
+          "cta": "Voir la propri\u00e9t\u00e9"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Masia zum Verkauf in Port d'Aro",
+          "location": "Gebiet Port d'Aro \u00b7 Platja d'Aro \u00b7 Castell-Platja d'Aro \u00b7 Baix Empord\u00e0, Girona",
+          "price": "2.9M \u20ac",
+          "excerpt": "Hotelprojekt in einer historischen Masia in Port d'Aro, nahe Platja d'Aro, mit 10.680 m\u00b2 Grundst\u00fcck und genehmigtem Projekt.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0447\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442",
+          "title": "\u041c\u0430\u0441\u0438\u044f \u043d\u0430 \u043f\u0440\u043e\u0434\u0430\u0436\u0443 \u0432 \u041f\u043e\u0440\u0442-\u0434'\u0410\u0440\u043e",
+          "location": "\u0420\u0430\u0439\u043e\u043d Port d'Aro \u00b7 Platja d'Aro \u00b7 Castell-Platja d'Aro \u00b7 Baix Empord\u00e0, Girona",
+          "price": "2.9M \u20ac",
+          "excerpt": "\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0447\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u0432 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u0430\u0441\u0438\u0438 \u0432 \u041f\u043e\u0440\u0442-\u0434'\u0410\u0440\u043e, \u0440\u044f\u0434\u043e\u043c \u0441 \u041f\u043b\u0430\u0439\u044f-\u0434\u0435-\u0410\u0440\u043e, \u0443\u0447\u0430\u0441\u0442\u043e\u043a 10 680 \u043c\u00b2 \u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043d\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442.",
+          "cta": "\u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043e\u0431\u044a\u0435\u043a\u0442"
+        }
+      },
+      "showHome": true,
+      "homeHero": true,
+      "sortOrder": 6
+    }
+  ]
 }
