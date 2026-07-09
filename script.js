@@ -902,13 +902,6 @@
     return `<img src="${escapeAttribute(preferred)}" srcset="${escapeAttribute(imageSrcset(full))}" sizes="${escapeAttribute(sizes || "100vw")}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
   }
 
-  function fullImageMarkup(src, alt, className = "") {
-    const full = resolveAsset(src);
-    if (!full) return "";
-    const classAttr = className ? ` class="${escapeAttribute(className)}"` : "";
-    return `<img src="${escapeAttribute(full)}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
-  }
-
   function renderFooter() {
     const footer = document.querySelector("[data-site-footer]");
     if (!footer) return;
@@ -1140,12 +1133,11 @@
   function renderFeaturedCoverflow() {
     const track = document.querySelector("[data-featured-coverflow]");
     if (!track) return;
-    const featuredProperties = orderedProperties(propertiesData.homeFeatured);
-    track.innerHTML = featuredProperties.map((property) => {
+    track.innerHTML = orderedProperties(propertiesData.homeFeatured).map((property) => {
       const text = propertyTranslation(property);
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
-          ${fullImageMarkup(property.image, text.title || "")}
+          ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 82vw, 340px")}
           <div class="coverflow-info">
             <span>${text.tag || ""}</span>
             <h3>${text.title || ""}</h3>
@@ -1155,20 +1147,6 @@
         </a>
       `;
     }).join("");
-
-    if (featuredProperties.length === 1) {
-      track.classList.add("is-single-card");
-      const card = track.querySelector(".coverflow-card");
-      if (card) {
-        card.style.position = "relative";
-        card.style.top = "0";
-        card.style.left = "0";
-        card.style.transform = "none";
-        card.style.margin = "0 auto";
-        card.style.opacity = "1";
-        card.style.pointerEvents = "auto";
-      }
-    }
   }
 
   function renderProcess() {
