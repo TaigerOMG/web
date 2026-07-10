@@ -7,6 +7,72 @@
   const DATA_VERSION = "20260706-main-image-lightbox";
   const page = document.body.dataset.page || "home";
 
+  function repairTextValue(value) {
+    if (typeof value !== "string" || !value) return value;
+
+    let repaired = value;
+    const directReplacements = [
+      ["Â¿", "¿"], ["Â¡", "¡"], ["Â·", "·"], ["â‚¬", "€"],
+      ["Ã¡", "á"], ["Ã©", "é"], ["Ã­", "í"], ["Ã³", "ó"], ["Ãº", "ú"],
+      ["Ã", "Á"], ["Ã‰", "É"], ["Ã", "Í"], ["Ã“", "Ó"], ["Ãš", "Ú"],
+      ["Ã±", "ñ"], ["Ã‘", "Ñ"], ["Ã¼", "ü"], ["Ãœ", "Ü"],
+      ["Ã ", "à"], ["Ã¨", "è"], ["Ã¬", "ì"], ["Ã²", "ò"], ["Ã¹", "ù"],
+      ["Ã¢", "â"], ["Ãª", "ê"], ["Ã®", "î"], ["Ã´", "ô"], ["Ã»", "û"],
+      ["Ã¤", "ä"], ["Ã«", "ë"], ["Ã¯", "ï"], ["Ã¶", "ö"], ["Ã„", "Ä"],
+      ["Ã–", "Ö"], ["ÃŸ", "ß"], ["â€œ", "\""], ["â€", "\""], ["â€™", "'"],
+      ["â€“", "-"], ["â€”", "-"], ["â€¦", "..."]
+    ];
+
+    directReplacements.forEach(([source, target]) => {
+      repaired = repaired.split(source).join(target);
+    });
+
+    const wordReplacements = [
+      ["Gu?as", "Guías"], ["gu?as", "guías"], ["gu?a", "guía"], ["Gu?a", "Guía"],
+      ["Art?culos", "Artículos"], ["art?culos", "artículos"], ["art?culo", "artículo"],
+      ["Tasaci?n", "Tasación"], ["tasaci?n", "tasación"], ["valoraci?n", "valoración"],
+      ["negociaci?n", "negociación"], ["presentaci?n", "presentación"], ["preparaci?n", "preparación"],
+      ["documentaci?n", "documentación"], ["medici?n", "medición"], ["ubicaci?n", "ubicación"],
+      ["qu?", "qué"], ["Qu?", "Qué"], ["c?mo", "cómo"], ["C?mo", "Cómo"],
+      ["m?s", "más"], ["M?s", "Más"], ["peque?as", "pequeñas"], ["Peque?as", "Pequeñas"],
+      ["campa?as", "campañas"], ["org?nico", "orgánico"], ["org?nica", "orgánica"],
+      ["percepci?n", "percepción"], ["descripci?n", "descripción"], ["cat?logo", "catálogo"],
+      ["pol?tica", "política"], ["t?cnicas", "técnicas"], ["men?", "menú"],
+      ["pr?ctico", "práctico"], ["pr?ctica", "práctica"], ["m?todo", "método"],
+      ["d?as", "días"], ["m?tricas", "métricas"], ["energ?tico", "energético"],
+      ["r?pida", "rápida"], ["r?pido", "rápido"], ["m?ximo", "máximo"],
+      ["?til", "útil"], ["?tiles", "útiles"], ["?nico", "único"], ["?nica", "única"],
+      ["fricci?n", "fricción"], ["atenci?n", "atención"], ["internaci?n", "internación"],
+      ["v?deo", "vídeo"], ["v?deo", "vídeo"], ["plazos de venta", "plazos de venta"],
+      ["Mis ? jour", "Mis à jour"], ["r?f?rencement", "référencement"], ["n?gociation", "négociation"],
+      ["pr?parer", "préparer"], ["pr?sentation", "présentation"], ["d?tails", "détails"],
+      ["propri?taires", "propriétaires"], ["v?rifier", "vérifier"], ["d?lais", "délais"],
+      ["acc?l?rent", "accélèrent"], ["s?rieuses", "sérieuses"], ["s?rieux", "sérieux"],
+      ["?viter", "éviter"], ["sur?valu?e", "surévaluée"], ["march?", "marché"],
+      ["K?ufer", "Käufer"], ["k?nnen", "können"], ["f?r", "für"], ["?ber", "über"],
+      ["Ver?ffentlichung", "Veröffentlichung"], ["Pr?fung", "Prüfung"], ["K?uferfilterung", "Käuferfilterung"],
+      ["Stra?e", "Straße"]
+    ];
+
+    wordReplacements.forEach(([source, target]) => {
+      repaired = repaired.split(source).join(target);
+    });
+
+    return repaired;
+  }
+
+  function repairContent(value) {
+    if (Array.isArray(value)) {
+      return value.map((item) => repairContent(item));
+    }
+    if (value && typeof value === "object") {
+      return Object.fromEntries(
+        Object.entries(value).map(([key, item]) => [key, repairContent(item)])
+      );
+    }
+    return repairTextValue(value);
+  }
+
   let site = null;
   let homeData = null;
   let propertiesData = null;
@@ -447,7 +513,7 @@
   async function loadJson(name) {
     const response = await fetch(jsonUrl(name), { cache: "no-store" });
     if (!response.ok) throw new Error("No se pudo cargar " + name);
-    return response.json();
+    return repairContent(await response.json());
   }
 
   async function loadJsonPath(path) {
@@ -455,7 +521,7 @@
     url.searchParams.set("v", DATA_VERSION);
     const response = await fetch(url.href, { cache: "no-store" });
     if (!response.ok) throw new Error("No se pudo cargar " + path);
-    return response.json();
+    return repairContent(await response.json());
   }
 
   async function loadOptionalJson(name) {
@@ -902,6 +968,13 @@
     return `<img src="${escapeAttribute(preferred)}" srcset="${escapeAttribute(imageSrcset(full))}" sizes="${escapeAttribute(sizes || "100vw")}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
   }
 
+  function fullImageMarkup(src, alt, className = "") {
+    const full = resolveAsset(src);
+    if (!full) return "";
+    const classAttr = className ? ` class="${escapeAttribute(className)}"` : "";
+    return `<img src="${escapeAttribute(full)}" alt="${escapeAttribute(alt || "")}"${classAttr} loading="lazy" decoding="async">`;
+  }
+
   function renderFooter() {
     const footer = document.querySelector("[data-site-footer]");
     if (!footer) return;
@@ -1133,11 +1206,12 @@
   function renderFeaturedCoverflow() {
     const track = document.querySelector("[data-featured-coverflow]");
     if (!track) return;
-    track.innerHTML = orderedProperties(propertiesData.homeFeatured).map((property) => {
+    const featuredProperties = orderedProperties(propertiesData.homeFeatured);
+    track.innerHTML = featuredProperties.map((property) => {
       const text = propertyTranslation(property);
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
-          ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 82vw, 340px")}
+          ${fullImageMarkup(property.image, text.title || "")}
           <div class="coverflow-info">
             <span>${text.tag || ""}</span>
             <h3>${text.title || ""}</h3>
@@ -1147,6 +1221,20 @@
         </a>
       `;
     }).join("");
+
+    if (featuredProperties.length === 1) {
+      track.classList.add("is-single-card");
+      const card = track.querySelector(".coverflow-card");
+      if (card) {
+        card.style.position = "relative";
+        card.style.top = "0";
+        card.style.left = "0";
+        card.style.transform = "none";
+        card.style.margin = "0 auto";
+        card.style.opacity = "1";
+        card.style.pointerEvents = "auto";
+      }
+    }
   }
 
   function renderProcess() {

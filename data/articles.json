@@ -1,10 +1,10 @@
 {
   "translations": {
     "es": {
-      "seo_title": "Gu?as inmobiliarias Costa Brava | LacostaHaus",
-      "seo_description": "Gu?as breves sobre comprar, vender y valorar inmuebles en la Costa Brava.",
-      "title": "Gu?as inmobiliarias Costa Brava",
-      "intro": "Art?culos breves pensados para posicionamiento org?nico, enlaces internos y futuras campa?as de medici?n."
+      "seo_title": "Guías inmobiliarias Costa Brava | LacostaHaus",
+      "seo_description": "Guías breves sobre comprar, vender y valorar inmuebles en la Costa Brava.",
+      "title": "Guías inmobiliarias Costa Brava",
+      "intro": "Artículos breves pensados para posicionamiento orgánico, enlaces internos y futuras campañas de medición."
     },
     "en": {
       "seo_title": "Costa Brava real estate guides | LacostaHaus",
@@ -16,13 +16,13 @@
       "seo_title": "Guides immobiliers Costa Brava | LacostaHaus",
       "seo_description": "Guides courts pour acheter, vendre et estimer des biens en Costa Brava.",
       "title": "Guides immobiliers Costa Brava",
-      "intro": "Articles courts pens?s pour le r?f?rencement organique, les liens internes et les futures campagnes de mesure."
+      "intro": "Articles courts pensés pour le référencement organique, les liens internes et les futures campagnes de mesure."
     },
     "de": {
       "seo_title": "Immobilienratgeber Costa Brava | LacostaHaus",
       "seo_description": "Kurze Ratgeber zum Kaufen, Verkaufen und Bewerten von Immobilien an der Costa Brava.",
       "title": "Immobilienratgeber Costa Brava",
-      "intro": "Kurze Artikel f?r organische Sichtbarkeit, interne Verlinkung und sp?tere Marketing-Auswertung."
+      "intro": "Kurze Artikel für organische Sichtbarkeit, interne Verlinkung und spätere Marketing-Auswertung."
     },
     "ru": {
       "seo_title": "Costa Brava real estate guides | LacostaHaus",
@@ -38,12 +38,12 @@
       "translations": {
         "es": {
           "seo_title": "Comprar casa en Costa Brava: zonas y criterios | LacostaHaus",
-          "seo_description": "C?mo comprar casa, villa o mas?a en Costa Brava con mejor criterio: zona, uso real, privacidad, costes y potencial futuro.",
+          "seo_description": "Cómo comprar casa, villa o masía en Costa Brava con mejor criterio: zona, uso real, privacidad, costes y potencial futuro.",
           "category": "Compra",
           "date": "Actualizado 2026",
-          "title": "Comprar casa en Costa Brava: c?mo elegir zona sin perder oportunidades",
-          "excerpt": "Una gu?a r?pida para compradores que quieren comparar zonas sin perderse entre anuncios parecidos.",
-          "read_more": "Leer gu?a",
+          "title": "Comprar casa en Costa Brava: cómo elegir zona sin perder oportunidades",
+          "excerpt": "Una guía rápida para compradores que quieren comparar zonas sin perderse entre anuncios parecidos.",
+          "read_more": "Leer guía",
           "sections": [
             {
               "title": "La zona define más que el precio",
@@ -101,11 +101,11 @@
           ]
         },
         "fr": {
-          "seo_title": "Acheter une maison en Costa Brava : zones et crit?res | LacostaHaus",
-          "seo_description": "Comment acheter une maison, une villa ou une masia en Costa Brava avec de meilleurs crit?res : zone, usage r?el, confidentialit?, co?ts et potentiel futur.",
+          "seo_title": "Acheter une maison en Costa Brava : zones et critères | LacostaHaus",
+          "seo_description": "Comment acheter une maison, une villa ou une masia en Costa Brava avec de meilleurs critères : zone, usage réel, confidentialité, coûts et potentiel futur.",
           "category": "Achat",
-          "date": "Mis ? jour 2026",
-          "title": "Acheter une maison en Costa Brava : comment choisir la zone sans manquer d'opportunit?s",
+          "date": "Mis à jour 2026",
+          "title": "Acheter une maison en Costa Brava : comment choisir la zone sans manquer d'opportunités",
           "excerpt": "Un guide rapide pour comparer les zones sans se perdre parmi des annonces similaires.",
           "read_more": "Lire le guide",
           "sections": [
@@ -134,11 +134,11 @@
         },
         "de": {
           "seo_title": "Haus kaufen an der Costa Brava: Lage und Kriterien | LacostaHaus",
-          "seo_description": "Wie man ein Haus, eine Villa oder eine Masia an der Costa Brava mit klaren Kriterien kauft: Lage, Nutzung, Privatsph?re, Kosten und Zukunftspotenzial.",
+          "seo_description": "Wie man ein Haus, eine Villa oder eine Masia an der Costa Brava mit klaren Kriterien kauft: Lage, Nutzung, Privatsphäre, Kosten und Zukunftspotenzial.",
           "category": "Kauf",
           "date": "Aktualisiert 2026",
-          "title": "Haus kaufen an der Costa Brava: die richtige Lage w?hlen, ohne Chancen zu verpassen",
-          "excerpt": "Ein kurzer Leitfaden f?r K?ufer, die Lagen vergleichen m?chten, ohne gute Chancen zwischen ?hnlichen Anzeigen zu verlieren.",
+          "title": "Haus kaufen an der Costa Brava: die richtige Lage wählen, ohne Chancen zu verpassen",
+          "excerpt": "Ein kurzer Leitfaden für Käufer, die Lagen vergleichen möchten, ohne gute Chancen zwischen ?hnlichen Anzeigen zu verlieren.",
           "read_more": "Ratgeber lesen",
           "sections": [
             {
@@ -203,13 +203,13 @@
       "route": "articulos/tasacion-vivienda-costa-brava/",
       "translations": {
         "es": {
-          "seo_title": "Tasaci?n de vivienda en Costa Brava: precio, demanda y estrategia | LacostaHaus",
-          "seo_description": "Una tasaci?n inmobiliaria ?til para vender mejor en Costa Brava debe mirar demanda, competencia, presentaci?n y estrategia.",
-          "category": "Tasaci?n",
+          "seo_title": "Tasación de vivienda en Costa Brava: precio, demanda y estrategia | LacostaHaus",
+          "seo_description": "Una tasación inmobiliaria útil para vender mejor en Costa Brava debe mirar demanda, competencia, presentación y estrategia.",
+          "category": "Tasación",
           "date": "Actualizado 2026",
-          "title": "Tasaci?n de vivienda en Costa Brava: precio, demanda y estrategia",
-          "excerpt": "Por qu? una valoraci?n ?til debe mirar competencia, demanda, presentaci?n y margen de negociaci?n.",
-          "read_more": "Leer art?culo",
+          "title": "Tasación de vivienda en Costa Brava: precio, demanda y estrategia",
+          "excerpt": "Por qué una valoración útil debe mirar competencia, demanda, presentación y margen de negociación.",
+          "read_more": "Leer artículo",
           "sections": [
             {
               "title": "El precio no se decide aislado",
@@ -267,12 +267,12 @@
           ]
         },
         "fr": {
-          "seo_title": "Estimation de maison en Costa Brava : prix, demande et strat?gie | LacostaHaus",
-          "seo_description": "Une estimation immobili?re utile pour mieux vendre en Costa Brava doit tenir compte de la demande, de la concurrence, de la pr?sentation et de la strat?gie.",
+          "seo_title": "Estimation de maison en Costa Brava : prix, demande et stratégie | LacostaHaus",
+          "seo_description": "Une estimation immobilière utile pour mieux vendre en Costa Brava doit tenir compte de la demande, de la concurrence, de la présentation et de la stratégie.",
           "category": "Estimation",
-          "date": "Mis ? jour 2026",
-          "title": "Estimation de maison en Costa Brava : prix, demande et strat?gie",
-          "excerpt": "Pourquoi une estimation utile doit regarder la concurrence, la demande, la pr?sentation et la marge de n?gociation.",
+          "date": "Mis à jour 2026",
+          "title": "Estimation de maison en Costa Brava : prix, demande et stratégie",
+          "excerpt": "Pourquoi une estimation utile doit regarder la concurrence, la demande, la présentation et la marge de négociation.",
           "read_more": "Lire l'article",
           "sections": [
             {
@@ -300,11 +300,11 @@
         },
         "de": {
           "seo_title": "Immobilienbewertung an der Costa Brava: Preis, Nachfrage und Strategie | LacostaHaus",
-          "seo_description": "Eine sinnvolle Bewertung f?r den Verkauf an der Costa Brava ber?cksichtigt Nachfrage, Wettbewerb, Pr?sentation und Strategie.",
+          "seo_description": "Eine sinnvolle Bewertung für den Verkauf an der Costa Brava berücksichtigt Nachfrage, Wettbewerb, Présentation und Strategie.",
           "category": "Bewertung",
           "date": "Aktualisiert 2026",
           "title": "Immobilienbewertung an der Costa Brava: Preis, Nachfrage und Strategie",
-          "excerpt": "Warum eine sinnvolle Bewertung Wettbewerb, Nachfrage, Pr?sentation und Verhandlungsspielraum ber?cksichtigen muss.",
+          "excerpt": "Warum eine sinnvolle Bewertung Wettbewerb, Nachfrage, Présentation und Verhandlungsspielraum berücksichtigen muss.",
           "read_more": "Artikel lesen",
           "sections": [
             {
@@ -370,11 +370,11 @@
       "translations": {
         "es": {
           "seo_title": "Vender inmueble en Costa Brava a compradores internacionales | LacostaHaus",
-          "seo_description": "C?mo preparar una propiedad en Costa Brava para compradores internacionales con presentaci?n clara, idiomas y buena documentaci?n.",
+          "seo_description": "Cómo preparar una propiedad en Costa Brava para compradores internacionales con presentación clara, idiomas y buena documentación.",
           "category": "Venta internacional",
           "date": "Actualizado 2026",
           "title": "Vender un inmueble en Costa Brava a compradores internacionales",
-          "excerpt": "C?mo preparar una propiedad para compradores extranjeros que buscan claridad, confianza y buena documentaci?n.",
+          "excerpt": "Cómo preparar una propiedad para compradores extranjeros que buscan claridad, confianza y buena documentación.",
           "read_more": "Leer claves",
           "sections": [
             {
@@ -434,12 +434,12 @@
         },
         "fr": {
           "seo_title": "Vendre un bien en Costa Brava ? des acheteurs internationaux | LacostaHaus",
-          "seo_description": "Comment pr?parer un bien en Costa Brava pour des acheteurs internationaux avec une pr?sentation claire, des langues et une bonne documentation.",
+          "seo_description": "Comment préparer un bien en Costa Brava pour des acheteurs internationaux avec une présentation claire, des langues et une bonne documentation.",
           "category": "Vente internationale",
-          "date": "Mis ? jour 2026",
+          "date": "Mis à jour 2026",
           "title": "Vendre un bien en Costa Brava ? des acheteurs internationaux",
-          "excerpt": "Comment pr?parer un bien pour des acheteurs ?trangers qui recherchent clart?, confiance et bonne documentation.",
-          "read_more": "Lire les cl?s",
+          "excerpt": "Comment préparer un bien pour des acheteurs ?trangers qui recherchent clart?, confiance et bonne documentation.",
+          "read_more": "Lire les clés",
           "sections": [
             {
               "title": "L’acheteur international a besoin de clarté",
@@ -465,12 +465,12 @@
           ]
         },
         "de": {
-          "seo_title": "Immobilie an der Costa Brava an internationale K?ufer verkaufen | LacostaHaus",
-          "seo_description": "Wie man eine Immobilie an der Costa Brava f?r internationale K?ufer mit klarer Pr?sentation, Sprachen und guten Unterlagen vorbereitet.",
+          "seo_title": "Immobilie an der Costa Brava an internationale Käufer verkaufen | LacostaHaus",
+          "seo_description": "Wie man eine Immobilie an der Costa Brava für internationale Käufer mit klarer Présentation, Sprachen und guten Unterlagen vorbereitet.",
           "category": "Internationaler Verkauf",
           "date": "Aktualisiert 2026",
-          "title": "Eine Immobilie an der Costa Brava an internationale K?ufer verkaufen",
-          "excerpt": "Wie man eine Immobilie f?r ausl?ndische K?ufer vorbereitet, die Klarheit, Vertrauen und gute Unterlagen erwarten.",
+          "title": "Eine Immobilie an der Costa Brava an internationale Käufer verkaufen",
+          "excerpt": "Wie man eine Immobilie für ausländische Käufer vorbereitet, die Klarheit, Vertrauen und gute Unterlagen erwarten.",
           "read_more": "Tipps lesen",
           "sections": [
             {
@@ -535,13 +535,13 @@
       "route": "articulos/vender-casa-lujo-costa-brava/",
       "translations": {
         "es": {
-          "seo_title": "C?mo vender una casa de lujo sin malvenderla en Costa Brava | LacostaHaus",
-          "seo_description": "Gu?a para propietarios que quieren vender una vivienda premium en Costa Brava sin perder valor, con estrategia y compradores cualificados.",
+          "seo_title": "Cómo vender una casa de lujo sin malvenderla en Costa Brava | LacostaHaus",
+          "seo_description": "Guía para propietarios que quieren vender una vivienda premium en Costa Brava sin perder valor, con estrategia y compradores cualificados.",
           "category": "Venta premium",
           "date": "Actualizado 2026",
-          "title": "C?mo vender una casa de lujo sin malvenderla en Costa Brava",
-          "excerpt": "Una gu?a para propietarios de villas, mas?as y pisos premium que quieren vender con estrategia, mejor presentaci?n y compradores realmente cualificados.",
-          "read_more": "Leer gu?a",
+          "title": "Cómo vender una casa de lujo sin malvenderla en Costa Brava",
+          "excerpt": "Una guía para propietarios de villas, masías y pisos premium que quieren vender con estrategia, mejor presentación y compradores realmente cualificados.",
+          "read_more": "Leer guía",
           "sections": [
             {
               "title": "Malvender no siempre significa vender barato",
@@ -611,11 +611,11 @@
         },
         "fr": {
           "seo_title": "Comment vendre une maison de luxe en Costa Brava sans la brader | LacostaHaus",
-          "seo_description": "Guide pour propri?taires souhaitant vendre un bien premium en Costa Brava sans perdre de valeur, avec strat?gie et acheteurs qualifi?s.",
+          "seo_description": "Guide pour propriétaires souhaitant vendre un bien premium en Costa Brava sans perdre de valeur, avec stratégie et acheteurs qualifiés.",
           "category": "Vente premium",
-          "date": "Mis ? jour 2026",
+          "date": "Mis à jour 2026",
           "title": "Comment vendre une maison de luxe en Costa Brava sans la brader",
-          "excerpt": "Un guide pratique pour les propri?taires qui veulent bien vendre sans affaiblir la valeur de leur bien.",
+          "excerpt": "Un guide pratique pour les propriétaires qui veulent bien vendre sans affaiblir la valeur de leur bien.",
           "read_more": "Lire le guide",
           "sections": [
             {
@@ -643,11 +643,11 @@
         },
         "de": {
           "seo_title": "Luxushaus an der Costa Brava verkaufen, ohne unter Wert zu verkaufen | LacostaHaus",
-          "seo_description": "Leitfaden f?r Eigent?mer, die eine Premium-Immobilie an der Costa Brava mit Strategie und qualifizierten K?ufern verkaufen m?chten.",
+          "seo_description": "Leitfaden für Eigentümer, die eine Premium-Immobilie an der Costa Brava mit Strategie und qualifizierten Käufern verkaufen möchten.",
           "category": "Premium-Verkauf",
           "date": "Aktualisiert 2026",
           "title": "Luxushaus an der Costa Brava verkaufen, ohne unter Wert zu verkaufen",
-          "excerpt": "Ein praktischer Leitfaden f?r Eigent?mer, die gut verkaufen m?chten, ohne den Wert zu schw?chen.",
+          "excerpt": "Ein praktischer Leitfaden für Eigentümer, die gut verkaufen möchten, ohne den Wert zu schwächen.",
           "read_more": "Ratgeber lesen",
           "sections": [
             {
@@ -712,13 +712,13 @@
       "route": "articulos/casa-sobrevalorada-antes-vender/",
       "translations": {
         "es": {
-          "seo_title": "C?mo saber si mi casa est? sobrevalorada antes de venderla | LacostaHaus",
-          "seo_description": "Se?ales para detectar si el precio de una casa premium puede frenar su venta antes de salir al mercado.",
+          "seo_title": "Cómo saber si mi casa est? sobrevalorada antes de venderla | LacostaHaus",
+          "seo_description": "Señales para detectar si el precio de una casa premium puede frenar su venta antes de salir al mercado.",
           "category": "Precio de venta",
           "date": "Actualizado 2026",
-          "title": "C?mo saber si mi casa est? sobrevalorada antes de venderla",
-          "excerpt": "Se?ales pr?cticas para detectar si el precio puede frenar la venta de una vivienda premium antes de exponerla al mercado.",
-          "read_more": "Leer se?ales",
+          "title": "Cómo saber si mi casa est? sobrevalorada antes de venderla",
+          "excerpt": "Señales prácticas para detectar si el precio puede frenar la venta de una vivienda premium antes de exponerla al mercado.",
+          "read_more": "Leer señales",
           "sections": [
             {
               "title": "El primer error suele aparecer antes de publicar",
@@ -787,12 +787,12 @@
           ]
         },
         "fr": {
-          "seo_title": "Comment savoir si ma maison est sur?valu?e avant de vendre | LacostaHaus",
-          "seo_description": "Signaux pour d?tecter si le prix d'une maison premium peut freiner la vente avant sa mise sur le march?.",
+          "seo_title": "Comment savoir si ma maison est surévaluée avant de vendre | LacostaHaus",
+          "seo_description": "Signaux pour détecter si le prix d'une maison premium peut freiner la vente avant sa mise sur le marché.",
           "category": "Prix de vente",
-          "date": "Mis ? jour 2026",
-          "title": "Comment savoir si ma maison est sur?valu?e avant de vendre",
-          "excerpt": "Signaux pratiques pour savoir si le prix peut freiner la vente avant d'exposer le bien au march?.",
+          "date": "Mis à jour 2026",
+          "title": "Comment savoir si ma maison est surévaluée avant de vendre",
+          "excerpt": "Signaux pratiques pour savoir si le prix peut freiner la vente avant d'exposer le bien au marché.",
           "read_more": "Lire les signes",
           "sections": [
             {
@@ -819,11 +819,11 @@
           ]
         },
         "de": {
-          "seo_title": "Wie erkenne ich, ob mein Haus vor dem Verkauf ?berbewertet ist? | LacostaHaus",
+          "seo_title": "Wie erkenne ich, ob mein Haus vor dem Verkauf überbewertet ist? | LacostaHaus",
           "seo_description": "Signale, die zeigen, ob der Preis einer Premium-Immobilie den Verkauf schon vor dem Marktstart bremst.",
           "category": "Verkaufspreis",
           "date": "Aktualisiert 2026",
-          "title": "Wie erkenne ich, ob mein Haus vor dem Verkauf ?berbewertet ist?",
+          "title": "Wie erkenne ich, ob mein Haus vor dem Verkauf überbewertet ist?",
           "excerpt": "Praktische Signale, die zeigen, ob der Preis den Verkauf einer Premium-Immobilie bremst.",
           "read_more": "Signale lesen",
           "sections": [
@@ -889,13 +889,13 @@
       "route": "articulos/casa-meses-en-venta-sin-ofertas/",
       "translations": {
         "es": {
-          "seo_title": "Casa meses en venta sin ofertas serias: qu? revisar | LacostaHaus",
-          "seo_description": "Qu? revisar si una casa premium lleva meses en venta sin compradores cualificados: precio, presentaci?n, canales y estrategia.",
+          "seo_title": "Casa meses en venta sin ofertas serias: qué revisar | LacostaHaus",
+          "seo_description": "Qué revisar si una casa premium lleva meses en venta sin compradores cualificados: precio, presentación, canales y estrategia.",
           "category": "Relanzar venta",
           "date": "Actualizado 2026",
-          "title": "Mi casa lleva meses en venta y no recibo ofertas serias: qu? revisar",
-          "excerpt": "Una gu?a para propietarios que tienen una vivienda premium publicada desde hace tiempo y quieren entender por qu? no llegan compradores cualificados.",
-          "read_more": "Leer diagn?stico",
+          "title": "Mi casa lleva meses en venta y no recibo ofertas serias: qué revisar",
+          "excerpt": "Una guía para propietarios que tienen una vivienda premium publicada desde hace tiempo y quieren entender por qué no llegan compradores cualificados.",
+          "read_more": "Leer diagnóstico",
           "sections": [
             {
               "title": "No siempre falta comprador: a veces falta estrategia",
@@ -964,12 +964,12 @@
           ]
         },
         "fr": {
-          "seo_title": "Maison en vente depuis des mois sans offres s?rieuses : que v?rifier | LacostaHaus",
-          "seo_description": "Que v?rifier lorsqu'une maison premium reste en vente sans acheteurs qualifi?s : prix, pr?sentation, canaux et strat?gie.",
+          "seo_title": "Maison en vente depuis des mois sans offres sérieuses : que vérifier | LacostaHaus",
+          "seo_description": "Que vérifier lorsqu'une maison premium reste en vente sans acheteurs qualifiés : prix, présentation, canaux et stratégie.",
           "category": "Relancer la vente",
-          "date": "Mis ? jour 2026",
-          "title": "Ma maison est en vente depuis des mois sans offres s?rieuses : que v?rifier",
-          "excerpt": "Un guide pour les propri?taires dont le bien premium est en ligne depuis longtemps sans attirer d'acheteurs qualifi?s.",
+          "date": "Mis à jour 2026",
+          "title": "Ma maison est en vente depuis des mois sans offres sérieuses : que vérifier",
+          "excerpt": "Un guide pour les propriétaires dont le bien premium est en ligne depuis longtemps sans attirer d'acheteurs qualifiés.",
           "read_more": "Lire le diagnostic",
           "sections": [
             {
@@ -996,12 +996,12 @@
           ]
         },
         "de": {
-          "seo_title": "Haus seit Monaten im Verkauf ohne seri?se Angebote: was pr?fen? | LacostaHaus",
-          "seo_description": "Was pr?fen, wenn eine Premium-Immobilie seit Monaten keine qualifizierten K?ufer anzieht: Preis, Pr?sentation, Kan?le und Strategie.",
+          "seo_title": "Haus seit Monaten im Verkauf ohne seriöse Angebote: was prüfen? | LacostaHaus",
+          "seo_description": "Was prüfen, wenn eine Premium-Immobilie seit Monaten keine qualifizierten Käufer anzieht: Preis, Présentation, Kanäle und Strategie.",
           "category": "Verkauf neu starten",
           "date": "Aktualisiert 2026",
-          "title": "Mein Haus ist seit Monaten im Verkauf und erh?lt keine seri?sen Angebote: was pr?fen?",
-          "excerpt": "Ein Leitfaden f?r Eigent?mer, deren Premium-Immobilie lange online ist, aber keine qualifizierten K?ufer anzieht.",
+          "title": "Mein Haus ist seit Monaten im Verkauf und erhält keine seriösen Angebote: was prüfen?",
+          "excerpt": "Ein Leitfaden für Eigentümer, deren Premium-Immobilie lange online ist, aber keine qualifizierten Käufer anzieht.",
           "read_more": "Diagnose lesen",
           "sections": [
             {
@@ -1066,13 +1066,13 @@
       "route": "articulos/documentacion-vender-casa-costa-brava/",
       "translations": {
         "es": {
-          "seo_title": "Documentaci?n para vender una casa en Costa Brava | LacostaHaus",
-          "seo_description": "Qu? documentos conviene preparar antes de vender una casa, villa o mas?a en Costa Brava para evitar retrasos y generar confianza.",
-          "category": "Documentaci?n",
+          "seo_title": "Documentación para vender una casa en Costa Brava | LacostaHaus",
+          "seo_description": "Qué documentos conviene preparar antes de vender una casa, villa o masía en Costa Brava para evitar retrasos y generar confianza.",
+          "category": "Documentación",
           "date": "Actualizado 2026",
-          "title": "Qu? documentaci?n necesito para vender una casa en Costa Brava",
-          "excerpt": "Un repaso pr?ctico a los documentos que ayudan a preparar una venta premium con menos fricci?n y m?s confianza.",
-          "read_more": "Leer gu?a",
+          "title": "Qué documentación necesito para vender una casa en Costa Brava",
+          "excerpt": "Un repaso práctico a los documentos que ayudan a preparar una venta premium con menos fricción y más confianza.",
+          "read_more": "Leer guía",
           "sections": [
             {
               "title": "La documentación también vende",
@@ -1130,12 +1130,12 @@
           ]
         },
         "fr": {
-          "seo_title": "Documents n?cessaires pour vendre une maison en Costa Brava | LacostaHaus",
-          "seo_description": "Quels documents pr?parer avant de vendre une maison, villa ou masia en Costa Brava pour ?viter les retards et inspirer confiance.",
+          "seo_title": "Documents nécessaires pour vendre une maison en Costa Brava | LacostaHaus",
+          "seo_description": "Quels documents préparer avant de vendre une maison, villa ou masia en Costa Brava pour éviter les retards et inspirer confiance.",
           "category": "Guide vendeur",
-          "date": "Mis ? jour 2026",
+          "date": "Mis à jour 2026",
           "title": "Quels documents faut-il pour vendre une maison en Costa Brava ?",
-          "excerpt": "Un aper?u pratique des documents qui aident ? pr?parer une vente premium avec moins de friction et plus de confiance.",
+          "excerpt": "Un aperçu pratique des documents qui aident ? préparer une vente premium avec moins de friction et plus de confiance.",
           "read_more": "Lire le guide",
           "sections": [
             {
@@ -1162,12 +1162,12 @@
           ]
         },
         "de": {
-          "seo_title": "Unterlagen f?r den Hausverkauf an der Costa Brava | LacostaHaus",
+          "seo_title": "Unterlagen für den Hausverkauf an der Costa Brava | LacostaHaus",
           "seo_description": "Welche Unterlagen vor dem Verkauf eines Hauses, einer Villa oder Masia an der Costa Brava vorbereitet werden sollten.",
-          "category": "Verk?ufer-Ratgeber",
+          "category": "Verkäufer-Ratgeber",
           "date": "Aktualisiert 2026",
           "title": "Welche Unterlagen brauche ich, um ein Haus an der Costa Brava zu verkaufen?",
-          "excerpt": "Ein praktischer ?berblick ?ber die Unterlagen, die einen Premium-Verkauf klarer und vertrauensw?rdiger vorbereiten.",
+          "excerpt": "Ein praktischer überblick über die Unterlagen, die einen Premium-Verkauf klarer und vertrauenswürdiger vorbereiten.",
           "read_more": "Ratgeber lesen",
           "sections": [
             {
@@ -1232,13 +1232,13 @@
       "route": "articulos/cuanto-tarda-vender-casa-lujo-costa-brava/",
       "translations": {
         "es": {
-          "seo_title": "Cu?nto tarda en venderse una casa de lujo en Costa Brava | LacostaHaus",
-          "seo_description": "Tiempo medio de venta de una vivienda premium en Costa Brava y factores que influyen: precio, demanda, presentaci?n y estrategia.",
+          "seo_title": "Cuánto tarda en venderse una casa de lujo en Costa Brava | LacostaHaus",
+          "seo_description": "Tiempo medio de venta de una vivienda premium en Costa Brava y factores que influyen: precio, demanda, presentación y estrategia.",
           "category": "Vendedor-Ratgeber",
           "date": "Actualizado 2026",
-          "title": "Cu?nto tarda en venderse una casa de lujo en Costa Brava",
-          "excerpt": "Un repaso pr?ctico al tiempo de venta, los factores que lo aceleran y cu?ndo conviene revisar la estrategia.",
-          "read_more": "Leer gu?a",
+          "title": "Cuánto tarda en venderse una casa de lujo en Costa Brava",
+          "excerpt": "Un repaso práctico al tiempo de venta, los factores que lo aceleran y cuándo conviene revisar la estrategia.",
+          "read_more": "Leer guía",
           "sections": [
             {
               "title": "El tiempo de venta no depende solo del mercado",
@@ -1297,11 +1297,11 @@
         },
         "fr": {
           "seo_title": "Combien de temps faut-il pour vendre une maison de luxe en Costa Brava ? | LacostaHaus",
-          "seo_description": "D?lais de vente d'un bien premium en Costa Brava et facteurs qui influencent le rythme : prix, demande, pr?sentation et strat?gie.",
+          "seo_description": "Délais de vente d'un bien premium en Costa Brava et facteurs qui influencent le rythme : prix, demande, présentation et stratégie.",
           "category": "Guide vendeur",
-          "date": "Mis ? jour 2026",
+          "date": "Mis à jour 2026",
           "title": "Combien de temps faut-il pour vendre une maison de luxe en Costa Brava ?",
-          "excerpt": "Un guide pratique sur les d?lais de vente, les facteurs qui les acc?l?rent et le moment de revoir la strat?gie.",
+          "excerpt": "Un guide pratique sur les délais de vente, les facteurs qui les accélèrent et le moment de revoir la stratégie.",
           "read_more": "Lire le guide",
           "sections": [
             {
@@ -1330,10 +1330,10 @@
         "de": {
           "seo_title": "Wie lange dauert es, ein Luxushaus an der Costa Brava zu verkaufen? | LacostaHaus",
           "seo_description": "Wie lange der Verkauf einer Premium-Immobilie an der Costa Brava dauern kann und welche Faktoren entscheidend sind.",
-          "category": "Verk?ufer-Ratgeber",
+          "category": "Verkäufer-Ratgeber",
           "date": "Aktualisiert 2026",
           "title": "Wie lange dauert es, ein Luxushaus an der Costa Brava zu verkaufen?",
-          "excerpt": "Ein praktischer Leitfaden zu Verkaufsdauer, beschleunigenden Faktoren und dem richtigen Zeitpunkt zur Strategiepr?fung.",
+          "excerpt": "Ein praktischer Leitfaden zu Verkaufsdauer, beschleunigenden Faktoren und dem richtigen Zeitpunkt zur Strategieprüfung.",
           "read_more": "Ratgeber lesen",
           "sections": [
             {
@@ -1399,12 +1399,12 @@
       "translations": {
         "es": {
           "seo_title": "Vender con inmobiliaria o por cuenta propia | LacostaHaus",
-          "seo_description": "Comparativa para decidir si vender una vivienda premium con inmobiliaria o por cuenta propia: riesgos, tiempo, contactos y negociaci?n.",
+          "seo_description": "Comparativa para decidir si vender una vivienda premium con inmobiliaria o por cuenta propia: riesgos, tiempo, contactos y negociación.",
           "category": "Vendedor-Ratgeber",
           "date": "Actualizado 2026",
-          "title": "Vender con inmobiliaria o por cuenta propia: qu? conviene en una vivienda premium",
-          "excerpt": "Un repaso claro de riesgos, tiempos, filtrado de compradores y negociaci?n antes de decidir c?mo vender.",
-          "read_more": "Leer gu?a",
+          "title": "Vender con inmobiliaria o por cuenta propia: qué conviene en una vivienda premium",
+          "excerpt": "Un repaso claro de riesgos, tiempos, filtrado de compradores y negociación antes de decidir cómo vender.",
+          "read_more": "Leer guía",
           "sections": [
             {
               "title": "La pregunta no es solo la comisión",
@@ -1463,11 +1463,11 @@
         },
         "fr": {
           "seo_title": "Vendre avec une agence ou seul | LacostaHaus",
-          "seo_description": "Comment d?cider de vendre un bien premium avec une agence ou seul : risques, temps, contacts et n?gociation.",
+          "seo_description": "Comment décider de vendre un bien premium avec une agence ou seul : risques, temps, contacts et négociation.",
           "category": "Guide vendeur",
-          "date": "Mis ? jour 2026",
+          "date": "Mis à jour 2026",
           "title": "Vendre avec une agence ou seul : que choisir pour un bien premium ?",
-          "excerpt": "Un aper?u clair des risques, du temps, du filtrage des acheteurs et de la n?gociation avant de d?cider comment vendre.",
+          "excerpt": "Un aperçu clair des risques, du temps, du filtrage des acheteurs et de la négociation avant de décider comment vendre.",
           "read_more": "Lire le guide",
           "sections": [
             {
@@ -1496,10 +1496,10 @@
         "de": {
           "seo_title": "Mit Makler oder privat verkaufen | LacostaHaus",
           "seo_description": "Wie man entscheidet, ob eine Premium-Immobilie mit Makler oder privat verkauft werden sollte: Risiken, Zeit, Kontakte und Verhandlung.",
-          "category": "Verk?ufer-Ratgeber",
+          "category": "Verkäufer-Ratgeber",
           "date": "Aktualisiert 2026",
           "title": "Mit Makler oder privat verkaufen: Was ist bei einer Premium-Immobilie sinnvoll?",
-          "excerpt": "Ein klarer ?berblick ?ber Risiken, Zeitaufwand, K?uferfilterung und Verhandlung vor der Entscheidung.",
+          "excerpt": "Ein klarer überblick über Risiken, Zeitaufwand, Käuferfilterung und Verhandlung vor der Entscheidung.",
           "read_more": "Ratgeber lesen",
           "sections": [
             {
@@ -1565,12 +1565,12 @@
       "translations": {
         "es": {
           "seo_title": "Preparar una villa antes de vender en Costa Brava | LacostaHaus",
-          "seo_description": "C?mo preparar una villa premium antes de vender: imagen, documentaci?n, relato comercial y detalles que mejoran la percepci?n.",
+          "seo_description": "Cómo preparar una villa premium antes de vender: imagen, documentación, relato comercial y detalles que mejoran la percepción.",
           "category": "Vendedor-Ratgeber",
           "date": "Actualizado 2026",
-          "title": "C?mo preparar una villa antes de ponerla a la venta en Costa Brava",
-          "excerpt": "Peque?as decisiones antes de publicar pueden cambiar la percepci?n, la calidad de los contactos y la negociaci?n.",
-          "read_more": "Leer preparaci?n",
+          "title": "Cómo preparar una villa antes de ponerla a la venta en Costa Brava",
+          "excerpt": "Pequeñas decisiones antes de publicar pueden cambiar la percepción, la calidad de los contactos y la negociación.",
+          "read_more": "Leer preparación",
           "sections": [
             {
               "title": "Preparar no significa reformar todo",
@@ -1628,13 +1628,13 @@
           ]
         },
         "fr": {
-          "seo_title": "Pr?parer une villa avant de vendre en Costa Brava | LacostaHaus",
-          "seo_description": "Comment pr?parer une villa premium avant la vente : image, documentation, r?cit commercial et d?tails qui am?liorent la perception.",
+          "seo_title": "Préparer une villa avant de vendre en Costa Brava | LacostaHaus",
+          "seo_description": "Comment préparer une villa premium avant la vente : image, documentation, récit commercial et détails qui améliorent la perception.",
           "category": "Guide vendeur",
-          "date": "Mis ? jour 2026",
-          "title": "Comment pr?parer une villa avant de la mettre en vente en Costa Brava",
-          "excerpt": "De petites d?cisions avant la publication peuvent changer la perception, la qualit? des contacts et la n?gociation.",
-          "read_more": "Lire la pr?paration",
+          "date": "Mis à jour 2026",
+          "title": "Comment préparer une villa avant de la mettre en vente en Costa Brava",
+          "excerpt": "De petites décisions avant la publication peuvent changer la perception, la qualité des contacts et la négociation.",
+          "read_more": "Lire la préparation",
           "sections": [
             {
               "title": "Commencer par le diagnostic commercial",
@@ -1662,10 +1662,10 @@
         "de": {
           "seo_title": "Villa an der Costa Brava vor dem Verkauf vorbereiten | LacostaHaus",
           "seo_description": "Wie man eine Premium-Villa vor dem Verkauf vorbereitet: Bildwirkung, Unterlagen, Verkaufsargumentation und Details.",
-          "category": "Verk?ufer-Ratgeber",
+          "category": "Verkäufer-Ratgeber",
           "date": "Aktualisiert 2026",
           "title": "Wie bereite ich eine Villa an der Costa Brava vor dem Verkauf vor?",
-          "excerpt": "Kleine Entscheidungen vor der Ver?ffentlichung k?nnen Wahrnehmung, Kontaktqualit?t und Verhandlung ver?ndern.",
+          "excerpt": "Kleine Entscheidungen vor der Veröffentlichung können Wahrnehmung, Kontaktqualitét und Verhandlung verändern.",
           "read_more": "Vorbereitung lesen",
           "sections": [
             {

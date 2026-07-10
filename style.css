@@ -1380,6 +1380,9 @@ header li:hover > a {
   border-radius: 18px 18px 0 0;
   padding: 0;
   transition: transform .28s ease, filter .28s ease;
+  image-rendering: auto;
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 .coverflow-info {
@@ -1436,9 +1439,15 @@ header li:hover > a {
 
 .coverflow-track.is-single-card .coverflow-card {
   position: relative;
-  top: auto;
-  left: auto;
-  transform: translateZ(90px) scale(1);
+  top: 0;
+  left: 0;
+  transform: none;
+  margin: 0 auto;
+}
+
+.coverflow-track.is-single-card .coverflow-card.is-active,
+.coverflow-track.is-single-card .coverflow-card.is-single {
+  transform: none;
 }
 
 .coverflow-card:hover,
