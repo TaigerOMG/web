@@ -756,6 +756,14 @@
     return urlForPath((property && property.route) || site.routes.properties, lang);
   }
 
+  function propertyHasExternalBranding(property) {
+    return Boolean(
+      property?.otherAgency === true ||
+      property?.other_agency === true ||
+      property?.propertyData?.media?.other_agency === true
+    );
+  }
+
   function currentPropertyId() {
     const params = new URLSearchParams(window.location.search);
     return params.get("id") || document.body.dataset.propertyId || propertiesData?.homeHeroProperty || "";
@@ -1267,7 +1275,10 @@
     const link = document.querySelector(".visual-card-main__footer a");
     const imageLink = document.querySelector("[data-hero-property-link]");
 
-    if (image) image.style.backgroundImage = `url("${resolveAsset(property.image)}")`;
+    if (image) {
+      image.style.backgroundImage = `url("${resolveAsset(property.image)}")`;
+      image.classList.toggle("is-other-agency", propertyHasExternalBranding(property));
+    }
     if (title) title.textContent = text.title;
     if (subtitle) subtitle.textContent = text.location || "";
     if (footerTitle) footerTitle.textContent = text.price || currentText.visual.footerTitle;
@@ -1295,8 +1306,9 @@
       const text = propertyTranslation(property);
       const price = text.price || "";
       const cta = text.cta || currentText.featured.all || "Ver inmueble";
+      const externalBrandingClass = propertyHasExternalBranding(property) ? " coverflow-card--other-agency" : "";
       return `
-        <a href="${propertyUrl(property)}" class="coverflow-card">
+        <a href="${propertyUrl(property)}" class="coverflow-card${externalBrandingClass}">
           <div class="coverflow-card__media">
             ${fullImageMarkup(property.image, text.title || "")}
           </div>
@@ -1409,9 +1421,10 @@
   }
 
   function catalogCardMarkup(property, text) {
+    const mediaClass = propertyHasExternalBranding(property) ? "catalog-card__media catalog-card__media--other-agency" : "catalog-card__media";
     return `
       <a class="catalog-card" href="${propertyUrl(property)}">
-        <div class="catalog-card__media">
+        <div class="${mediaClass}">
           ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 100vw, 33vw")}
         </div>
         <div class="catalog-card__body">
@@ -1455,13 +1468,27 @@
           <option value="name">${labels.name}</option>
         </select>
       </div>
-      <div class="catalog-filter-field catalog-filter-field--price">
-        <label for="catalogMinPrice">${labels.min}</label>
-        <input id="catalogMinPrice" type="number" data-catalog-min min="${minPrice}" max="${maxPrice}" value="${minPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
-      </div>
-      <div class="catalog-filter-field catalog-filter-field--price">
-        <label for="catalogMaxPrice">${labels.max}</label>
-        <input id="catalogMaxPrice" type="number" data-catalog-max min="${minPrice}" max="${maxPrice}" value="${maxPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+      <div class="catalog-filter-field catalog-filter-field--price-range${hasPrices ? "" : " is-disabled"}">
+        <div class="catalog-price-range__labels">
+          <span>${labels.min}</span>
+          <span>${labels.max}</span>
+        </div>
+        <div class="catalog-price-range" data-catalog-price-range>
+          <div class="catalog-price-range__line"></div>
+          <div class="catalog-price-range__active" data-catalog-price-active></div>
+          <input id="catalogMinPrice" type="range" data-catalog-min min="${minPrice}" max="${maxPrice}" value="${minPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+          <input id="catalogMaxPrice" type="range" data-catalog-max min="${minPrice}" max="${maxPrice}" value="${maxPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+        </div>
+        <div class="catalog-price-range__values">
+          <div class="catalog-price-range__value">
+            <small>Min.</small>
+            <strong data-catalog-min-label>${hasPrices ? formatCurrencyValue(minPrice, "€") : "--"}</strong>
+          </div>
+          <div class="catalog-price-range__value">
+            <small>Max.</small>
+            <strong data-catalog-max-label>${hasPrices ? formatCurrencyValue(maxPrice, "€") : "--"}</strong>
+          </div>
+        </div>
       </div>
     `;
 
@@ -1470,7 +1497,10 @@
       location: container.querySelector("[data-catalog-location]"),
       sort: container.querySelector("[data-catalog-sort]"),
       min: container.querySelector("[data-catalog-min]"),
-      max: container.querySelector("[data-catalog-max]")
+      max: container.querySelector("[data-catalog-max]"),
+      active: container.querySelector("[data-catalog-price-active]"),
+      minLabel: container.querySelector("[data-catalog-min-label]"),
+      maxLabel: container.querySelector("[data-catalog-max-label]")
     };
   }
 
@@ -1500,6 +1530,30 @@
     });
 
     const controls = renderCatalogFilters(filters, enriched);
+    const updatePriceRangeUi = () => {
+      if (!controls?.min || !controls?.max || !controls?.active || !controls?.minLabel || !controls?.maxLabel) return;
+      const minLimit = Number.parseFloat(controls.min.min || "0");
+      const maxLimit = Number.parseFloat(controls.max.max || "0");
+      let minCurrent = Number.parseFloat(controls.min.value || String(minLimit));
+      let maxCurrent = Number.parseFloat(controls.max.value || String(maxLimit));
+      if (!Number.isFinite(minCurrent)) minCurrent = minLimit;
+      if (!Number.isFinite(maxCurrent)) maxCurrent = maxLimit;
+      if (minCurrent > maxCurrent) {
+        if (document.activeElement === controls.min) maxCurrent = minCurrent;
+        else minCurrent = maxCurrent;
+      }
+      controls.min.value = String(minCurrent);
+      controls.max.value = String(maxCurrent);
+
+      const total = Math.max(1, maxLimit - minLimit);
+      const start = ((minCurrent - minLimit) / total) * 100;
+      const end = ((maxCurrent - minLimit) / total) * 100;
+      controls.active.style.left = `${start}%`;
+      controls.active.style.width = `${Math.max(0, end - start)}%`;
+      controls.minLabel.textContent = formatCurrencyValue(minCurrent, "€");
+      controls.maxLabel.textContent = formatCurrencyValue(maxCurrent, "€");
+    };
+
     const applyFilters = () => {
       const labels = catalogFilterText();
       const query = (controls?.search?.value || "").trim().toLowerCase();
@@ -1508,6 +1562,7 @@
       const maxValue = Number.parseFloat(controls?.max?.value || "");
       const min = Number.isFinite(minValue) ? minValue : -Infinity;
       const max = Number.isFinite(maxValue) ? maxValue : Infinity;
+      updatePriceRangeUi();
 
       let results = enriched.filter((item) => {
         const matchesQuery = !query || item.haystack.includes(query);
@@ -1536,6 +1591,7 @@
       if (control) control.addEventListener("input", applyFilters);
       if (control) control.addEventListener("change", applyFilters);
     });
+    updatePriceRangeUi();
     applyFilters();
   }
 
@@ -1850,6 +1906,11 @@
     const poster = resolveAsset(media.poster || registryProperty?.image || "");
     const video = resolveAsset(media.video || "");
     const pdf = resolveAsset(media.pdf || "");
+
+    const mainContainer = document.getElementById("mainContainer");
+    if (mainContainer) {
+      mainContainer.classList.toggle("is-other-agency", Boolean(media.other_agency));
+    }
 
     setSeo(propertyText.seo_title, propertyText.seo_description, media.poster || registryProperty?.image || "assets/hero-principal.png");
     renderPropertyPrice(propertyText.price);

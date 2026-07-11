@@ -1331,7 +1331,7 @@ header li:hover > a {
 .coverflow-property-slider {
   position: relative;
   margin-top: 38px;
-  padding: 42px 28px 64px;
+  padding: 42px 28px 46px;
   border-radius: 32px;
   border: 1px solid rgba(255,255,255,0.09);
   background:
@@ -1347,6 +1347,9 @@ header li:hover > a {
 }
 
 .coverflow-track.is-single-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   min-height: auto;
 }
 
@@ -1552,6 +1555,10 @@ header li:hover > a {
 .coverflow-track.is-single-card .coverflow-card__media {
   min-height: 420px;
   aspect-ratio: auto;
+}
+
+.coverflow-track.is-single-card .coverflow-card img {
+  object-position: center center;
 }
 
 .coverflow-track.is-single-card .coverflow-info {
@@ -1986,6 +1993,126 @@ header li:hover > a {
   cursor: not-allowed;
 }
 
+.catalog-filter-field--price-range {
+  grid-column: span 2;
+  gap: 12px;
+}
+
+.catalog-filter-field--price-range.is-disabled {
+  opacity: .5;
+}
+
+.catalog-price-range__labels,
+.catalog-price-range__values {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.catalog-price-range__labels span,
+.catalog-price-range__value small {
+  color: #d7e0ec;
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .02em;
+}
+
+.catalog-price-range {
+  position: relative;
+  height: 28px;
+}
+
+.catalog-price-range__line,
+.catalog-price-range__active {
+  position: absolute;
+  top: 50%;
+  height: 4px;
+  border-radius: 999px;
+  transform: translateY(-50%);
+}
+
+.catalog-price-range__line {
+  left: 0;
+  right: 0;
+  background: rgba(255,255,255,.18);
+}
+
+.catalog-price-range__active {
+  background: linear-gradient(90deg, rgba(24,210,209,.95), rgba(214,174,111,.95));
+}
+
+.catalog-price-range input[type="range"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  appearance: none;
+  pointer-events: none;
+}
+
+.catalog-price-range input[type="range"]::-webkit-slider-runnable-track {
+  height: 28px;
+  background: transparent;
+}
+
+.catalog-price-range input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  margin-top: 5px;
+  border: 2px solid rgba(255,255,255,.88);
+  border-radius: 50%;
+  background: #0f1d32;
+  box-shadow: 0 3px 10px rgba(0,0,0,.22);
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.catalog-price-range input[type="range"]::-moz-range-track {
+  height: 28px;
+  background: transparent;
+}
+
+.catalog-price-range input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(255,255,255,.88);
+  border-radius: 50%;
+  background: #0f1d32;
+  box-shadow: 0 3px 10px rgba(0,0,0,.22);
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.catalog-price-range__value {
+  display: flex;
+  min-width: 0;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.catalog-price-range__value:last-child {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.catalog-price-range__value strong {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  padding: 0 12px;
+  border: 1px solid rgba(255,255,255,.18);
+  border-radius: 4px;
+  background: rgba(2, 16, 28, .94);
+  color: #fff;
+  font-size: .94rem;
+  font-weight: 700;
+}
+
 .catalog-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -2033,6 +2160,13 @@ header li:hover > a {
   object-fit: cover;
   object-position: center;
   padding: 0;
+}
+
+.visual-card-main__image.is-other-agency::after,
+.coverflow-card--other-agency::before,
+.catalog-card__media--other-agency::after,
+.property-media-main.is-other-agency::after {
+  display: none;
 }
 
 .catalog-card__body {
@@ -3358,6 +3492,10 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
     grid-column: 1 / -1;
   }
 
+  .catalog-filter-field--price-range {
+    grid-column: 1 / -1;
+  }
+
   .catalog-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   }
@@ -3367,6 +3505,20 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
   .catalog-filters {
     grid-template-columns: 1fr !important;
     padding: 14px;
+  }
+
+  .catalog-filter-field--price-range {
+    grid-column: 1 / -1;
+  }
+
+  .catalog-price-range__labels,
+  .catalog-price-range__values {
+    gap: 10px;
+  }
+
+  .catalog-price-range__value strong {
+    min-height: 40px;
+    font-size: .88rem;
   }
 
   .catalog-grid {
