@@ -129,6 +129,79 @@
     ru: "Примерный курс"
   };
 
+  const catalogFilterLabels = {
+    es: {
+      search: "Buscar",
+      searchPlaceholder: "Nombre o localidad",
+      location: "Localidad",
+      allLocations: "Todas las localidades",
+      sort: "Orden",
+      recommended: "Orden recomendado",
+      lowHigh: "Precio: de menos a mas",
+      highLow: "Precio: de mas a menos",
+      name: "Nombre A-Z",
+      min: "Precio minimo",
+      max: "Precio maximo",
+      noResults: "No hay inmuebles que coincidan con la busqueda."
+    },
+    en: {
+      search: "Search",
+      searchPlaceholder: "Name or location",
+      location: "Location",
+      allLocations: "All locations",
+      sort: "Order",
+      recommended: "Recommended order",
+      lowHigh: "Price: low to high",
+      highLow: "Price: high to low",
+      name: "Name A-Z",
+      min: "Minimum price",
+      max: "Maximum price",
+      noResults: "No properties match the search."
+    },
+    fr: {
+      search: "Rechercher",
+      searchPlaceholder: "Nom ou localite",
+      location: "Localite",
+      allLocations: "Toutes les localites",
+      sort: "Ordre",
+      recommended: "Ordre recommande",
+      lowHigh: "Prix: du plus bas au plus haut",
+      highLow: "Prix: du plus haut au plus bas",
+      name: "Nom A-Z",
+      min: "Prix minimum",
+      max: "Prix maximum",
+      noResults: "Aucun bien ne correspond a la recherche."
+    },
+    de: {
+      search: "Suchen",
+      searchPlaceholder: "Name oder Ort",
+      location: "Ort",
+      allLocations: "Alle Orte",
+      sort: "Sortierung",
+      recommended: "Empfohlene Reihenfolge",
+      lowHigh: "Preis: niedrig bis hoch",
+      highLow: "Preis: hoch bis niedrig",
+      name: "Name A-Z",
+      min: "Mindestpreis",
+      max: "Hochstpreis",
+      noResults: "Keine Immobilien entsprechen der Suche."
+    },
+    ru: {
+      search: "\u041f\u043e\u0438\u0441\u043a",
+      searchPlaceholder: "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0438\u043b\u0438 \u043c\u0435\u0441\u0442\u043e",
+      location: "\u041c\u0435\u0441\u0442\u043e",
+      allLocations: "\u0412\u0441\u0435 \u043c\u0435\u0441\u0442\u0430",
+      sort: "\u041f\u043e\u0440\u044f\u0434\u043e\u043a",
+      recommended: "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c\u044b\u0439 \u043f\u043e\u0440\u044f\u0434\u043e\u043a",
+      lowHigh: "\u0426\u0435\u043d\u0430: \u043e\u0442 \u043d\u0438\u0437\u043a\u043e\u0439 \u043a \u0432\u044b\u0441\u043e\u043a\u043e\u0439",
+      highLow: "\u0426\u0435\u043d\u0430: \u043e\u0442 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u043a \u043d\u0438\u0437\u043a\u043e\u0439",
+      name: "\u0418\u043c\u044f A-Z",
+      min: "\u041c\u0438\u043d. \u0446\u0435\u043d\u0430",
+      max: "\u041c\u0430\u043a\u0441. \u0446\u0435\u043d\u0430",
+      noResults: "\u041d\u0435\u0442 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043f\u043e \u044d\u0442\u043e\u043c\u0443 \u043f\u043e\u0438\u0441\u043a\u0443."
+    }
+  };
+
   const currencyFallbackRates = {
     USD: 1.08,
     RUB: 95,
@@ -1170,7 +1243,13 @@
   }
 
   function orderedProperties(ids) {
+    const seen = new Set();
     return (ids || [])
+      .filter((id) => {
+        if (!id || seen.has(id)) return false;
+        seen.add(id);
+        return true;
+      })
       .map((id) => propertyById(id))
       .filter(Boolean);
   }
@@ -1207,34 +1286,33 @@
     const track = document.querySelector("[data-featured-coverflow]");
     if (!track) return;
     const featuredProperties = orderedProperties(propertiesData.homeFeatured);
+    track.classList.toggle("is-single-card", featuredProperties.length === 1);
+    if (!featuredProperties.length) {
+      track.innerHTML = "";
+      return;
+    }
     track.innerHTML = featuredProperties.map((property) => {
       const text = propertyTranslation(property);
+      const price = text.price || "";
+      const cta = text.cta || currentText.featured.all || "Ver inmueble";
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card">
-          ${fullImageMarkup(property.image, text.title || "")}
+          <div class="coverflow-card__media">
+            ${fullImageMarkup(property.image, text.title || "")}
+          </div>
           <div class="coverflow-info">
-            <span>${text.tag || ""}</span>
+            <div class="coverflow-info__top">
+              <span class="coverflow-info__tag">${text.tag || ""}</span>
+              ${price ? `<strong class="coverflow-info__price">${price}</strong>` : ""}
+            </div>
             <h3>${text.title || ""}</h3>
-            <p>${text.location || ""}</p>
-            <strong>${text.price || ""}</strong>
+            <p class="coverflow-info__location">${text.location || ""}</p>
+            <p class="coverflow-info__excerpt">${text.excerpt || ""}</p>
+            <span class="coverflow-info__cta">${cta}</span>
           </div>
         </a>
       `;
     }).join("");
-
-    if (featuredProperties.length === 1) {
-      track.classList.add("is-single-card");
-      const card = track.querySelector(".coverflow-card");
-      if (card) {
-        card.style.position = "relative";
-        card.style.top = "0";
-        card.style.left = "0";
-        card.style.transform = "none";
-        card.style.margin = "0 auto";
-        card.style.opacity = "1";
-        card.style.pointerEvents = "auto";
-      }
-    }
   }
 
   function renderProcess() {
@@ -1309,32 +1387,156 @@
     renderAgentContacts(section.querySelector("[data-home-agent-contact-list]"), text, contact);
   }
 
+  function catalogFilterText() {
+    return catalogFilterLabels[currentLanguage] || catalogFilterLabels.es;
+  }
+
+  function catalogPriceAmount(priceText) {
+    const source = String(priceText || "").trim();
+    if (!/\d/.test(source)) return null;
+    let value = euroAmountFromText(source);
+    if (!value) return null;
+    if (/\b(m|mill|million|millones|mio)\b/i.test(source)) value *= 1000000;
+    if (/\bk\b/i.test(source)) value *= 1000;
+    return Number.isFinite(value) && value > 0 ? value : null;
+  }
+
+  function catalogLocationSegments(locationText) {
+    return String(locationText || "")
+      .split(/[·|,]/)
+      .map((item) => item.trim().replace(/^Barrio\s+/i, "").replace(/\s+area$/i, ""))
+      .filter((item) => item.length > 1);
+  }
+
+  function catalogCardMarkup(property, text) {
+    return `
+      <a class="catalog-card" href="${propertyUrl(property)}">
+        <div class="catalog-card__media">
+          ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 100vw, 33vw")}
+        </div>
+        <div class="catalog-card__body">
+          <span>${text.tag || ""}</span>
+          <h2>${text.title || ""}</h2>
+          <p>${text.location || ""}</p>
+          <p>${text.excerpt || ""}</p>
+          <strong>${text.price || ""}</strong>
+        </div>
+      </a>
+    `;
+  }
+
+  function renderCatalogFilters(container, enrichedProperties) {
+    if (!container) return null;
+    const labels = catalogFilterText();
+    const priceValues = enrichedProperties.map((item) => item.price).filter((value) => value !== null);
+    const hasPrices = priceValues.length > 0;
+    const minPrice = hasPrices ? Math.floor(Math.min(...priceValues)) : "";
+    const maxPrice = hasPrices ? Math.ceil(Math.max(...priceValues)) : "";
+    const locations = Array.from(new Set(enrichedProperties.flatMap((item) => item.locations))).sort((a, b) => a.localeCompare(b, currentLanguage));
+
+    container.innerHTML = `
+      <div class="catalog-filter-field catalog-filter-field--search">
+        <label for="catalogSearch">${labels.search}</label>
+        <input id="catalogSearch" type="search" data-catalog-search placeholder="${escapeAttribute(labels.searchPlaceholder)}" autocomplete="off">
+      </div>
+      <div class="catalog-filter-field">
+        <label for="catalogLocation">${labels.location}</label>
+        <select id="catalogLocation" data-catalog-location>
+          <option value="">${labels.allLocations}</option>
+          ${locations.map((location) => `<option value="${escapeAttribute(location)}">${location}</option>`).join("")}
+        </select>
+      </div>
+      <div class="catalog-filter-field">
+        <label for="catalogSort">${labels.sort}</label>
+        <select id="catalogSort" data-catalog-sort>
+          <option value="recommended">${labels.recommended}</option>
+          <option value="price-asc">${labels.lowHigh}</option>
+          <option value="price-desc">${labels.highLow}</option>
+          <option value="name">${labels.name}</option>
+        </select>
+      </div>
+      <div class="catalog-filter-field catalog-filter-field--price">
+        <label for="catalogMinPrice">${labels.min}</label>
+        <input id="catalogMinPrice" type="number" data-catalog-min min="${minPrice}" max="${maxPrice}" value="${minPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+      </div>
+      <div class="catalog-filter-field catalog-filter-field--price">
+        <label for="catalogMaxPrice">${labels.max}</label>
+        <input id="catalogMaxPrice" type="number" data-catalog-max min="${minPrice}" max="${maxPrice}" value="${maxPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+      </div>
+    `;
+
+    return {
+      search: container.querySelector("[data-catalog-search]"),
+      location: container.querySelector("[data-catalog-location]"),
+      sort: container.querySelector("[data-catalog-sort]"),
+      min: container.querySelector("[data-catalog-min]"),
+      max: container.querySelector("[data-catalog-max]")
+    };
+  }
+
   function renderCatalog() {
     const grid = document.querySelector("[data-catalog-grid]");
+    const filters = document.querySelector("[data-catalog-filters]");
     if (!grid) return;
     setSeo(currentText.catalog.title + " | LacostaHaus", currentText.catalog.text);
     const properties = orderedProperties(propertiesData.catalog);
     if (!properties.length) {
+      if (filters) filters.innerHTML = "";
       grid.innerHTML = '<p class="catalog-empty">No hay inmuebles publicados todavia.</p>';
       return;
     }
-    grid.innerHTML = properties.map((property) => {
+
+    const enriched = properties.map((property, index) => {
       const text = propertyTranslation(property);
-      return `
-        <a class="catalog-card" href="${propertyUrl(property)}">
-          <div class="catalog-card__media">
-            ${responsiveImageMarkup(property.image, text.title || "", "(max-width: 860px) 100vw, 33vw")}
-          </div>
-          <div class="catalog-card__body">
-            <span>${text.tag || ""}</span>
-            <h2>${text.title || ""}</h2>
-            <p>${text.location || ""}</p>
-            <p>${text.excerpt || ""}</p>
-            <strong>${text.price || ""}</strong>
-          </div>
-        </a>
-      `;
-    }).join("");
+      const locations = catalogLocationSegments(text.location);
+      return {
+        property,
+        text,
+        index,
+        price: catalogPriceAmount(text.price),
+        locations,
+        haystack: [text.title, text.location, text.tag, text.excerpt].filter(Boolean).join(" ").toLowerCase()
+      };
+    });
+
+    const controls = renderCatalogFilters(filters, enriched);
+    const applyFilters = () => {
+      const labels = catalogFilterText();
+      const query = (controls?.search?.value || "").trim().toLowerCase();
+      const selectedLocation = controls?.location?.value || "";
+      const minValue = Number.parseFloat(controls?.min?.value || "");
+      const maxValue = Number.parseFloat(controls?.max?.value || "");
+      const min = Number.isFinite(minValue) ? minValue : -Infinity;
+      const max = Number.isFinite(maxValue) ? maxValue : Infinity;
+
+      let results = enriched.filter((item) => {
+        const matchesQuery = !query || item.haystack.includes(query);
+        const matchesLocation = !selectedLocation || item.locations.includes(selectedLocation);
+        const matchesPrice = item.price === null || (item.price >= min && item.price <= max);
+        return matchesQuery && matchesLocation && matchesPrice;
+      });
+
+      const sortMode = controls?.sort?.value || "recommended";
+      if (sortMode === "price-asc") {
+        results = results.slice().sort((a, b) => (a.price ?? Infinity) - (b.price ?? Infinity));
+      } else if (sortMode === "price-desc") {
+        results = results.slice().sort((a, b) => (b.price ?? -Infinity) - (a.price ?? -Infinity));
+      } else if (sortMode === "name") {
+        results = results.slice().sort((a, b) => (a.text.title || "").localeCompare(b.text.title || "", currentLanguage));
+      } else {
+        results = results.slice().sort((a, b) => a.index - b.index);
+      }
+
+      grid.innerHTML = results.length
+        ? results.map((item) => catalogCardMarkup(item.property, item.text)).join("")
+        : `<p class="catalog-empty">${labels.noResults}</p>`;
+    };
+
+    Object.values(controls || {}).forEach((control) => {
+      if (control) control.addEventListener("input", applyFilters);
+      if (control) control.addEventListener("change", applyFilters);
+    });
+    applyFilters();
   }
 
   function initCoverflow() {
@@ -1375,6 +1577,10 @@
       clearCoverflowState();
       const total = cards.length;
       cards[current].classList.add("is-active");
+      if (total === 2) {
+        cards[(current + 1) % total].classList.add("is-next");
+        return;
+      }
       cards[(current - 1 + total) % total].classList.add("is-prev");
       cards[(current + 1) % total].classList.add("is-next");
       cards[(current - 2 + total) % total].classList.add("is-prev-2");
@@ -1546,14 +1752,33 @@
   function initPropertyGallery() {
     const thumbs = Array.from(document.querySelectorAll(".thumbnail-container img"));
     if (!thumbs.length) return;
+    const thumbStrip = document.querySelector(".thumbnail-container");
+    let pendingThumb = null;
+    let wheelCommitTimer = 0;
 
-    function setActive(thumb) {
+    function setActive(thumb, updateMainMedia = true) {
       thumbs.forEach((item) => item.classList.remove("active"));
       thumb.classList.add("active");
+      pendingThumb = thumb;
+      thumb.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "smooth" });
+      if (!updateMainMedia) return;
       const galleryIndex = thumb.dataset.galleryIndex || "";
       setMainMedia(thumb.dataset.full || thumb.src, thumb.dataset.poster || "", thumb.alt);
       const mainImage = document.querySelector("#mainContainer img.media-content");
       if (mainImage && galleryIndex !== "") mainImage.dataset.galleryIndex = galleryIndex;
+    }
+
+    function commitPendingThumb() {
+      if (!pendingThumb) return;
+      setActive(pendingThumb, true);
+    }
+
+    function queueThumbCommit() {
+      if (wheelCommitTimer) window.clearTimeout(wheelCommitTimer);
+      wheelCommitTimer = window.setTimeout(() => {
+        wheelCommitTimer = 0;
+        commitPendingThumb();
+      }, 180);
     }
 
     thumbs.forEach((thumb) => {
@@ -1570,6 +1795,41 @@
     });
 
     setActive(thumbs[0]);
+
+    if (thumbStrip) {
+      thumbStrip.addEventListener("mouseenter", () => {
+        const active = thumbStrip.querySelector("img.active");
+        const fallback = active || thumbs[0];
+        if (fallback) {
+          pendingThumb = fallback;
+          setActive(fallback, false);
+        }
+      });
+
+      thumbStrip.addEventListener("mouseleave", () => {
+        if (wheelCommitTimer) {
+          window.clearTimeout(wheelCommitTimer);
+          wheelCommitTimer = 0;
+        }
+        commitPendingThumb();
+      });
+
+      thumbStrip.addEventListener("wheel", (event) => {
+        if (!thumbs.length) return;
+        event.preventDefault();
+
+        const currentThumb = pendingThumb || thumbStrip.querySelector("img.active") || thumbs[0];
+        const currentIndex = Math.max(0, thumbs.indexOf(currentThumb));
+        const direction = event.deltaY > 0 ? 1 : -1;
+        const nextIndex = Math.min(thumbs.length - 1, Math.max(0, currentIndex + direction));
+        const nextThumb = thumbs[nextIndex];
+        if (!nextThumb) return;
+
+        pendingThumb = nextThumb;
+        setActive(nextThumb, false);
+        queueThumbCommit();
+      }, { passive: false });
+    }
   }
 
   async function renderPropertyPage() {
