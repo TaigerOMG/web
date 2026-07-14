@@ -1,0 +1,161 @@
+{
+  "media": {
+    "poster": "",
+    "video": "",
+    "images": [
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/principal.webp",
+        "alt_es": "Imagen principal - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-01.webp",
+        "alt_es": "Imagen 2 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-02.webp",
+        "alt_es": "Imagen 3 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-03.webp",
+        "alt_es": "Imagen 4 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-04.webp",
+        "alt_es": "Imagen 5 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-05.webp",
+        "alt_es": "Imagen 6 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-06.webp",
+        "alt_es": "Imagen 7 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-07.webp",
+        "alt_es": "Imagen 8 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-08.webp",
+        "alt_es": "Imagen 9 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-09.webp",
+        "alt_es": "Imagen 10 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-10.webp",
+        "alt_es": "Imagen 11 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      },
+      {
+        "src": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/galeria-11.webp",
+        "alt_es": "Imagen 12 - Casa adosada de obra nueva en Torroella de Montgr\u00ED"
+      }
+    ],
+    "pdf": "",
+    "map_embed": "https://www.google.com/maps?q=Ronda%20de%20Pau%20Casals%2076%2C%20Torroella%20de%20Montgr%C3%AD%2C%20Girona\u0026output=embed",
+    "plot_graphic": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/grafico-parcela.png",
+    "source_url": "https://www.immogirona.com/es/281/?properties",
+    "other_agency": true,
+    "collaboration_note": "Captaci\u00F3n colaborativa con ImmoGirona gestionada por Sergiu Crudu. Las im\u00E1genes pueden conservar la marca de agua de la inmobiliaria colaboradora."
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Casa adosada de obra nueva en Torroella de Montgr\u00ED",
+      "seo_title": "Casa adosada de obra nueva en Torroella de Montgr\u00ED | LacostaHaus",
+      "seo_description": "Promoci\u00F3n de obra nueva en una ubicaci\u00F3n privilegiada de Torroella de Montgr\u00ED, con privacidad, vistas abiertas al Empordanet y posibilidad de personalizaci\u00F3n.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "525.000 \u20AC",
+      "details": [
+        [
+          "Tipo",
+          "Casa adosada"
+        ],
+        [
+          "Estado",
+          "Obra nueva"
+        ],
+        [
+          "Vistas",
+          "Llanura ampurdanesa y Castell del Montgr\u00ED"
+        ],
+        [
+          "Dormitorios",
+          "4"
+        ],
+        [
+          "Ba\u00F1os",
+          "4"
+        ],
+        [
+          "Construidos",
+          "226 m\u00B2"
+        ],
+        [
+          "Parcela",
+          "140 m\u00B2"
+        ],
+        [
+          "Terraza",
+          "S\u00ED"
+        ],
+        [
+          "Aire acondicionado",
+          "S\u00ED"
+        ],
+        [
+          "Calefacci\u00F3n",
+          "Aerotermia Panasonic Aquarea"
+        ],
+        [
+          "Certificado energ\u00E9tico",
+          "Consumo A / Eficiencia A"
+        ],
+        [
+          "C\u00F3digo postal",
+          "17130"
+        ],
+        [
+          "Municipio",
+          "Torroella de Montgr\u00ED"
+        ],
+        [
+          "Comarca",
+          "Baix Empord\u00E0"
+        ],
+        [
+          "Provincia",
+          "Girona"
+        ],
+        [
+          "Fecha publicaci\u00F3n",
+          "2026-05-07"
+        ],
+        [
+          "Colaboraci\u00F3n",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "LacostaHaus presenta esta captaci\u00F3n colaborativa con \u003Cstrong\u003EImmoGirona\u003C/strong\u003E en \u003Cstrong\u003ETorroella de Montgr\u00ED\u003C/strong\u003E, en la falda del Montgr\u00ED y con vistas abiertas a la llanura del Empordanet y al Castell.",
+        "Se trata de una \u003Cstrong\u003Epromoci\u00F3n de obra nueva\u003C/strong\u003E de tipolog\u00EDa residencial adosada, ubicada en la \u00FAltima l\u00EDnea edificable, con m\u00E1s privacidad y un entorno natural protegido en la parte trasera.",
+        "La vivienda ofrece \u003Cstrong\u003E226 m\u00B2 construidos\u003C/strong\u003E, \u003Cstrong\u003E4 dormitorios\u003C/strong\u003E, \u003Cstrong\u003E4 ba\u00F1os\u003C/strong\u003E, parcela de \u003Cstrong\u003E140 m\u00B2\u003C/strong\u003E, terraza, aire acondicionado y climatizaci\u00F3n por \u003Cstrong\u003Eaerotermia Panasonic Aquarea\u003C/strong\u003E.",
+        "Seg\u00FAn la ficha comercial, el proyecto contempla acabados de alta gama y posibilidad de personalizaci\u00F3n por parte del comprador. Revisa aqu\u00ED el texto final, la selecci\u00F3n de im\u00E1genes y el gr\u00E1fico de parcela antes de publicarlo."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    }
+  }
+}

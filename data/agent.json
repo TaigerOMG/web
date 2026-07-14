@@ -6,14 +6,14 @@
       "kicker": "Agente inmobiliario",
       "title": "Sergiu Crudu",
       "role": "Representante de ventas para mercados internacionales",
-      "intro": "Acompañamiento cercano para compradores y propietarios nacionales e internacionales en la Costa Brava.",
+      "intro": "Acompa\u00F1amiento cercano para compradores y propietarios nacionales e internacionales en la Costa Brava.",
       "languages_title": "Idiomas",
       "contact_title": "Contacto directo",
       "whatsapp": "Enviar un WhatsApp",
       "telegram": "Enviar un telegrama",
       "sms": "Enviar un mensaje de texto",
       "email": "Enviar email",
-      "phone": "+34 722 279 795",
+      "phone": "\u002B34 722 279 795",
       "back": "Contacto Web"
     },
     "en": {
@@ -29,72 +29,90 @@
       "telegram": "Send a Telegram",
       "sms": "Send a text message",
       "email": "Send email",
-      "phone": "+34 722 279 795",
+      "phone": "\u002B34 722 279 795",
       "back": "Website contact"
     },
     "fr": {
       "seo_title": "Sergiu Crudu | Agent immobilier LacostaHaus",
-      "seo_description": "Sergiu Crudu, représentant commercial pour les marchés internationaux chez LacostaHaus.",
+      "seo_description": "Sergiu Crudu, repr\u00E9sentant commercial pour les march\u00E9s internationaux chez LacostaHaus.",
       "kicker": "Agent immobilier",
       "title": "Sergiu Crudu",
-      "role": "Représentant commercial pour les marchés internationaux",
-      "intro": "Accompagnement personnalisé pour acheteurs et propriétaires nationaux et internationaux sur la Costa Brava.",
+      "role": "Repr\u00E9sentant commercial pour les march\u00E9s internationaux",
+      "intro": "Accompagnement personnalis\u00E9 pour acheteurs et propri\u00E9taires nationaux et internationaux sur la Costa Brava.",
       "languages_title": "Langues",
       "contact_title": "Contact direct",
       "whatsapp": "Envoyer un WhatsApp",
       "telegram": "Envoyer un Telegram",
       "sms": "Envoyer un SMS",
       "email": "Envoyer un email",
-      "phone": "+34 722 279 795",
+      "phone": "\u002B34 722 279 795",
       "back": "Contact web"
     },
     "de": {
       "seo_title": "Sergiu Crudu | Immobilienmakler LacostaHaus",
-      "seo_description": "Sergiu Crudu, Vertriebsvertreter für internationale Märkte bei LacostaHaus.",
+      "seo_description": "Sergiu Crudu, Vertriebsvertreter f\u00FCr internationale M\u00E4rkte bei LacostaHaus.",
       "kicker": "Immobilienmakler",
       "title": "Sergiu Crudu",
-      "role": "Vertriebsvertreter für internationale Märkte",
-      "intro": "Persönliche Begleitung für nationale und internationale Käufer und Eigentümer an der Costa Brava.",
+      "role": "Vertriebsvertreter f\u00FCr internationale M\u00E4rkte",
+      "intro": "Pers\u00F6nliche Begleitung f\u00FCr nationale und internationale K\u00E4ufer und Eigent\u00FCmer an der Costa Brava.",
       "languages_title": "Sprachen",
       "contact_title": "Direkter Kontakt",
       "whatsapp": "WhatsApp senden",
       "telegram": "Telegram senden",
       "sms": "SMS senden",
       "email": "E-Mail senden",
-      "phone": "+34 722 279 795",
+      "phone": "\u002B34 722 279 795",
       "back": "Web-Kontakt"
     },
     "ru": {
-      "seo_title": "Sergiu Crudu | Агент по недвижимости LacostaHaus",
-      "seo_description": "Sergiu Crudu, представитель по продажам для международных рынков в LacostaHaus.",
-      "kicker": "Агент по недвижимости",
+      "seo_title": "Sergiu Crudu | \u0410\u0433\u0435\u043D\u0442 \u043F\u043E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 LacostaHaus",
+      "seo_description": "Sergiu Crudu, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u043F\u043E \u043F\u0440\u043E\u0434\u0430\u0436\u0430\u043C \u0434\u043B\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0440\u044B\u043D\u043A\u043E\u0432 \u0432 LacostaHaus.",
+      "kicker": "\u0410\u0433\u0435\u043D\u0442 \u043F\u043E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
       "title": "Sergiu Crudu",
-      "role": "Представитель по продажам для международных рынков",
-      "intro": "Персональное сопровождение для покупателей и владельцев недвижимости на Коста-Брава.",
-      "languages_title": "Языки",
-      "contact_title": "Прямой контакт",
-      "whatsapp": "Отправить WhatsApp",
-      "telegram": "Отправить Telegram",
-      "sms": "Отправить SMS",
-      "email": "Отправить email",
-      "phone": "+34 722 279 795",
-      "back": "Контакт на сайте"
+      "role": "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u043F\u043E \u043F\u0440\u043E\u0434\u0430\u0436\u0430\u043C \u0434\u043B\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0440\u044B\u043D\u043A\u043E\u0432",
+      "intro": "\u041F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u0435\u0439 \u0438 \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u0432 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u043D\u0430 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430.",
+      "languages_title": "\u042F\u0437\u044B\u043A\u0438",
+      "contact_title": "\u041F\u0440\u044F\u043C\u043E\u0439 \u043A\u043E\u043D\u0442\u0430\u043A\u0442",
+      "whatsapp": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C WhatsApp",
+      "telegram": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C Telegram",
+      "sms": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C SMS",
+      "email": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C email",
+      "phone": "\u002B34 722 279 795",
+      "back": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442 \u043D\u0430 \u0441\u0430\u0439\u0442\u0435"
     }
   },
   "languages": [
-    { "flag": "cat", "label": "Català" },
-    { "flag": "fr", "label": "Français" },
-    { "flag": "de", "label": "Deutsch" },
-    { "flag": "ro", "label": "Română" },
-    { "flag": "ru", "label": "Русский" },
-    { "flag": "es", "label": "Español" }
+    {
+      "flag": "cat",
+      "label": "Catal\u00E0"
+    },
+    {
+      "flag": "fr",
+      "label": "Fran\u00E7ais"
+    },
+    {
+      "flag": "de",
+      "label": "Deutsch"
+    },
+    {
+      "flag": "ro",
+      "label": "Rom\u00E2n\u0103"
+    },
+    {
+      "flag": "ru",
+      "label": "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+    },
+    {
+      "flag": "es",
+      "label": "Espa\u00F1ol"
+    }
   ],
   "contact": {
-    "phone": "+34 722 279 795",
-    "phone_href": "tel:+34722279795",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=34722279795&text&type=phone_number&app_absent=0",
-    "telegram": "https://t.me/+34722279795",
-    "sms": "sms:+34722279795",
+    "phone": "\u002B34 722 279 795",
+    "phone_href": "tel:\u002B34722279795",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=34722279795\u0026text\u0026type=phone_number\u0026app_absent=0",
+    "telegram": "https://t.me/\u002B34722279795",
+    "sms": "sms:\u002B34722279795",
     "email": "mailto:lacostahaus@gmail.com"
   }
 }

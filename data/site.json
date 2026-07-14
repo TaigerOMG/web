@@ -5,17 +5,37 @@
   "brand": "LacostaHaus",
   "logo": "assets/logo-lacostahaus-small.png",
   "contact": {
-    "phone": "+34 722 279 795",
+    "phone": "\u002B34 722 279 795",
     "email": "lacostahaus@gmail.com",
-    "spokenLanguages": "Español - Català - Română - Français - Deutsch - Русский",
+    "spokenLanguages": "Espa\u00F1ol - Catal\u00E0 - Rom\u00E2n\u0103 - Fran\u00E7ais - Deutsch - \u0420\u0443\u0441\u0441\u043A\u0438\u0439",
     "image": "assets/contacto-asesor.png"
   },
   "languages": [
-    { "code": "es", "label": "Español", "htmlLang": "es" },
-    { "code": "en", "label": "English", "htmlLang": "en" },
-    { "code": "fr", "label": "Français", "htmlLang": "fr" },
-    { "code": "de", "label": "Deutsch", "htmlLang": "de" },
-    { "code": "ru", "label": "Русский", "htmlLang": "ru" }
+    {
+      "code": "es",
+      "label": "Espa\u00F1ol",
+      "htmlLang": "es"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "htmlLang": "en"
+    },
+    {
+      "code": "fr",
+      "label": "Fran\u00E7ais",
+      "htmlLang": "fr"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch",
+      "htmlLang": "de"
+    },
+    {
+      "code": "ru",
+      "label": "\u0420\u0443\u0441\u0441\u043A\u0438\u0439",
+      "htmlLang": "ru"
+    }
   ],
   "routes": {
     "home": "index.html",

@@ -1,0 +1,257 @@
+{
+  "media": {
+    "poster": "",
+    "video": "",
+    "images": [
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/principal.webp",
+        "alt_es": "Imagen principal - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-01.webp",
+        "alt_es": "Imagen 2 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-02.webp",
+        "alt_es": "Imagen 3 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-03.webp",
+        "alt_es": "Imagen 4 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-04.webp",
+        "alt_es": "Imagen 5 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-05.webp",
+        "alt_es": "Imagen 6 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-06.webp",
+        "alt_es": "Imagen 7 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-07.webp",
+        "alt_es": "Imagen 8 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-08.webp",
+        "alt_es": "Imagen 9 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-09.webp",
+        "alt_es": "Imagen 10 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-10.webp",
+        "alt_es": "Imagen 11 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-11.webp",
+        "alt_es": "Imagen 12 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-12.webp",
+        "alt_es": "Imagen 13 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-13.webp",
+        "alt_es": "Imagen 14 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-14.webp",
+        "alt_es": "Imagen 15 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-15.webp",
+        "alt_es": "Imagen 16 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-16.webp",
+        "alt_es": "Imagen 17 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-17.webp",
+        "alt_es": "Imagen 18 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-18.webp",
+        "alt_es": "Imagen 19 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-19.webp",
+        "alt_es": "Imagen 20 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-20.webp",
+        "alt_es": "Imagen 21 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-21.webp",
+        "alt_es": "Imagen 22 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-22.webp",
+        "alt_es": "Imagen 23 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-23.webp",
+        "alt_es": "Imagen 24 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-24.webp",
+        "alt_es": "Imagen 25 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-25.webp",
+        "alt_es": "Imagen 26 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-26.webp",
+        "alt_es": "Imagen 27 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-27.webp",
+        "alt_es": "Imagen 28 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-28.webp",
+        "alt_es": "Imagen 29 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-29.webp",
+        "alt_es": "Imagen 30 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-30.webp",
+        "alt_es": "Imagen 31 - Piso moderno con piscina, terraza y parking"
+      },
+      {
+        "src": "assets/inmuebles/piso-roca-grossa-lloret-mar/galeria-31.webp",
+        "alt_es": "Imagen 32 - Piso moderno con piscina, terraza y parking"
+      }
+    ],
+    "pdf": "",
+    "map_embed": "https://www.google.com/maps?q=Roca%20Grossa%2C%20Lloret%20de%20Mar%2C%20Girona\u0026output=embed",
+    "plot_graphic": "assets/inmuebles/piso-roca-grossa-lloret-mar/grafico-parcela.png",
+    "source_url": "https://www.immogirona.com/es/261/?properties",
+    "other_agency": true,
+    "collaboration_note": "Captaci\u00F3n colaborativa de ImmoGirona y LacostaHaus hecha por Sergiu Crudu. Las im\u00E1genes pueden conservar la marca de agua de la inmobiliaria colaboradora."
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Piso moderno con piscina, terraza y parking",
+      "seo_title": "Piso moderno con piscina, terraza y parking | LacostaHaus",
+      "seo_description": "Piso moderno completamente reformado en Roca Grossa, Lloret de Mar, con piscina, terraza, parking, aire acondicionado y vistas al mar.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "279.000 \u20AC",
+      "details": [
+        [
+          "Vistas",
+          "Mar"
+        ],
+        [
+          "Estado",
+          "Completamente renovado"
+        ],
+        [
+          "Superficie",
+          "87 m\u00B2"
+        ],
+        [
+          "\u00DAtiles",
+          "71 m\u00B2"
+        ],
+        [
+          "Dormitorios",
+          "2"
+        ],
+        [
+          "Ba\u00F1os",
+          "1"
+        ],
+        [
+          "Piscina",
+          "S\u00ED"
+        ],
+        [
+          "Terraza",
+          "S\u00ED"
+        ],
+        [
+          "Parking",
+          "S\u00ED"
+        ],
+        [
+          "Aire acondicionado",
+          "S\u00ED"
+        ],
+        [
+          "Tipo",
+          "Piso"
+        ],
+        [
+          "Planta",
+          "3"
+        ],
+        [
+          "Residencial",
+          "S\u00ED"
+        ],
+        [
+          "Barrio",
+          "Roca Grossa"
+        ],
+        [
+          "Municipio",
+          "Lloret de Mar"
+        ],
+        [
+          "C\u00F3digo postal",
+          "17310"
+        ],
+        [
+          "Comarca",
+          "Selva"
+        ],
+        [
+          "Provincia",
+          "Girona"
+        ],
+        [
+          "Certificado energ\u00E9tico",
+          "Consum:F-238|Efici\u00E8ncia:E-44"
+        ],
+        [
+          "Fecha publicaci\u00F3n",
+          "2026-02-07"
+        ],
+        [
+          "Colaboraci\u00F3n",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "LacostaHaus presenta esta captaci\u00F3n colaborativa con \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, gestionada por \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, en la zona de Roca Grossa de Lloret de Mar.",
+        "La referencia comercial describe un piso moderno en venta, completamente renovado, con piscina, terraza, parking, aire acondicionado y vistas al mar.",
+        "Seg\u00FAn la informaci\u00F3n de referencia, la vivienda se encuentra en una tercera planta, en el c\u00F3digo postal 17310, municipio de Lloret de Mar, comarca de la Selva y provincia de Girona.",
+        "Completa aqu\u00ED los datos definitivos antes de subirlo a LacostaHaus: precio, metros, habitaciones, ba\u00F1os, equipamiento, descripci\u00F3n comercial final, im\u00E1genes y gr\u00E1fico de parcela si procede."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    }
+  }
+}

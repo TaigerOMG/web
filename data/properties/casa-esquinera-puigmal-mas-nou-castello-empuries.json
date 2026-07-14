@@ -1,0 +1,398 @@
+{
+  "media": {
+    "poster": "",
+    "video": "",
+    "images": [
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/principal.webp",
+        "alt_es": "Imagen principal - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-01.webp",
+        "alt_es": "Imagen 2 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-02.webp",
+        "alt_es": "Imagen 3 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-03.webp",
+        "alt_es": "Imagen 4 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-04.webp",
+        "alt_es": "Imagen 5 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-05.webp",
+        "alt_es": "Imagen 6 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-06.webp",
+        "alt_es": "Imagen 7 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-07.webp",
+        "alt_es": "Imagen 8 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-08.webp",
+        "alt_es": "Imagen 9 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-09.webp",
+        "alt_es": "Imagen 10 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-10.webp",
+        "alt_es": "Imagen 11 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-11.webp",
+        "alt_es": "Imagen 12 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-12.webp",
+        "alt_es": "Imagen 13 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-13.webp",
+        "alt_es": "Imagen 14 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-14.webp",
+        "alt_es": "Imagen 15 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-15.webp",
+        "alt_es": "Imagen 16 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-16.webp",
+        "alt_es": "Imagen 17 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-17.webp",
+        "alt_es": "Imagen 18 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-18.webp",
+        "alt_es": "Imagen 19 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-19.webp",
+        "alt_es": "Imagen 20 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-20.webp",
+        "alt_es": "Imagen 21 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-21.webp",
+        "alt_es": "Imagen 22 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-22.webp",
+        "alt_es": "Imagen 23 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-23.webp",
+        "alt_es": "Imagen 24 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-24.webp",
+        "alt_es": "Imagen 25 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-25.webp",
+        "alt_es": "Imagen 26 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-26.webp",
+        "alt_es": "Imagen 27 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-27.webp",
+        "alt_es": "Imagen 28 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-28.webp",
+        "alt_es": "Imagen 29 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-29.webp",
+        "alt_es": "Imagen 30 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-30.webp",
+        "alt_es": "Imagen 31 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-31.webp",
+        "alt_es": "Imagen 32 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-32.webp",
+        "alt_es": "Imagen 33 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-33.webp",
+        "alt_es": "Imagen 34 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-34.webp",
+        "alt_es": "Imagen 35 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-35.webp",
+        "alt_es": "Imagen 36 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-36.webp",
+        "alt_es": "Imagen 37 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-37.webp",
+        "alt_es": "Imagen 38 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-38.webp",
+        "alt_es": "Imagen 39 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-39.webp",
+        "alt_es": "Imagen 40 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-40.webp",
+        "alt_es": "Imagen 41 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-41.webp",
+        "alt_es": "Imagen 42 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-42.webp",
+        "alt_es": "Imagen 43 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-43.webp",
+        "alt_es": "Imagen 44 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-44.webp",
+        "alt_es": "Imagen 45 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-45.webp",
+        "alt_es": "Imagen 46 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-46.webp",
+        "alt_es": "Imagen 47 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-47.webp",
+        "alt_es": "Imagen 48 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-48.webp",
+        "alt_es": "Imagen 49 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-49.webp",
+        "alt_es": "Imagen 50 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-50.webp",
+        "alt_es": "Imagen 51 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-51.webp",
+        "alt_es": "Imagen 52 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-52.webp",
+        "alt_es": "Imagen 53 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-53.webp",
+        "alt_es": "Imagen 54 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-54.webp",
+        "alt_es": "Imagen 55 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-55.webp",
+        "alt_es": "Imagen 56 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-56.webp",
+        "alt_es": "Imagen 57 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-57.webp",
+        "alt_es": "Imagen 58 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-58.webp",
+        "alt_es": "Imagen 59 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-59.webp",
+        "alt_es": "Imagen 60 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-60.webp",
+        "alt_es": "Imagen 61 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-61.webp",
+        "alt_es": "Imagen 62 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      },
+      {
+        "src": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/galeria-62.webp",
+        "alt_es": "Imagen 63 - Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries"
+      }
+    ],
+    "pdf": "",
+    "map_embed": "https://www.google.com/maps?q=PUIGMAL%20F1%2073%2C%20Castell%C3%B3%20d%27Emp%C3%BAries%2C%20Girona\u0026output=embed",
+    "plot_graphic": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/grafico-parcela.png",
+    "source_url": "https://www.immogirona.com/es/276/?properties",
+    "other_agency": true,
+    "collaboration_note": "Captaci\u00F3n colaborativa con ImmoGirona gestionada por Sergiu Crudu. Las im\u00E1genes pueden conservar la marca de agua de la inmobiliaria colaboradora."
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
+      "seo_title": "Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries | LacostaHaus",
+      "seo_description": "Casa esquinera en el sector Puigmal-Mas Nou, con garaje privado, terraza, barbacoa, zona ajardinada y buena orientaci\u00F3n.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "240.000 \u20AC",
+      "details": [
+        [
+          "Tipo",
+          "Casa esquinera"
+        ],
+        [
+          "Estado",
+          "Buen estado"
+        ],
+        [
+          "Zona",
+          "Puigmal - Mas Nou"
+        ],
+        [
+          "Construidos",
+          "98 m\u00B2"
+        ],
+        [
+          "\u00DAtiles",
+          "59 m\u00B2"
+        ],
+        [
+          "Parcela",
+          "119 m\u00B2"
+        ],
+        [
+          "Dormitorios",
+          "2"
+        ],
+        [
+          "Ba\u00F1os",
+          "2"
+        ],
+        [
+          "Terraza",
+          "S\u00ED"
+        ],
+        [
+          "Jard\u00EDn",
+          "Zona ajardinada"
+        ],
+        [
+          "Barbacoa",
+          "S\u00ED"
+        ],
+        [
+          "Garaje",
+          "Privado"
+        ],
+        [
+          "Aparcamiento",
+          "Privado"
+        ],
+        [
+          "Aire acondicionado",
+          "S\u00ED"
+        ],
+        [
+          "Cocina",
+          "Amueblada y equipada"
+        ],
+        [
+          "Amueblado",
+          "S\u00ED"
+        ],
+        [
+          "Antig\u00FCedad",
+          "1988 (38 a\u00F1os)"
+        ],
+        [
+          "C\u00F3digo postal",
+          "17487"
+        ],
+        [
+          "Municipio",
+          "Castell\u00F3 d\u0027Emp\u00FAries"
+        ],
+        [
+          "Comarca",
+          "Alt Empord\u00E0"
+        ],
+        [
+          "Provincia",
+          "Girona"
+        ],
+        [
+          "C\u00E9dula de habitabilidad",
+          "890717047006954"
+        ],
+        [
+          "Certificado energ\u00E9tico",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "Fecha publicaci\u00F3n",
+          "2026-03-30"
+        ],
+        [
+          "Colaboraci\u00F3n",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "LacostaHaus presenta esta captaci\u00F3n colaborativa con \u003Cstrong\u003EImmoGirona\u003C/strong\u003E en el sector \u003Cstrong\u003EPuigmal-Mas Nou\u003C/strong\u003E de Castell\u00F3 d\u0027Emp\u00FAries, una zona residencial tranquila y pr\u00F3xima a servicios y playas del Empord\u00E0.",
+        "La ficha comercial describe una \u003Cstrong\u003Ecasa esquinera\u003C/strong\u003E bien orientada y luminosa, con parcela de \u003Cstrong\u003E119 m\u00B2\u003C/strong\u003E, zona ajardinada, terraza, barbacoa y espacio exterior para disfrutar al aire libre.",
+        "La vivienda cuenta con \u003Cstrong\u003E98 m\u00B2 construidos\u003C/strong\u003E, se entrega completamente amueblada, con cocina equipada, aire acondicionado y aparcamiento privado.",
+        "Seg\u00FAn la referencia, dispone de garaje privado y una antig\u00FCedad aproximada de entre \u003Cstrong\u003E30 y 50 a\u00F1os\u003C/strong\u003E, manteni\u00E9ndose en condiciones para entrar a vivir.",
+        "Revisa aqu\u00ED la selecci\u00F3n final de im\u00E1genes, el gr\u00E1fico de parcela y el texto comercial antes de publicar la ficha en LacostaHaus."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    }
+  }
+}
