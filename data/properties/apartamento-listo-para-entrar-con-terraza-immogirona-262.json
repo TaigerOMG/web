@@ -201,6 +201,336 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "279.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Pis llest per entrar a viure amb terrassa",
+      "seo_description": "Descobreix aquest encantador pis de 70 m\u00B2 en un animat poble costaner de Girona, que ofereix la combinaci\u00F3 perfecta de comoditat i conveni\u00E8ncia.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Pis llest per entrar a viure amb terrassa | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "apartament"
+        ],
+        [
+          "\u00C0rea",
+          "70 m\u00B2"
+        ],
+        [
+          "Municipi",
+          "Lloret de Mar"
+        ],
+        [
+          "Codi postal",
+          "17310"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Habitacions",
+          "2"
+        ],
+        [
+          "Banys",
+          "1"
+        ],
+        [
+          "Edat",
+          "2004 (22 anys)"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E.",
+        "Descobreix aquest encantador pis de 70 m\u00B2 en un animat poble costaner de Girona, que ofereix la combinaci\u00F3 perfecta de comoditat i conveni\u00E8ncia. Constru\u00EFt el 2004, aquesta propietat ben mantinguda est\u00E0 a punt perqu\u00E8 t\u0027hi traslladis i la gaudeixis.",
+        "Endinseu-vos en un espai de dia llumin\u00F3s i acollidor, curosament i completament moblat, tal com es mostra a les fotos, que ofereix una comoditat immediata. La cuina moderna i totalment equipada garanteix una experi\u00E8ncia de cuina agradable. Amb aire condicionat, gaudireu d\u0027un clima confortable durant tot l\u0027any.",
+        "La propietat tamb\u00E9 disposa d\u0027una bonica terrassa, ideal per gaudir del caf\u00E8 del mat\u00ED o de la brisa vespertina. Per a la vostra m\u00E0xima comoditat, l\u0027edifici est\u00E0 equipat amb ascensor, garantint un acc\u00E9s f\u00E0cil al vostre nou habitatge.",
+        "Situat en una zona molt cotitzada de Lloret de Mar, aquest pis \u00E9s perfecte per a qui busca una resid\u00E8ncia principal, un refugi de vacances relaxant o una oportunitat d\u0027inversi\u00F3 intel\u00B7ligent a la magn\u00EDfica Costa Brava. No deixeu passar l\u0027oportunitat de fer-lo vostre!"
+      ],
+      "location_text": "Lloret De Mar \u00B7 17310 \u00B7 Girona"
+    },
+    "en": {
+      "price": "279.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Move-In Ready Apartment with Terrace",
+      "seo_description": "Discover this charming 70 m\u00B2 apartment in a vibrant coastal town in Girona, offering the perfect combination of comfort and convenience.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Move-In Ready Apartment with Terrace | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "apartment"
+        ],
+        [
+          "Area",
+          "70 m\u00B2"
+        ],
+        [
+          "Municipality",
+          "Lloret de Mar"
+        ],
+        [
+          "ZIP code",
+          "17310"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Bedrooms",
+          "2"
+        ],
+        [
+          "Bathrooms",
+          "1"
+        ],
+        [
+          "Age",
+          "2004 (22 years)"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E.",
+        "Discover this charming 70 m\u00B2 apartment in a vibrant coastal town in Girona, offering the perfect combination of comfort and convenience. Built in 2004, this well-maintained property is ready for you to move in and enjoy.",
+        "Step into a bright and welcoming living space, carefully and fully furnished, as beautifully shown in the photos, offering immediate comfort. The modern, fully equipped kitchen ensures a pleasant culinary experience. With air conditioning, you\u2019ll enjoy a comfortable climate year-round.",
+        "The property also features a beautiful terrace, perfect for enjoying your morning coffee or the evening breeze. For your complete convenience, the building is equipped with an elevator, ensuring easy access to your new home.",
+        "Located in a desirable area of Lloret de Mar, this apartment is perfect for those looking for a primary residence, a relaxing vacation retreat, or a smart investment opportunity on the stunning Costa Brava. Don\u2019t miss your chance to make it yours!"
+      ],
+      "location_text": "Lloret De Mar \u00B7 17310 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "279.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Appartement pr\u00EAt \u00E0 emm\u00E9nager avec terrasse",
+      "seo_description": "D\u00E9couvrez ce charmant appartement de 70 m\u00B2 situ\u00E9 dans une ville c\u00F4ti\u00E8re anim\u00E9e de la province de G\u00E9rone, qui vous offre l\u0027alliance parfaite entre confort et commodit\u00E9.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Appartement pr\u00EAt \u00E0 emm\u00E9nager avec terrasse | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "appartement"
+        ],
+        [
+          "Superficie",
+          "70 m\u00B2"
+        ],
+        [
+          "Commune",
+          "Lloret-de-Mar"
+        ],
+        [
+          "Code postal",
+          "17310"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Chambres",
+          "2"
+        ],
+        [
+          "Salles de bains",
+          "1"
+        ],
+        [
+          "Anciennet\u00E9",
+          "2004 (22 ans)"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E.",
+        "D\u00E9couvrez ce charmant appartement de 70 m\u00B2 situ\u00E9 dans une ville c\u00F4ti\u00E8re anim\u00E9e de la province de G\u00E9rone, qui vous offre l\u2019alliance parfaite entre confort et commodit\u00E9. Construite en 2004, cette propri\u00E9t\u00E9 en bon \u00E9tat est pr\u00EAte \u00E0 vous accueillir pour que vous puissiez en profiter pleinement.",
+        "D\u00E9couvrez un espace de vie lumineux et chaleureux, soigneusement et enti\u00E8rement meubl\u00E9, comme le montrent magnifiquement les photos, vous offrant un confort imm\u00E9diat. La cuisine moderne et enti\u00E8rement \u00E9quip\u00E9e vous garantit une exp\u00E9rience culinaire agr\u00E9able. Gr\u00E2ce \u00E0 la climatisation, vous b\u00E9n\u00E9ficierez d\u2019une temp\u00E9rature agr\u00E9able tout au long de l\u2019ann\u00E9e.",
+        "La propri\u00E9t\u00E9 dispose \u00E9galement d\u2019une magnifique terrasse, id\u00E9ale pour savourer votre caf\u00E9 du matin ou profiter de la brise du soir. Pour votre plus grand confort, l\u2019immeuble est \u00E9quip\u00E9 d\u2019un ascenseur, vous garantissant un acc\u00E8s ais\u00E9 \u00E0 votre nouveau logement.",
+        "Situ\u00E9 dans un quartier pris\u00E9 de Lloret de Mar, cet appartement est id\u00E9al pour ceux qui recherchent une r\u00E9sidence principale, un lieu de vill\u00E9giature propice \u00E0 la d\u00E9tente ou une opportunit\u00E9 d\u0027investissement judicieuse sur la magnifique Costa Brava. Ne manquez pas l\u0027occasion de l\u0027acqu\u00E9rir !"
+      ],
+      "location_text": "Lloret De Mar \u00B7 17310 \u00B7 Girona"
+    },
+    "de": {
+      "price": "279.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Bezugsfertige Wohnung mit Terrasse",
+      "seo_description": "Entdecken Sie diese bezaubernde 70 m\u00B2 gro\u00DFe Wohnung in einer pulsierenden K\u00FCstenstadt in der Provinz Girona, die Ihnen die perfekte Kombination aus Komfort und Behaglichkeit bietet.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Bezugsfertige Wohnung mit Terrasse | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Wohnung"
+        ],
+        [
+          "Fl\u00E4che",
+          "70 m\u00B2"
+        ],
+        [
+          "Gemeinde",
+          "Lloret de Mar"
+        ],
+        [
+          "Postleitzahl",
+          "17310"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Schlafzimmer",
+          "2"
+        ],
+        [
+          "Badezimmer",
+          "1"
+        ],
+        [
+          "Alter",
+          "2004 (vor 22 Jahren)"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Immobilienangebot in \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E.",
+        "Entdecken Sie diese bezaubernde 70 m\u00B2 gro\u00DFe Wohnung in einer pulsierenden K\u00FCstenstadt in der Provinz Girona, die Ihnen die perfekte Kombination aus Komfort und Behaglichkeit bietet. Die im Jahr 2004 erbaute Immobilie befindet sich in gutem Zustand und ist bezugsfertig, sodass Sie sie sofort genie\u00DFen k\u00F6nnen.",
+        "Tauchen Sie ein in einen hellen und gem\u00FCtlichen Wohnraum, der sorgf\u00E4ltig und komplett eingerichtet ist, wie auf den Fotos wundersch\u00F6n zu sehen ist, und der Ihnen sofortigen Komfort bietet. Die moderne, voll ausgestattete K\u00FCche garantiert Ihnen ein angenehmes Kocherlebnis. Dank der Klimaanlage genie\u00DFen Sie das ganze Jahr \u00FCber ein angenehmes Raumklima.",
+        "Die Immobilie verf\u00FCgt zudem \u00FCber eine wundersch\u00F6ne Terrasse, die sich ideal eignet, um Ihren Morgenkaffee oder die abendliche Brise zu genie\u00DFen. F\u00FCr Ihren h\u00F6chsten Komfort ist das Geb\u00E4ude mit einem Aufzug ausgestattet, der Ihnen einen bequemen Zugang zu Ihrem neuen Zuhause gew\u00E4hrleistet.",
+        "Diese Wohnung befindet sich in einer begehrten Lage in Lloret de Mar und ist ideal f\u00FCr alle, die einen Hauptwohnsitz, einen erholsamen Urlaubsort oder eine kluge Investitionsm\u00F6glichkeit an der atemberaubenden Costa Brava suchen. Lassen Sie sich diese Gelegenheit nicht entgehen!"
+      ],
+      "location_text": "Lloret De Mar \u00B7 17310 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "279.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430, \u0433\u043E\u0442\u043E\u0432\u0430\u044F \u043A \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044E, \u0441 \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439",
+      "seo_description": "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u043E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 70 \u043C\u00B2 \u0432 \u043E\u0436\u0438\u0432\u043B\u0451\u043D\u043D\u043E\u043C \u043F\u0440\u0438\u0431\u0440\u0435\u0436\u043D\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u0435 \u0416\u0438\u0440\u043E\u043D\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442 \u0432\u0430\u043C \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435 \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0430 \u0438 \u0443\u0434\u043E\u0431\u0441\u0442\u0432\u0430.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430, \u0433\u043E\u0442\u043E\u0432\u0430\u044F \u043A \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044E, \u0441 \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
+          "70 m\u00B2"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17310"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "2"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "1"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "2004 \u0433\u043E\u0434 (22 \u0433\u043E\u0434\u0430)"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0434\u0430\u043D\u043D\u043E\u0435 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0435 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440\u003C/strong\u003E.",
+        "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u043E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 70 \u043C\u00B2 \u0432 \u043E\u0436\u0438\u0432\u043B\u0451\u043D\u043D\u043E\u043C \u043F\u0440\u0438\u0431\u0440\u0435\u0436\u043D\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u0435 \u0416\u0438\u0440\u043E\u043D\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442 \u0432\u0430\u043C \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435 \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0430 \u0438 \u0443\u0434\u043E\u0431\u0441\u0442\u0432\u0430. \u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0430\u044F \u0432 2004 \u0433\u043E\u0434\u0443, \u044D\u0442\u0430 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0445\u043E\u0440\u043E\u0448\u0435\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438 \u0438 \u0433\u043E\u0442\u043E\u0432\u0430 \u043A \u0442\u043E\u043C\u0443, \u0447\u0442\u043E\u0431\u044B \u0432\u044B \u043F\u0435\u0440\u0435\u0435\u0445\u0430\u043B\u0438 \u0432 \u043D\u0435\u0451 \u0438 \u043D\u0430\u0441\u043B\u0430\u0436\u0434\u0430\u043B\u0438\u0441\u044C \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043D\u0438\u0435\u043C.",
+        "\u041F\u043E\u0433\u0440\u0443\u0437\u0438\u0442\u0435\u0441\u044C \u0432 \u0441\u0432\u0435\u0442\u043B\u043E\u0435 \u0438 \u0443\u044E\u0442\u043D\u043E\u0435 \u0436\u0438\u043B\u043E\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u043E, \u0442\u0449\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0438 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043C\u0435\u0431\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u0435, \u043A\u0430\u043A \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E \u0432\u0438\u0434\u043D\u043E \u043D\u0430 \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u044F\u0445, \u0447\u0442\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043C\u0433\u043D\u043E\u0432\u0435\u043D\u043D\u044B\u0439 \u043A\u043E\u043C\u0444\u043E\u0440\u0442. \u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u043A\u0443\u0445\u043D\u044F \u0433\u0430\u0440\u0430\u043D\u0442\u0438\u0440\u0443\u0435\u0442 \u0432\u0430\u043C \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u0435 \u043A\u0443\u043B\u0438\u043D\u0430\u0440\u043D\u044B\u0435 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u0435\u043D\u0438\u044F. \u0411\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0441\u0438\u0441\u0442\u0435\u043C\u0435 \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u0432\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044C \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u043D\u0443\u044E \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0443 \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 \u0432\u0441\u0435\u0433\u043E \u0433\u043E\u0434\u0430.",
+        "\u0412 \u0434\u043E\u043C\u0435 \u0442\u0430\u043A\u0436\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u0430\u044F \u0442\u0435\u0440\u0440\u0430\u0441\u0430, \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0430\u044F \u0434\u043B\u044F \u0442\u043E\u0433\u043E, \u0447\u0442\u043E\u0431\u044B \u043D\u0430\u0441\u043B\u0430\u0434\u0438\u0442\u044C\u0441\u044F \u0443\u0442\u0440\u0435\u043D\u043D\u0438\u043C \u043A\u043E\u0444\u0435 \u0438\u043B\u0438 \u0432\u0435\u0447\u0435\u0440\u043D\u0438\u043C \u0431\u0440\u0438\u0437\u043E\u043C. \u0414\u043B\u044F \u0432\u0430\u0448\u0435\u0433\u043E \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0443\u0434\u043E\u0431\u0441\u0442\u0432\u0430 \u0437\u0434\u0430\u043D\u0438\u0435 \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043E \u043B\u0438\u0444\u0442\u043E\u043C, \u0447\u0442\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043B\u0435\u0433\u043A\u0438\u0439 \u0434\u043E\u0441\u0442\u0443\u043F \u043A \u0432\u0430\u0448\u0435\u043C\u0443 \u043D\u043E\u0432\u043E\u043C\u0443 \u0434\u043E\u043C\u0443.",
+        "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u044D\u0442\u0430 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u0438\u0449\u0435\u0442 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0436\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430, \u0443\u044E\u0442\u043D\u043E\u0435 \u043C\u0435\u0441\u0442\u043E \u0434\u043B\u044F \u043E\u0442\u0434\u044B\u0445\u0430 \u0438\u043B\u0438 \u0432\u044B\u0433\u043E\u0434\u043D\u0443\u044E \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u0443\u044E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u043D\u0430 \u0436\u0438\u0432\u043E\u043F\u0438\u0441\u043D\u043E\u043C \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430. \u041D\u0435 \u0443\u043F\u0443\u0441\u0442\u0438\u0442\u0435 \u0448\u0430\u043D\u0441 \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 \u0435\u0451!"
+      ],
+      "location_text": "Lloret De Mar \u00B7 17310 \u00B7 Girona"
     }
   }
 }

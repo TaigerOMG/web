@@ -1,130 +1,130 @@
 {
-    "translations":  {
-                         "es":  {
-                                    "seo_title":  "Política de privacidad | LacostaHaus",
-                                    "seo_description":  "Información sobre el tratamiento de datos personales en LacostaHaus.",
-                                    "title":  "Política de privacidad",
-                                    "updated":  "Última actualización: junio de 2026",
-                                    "back_home":  "Volver al inicio",
-                                    "identity_title":  "Responsable del tratamiento",
-                                    "identity":  [
-                                                     "El responsable de los datos recogidos a través de esta web es LacostaHaus. Puedes contactar con nosotros en lacostahaus@gmail.com o en el teléfono +34 722 279 795.",
-                                                     "Esta política se aplica a los formularios de contacto, solicitudes de información, solicitudes de valoración y comunicaciones relacionadas con servicios inmobiliarios."
-                                                 ],
-                                    "data_title":  "Datos que podemos recoger",
-                                    "data":  [
-                                                 "Podemos tratar datos identificativos y de contacto como nombre, correo electrónico, teléfono y el contenido del mensaje que envíes voluntariamente.",
-                                                 "Si solicitas información sobre un inmueble o una valoración, también podremos tratar datos relacionados con la propiedad, ubicación aproximada, características básicas y preferencias de compra o venta."
-                                             ],
-                                    "purpose_title":  "Finalidad del tratamiento",
-                                    "purpose":  [
-                                                    "Utilizamos los datos para responder consultas, gestionar solicitudes de contacto, preparar valoraciones inmobiliarias, enviar información solicitada y prestar servicios de intermediación o asesoramiento inmobiliario.",
-                                                    "También podemos usar datos técnicos y de navegación, siempre según la configuración de cookies, para analizar el funcionamiento de la web y mejorar la experiencia."
-                                                ],
-                                    "legal_title":  "Base legal",
-                                    "legal":  [
-                                                  "La base legal principal es tu consentimiento al enviar un formulario o solicitar información. En algunos casos, el tratamiento puede ser necesario para aplicar medidas precontractuales o para atender obligaciones legales.",
-                                                  "Puedes retirar tu consentimiento en cualquier momento escribiendo a lacostahaus@gmail.com."
-                                              ],
-                                    "rights_title":  "Derechos de las personas usuarias",
-                                    "rights":  [
-                                                   "Puedes solicitar acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad de tus datos cuando corresponda.",
-                                                   "Para ejercer estos derechos, envía un correo a lacostahaus@gmail.com indicando el derecho que deseas ejercer y la información necesaria para identificar tu solicitud."
-                                               ],
-                                    "retention_title":  "Conservación",
-                                    "retention":  [
-                                                      "Conservaremos tus datos durante el tiempo necesario para gestionar tu solicitud, mantener la relación comercial o cumplir obligaciones legales aplicables.",
-                                                      "Cuando los datos dejen de ser necesarios, se eliminarán o bloquearán según corresponda."
-                                                  ],
-                                    "third_title":  "Cesiones y proveedores",
-                                    "third":  [
-                                                  "No vendemos tus datos personales. Podremos compartirlos únicamente cuando sea necesario para atender tu solicitud, cumplir una obligación legal o trabajar con proveedores técnicos que ayudan al funcionamiento de la web.",
-                                                  "Si se activan herramientas de medición o terceros, su uso se gestionará junto con la política de cookies y las preferencias aceptadas por el usuario."
-                                              ]
-                                },
-                         "ru":  {
-                                    "seo_title":  "Политика конфиденциальности | LacostaHaus",
-                                    "seo_description":  "Информация об обработке персональных данных на сайте LacostaHaus.",
-                                    "title":  "Политика конфиденциальности",
-                                    "updated":  "Последнее обновление: июнь 2026",
-                                    "back_home":  "Вернуться на главную",
-                                    "identity_title":  "Ответственный за обработку данных",
-                                    "identity":  [
-                                                     "Ответственным за данные, собранные через этот сайт, является LacostaHaus. Вы можете связаться с нами по адресу lacostahaus@gmail.com или по телефону +34 722 279 795.",
-                                                     "Эта политика применяется к контактным формам, запросам информации, запросам оценки недвижимости и сообщениям, связанным с риелторскими услугами."
-                                                 ],
-                                    "data_title":  "Какие данные мы можем собирать",
-                                    "data":  [
-                                                 "Мы можем обрабатывать идентификационные и контактные данные, такие как имя, адрес электронной почты, телефон и содержание сообщения, которое вы отправляете добровольно.",
-                                                 "Если вы запрашиваете информацию об объекте недвижимости или оценку, мы также можем обрабатывать данные, связанные с объектом, примерным местоположением, основными характеристиками и предпочтениями покупки или продажи."
-                                             ],
-                                    "purpose_title":  "Цель обработки",
-                                    "purpose":  [
-                                                    "Мы используем данные для ответа на запросы, управления обращениями, подготовки оценок недвижимости, отправки запрошенной информации и оказания услуг по сопровождению или консультации в сфере недвижимости.",
-                                                    "Мы также можем использовать технические данные и данные навигации, в соответствии с настройками cookies, для анализа работы сайта и улучшения пользовательского опыта."
-                                                ],
-                                    "legal_title":  "Правовое основание",
-                                    "legal":  [
-                                                  "Основным правовым основанием является ваше согласие при отправке формы или запросе информации. В некоторых случаях обработка может быть необходима для преддоговорных действий или выполнения юридических обязательств.",
-                                                  "Вы можете отозвать свое согласие в любое время, написав на lacostahaus@gmail.com."
-                                              ],
-                                    "rights_title":  "Права пользователей",
-                                    "rights":  [
-                                                   "Вы можете запросить доступ, исправление, удаление, возражение, ограничение обработки и переносимость ваших данных, когда это применимо.",
-                                                   "Чтобы воспользоваться этими правами, отправьте письмо на lacostahaus@gmail.com, указав право, которое хотите реализовать, и информацию, необходимую для идентификации вашего запроса."
-                                               ],
-                                    "retention_title":  "Срок хранения",
-                                    "retention":  [
-                                                      "Мы будем хранить ваши данные в течение времени, необходимого для обработки запроса, поддержания коммерческих отношений или выполнения применимых юридических обязательств.",
-                                                      "Когда данные перестанут быть необходимыми, они будут удалены или заблокированы в соответствии с применимыми правилами."
-                                                  ],
-                                    "third_title":  "Передача данных и поставщики",
-                                    "third":  [
-                                                  "Мы не продаем ваши персональные данные. Мы можем передавать их только тогда, когда это необходимо для обработки вашего запроса, выполнения юридического обязательства или работы с техническими поставщиками, обеспечивающими функционирование сайта.",
-                                                  "Если активируются инструменты аналитики или сторонние сервисы, их использование будет регулироваться политикой cookies и настройками, принятыми пользователем."
-                                              ]
-                                },
-                         "ca":  {
-                                    "seo_title":  "Política de privacitat | LacostaHaus",
-                                    "seo_description":  "Informació sobre el tractament de dades personals a LacostaHaus.",
-                                    "title":  "Política de privacitat",
-                                    "updated":  "Última actualització: juny de 2026",
-                                    "back_home":  "Tornar a l\u0027inici",
-                                    "identity_title":  "Responsable del tractament",
-                                    "identity":  [
-                                                     "El responsable de les dades recollides a través d\u0027aquesta web és LacostaHaus. Pots contactar amb nosaltres a lacostahaus@gmail.com o al telèfon +34 722 279 795.",
-                                                     "Aquesta política s\u0027aplica als formularis de contacte, sol·licituds d\u0027informació, sol·licituds de valoració i comunicacions relacionades amb serveis immobiliaris."
-                                                 ],
-                                    "data_title":  "Dades que podem recollir",
-                                    "data":  [
-                                                 "Podem tractar dades identificatives i de contacte com el nom, correu electrònic, telèfon i el contingut del missatge que enviïs voluntàriament.",
-                                                 "Si sol·licites informació sobre un immoble o una valoració, també podrem tractar dades relacionades amb la propietat, ubicació aproximada, característiques bàsiques i preferències de compra o venda."
-                                             ],
-                                    "purpose_title":  "Finalitat del tractament",
-                                    "purpose":  [
-                                                    "Utilitzem les dades per respondre consultes, gestionar sol·licituds de contacte, preparar valoracions immobiliàries, enviar informació sol·licitada i prestar serveis d\u0027intermediació o assessorament immobiliari.",
-                                                    "També podem utilitzar dades tècniques i de navegació, sempre segons la configuració de cookies, per analitzar el funcionament de la web i millorar l\u0027experiència."
-                                                ],
-                                    "legal_title":  "Base legal",
-                                    "legal":  [
-                                                  "La base legal principal és el teu consentiment en enviar un formulari o sol·licitar informació. En alguns casos, el tractament pot ser necessari per aplicar mesures precontractuals o per atendre obligacions legals.",
-                                                  "Pots retirar el teu consentiment en qualsevol moment escrivint a lacostahaus@gmail.com."
-                                              ],
-                                    "rights_title":  "Drets de les persones usuàries",
-                                    "rights":  [
-                                                   "Pots sol·licitar accés, rectificació, supressió, oposició, limitació del tractament i portabilitat de les teves dades quan correspongui.",
-                                                   "Per exercir aquests drets, envia un correu a lacostahaus@gmail.com indicant el dret que vols exercir i la informació necessària per identificar la teva sol·licitud."
-                                               ],
-                                    "retention_title":  "Conservació",
-                                    "retention":  [
-                                                      "Conservarem les teves dades durant el temps necessari per gestionar la teva sol·licitud, mantenir la relació comercial o complir obligacions legals aplicables.",
-                                                      "Quan les dades deixin de ser necessàries, s\u0027eliminaran o bloquejaran segons correspongui."
-                                                  ],
-                                    "third_title":  "Cessions i proveïdors",
-                                    "third":  [
-                                                  "No venem les teves dades personals. Podrem compartir-les únicament quan sigui necessari per atendre la teva sol·licitud, complir una obligació legal o treballar amb proveïdors tècnics que ajuden al funcionament de la web.",
-                                                  "Si s\u0027activen eines de mesurament o tercers, el seu ús es gestionarà juntament amb la política de cookies i les preferències acceptades per l\u0027usuari."
-                                              ]
-                                }
-                     }
+  "translations": {
+    "es": {
+      "seo_title": "Pol\u00EDtica de privacidad | LacostaHaus",
+      "seo_description": "Informaci\u00F3n sobre el tratamiento de datos personales en LacostaHaus.",
+      "title": "Pol\u00EDtica de privacidad",
+      "updated": "\u00DAltima actualizaci\u00F3n: junio de 2026",
+      "back_home": "Volver al inicio",
+      "identity_title": "Responsable del tratamiento",
+      "identity": [
+        "El responsable de los datos recogidos a trav\u00E9s de esta web es LacostaHaus. Puedes contactar con nosotros en lacostahaus@gmail.com o en el tel\u00E9fono \u002B34 722 279 795.",
+        "Esta pol\u00EDtica se aplica a los formularios de contacto, solicitudes de informaci\u00F3n, solicitudes de valoraci\u00F3n y comunicaciones relacionadas con servicios inmobiliarios."
+      ],
+      "data_title": "Datos que podemos recoger",
+      "data": [
+        "Podemos tratar datos identificativos y de contacto como nombre, correo electr\u00F3nico, tel\u00E9fono y el contenido del mensaje que env\u00EDes voluntariamente.",
+        "Si solicitas informaci\u00F3n sobre un inmueble o una valoraci\u00F3n, tambi\u00E9n podremos tratar datos relacionados con la propiedad, ubicaci\u00F3n aproximada, caracter\u00EDsticas b\u00E1sicas y preferencias de compra o venta."
+      ],
+      "purpose_title": "Finalidad del tratamiento",
+      "purpose": [
+        "Utilizamos los datos para responder consultas, gestionar solicitudes de contacto, preparar valoraciones inmobiliarias, enviar informaci\u00F3n solicitada y prestar servicios de intermediaci\u00F3n o asesoramiento inmobiliario.",
+        "Tambi\u00E9n podemos usar datos t\u00E9cnicos y de navegaci\u00F3n, siempre seg\u00FAn la configuraci\u00F3n de cookies, para analizar el funcionamiento de la web y mejorar la experiencia."
+      ],
+      "legal_title": "Base legal",
+      "legal": [
+        "La base legal principal es tu consentimiento al enviar un formulario o solicitar informaci\u00F3n. En algunos casos, el tratamiento puede ser necesario para aplicar medidas precontractuales o para atender obligaciones legales.",
+        "Puedes retirar tu consentimiento en cualquier momento escribiendo a lacostahaus@gmail.com."
+      ],
+      "rights_title": "Derechos de las personas usuarias",
+      "rights": [
+        "Puedes solicitar acceso, rectificaci\u00F3n, supresi\u00F3n, oposici\u00F3n, limitaci\u00F3n del tratamiento y portabilidad de tus datos cuando corresponda.",
+        "Para ejercer estos derechos, env\u00EDa un correo a lacostahaus@gmail.com indicando el derecho que deseas ejercer y la informaci\u00F3n necesaria para identificar tu solicitud."
+      ],
+      "retention_title": "Conservaci\u00F3n",
+      "retention": [
+        "Conservaremos tus datos durante el tiempo necesario para gestionar tu solicitud, mantener la relaci\u00F3n comercial o cumplir obligaciones legales aplicables.",
+        "Cuando los datos dejen de ser necesarios, se eliminar\u00E1n o bloquear\u00E1n seg\u00FAn corresponda."
+      ],
+      "third_title": "Cesiones y proveedores",
+      "third": [
+        "No vendemos tus datos personales. Podremos compartirlos \u00FAnicamente cuando sea necesario para atender tu solicitud, cumplir una obligaci\u00F3n legal o trabajar con proveedores t\u00E9cnicos que ayudan al funcionamiento de la web.",
+        "Si se activan herramientas de medici\u00F3n o terceros, su uso se gestionar\u00E1 junto con la pol\u00EDtica de cookies y las preferencias aceptadas por el usuario."
+      ]
+    },
+    "ru": {
+      "seo_title": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438 | LacostaHaus",
+      "seo_description": "\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0435 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0434\u0430\u043D\u043D\u044B\u0445 \u043D\u0430 \u0441\u0430\u0439\u0442\u0435 LacostaHaus.",
+      "title": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438",
+      "updated": "\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435: \u0438\u044E\u043D\u044C 2026",
+      "back_home": "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u0443\u044E",
+      "identity_title": "\u041E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0437\u0430 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0443 \u0434\u0430\u043D\u043D\u044B\u0445",
+      "identity": [
+        "\u041E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0435, \u0441\u043E\u0431\u0440\u0430\u043D\u043D\u044B\u0435 \u0447\u0435\u0440\u0435\u0437 \u044D\u0442\u043E\u0442 \u0441\u0430\u0439\u0442, \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F LacostaHaus. \u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u0441\u0432\u044F\u0437\u0430\u0442\u044C\u0441\u044F \u0441 \u043D\u0430\u043C\u0438 \u043F\u043E \u0430\u0434\u0440\u0435\u0441\u0443 lacostahaus@gmail.com \u0438\u043B\u0438 \u043F\u043E \u0442\u0435\u043B\u0435\u0444\u043E\u043D\u0443 \u002B34 722 279 795.",
+        "\u042D\u0442\u0430 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043F\u0440\u0438\u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F \u043A \u043A\u043E\u043D\u0442\u0430\u043A\u0442\u043D\u044B\u043C \u0444\u043E\u0440\u043C\u0430\u043C, \u0437\u0430\u043F\u0440\u043E\u0441\u0430\u043C \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438, \u0437\u0430\u043F\u0440\u043E\u0441\u0430\u043C \u043E\u0446\u0435\u043D\u043A\u0438 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0438 \u0441\u043E\u043E\u0431\u0449\u0435\u043D\u0438\u044F\u043C, \u0441\u0432\u044F\u0437\u0430\u043D\u043D\u044B\u043C \u0441 \u0440\u0438\u0435\u043B\u0442\u043E\u0440\u0441\u043A\u0438\u043C\u0438 \u0443\u0441\u043B\u0443\u0433\u0430\u043C\u0438."
+      ],
+      "data_title": "\u041A\u0430\u043A\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 \u043C\u044B \u043C\u043E\u0436\u0435\u043C \u0441\u043E\u0431\u0438\u0440\u0430\u0442\u044C",
+      "data": [
+        "\u041C\u044B \u043C\u043E\u0436\u0435\u043C \u043E\u0431\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0442\u044C \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u0438 \u043A\u043E\u043D\u0442\u0430\u043A\u0442\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435, \u0442\u0430\u043A\u0438\u0435 \u043A\u0430\u043A \u0438\u043C\u044F, \u0430\u0434\u0440\u0435\u0441 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u043E\u0439 \u043F\u043E\u0447\u0442\u044B, \u0442\u0435\u043B\u0435\u0444\u043E\u043D \u0438 \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u043D\u0438\u0435 \u0441\u043E\u043E\u0431\u0449\u0435\u043D\u0438\u044F, \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0432\u044B \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0435 \u0434\u043E\u0431\u0440\u043E\u0432\u043E\u043B\u044C\u043D\u043E.",
+        "\u0415\u0441\u043B\u0438 \u0432\u044B \u0437\u0430\u043F\u0440\u0430\u0448\u0438\u0432\u0430\u0435\u0442\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0438\u043B\u0438 \u043E\u0446\u0435\u043D\u043A\u0443, \u043C\u044B \u0442\u0430\u043A\u0436\u0435 \u043C\u043E\u0436\u0435\u043C \u043E\u0431\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0442\u044C \u0434\u0430\u043D\u043D\u044B\u0435, \u0441\u0432\u044F\u0437\u0430\u043D\u043D\u044B\u0435 \u0441 \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u043C, \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u044B\u043C \u043C\u0435\u0441\u0442\u043E\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C, \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C\u0438 \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043A\u0430\u043C\u0438 \u0438 \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0442\u0435\u043D\u0438\u044F\u043C\u0438 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0438\u043B\u0438 \u043F\u0440\u043E\u0434\u0430\u0436\u0438."
+      ],
+      "purpose_title": "\u0426\u0435\u043B\u044C \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0438",
+      "purpose": [
+        "\u041C\u044B \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C \u0434\u0430\u043D\u043D\u044B\u0435 \u0434\u043B\u044F \u043E\u0442\u0432\u0435\u0442\u0430 \u043D\u0430 \u0437\u0430\u043F\u0440\u043E\u0441\u044B, \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F \u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u044F\u043C\u0438, \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0438 \u043E\u0446\u0435\u043D\u043E\u043A \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438, \u043E\u0442\u043F\u0440\u0430\u0432\u043A\u0438 \u0437\u0430\u043F\u0440\u043E\u0448\u0435\u043D\u043D\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438 \u0438 \u043E\u043A\u0430\u0437\u0430\u043D\u0438\u044F \u0443\u0441\u043B\u0443\u0433 \u043F\u043E \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u044E \u0438\u043B\u0438 \u043A\u043E\u043D\u0441\u0443\u043B\u044C\u0442\u0430\u0446\u0438\u0438 \u0432 \u0441\u0444\u0435\u0440\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438.",
+        "\u041C\u044B \u0442\u0430\u043A\u0436\u0435 \u043C\u043E\u0436\u0435\u043C \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 \u0438 \u0434\u0430\u043D\u043D\u044B\u0435 \u043D\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438, \u0432 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430\u043C\u0438 cookies, \u0434\u043B\u044F \u0430\u043D\u0430\u043B\u0438\u0437\u0430 \u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0430\u0439\u0442\u0430 \u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043E\u043F\u044B\u0442\u0430."
+      ],
+      "legal_title": "\u041F\u0440\u0430\u0432\u043E\u0432\u043E\u0435 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u0435",
+      "legal": [
+        "\u041E\u0441\u043D\u043E\u0432\u043D\u044B\u043C \u043F\u0440\u0430\u0432\u043E\u0432\u044B\u043C \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432\u0430\u0448\u0435 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u0435 \u043F\u0440\u0438 \u043E\u0442\u043F\u0440\u0430\u0432\u043A\u0435 \u0444\u043E\u0440\u043C\u044B \u0438\u043B\u0438 \u0437\u0430\u043F\u0440\u043E\u0441\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438. \u0412 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u0441\u043B\u0443\u0447\u0430\u044F\u0445 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u0430 \u0434\u043B\u044F \u043F\u0440\u0435\u0434\u0434\u043E\u0433\u043E\u0432\u043E\u0440\u043D\u044B\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0438\u043B\u0438 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u044E\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u0441\u0442\u0432.",
+        "\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u043E\u0442\u043E\u0437\u0432\u0430\u0442\u044C \u0441\u0432\u043E\u0435 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u0435 \u0432 \u043B\u044E\u0431\u043E\u0435 \u0432\u0440\u0435\u043C\u044F, \u043D\u0430\u043F\u0438\u0441\u0430\u0432 \u043D\u0430 lacostahaus@gmail.com."
+      ],
+      "rights_title": "\u041F\u0440\u0430\u0432\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0435\u0439",
+      "rights": [
+        "\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u0437\u0430\u043F\u0440\u043E\u0441\u0438\u0442\u044C \u0434\u043E\u0441\u0442\u0443\u043F, \u0438\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435, \u0443\u0434\u0430\u043B\u0435\u043D\u0438\u0435, \u0432\u043E\u0437\u0440\u0430\u0436\u0435\u043D\u0438\u0435, \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u0438\u0435 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0438 \u043F\u0435\u0440\u0435\u043D\u043E\u0441\u0438\u043C\u043E\u0441\u0442\u044C \u0432\u0430\u0448\u0438\u0445 \u0434\u0430\u043D\u043D\u044B\u0445, \u043A\u043E\u0433\u0434\u0430 \u044D\u0442\u043E \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u043C\u043E.",
+        "\u0427\u0442\u043E\u0431\u044B \u0432\u043E\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u044D\u0442\u0438\u043C\u0438 \u043F\u0440\u0430\u0432\u0430\u043C\u0438, \u043E\u0442\u043F\u0440\u0430\u0432\u044C\u0442\u0435 \u043F\u0438\u0441\u044C\u043C\u043E \u043D\u0430 lacostahaus@gmail.com, \u0443\u043A\u0430\u0437\u0430\u0432 \u043F\u0440\u0430\u0432\u043E, \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u0445\u043E\u0442\u0438\u0442\u0435 \u0440\u0435\u0430\u043B\u0438\u0437\u043E\u0432\u0430\u0442\u044C, \u0438 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E, \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u0443\u044E \u0434\u043B\u044F \u0438\u0434\u0435\u043D\u0442\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u0438 \u0432\u0430\u0448\u0435\u0433\u043E \u0437\u0430\u043F\u0440\u043E\u0441\u0430."
+      ],
+      "retention_title": "\u0421\u0440\u043E\u043A \u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F",
+      "retention": [
+        "\u041C\u044B \u0431\u0443\u0434\u0435\u043C \u0445\u0440\u0430\u043D\u0438\u0442\u044C \u0432\u0430\u0448\u0438 \u0434\u0430\u043D\u043D\u044B\u0435 \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 \u0432\u0440\u0435\u043C\u0435\u043D\u0438, \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E\u0433\u043E \u0434\u043B\u044F \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0437\u0430\u043F\u0440\u043E\u0441\u0430, \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0430\u043D\u0438\u044F \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u0445 \u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u0439 \u0438\u043B\u0438 \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u043C\u044B\u0445 \u044E\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u0441\u0442\u0432.",
+        "\u041A\u043E\u0433\u0434\u0430 \u0434\u0430\u043D\u043D\u044B\u0435 \u043F\u0435\u0440\u0435\u0441\u0442\u0430\u043D\u0443\u0442 \u0431\u044B\u0442\u044C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B\u043C\u0438, \u043E\u043D\u0438 \u0431\u0443\u0434\u0443\u0442 \u0443\u0434\u0430\u043B\u0435\u043D\u044B \u0438\u043B\u0438 \u0437\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u044B \u0432 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u043C\u044B\u043C\u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u0430\u043C\u0438."
+      ],
+      "third_title": "\u041F\u0435\u0440\u0435\u0434\u0430\u0447\u0430 \u0434\u0430\u043D\u043D\u044B\u0445 \u0438 \u043F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0438",
+      "third": [
+        "\u041C\u044B \u043D\u0435 \u043F\u0440\u043E\u0434\u0430\u0435\u043C \u0432\u0430\u0448\u0438 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435. \u041C\u044B \u043C\u043E\u0436\u0435\u043C \u043F\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0442\u044C \u0438\u0445 \u0442\u043E\u043B\u044C\u043A\u043E \u0442\u043E\u0433\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u044D\u0442\u043E \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u0434\u043B\u044F \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u0432\u0430\u0448\u0435\u0433\u043E \u0437\u0430\u043F\u0440\u043E\u0441\u0430, \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u044E\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430 \u0438\u043B\u0438 \u0440\u0430\u0431\u043E\u0442\u044B \u0441 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u043F\u043E\u0441\u0442\u0430\u0432\u0449\u0438\u043A\u0430\u043C\u0438, \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u044E\u0449\u0438\u043C\u0438 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0441\u0430\u0439\u0442\u0430.",
+        "\u0415\u0441\u043B\u0438 \u0430\u043A\u0442\u0438\u0432\u0438\u0440\u0443\u044E\u0442\u0441\u044F \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0438 \u0438\u043B\u0438 \u0441\u0442\u043E\u0440\u043E\u043D\u043D\u0438\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044B, \u0438\u0445 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0435\u0433\u0443\u043B\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u043E\u0439 cookies \u0438 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430\u043C\u0438, \u043F\u0440\u0438\u043D\u044F\u0442\u044B\u043C\u0438 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0435\u043C."
+      ]
+    },
+    "ca": {
+      "seo_title": "Pol\u00EDtica de privacitat | LacostaHaus",
+      "seo_description": "Informaci\u00F3 sobre el tractament de dades personals a LacostaHaus.",
+      "title": "Pol\u00EDtica de privacitat",
+      "updated": "\u00DAltima actualitzaci\u00F3: juny de 2026",
+      "back_home": "Tornar a l\u0027inici",
+      "identity_title": "Responsable del tractament",
+      "identity": [
+        "El responsable de les dades recollides a trav\u00E9s d\u0027aquesta web \u00E9s LacostaHaus. Pots contactar amb nosaltres a lacostahaus@gmail.com o al tel\u00E8fon \u002B34 722 279 795.",
+        "Aquesta pol\u00EDtica s\u0027aplica als formularis de contacte, sol\u00B7licituds d\u0027informaci\u00F3, sol\u00B7licituds de valoraci\u00F3 i comunicacions relacionades amb serveis immobiliaris."
+      ],
+      "data_title": "Dades que podem recollir",
+      "data": [
+        "Podem tractar dades identificatives i de contacte com el nom, correu electr\u00F2nic, tel\u00E8fon i el contingut del missatge que envi\u00EFs volunt\u00E0riament.",
+        "Si sol\u00B7licites informaci\u00F3 sobre un immoble o una valoraci\u00F3, tamb\u00E9 podrem tractar dades relacionades amb la propietat, ubicaci\u00F3 aproximada, caracter\u00EDstiques b\u00E0siques i prefer\u00E8ncies de compra o venda."
+      ],
+      "purpose_title": "Finalitat del tractament",
+      "purpose": [
+        "Utilitzem les dades per respondre consultes, gestionar sol\u00B7licituds de contacte, preparar valoracions immobili\u00E0ries, enviar informaci\u00F3 sol\u00B7licitada i prestar serveis d\u0027intermediaci\u00F3 o assessorament immobiliari.",
+        "Tamb\u00E9 podem utilitzar dades t\u00E8cniques i de navegaci\u00F3, sempre segons la configuraci\u00F3 de cookies, per analitzar el funcionament de la web i millorar l\u0027experi\u00E8ncia."
+      ],
+      "legal_title": "Base legal",
+      "legal": [
+        "La base legal principal \u00E9s el teu consentiment en enviar un formulari o sol\u00B7licitar informaci\u00F3. En alguns casos, el tractament pot ser necessari per aplicar mesures precontractuals o per atendre obligacions legals.",
+        "Pots retirar el teu consentiment en qualsevol moment escrivint a lacostahaus@gmail.com."
+      ],
+      "rights_title": "Drets de les persones usu\u00E0ries",
+      "rights": [
+        "Pots sol\u00B7licitar acc\u00E9s, rectificaci\u00F3, supressi\u00F3, oposici\u00F3, limitaci\u00F3 del tractament i portabilitat de les teves dades quan correspongui.",
+        "Per exercir aquests drets, envia un correu a lacostahaus@gmail.com indicant el dret que vols exercir i la informaci\u00F3 necess\u00E0ria per identificar la teva sol\u00B7licitud."
+      ],
+      "retention_title": "Conservaci\u00F3",
+      "retention": [
+        "Conservarem les teves dades durant el temps necessari per gestionar la teva sol\u00B7licitud, mantenir la relaci\u00F3 comercial o complir obligacions legals aplicables.",
+        "Quan les dades deixin de ser necess\u00E0ries, s\u0027eliminaran o bloquejaran segons correspongui."
+      ],
+      "third_title": "Cessions i prove\u00EFdors",
+      "third": [
+        "No venem les teves dades personals. Podrem compartir-les \u00FAnicament quan sigui necessari per atendre la teva sol\u00B7licitud, complir una obligaci\u00F3 legal o treballar amb prove\u00EFdors t\u00E8cnics que ajuden al funcionament de la web.",
+        "Si s\u0027activen eines de mesurament o tercers, el seu \u00FAs es gestionar\u00E0 juntament amb la pol\u00EDtica de cookies i les prefer\u00E8ncies acceptades per l\u0027usuari."
+      ]
+    }
+  }
 }

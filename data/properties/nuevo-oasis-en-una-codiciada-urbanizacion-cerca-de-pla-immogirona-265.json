@@ -125,6 +125,376 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "460.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Un nou oasi en un desenvolupament residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la bonica Costa Brava.",
+      "seo_description": "Descobriu aquesta magn\u00EDfica vila moderna i de nova construcci\u00F3 en un recinte residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la bonica Costa Brava.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de renovaci\u00F3 \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Un nou oasi en un desenvolupament residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la bonica Costa Brava. | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "casa"
+        ],
+        [
+          "\u00C0rea",
+          "200 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "1.280 m\u00B2"
+        ],
+        [
+          "Municipi",
+          "Castell Daro, Platja Daro i Sagar\u00F3"
+        ],
+        [
+          "Codi postal",
+          "17249"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Habitacions",
+          "3"
+        ],
+        [
+          "Banys",
+          "3"
+        ],
+        [
+          "Edat",
+          "Menys d\u00271 any"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "G"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003ECastell Daro, Platja Daro i Sagar\u00F3\u003C/strong\u003E.",
+        "Descobreix aquesta magn\u00EDfica vila moderna i de nova construcci\u00F3 en un recinte residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la preciosa Costa Brava.",
+        "Aquesta impressionant propietat, actualment a punt d\u0027acabar, ofereix un disseny contemporani i acabats d\u0027alta qualitat. Situada en un ampli terreny de 1.280 m\u00B2, compta amb una generosa superf\u00EDcie de 200 m\u00B2 dissenyada per a la comoditat i el luxe.",
+        "La vila compta amb dormitoris lluminosos i espaiosos, que ofereixen molt d\u0027espai per a la fam\u00EDlia i els convidats. Gaudiu d\u0027un estil de vida interior-exterior fluid amb \u00E0mplies terrasses que us conviden a prendre el sol mediterrani i a gaudir del paisatge tranquil. Els interiors es caracteritzen per una gran quantitat de llum natural, l\u00EDnies elegants i materials de primera qualitat, que creen una atmosfera acollidora i sofisticada.",
+        "Descobreix el teu propi oasi privat, on t\u0027espera un jard\u00ED bellament dissenyat, perfecte per relaxar-te o per organitzar reunions. La propietat tamb\u00E9 inclou un pr\u00E0ctic magatzem i una pla\u00E7a d\u0027aparcament exterior, garantint la practicitat juntament amb el luxe."
+      ],
+      "location_text": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona"
+    },
+    "en": {
+      "price": "460.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "A New Oasis in a Sought-After Community Near Platja d\u0027Aro, in the Heart of the Beautiful Costa Brava.",
+      "seo_description": "Discover this magnificent, newly built modern villa in a sought-after residential community near Platja d\u0027Aro, in the heart of the beautiful Costa Brava.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "A New Oasis in a Sought-After Community Near Platja d\u0027Aro, in the Heart of the Beautiful Costa Brava. | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "house"
+        ],
+        [
+          "Area",
+          "200 m\u00B2"
+        ],
+        [
+          "Lot",
+          "1.280 m\u00B2"
+        ],
+        [
+          "Municipality",
+          "Castell Daro, Platja Daro, and Sagar\u00F3"
+        ],
+        [
+          "ZIP code",
+          "17249"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Bedrooms",
+          "3"
+        ],
+        [
+          "Bathrooms",
+          "3"
+        ],
+        [
+          "Age",
+          "Less than 1 year"
+        ],
+        [
+          "Energy Performance Certificate",
+          "G"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ECastell Daro, Platja Daro, and Sagar\u00F3\u003C/strong\u003E.",
+        "Discover this magnificent new-construction modern villa in a sought-after residential community near Platja d\u0027Aro, in the heart of the beautiful Costa Brava.",
+        "This impressive property, currently under construction, features a contemporary design and high-quality finishes. Located on a spacious 1,280 m\u00B2 lot, it offers a generous 200 m\u00B2 of living space designed for comfort and luxury.",
+        "The villa features bright and spacious bedrooms, offering ample room for family and guests. Enjoy a seamless indoor-outdoor lifestyle with expansive terraces that invite you to soak up the Mediterranean sun and enjoy the peaceful surroundings. The interiors are characterized by an abundance of natural light, elegant lines, and top-quality materials, creating a warm and sophisticated atmosphere.",
+        "Discover your private oasis, where a beautifully landscaped garden awaits you\u2014perfect for relaxing or hosting gatherings. The property also includes a convenient storage room and an outdoor parking space, ensuring practicality alongside luxury."
+      ],
+      "location_text": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "460.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Un nouvel oasis dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava.",
+      "seo_description": "D\u00E9couvrez cette magnifique villa moderne neuve situ\u00E9e dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Un nouvel oasis dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava. | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "maison"
+        ],
+        [
+          "Superficie",
+          "200 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "1.280 m\u00B2"
+        ],
+        [
+          "Commune",
+          "Castell Daro, Platja Daro et Sagar\u00F3"
+        ],
+        [
+          "Code postal",
+          "17249"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Chambres",
+          "3"
+        ],
+        [
+          "Salles de bains",
+          "3"
+        ],
+        [
+          "Anciennet\u00E9",
+          "Moins d\u0027un an"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "G"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003ECastell Daro, Platja Daro et Sagar\u00F3\u003C/strong\u003E.",
+        "D\u00E9couvrez cette magnifique villa moderne neuve situ\u00E9e dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava.",
+        "Cette impressionnante propri\u00E9t\u00E9, en cours d\u0027ach\u00E8vement, offre un design contemporain et des finitions haut de gamme. Situ\u00E9e sur un vaste terrain de 1 280 m\u00B2, elle dispose d\u0027une surface construite g\u00E9n\u00E9reuse de 200 m\u00B2, con\u00E7ue pour le confort et le luxe.",
+        "La villa dispose de chambres lumineuses et spacieuses, offrant un vaste espace pour la famille et les invit\u00E9s. Profitez d\u2019une vie en harmonie entre l\u2019int\u00E9rieur et l\u2019ext\u00E9rieur gr\u00E2ce \u00E0 de vastes terrasses qui vous invitent \u00E0 profiter du soleil m\u00E9diterran\u00E9en et \u00E0 appr\u00E9cier le cadre paisible. Les int\u00E9rieurs se caract\u00E9risent par une abondance de lumi\u00E8re naturelle, des lignes \u00E9l\u00E9gantes et des mat\u00E9riaux haut de gamme, cr\u00E9ant ainsi une ambiance chaleureuse et sophistiqu\u00E9e.",
+        "Vendez votre oasis priv\u00E9e, o\u00F9 vous attend un jardin magnifiquement am\u00E9nag\u00E9, id\u00E9al pour se d\u00E9tendre ou organiser des r\u00E9ceptions. La propri\u00E9t\u00E9 comprend \u00E9galement un d\u00E9barras pratique et une place de parking ext\u00E9rieure, alliant ainsi le c\u00F4t\u00E9 pratique au luxe."
+      ],
+      "location_text": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona"
+    },
+    "de": {
+      "price": "460.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Eine neue Oase in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava.",
+      "seo_description": "Entdecken Sie diese herrliche, moderne Neubauvilla in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Eine neue Oase in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava. | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Haus"
+        ],
+        [
+          "Fl\u00E4che",
+          "200 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "1.280 m\u00B2"
+        ],
+        [
+          "Gemeinde",
+          "Castell Daro, Platja Daro und Sagar\u00F3"
+        ],
+        [
+          "Postleitzahl",
+          "17249"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Schlafzimmer",
+          "3"
+        ],
+        [
+          "Badezimmer",
+          "3"
+        ],
+        [
+          "Alter",
+          "Weniger als 1 Jahr"
+        ],
+        [
+          "Energieausweis",
+          "G"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Angebot in \u003Cstrong\u003ECastell Daro, Platja Daro und Sagar\u00F3\u003C/strong\u003E.",
+        "Entdecken Sie diese herrliche, moderne Neubauvilla in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava.",
+        "Diese beeindruckende Immobilie, deren Fertigstellung noch aussteht, besticht durch ein zeitgem\u00E4\u00DFes Design und hochwertige Ausstattungsmerkmale. Sie befindet sich auf einem gro\u00DFz\u00FCgigen Grundst\u00FCck von 1280 m\u00B2 und verf\u00FCgt \u00FCber eine gro\u00DFz\u00FCgige Wohnfl\u00E4che von 200 m\u00B2, die ganz auf Komfort und Luxus ausgelegt ist.",
+        "Die Villa verf\u00FCgt \u00FCber helle und ger\u00E4umige Schlafzimmer und bietet reichlich Platz f\u00FCr Familie und G\u00E4ste. Genie\u00DFen Sie ein perfektes Leben im Innen- und Au\u00DFenbereich mit weitl\u00E4ufigen Terrassen, die dazu einladen, die mediterrane Sonne zu genie\u00DFen und die ruhige Umgebung zu erleben. Die Innenr\u00E4ume zeichnen sich durch viel Tageslicht, elegante Linien und hochwertige Materialien aus und schaffen so eine gem\u00FCtliche und raffinierte Atmosph\u00E4re.",
+        "Entdecken Sie Ihre private Oase, in der Sie ein wundersch\u00F6n angelegter Garten erwartet \u2013 ideal zum Entspannen oder f\u00FCr Zusammenk\u00FCnfte. Zur Immobilie geh\u00F6ren au\u00DFerdem ein praktischer Abstellraum und ein Au\u00DFenparkplatz, die neben dem Luxus auch f\u00FCr Funktionalit\u00E4t sorgen."
+      ],
+      "location_text": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "460.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u041D\u043E\u0432\u044B\u0439 \u00AB\u041E\u0430\u0437\u0438\u0441\u00BB \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
+      "seo_description": "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u0443\u044E \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0443\u044E \u0432\u0438\u043B\u043B\u0443, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0443\u044E \u043F\u043E \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E\u043C\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\u0443, \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0439\u044F-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u041D\u043E\u0432\u044B\u0439 \u00AB\u041E\u0430\u0437\u0438\u0441\u00BB \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B. | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0434\u043E\u043C"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
+          "200 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "1.280 m\u00B2"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u0414\u0430\u0440\u043E, \u041F\u043B\u0430\u0439\u044F-\u0414\u0430\u0440\u043E \u0438 \u0421\u0430\u0433\u0430\u0440\u043E"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17249"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "3"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "3"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "\u041C\u0435\u043D\u0435\u0435 1 \u0433\u043E\u0434\u0430"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "G"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E\u0442 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u0414\u0430\u0440\u043E, \u041F\u043B\u0430\u0439\u044F-\u0414\u0430\u0440\u043E \u0438 \u0421\u0430\u0433\u0430\u0440\u043E\u003C/strong\u003E.",
+        "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u0443\u044E \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0443\u044E \u0432\u0438\u043B\u043B\u0443, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0443\u044E \u043F\u043E \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E\u043C\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\u0443, \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0439\u044F-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
+        "\u042D\u0442\u0430 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0430\u044F \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C, \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0430\u044F\u0441\u044F \u043D\u0430 \u0441\u0442\u0430\u0434\u0438\u0438 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0438\u044F \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430, \u043E\u0442\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u043C \u0434\u0438\u0437\u0430\u0439\u043D\u043E\u043C \u0438 \u0432\u044B\u0441\u043E\u043A\u043E\u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043E\u0442\u0434\u0435\u043B\u043A\u043E\u0439. \u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u043E\u043C \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 1280 \u043C\u00B2, \u043E\u043D\u0430 \u0438\u043C\u0435\u0435\u0442 \u043E\u0431\u0448\u0438\u0440\u043D\u0443\u044E \u0437\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0443\u044E \u043F\u043B\u043E\u0449\u0430\u0434\u044C \u0432 200 \u043C\u00B2, \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u0441 \u0443\u0447\u0435\u0442\u043E\u043C \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0430 \u0438 \u0440\u043E\u0441\u043A\u043E\u0448\u0438.",
+        "\u0412\u0438\u043B\u043B\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u0430\u0433\u0430\u0435\u0442 \u0441\u0432\u0435\u0442\u043B\u044B\u043C\u0438 \u0438 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C\u0438 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438, \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u044F \u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E \u043C\u0435\u0441\u0442\u0430 \u0434\u043B\u044F \u0441\u0435\u043C\u044C\u0438 \u0438 \u0433\u043E\u0441\u0442\u0435\u0439. \u041D\u0430\u0441\u043B\u0430\u0434\u0438\u0442\u0435\u0441\u044C \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u043C \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435\u043C \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0435\u0433\u043E \u0438 \u0432\u043D\u0435\u0448\u043D\u0435\u0433\u043E \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430 \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u043E\u0431\u0448\u0438\u0440\u043D\u044B\u043C \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0430\u044E\u0442 \u0432\u0430\u0441 \u043F\u043E\u043D\u0435\u0436\u0438\u0442\u044C\u0441\u044F \u043F\u043E\u0434 \u0441\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u0441\u043A\u0438\u043C \u0441\u043E\u043B\u043D\u0446\u0435\u043C \u0438 \u043D\u0430\u0441\u043B\u0430\u0434\u0438\u0442\u044C\u0441\u044F \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E\u0439 \u043E\u0431\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u043E\u0439. \u0418\u043D\u0442\u0435\u0440\u044C\u0435\u0440\u044B \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0442\u0441\u044F \u043E\u0431\u0438\u043B\u0438\u0435\u043C \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0433\u043E \u0441\u0432\u0435\u0442\u0430, \u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u044B\u043C\u0438 \u043B\u0438\u043D\u0438\u044F\u043C\u0438 \u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\u043C\u0438 \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u0441\u043E\u0437\u0434\u0430\u0432\u0430\u044F \u0443\u044E\u0442\u043D\u0443\u044E \u0438 \u0438\u0437\u044B\u0441\u043A\u0430\u043D\u043D\u0443\u044E \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0443.",
+        "\u041F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F \u043A \u043F\u0440\u043E\u0434\u0430\u0436\u0435 \u0432\u0430\u0448 \u043B\u0438\u0447\u043D\u044B\u0439 \u043E\u0430\u0437\u0438\u0441, \u0433\u0434\u0435 \u0432\u0430\u0441 \u0436\u0434\u0451\u0442 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E \u0431\u043B\u0430\u0433\u043E\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0439 \u0441\u0430\u0434, \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0438\u0439 \u0434\u043B\u044F \u043E\u0442\u0434\u044B\u0445\u0430 \u0438\u043B\u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0432\u0441\u0442\u0440\u0435\u0447. \u0412 \u0441\u043E\u0441\u0442\u0430\u0432 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0442\u0430\u043A\u0436\u0435 \u0432\u0445\u043E\u0434\u044F\u0442 \u0443\u0434\u043E\u0431\u043D\u043E\u0435 \u043A\u043B\u0430\u0434\u043E\u0432\u043E\u0435 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435 \u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u0430\u044F \u043F\u0430\u0440\u043A\u043E\u0432\u043E\u0447\u043D\u0430\u044F \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u0430, \u0447\u0442\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u0435\u0442 \u043D\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u0440\u043E\u0441\u043A\u043E\u0448\u044C, \u043D\u043E \u0438 \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u043D\u043E\u0441\u0442\u044C."
+      ],
+      "location_text": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona"
     }
   }
 }

@@ -201,6 +201,356 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "260.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Oportunitat estrat\u00E8gica per a inversors: propietat en nuda propietat d\u0027un immoble de nova construcci\u00F3 a l\u0027Alt Empord\u00E0",
+      "seo_description": "Ens complau presentar aquesta espectacular propietat d\u0027estil contemporani situada a L\u0027Armentera, un poble que combina la tranquil\u00B7litat de l\u0027Empord\u00E0 amb una ubicaci\u00F3 inigualable.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Oportunitat estrat\u00E8gica per a inversors: propietat en nuda propietat d\u0027un immoble de nova construcci\u00F3 a l\u0027Alt Empord\u00E0 | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "obra nova"
+        ],
+        [
+          "\u00C0rea",
+          "242 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "466 m\u00B2"
+        ],
+        [
+          "Municipi",
+          "L\u0027Armentera"
+        ],
+        [
+          "Codi postal",
+          "17472"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Edat",
+          "2020 (6 anys)"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "Consum:A-30|Efici\u00E8ncia:A-5"
+        ],
+        [
+          "Certificat d\u0027ocupaci\u00F3",
+          "CHG00790120001"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003EL\u0027Armentera\u003C/strong\u003E.",
+        "Ens complau presentar aquesta espectacular propietat d\u0027estil contemporani situada a L\u0027Armentera, un poble que combina la tranquil\u00B7litat de l\u0027Empord\u00E0 amb una ubicaci\u00F3 inigualable. Aquesta propietat de nova construcci\u00F3 (2020) \u00E9s molt m\u00E9s que una simple llar: \u00E9s una propietat d\u0027alta gamma amb un potencial excepcional d\u0027apreciaci\u00F3.",
+        "Ubicaci\u00F3 privilegiada",
+        "Armentera es troba al cor del anomenat \u0027Triangle d\u0027Or\u0027 de la Costa Brava:",
+        "A un tir de pedra del mar: a nom\u00E9s 5 minuts de les platges infinites de Sant Pere Pescador i del port hist\u00F2ric de L\u0027Escala."
+      ],
+      "location_text": "L\u0027armentera \u00B7 17472 \u00B7 Girona"
+    },
+    "en": {
+      "price": "260.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Strategic Opportunity for Investors: Bare Ownership of a New Construction Property in the Alt Empord\u00E0",
+      "seo_description": "We are pleased to present this spectacular contemporary-style property located in L\u0027Armentera, a town that combines the serenity of the Empord\u00E0 region with an unbeatable location.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Strategic Opportunity for Investors: Bare Ownership of a New Construction Property in the Alt Empord\u00E0 | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "new construction"
+        ],
+        [
+          "Area",
+          "242 m\u00B2"
+        ],
+        [
+          "Lot",
+          "466 m\u00B2"
+        ],
+        [
+          "Municipality",
+          "L\u0027Armentera"
+        ],
+        [
+          "ZIP code",
+          "17472"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Age",
+          "2020 (6 years)"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Consum:A-30|Efici\u00E8ncia:A-5"
+        ],
+        [
+          "Certificate of Occupancy",
+          "CHG00790120001"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003EL\u0027Armentera\u003C/strong\u003E.",
+        "We are pleased to present this spectacular contemporary-style property located in L\u0027Armentera, a municipality that combines the serenity of the Empord\u00E0 region with an unbeatable location. This newly built property (2020) is much more than just a home: it is a high-end real estate asset with exceptional appreciation potential.",
+        "Prime Location",
+        "Armentera is located in the heart of the so-called \u0022Golden Triangle\u0022 of the Costa Brava:",
+        "Just a stone\u0027s throw from the sea: Only 5 minutes from the endless beaches of Sant Pere Pescador and the historic port of L\u0027Escala."
+      ],
+      "location_text": "L\u0027armentera \u00B7 17472 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "260.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Opportunit\u00E9 strat\u00E9gique pour les investisseurs : propri\u00E9t\u00E9 nue d\u2019un bien neuf dans l\u2019Alt Empord\u00E0",
+      "seo_description": "Nous vous pr\u00E9sentons cette spectaculaire propri\u00E9t\u00E9 au design contemporain situ\u00E9e \u00E0 L\u0027Armentera, une commune qui allie la s\u00E9r\u00E9nit\u00E9 de l\u0027Empord\u00E0 \u00E0 un emplacement strat\u00E9gique imbattable.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Opportunit\u00E9 strat\u00E9gique pour les investisseurs : propri\u00E9t\u00E9 nue d\u2019un bien neuf dans l\u2019Alt Empord\u00E0 | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "programme immobilier neuf"
+        ],
+        [
+          "Superficie",
+          "242 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "466 m\u00B2"
+        ],
+        [
+          "Commune",
+          "L\u0027Armentera"
+        ],
+        [
+          "Code postal",
+          "17472"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Anciennet\u00E9",
+          "2020 (6 ans)"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "Consum:A-30|Efici\u00E8ncia:A-5"
+        ],
+        [
+          "Certificat d\u0027habitabilit\u00E9",
+          "CHG00790120001"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en partenariat avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003EL\u0027Armentera\u003C/strong\u003E.",
+        "Nous vous pr\u00E9sentons cette spectaculaire propri\u00E9t\u00E9 au design contemporain situ\u00E9e \u00E0 L\u0027Armentera, une commune qui allie la s\u00E9r\u00E9nit\u00E9 de l\u0027Empord\u00E0 \u00E0 un emplacement strat\u00E9gique imbattable. Cette construction neuve (2020) est bien plus qu\u2019une simple habitation : il s\u2019agit d\u2019un bien immobilier haut de gamme pr\u00E9sentant un potentiel de plus-value exceptionnel.",
+        "Emplacement privil\u00E9gi\u00E9",
+        "Armentera se trouve au c\u0153ur de ce que l\u0027on appelle le \u00AB Triangle d\u0027Or \u00BB de la Costa Brava :",
+        "\u00C0 deux pas de la mer : \u00E0 seulement 5 minutes des plages infinies de Sant Pere Pescador et du port historique de L\u0027Escala."
+      ],
+      "location_text": "L\u0027armentera \u00B7 17472 \u00B7 Girona"
+    },
+    "de": {
+      "price": "260.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Strategische Investitionschance: Eigentumsanteil an einem Neubau im Alt Empord\u00E0",
+      "seo_description": "Wir pr\u00E4sentieren Ihnen diese spektakul\u00E4re Immobilie in zeitgen\u00F6ssischem Design in L\u2019Armentera, einer Gemeinde, die die Ruhe des Empord\u00E0 mit einer un\u00FCbertrefflichen Lage verbindet.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Strategische Investitionschance: Eigentumsanteil an einem Neubau im Alt Empord\u00E0 | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Neubau"
+        ],
+        [
+          "Fl\u00E4che",
+          "242 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "466 m\u00B2"
+        ],
+        [
+          "Gemeinde",
+          "L\u0027Armentera"
+        ],
+        [
+          "Postleitzahl",
+          "17472"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Alter",
+          "2020 (6 Jahre)"
+        ],
+        [
+          "Energieausweis",
+          "Consum:A-30|Efici\u00E8ncia:A-5"
+        ],
+        [
+          "Bewohnbarkeitsbescheinigung",
+          "CHG00790120001"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Angebot in \u003Cstrong\u003EL\u2019Armentera\u003C/strong\u003E.",
+        "Wir pr\u00E4sentieren Ihnen diese spektakul\u00E4re Immobilie in zeitgen\u00F6ssischem Design in L\u2019Armentera, einer Gemeinde, die die Ruhe des Empord\u00E0 mit einer un\u00FCbertrefflichen Lage verbindet. Dieses Neubauobjekt (2020) ist weit mehr als nur ein Wohnhaus: Es handelt sich um eine hochwertige Immobilie mit au\u00DFergew\u00F6hnlichem Wertsteigerungspotenzial.",
+        "Privilegierte Lage",
+        "Armentera liegt im Herzen des sogenannten \u201EGoldenen Dreiecks\u201C der Costa Brava:",
+        "Nur einen Katzensprung vom Meer entfernt: Nur 5 Minuten von den endlosen Str\u00E4nden von Sant Pere Pescador und dem historischen Hafen von L\u2019Escala entfernt."
+      ],
+      "location_text": "L\u0027armentera \u00B7 17472 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "260.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0434\u043B\u044F \u0438\u043D\u0432\u0435\u0441\u0442\u043E\u0440\u043E\u0432: \u043F\u0440\u0430\u0432\u043E \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u0438 \u043D\u0430 \u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0443 \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u0410\u043B\u044C\u0442-\u042D\u043C\u043F\u043E\u0440\u0434\u0430",
+      "seo_description": "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u043C \u0432\u0430\u043C \u044D\u0442\u0443 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0443\u044E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u043C \u0441\u0442\u0438\u043B\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0443\u044E \u0432 \u041B\u2019\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0430 \u2014 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442\u0435, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u0435 \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435 \u0440\u0435\u0433\u0438\u043E\u043D\u0430 \u042D\u043C\u043F\u043E\u0440\u0434\u0430 \u0441 \u043D\u0435\u043F\u0440\u0435\u0432\u0437\u043E\u0439\u0434\u0435\u043D\u043D\u044B\u043C \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u044B\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0434\u043B\u044F \u0438\u043D\u0432\u0435\u0441\u0442\u043E\u0440\u043E\u0432: \u043F\u0440\u0430\u0432\u043E \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u0438 \u043D\u0430 \u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0443 \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u0410\u043B\u044C\u0442-\u042D\u043C\u043F\u043E\u0440\u0434\u0430 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
+          "242 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "466 m\u00B2"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041B\u0027\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0430"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17472"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "2020 \u0433. (6 \u043B\u0435\u0442)"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "Consum:A-30|Efici\u00E8ncia:A-5"
+        ],
+        [
+          "\u0421\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E \u043E \u043F\u0440\u0438\u0433\u043E\u0434\u043D\u043E\u0441\u0442\u0438 \u043A \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043D\u0438\u044E",
+          "CHG00790120001"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E\u0442 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041B\u0027\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0435\u003C/strong\u003E.",
+        "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u043C \u0432\u0430\u043C \u044D\u0442\u0443 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0443\u044E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u043C \u0441\u0442\u0438\u043B\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0443\u044E \u0432 \u041B\u2019\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0430 \u2014 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442\u0435, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u0435 \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435 \u0440\u0435\u0433\u0438\u043E\u043D\u0430 \u042D\u043C\u043F\u043E\u0440\u0434\u0430 \u0441 \u043D\u0435\u043F\u0440\u0435\u0432\u0437\u043E\u0439\u0434\u0435\u043D\u043D\u044B\u043C \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u044B\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C. \u042D\u0442\u043E\u0442 \u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430 (2020 \u0433.) \u2014 \u044D\u0442\u043E \u0433\u043E\u0440\u0430\u0437\u0434\u043E \u0431\u043E\u043B\u044C\u0448\u0435, \u0447\u0435\u043C \u043F\u0440\u043E\u0441\u0442\u043E \u0436\u0438\u043B\u044C\u0435: \u044D\u0442\u043E \u044D\u043B\u0438\u0442\u043D\u044B\u0439 \u043E\u0431\u044A\u0435\u043A\u0442 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0441 \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u043F\u043E\u0442\u0435\u043D\u0446\u0438\u0430\u043B\u043E\u043C \u0440\u043E\u0441\u0442\u0430 \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u0438.",
+        "\u041F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+        "\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0430 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u0442\u0430\u043A \u043D\u0430\u0437\u044B\u0432\u0430\u0435\u043C\u043E\u0433\u043E \u00AB\u0417\u043E\u043B\u043E\u0442\u043E\u0433\u043E \u0442\u0440\u0435\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A\u0430\u00BB \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u044F \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430:",
+        "\u0412 \u0434\u0432\u0443\u0445 \u0448\u0430\u0433\u0430\u0445 \u043E\u0442 \u043C\u043E\u0440\u044F: \u0432\u0441\u0435\u0433\u043E \u0432 5 \u043C\u0438\u043D\u0443\u0442\u0430\u0445 \u043E\u0442 \u0431\u0435\u0441\u043A\u0440\u0430\u0439\u043D\u0438\u0445 \u043F\u043B\u044F\u0436\u0435\u0439 \u0421\u0430\u043D-\u041F\u0435\u0440\u0435-\u041F\u0435\u0441\u043A\u0430\u0434\u043E\u0440 \u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u043F\u043E\u0440\u0442\u0430 \u041B\u2019\u042D\u0441\u043A\u0430\u043B\u0430."
+      ],
+      "location_text": "L\u0027armentera \u00B7 17472 \u00B7 Girona"
     }
   }
 }

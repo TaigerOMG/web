@@ -161,6 +161,376 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "895.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Una casa de somni a la Costa Brava: modernitat i confort a San Antonio de Calonge, Mas Vilar, a Torre Valentina",
+      "seo_description": "Una casa de somni a la Costa Brava: modernitat i confort a Calonge i Sant Antoni. Em complau presentar una oportunitat excepcional al molt cobejat municipi de Sant Antoni de Calonge, concretament a la tranquil\u00B7la zona de Mas Vil...",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Una casa de somni a la Costa Brava: modernitat i confort a San Antonio de Calonge, Mas Vilar, a Torre Valentina | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "casa"
+        ],
+        [
+          "\u00C0rea",
+          "304 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "508 m\u00B2"
+        ],
+        [
+          "Municipi",
+          "Calonge i Sant Antoni"
+        ],
+        [
+          "Codi postal",
+          "17252"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Habitacions",
+          "4"
+        ],
+        [
+          "Banys",
+          "3"
+        ],
+        [
+          "Edat",
+          "2007 (19 anys)"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "Consum:A-37|Efici\u00E8ncia:A-7"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003ECalonge i Sant Antoni\u003C/strong\u003E.",
+        "Una casa de somni a la Costa Brava: modernitat i confort a Calonge i Sant Antoni",
+        "Estic encantat de presentar una oportunitat excepcional al molt sol\u00B7licitat municipi de Sant Antoni de Calonge, concretament a la tranquil\u00B7la zona de Mas Vilar, a Torre Valentina. Aquesta magn\u00EDfica casa adossada, constru\u00EFda el 2007, amb una generosa superf\u00EDcie de 304 m\u00B2, \u00E9s el lloc perfecte per gaudir de la vida amb estil i comoditat.",
+        "Des del primer cop d\u0027ull, les imatges us capturaran: una llar moderna i plena de llum, dissenyada per maximitzar la llum natural i oferir espais oberts i acollidors. L\u0027espai exterior \u00E9s un veritable oasi privat. Imagineu-vos relaxant-vos a la vora de la vostra espl\u00E8ndida piscina amb la seva coberta de fusta, envoltada d\u0027un jard\u00ED impecablement mantingut on podeu gaudir del sol mediterrani. La terrassa coberta \u00E9s ideal per sopar a l\u0027aire lliure i per a moments inoblidables amb la fam\u00EDlia i els amics.",
+        "En entrar, descobrir\u00E0s un ampli i elegant sal\u00F3, amb grans finestrals que inunden l\u0027espai de llum i ofereixen vistes al jard\u00ED. La llar de foc hi afegeix un toc de calidesa i distinci\u00F3. La cuina d\u0027\u00FAltima generaci\u00F3, amb un disseny funcional i acabats d\u0027alta qualitat, est\u00E0 equipada amb una illa central i \u00E9s totalment integrada, cosa que fa que cuinar sigui un plaer. El menjador, adjacent a la cuina, comparteix la mateixa sensaci\u00F3 de llum i modernitat, perfecte per a qualsevol ocasi\u00F3."
+      ],
+      "location_text": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona"
+    },
+    "en": {
+      "price": "895.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "A Dream Home on the Costa Brava: Modernity and Comfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina",
+      "seo_description": "A Dream Home on the Costa Brava: Modernity and Comfort in Calonge and Sant Antoni I\u2019d like to present you with an exceptional opportunity in the sought-after town of Sant Antoni de Calonge, specifically in the quiet neighborhood of Mas Vil...",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "A Dream Home on the Costa Brava: Modernity and Comfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "house"
+        ],
+        [
+          "Area",
+          "304 m\u00B2"
+        ],
+        [
+          "Lot",
+          "508 m\u00B2"
+        ],
+        [
+          "Municipality",
+          "Calonge and Sant Antoni"
+        ],
+        [
+          "ZIP code",
+          "17252"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Bedrooms",
+          "4"
+        ],
+        [
+          "Bathrooms",
+          "3"
+        ],
+        [
+          "Age",
+          "2007 (19 years)"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Consum:A-37|Efici\u00E8ncia:A-7"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ECalonge and Sant Antoni\u003C/strong\u003E.",
+        "A Dream Home on the Costa Brava: Modernity and Comfort in Calonge and Sant Antoni",
+        "I\u2019d like to present an exceptional opportunity in the sought-after town of San Antonio de Calonge, specifically in the quiet Mas Vilar neighborhood of Torre Valentina. This magnificent single-family home, built in 2007, with a generous floor area of 304 m\u00B2, is the perfect place to enjoy life in style and comfort.",
+        "From the very first glance, the images will captivate you: a modern, bright home designed to maximize natural light and offer open, inviting spaces. The exterior is a true private oasis. Imagine relaxing by your splendid pool with its wooden deck, surrounded by an impeccably manicured garden where you can enjoy the Mediterranean sun. The covered terrace is ideal for al fresco dining and unforgettable moments with family and friends.",
+        "Upon entering, you\u2019ll discover a spacious and elegant living room with large windows that flood the space with light and offer views of the garden. The fireplace adds a touch of warmth and sophistication. The state-of-the-art kitchen features a functional design and high-quality finishes, equipped with a central island and fully integrated appliances that make cooking a pleasure. The dining room, adjacent to the kitchen, shares the same bright and modern style, perfect for any occasion."
+      ],
+      "location_text": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "895.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 San Antonio de Calonge, Mas Vilar, \u00E0 Torre Valentina",
+      "seo_description": "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 Calonge et Sant Antoni. Je vous pr\u00E9sente une opportunit\u00E9 exceptionnelle dans la localit\u00E9 tr\u00E8s pris\u00E9e de Sant Antoni de Calonge, plus pr\u00E9cis\u00E9ment dans le quartier paisible de Mas Vil...",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 San Antonio de Calonge, Mas Vilar, \u00E0 Torre Valentina | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "maison"
+        ],
+        [
+          "Superficie",
+          "304 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "508 m\u00B2"
+        ],
+        [
+          "Commune",
+          "Calonge et Sant Antoni"
+        ],
+        [
+          "Code postal",
+          "17252"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Chambres",
+          "4"
+        ],
+        [
+          "Salles de bains",
+          "3"
+        ],
+        [
+          "Anciennet\u00E9",
+          "2007 (19 ans)"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "Consum:A-37|Efici\u00E8ncia:A-7"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en partenariat avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003ECalonge et Sant Antoni\u003C/strong\u003E.",
+        "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 Calonge et Sant Antoni",
+        "Je vous pr\u00E9sente une opportunit\u00E9 exceptionnelle dans la localit\u00E9 tr\u00E8s pris\u00E9e de San Antonio de Calonge, plus pr\u00E9cis\u00E9ment dans le quartier paisible de Mas Vilar, \u00E0 Torre Valentina. Cette magnifique maison individuelle, construite en 2007, d\u2019une surface construite g\u00E9n\u00E9reuse de 304 m\u00B2, est l\u2019endroit id\u00E9al pour profiter de la vie avec style et confort.",
+        "D\u00E8s le premier regard, les photos vous s\u00E9duiront : une maison moderne et lumineuse, con\u00E7ue pour tirer le meilleur parti de la lumi\u00E8re naturelle et offrir des espaces ouverts et accueillants. L\u2019ext\u00E9rieur est une v\u00E9ritable oasis priv\u00E9e. Imaginez-vous en train de vous d\u00E9tendre au bord de votre splendide piscine avec son espace en bois, entour\u00E9e d\u2019un jardin impeccablement entretenu o\u00F9 vous pourrez profiter du soleil m\u00E9diterran\u00E9en. La terrasse couverte est id\u00E9ale pour les repas en plein air et les moments inoubliables en famille et entre amis.",
+        "D\u00E8s votre entr\u00E9e, vous d\u00E9couvrirez un salon spacieux et \u00E9l\u00E9gant, dot\u00E9 de grandes baies vitr\u00E9es qui inondent la pi\u00E8ce de lumi\u00E8re et offrent une vue sur le jardin. La chemin\u00E9e apporte une touche de chaleur et de raffinement. La cuisine est ultramoderne, avec un agencement fonctionnel et des finitions de qualit\u00E9 ; elle est \u00E9quip\u00E9e d\u2019un \u00EElot central et enti\u00E8rement int\u00E9gr\u00E9e pour faire de la cuisine un v\u00E9ritable plaisir. La salle \u00E0 manger, adjacente \u00E0 la cuisine, s\u2019inscrit dans la m\u00EAme veine de luminosit\u00E9 et de modernit\u00E9, id\u00E9ale pour toutes les occasions."
+      ],
+      "location_text": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona"
+    },
+    "de": {
+      "price": "895.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina",
+      "seo_description": "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in Calonge und Sant Antoni Ich pr\u00E4sentiere Ihnen eine au\u00DFergew\u00F6hnliche Gelegenheit in der begehrten Ortschaft San Antonio de Calonge, genauer gesagt in der ruhigen Gegend von Mas Vil...",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Haus"
+        ],
+        [
+          "Fl\u00E4che",
+          "304 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "508 m\u00B2"
+        ],
+        [
+          "Gemeinde",
+          "Calonge und Sant Antoni"
+        ],
+        [
+          "Postleitzahl",
+          "17252"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Schlafzimmer",
+          "4"
+        ],
+        [
+          "Badezimmer",
+          "3"
+        ],
+        [
+          "Alter",
+          "2007 (19 Jahre)"
+        ],
+        [
+          "Energieausweis",
+          "Consum:A-37|Efici\u00E8ncia:A-7"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Angebot in \u003Cstrong\u003ECalonge und Sant Antoni\u003C/strong\u003E.",
+        "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in Calonge und Sant Antoni",
+        "Ich pr\u00E4sentiere Ihnen eine au\u00DFergew\u00F6hnliche Gelegenheit in der begehrten Ortschaft San Antonio de Calonge, genauer gesagt in der ruhigen Gegend von Mas Vilar in Torre Valentina. Dieses herrliche, 2007 erbaute Einfamilienhaus mit einer gro\u00DFz\u00FCgigen Wohnfl\u00E4che von 304 m\u00B2 ist der perfekte Ort, um das Leben stilvoll und komfortabel zu genie\u00DFen.",
+        "Die Bilder werden Sie vom ersten Moment an in ihren Bann ziehen: ein modernes, lichtdurchflutetes Haus, das darauf ausgelegt ist, das nat\u00FCrliche Licht optimal zu nutzen und offene, einladende R\u00E4ume zu bieten. Der Au\u00DFenbereich ist eine wahre private Oase. Stellen Sie sich vor, wie Sie sich in Ihrem herrlichen Pool mit Holzumrandung entspannen, umgeben von einem makellos gepflegten Garten, in dem Sie die mediterrane Sonne genie\u00DFen k\u00F6nnen. Die \u00FCberdachte Terrasse eignet sich ideal f\u00FCr Mahlzeiten im Freien und unvergessliche Momente mit Familie und Freunden.",
+        "Beim Betreten des Hauses erwartet Sie ein gro\u00DFz\u00FCgiges und elegantes Wohnzimmer mit gro\u00DFen Fenstern, die den Raum mit Licht durchfluten und den Blick auf den Garten freigeben. Der Kamin verleiht dem Raum eine warme und edle Note. Die K\u00FCche entspricht dem neuesten Stand der Technik, besticht durch funktionales Design und hochwertige Ausstattung und ist mit einer zentralen Kochinsel ausgestattet, die das Kochen zu einem Vergn\u00FCgen macht. Der an die K\u00FCche angrenzende Essbereich folgt dem gleichen Konzept von Helligkeit und Modernit\u00E4t und eignet sich perfekt f\u00FCr jeden Anlass."
+      ],
+      "location_text": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "895.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u041C\u0430\u0441-\u0412\u0438\u043B\u0430\u0440, \u0432 \u0422\u043E\u0440\u0440\u0435-\u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u0430",
+      "seo_description": "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u041A\u0430\u043B\u043E\u043D\u0433\u0435 \u0438 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E. \u041F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u044E \u0432\u0430\u0448\u0435\u043C\u0443 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044E \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E\u043C \u043A\u0443\u0440\u043E\u0440\u0442\u043D\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u043A\u0435 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u0430 \u0438\u043C\u0435\u043D\u043D\u043E \u0432 \u0442\u0438\u0445\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041C\u0430\u0441-\u0412\u0438\u043B\u044C...",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u041C\u0430\u0441-\u0412\u0438\u043B\u0430\u0440, \u0432 \u0422\u043E\u0440\u0440\u0435-\u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u0430 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0434\u043E\u043C"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
+          "304 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "508 m\u00B2"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041A\u0430\u043B\u043E\u043D\u0433\u0435 \u0438 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17252"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "4"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "3"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "2007 \u0433. (19 \u043B\u0435\u0442)"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "Consum:A-37|Efici\u00E8ncia:A-7"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0434\u0430\u043D\u043D\u043E\u0435 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0435 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041A\u0430\u043B\u043E\u043D\u0433\u0435-\u0438-\u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u003C/strong\u003E.",
+        "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u041A\u0430\u043B\u043E\u043D\u0433\u0435 \u0438 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438",
+        "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E \u0412\u0430\u0448\u0435\u043C\u0443 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044E \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E\u043C \u043D\u0430\u0441\u0435\u043B\u0451\u043D\u043D\u043E\u043C \u043F\u0443\u043D\u043A\u0442\u0435 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u0430 \u0438\u043C\u0435\u043D\u043D\u043E \u0432 \u0442\u0438\u0445\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041C\u0430\u0441-\u0412\u0438\u043B\u0430\u0440, \u0432 \u0422\u043E\u0440\u0440\u0435-\u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u0430. \u042D\u0442\u0430 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u0430\u044F \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u0441\u0442\u043E\u044F\u0449\u0430\u044F \u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0446\u0438\u044F, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0430\u044F \u0432 2007 \u0433\u043E\u0434\u0443, \u0441 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u043E\u0439 \u0437\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0439 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 304 \u043C\u00B2 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u043C \u043C\u0435\u0441\u0442\u043E\u043C \u0434\u043B\u044F \u043D\u0430\u0441\u043B\u0430\u0436\u0434\u0435\u043D\u0438\u044F \u0436\u0438\u0437\u043D\u044C\u044E \u0432 \u0441\u0442\u0438\u043B\u0435 \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0435.",
+        "\u0421 \u0441\u0430\u043C\u043E\u0433\u043E \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u0432\u0437\u0433\u043B\u044F\u0434\u0430 \u0432\u0430\u0441 \u043F\u043E\u0440\u0430\u0437\u044F\u0442 \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u0439 \u0438 \u0441\u0432\u0435\u0442\u043B\u044B\u0439 \u0434\u043E\u043C, \u0441\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0442\u0430\u043A, \u0447\u0442\u043E\u0431\u044B \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0435 \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0435 \u0438 \u0441\u043E\u0437\u0434\u0430\u0442\u044C \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0435 \u0438 \u0443\u044E\u0442\u043D\u044B\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430. \u0412\u043D\u0435\u0448\u043D\u0438\u0439 \u0432\u0438\u0434 \u0434\u043E\u043C\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u043E\u0431\u043E\u0439 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0447\u0430\u0441\u0442\u043D\u044B\u0439 \u043E\u0430\u0437\u0438\u0441. \u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u044C\u0442\u0435 \u0441\u0435\u0431\u0435, \u043A\u0430\u043A \u0432\u044B \u0440\u0430\u0441\u0441\u043B\u0430\u0431\u043B\u044F\u0435\u0442\u0435\u0441\u044C \u0443 \u0441\u0432\u043E\u0435\u0433\u043E \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u043E\u0433\u043E \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u0430 \u0441 \u0434\u0435\u0440\u0435\u0432\u044F\u043D\u043D\u043E\u0439 \u0437\u043E\u043D\u043E\u0439 \u043E\u0442\u0434\u044B\u0445\u0430, \u043E\u043A\u0440\u0443\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u0431\u0435\u0437\u0443\u043F\u0440\u0435\u0447\u043D\u043E \u0443\u0445\u043E\u0436\u0435\u043D\u043D\u044B\u043C \u0441\u0430\u0434\u043E\u043C, \u0433\u0434\u0435 \u0432\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435 \u043D\u0430\u0441\u043B\u0430\u0434\u0438\u0442\u044C\u0441\u044F \u0441\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u0441\u043A\u0438\u043C \u0441\u043E\u043B\u043D\u0446\u0435\u043C. \u041A\u0440\u044B\u0442\u0430\u044F \u0442\u0435\u0440\u0440\u0430\u0441\u0430 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u0442\u0440\u0430\u043F\u0435\u0437 \u043D\u0430 \u0441\u0432\u0435\u0436\u0435\u043C \u0432\u043E\u0437\u0434\u0443\u0445\u0435 \u0438 \u043D\u0435\u0437\u0430\u0431\u044B\u0432\u0430\u0435\u043C\u044B\u0445 \u043C\u043E\u043C\u0435\u043D\u0442\u043E\u0432 \u0432 \u043A\u0440\u0443\u0433\u0443 \u0441\u0435\u043C\u044C\u0438 \u0438 \u0434\u0440\u0443\u0437\u0435\u0439.",
+        "\u0412\u043E\u0439\u0434\u044F \u0432 \u0434\u043E\u043C, \u0432\u044B \u043E\u0431\u043D\u0430\u0440\u0443\u0436\u0438\u0442\u0435 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u0443\u044E \u0438 \u044D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u0443\u044E \u0433\u043E\u0441\u0442\u0438\u043D\u0443\u044E \u0441 \u0431\u043E\u043B\u044C\u0448\u0438\u043C\u0438 \u043E\u043A\u043D\u0430\u043C\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u043F\u043E\u043B\u043D\u044F\u044E\u0442 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435 \u0441\u0432\u0435\u0442\u043E\u043C \u0438 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u044E\u0442 \u0432\u0438\u0434 \u043D\u0430 \u0441\u0430\u0434. \u041A\u0430\u043C\u0438\u043D \u043F\u0440\u0438\u0434\u0430\u0451\u0442 \u0438\u043D\u0442\u0435\u0440\u044C\u0435\u0440\u0443 \u043D\u043E\u0442\u043A\u0443 \u0443\u044E\u0442\u0430 \u0438 \u0438\u0437\u044B\u0441\u043A\u0430\u043D\u043D\u043E\u0441\u0442\u0438. \u041A\u0443\u0445\u043D\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0433\u043E \u043F\u043E\u043A\u043E\u043B\u0435\u043D\u0438\u044F \u043E\u0442\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C \u0434\u0438\u0437\u0430\u0439\u043D\u043E\u043C \u0438 \u0432\u044B\u0441\u043E\u043A\u043E\u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043E\u0442\u0434\u0435\u043B\u043A\u043E\u0439; \u043E\u043D\u0430 \u043E\u0441\u043D\u0430\u0449\u0435\u043D\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u043C \u043A\u0443\u0445\u043E\u043D\u043D\u044B\u043C \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u043C \u0438 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u0430, \u0447\u0442\u043E \u0434\u0435\u043B\u0430\u0435\u0442 \u043F\u0440\u0438\u0433\u043E\u0442\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u043F\u0438\u0449\u0438 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u043C \u0443\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0438\u0435\u043C. \u0421\u0442\u043E\u043B\u043E\u0432\u0430\u044F, \u043F\u0440\u0438\u043C\u044B\u043A\u0430\u044E\u0449\u0430\u044F \u043A \u043A\u0443\u0445\u043D\u0435, \u0432\u044B\u043F\u043E\u043B\u043D\u0435\u043D\u0430 \u0432 \u0442\u043E\u043C \u0436\u0435 \u0441\u0442\u0438\u043B\u0435, \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0435\u043C\u0441\u044F \u0441\u0432\u0435\u0442\u043B\u043E\u0441\u0442\u044C\u044E \u0438 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E, \u0438 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u043B\u044E\u0431\u043E\u0433\u043E \u0441\u043B\u0443\u0447\u0430\u044F."
+      ],
+      "location_text": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona"
     }
   }
 }

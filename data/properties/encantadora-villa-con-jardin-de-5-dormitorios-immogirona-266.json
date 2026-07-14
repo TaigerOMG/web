@@ -205,6 +205,416 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "1.200.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Encantadora vila de 5 dormitoris amb jard\u00ED",
+      "seo_description": "Es tracta d\u0027una casa de dues plantes que es va reformar completament el 2016 amb materials de primera qualitat, ideal per a aquells que busquen la comoditat d\u0027un habitatge modern en un entorn tranquil.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Encantadora vila de 5 dormitoris amb jard\u00ED | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "casa"
+        ],
+        [
+          "\u00C0rea",
+          "295 m\u00B2"
+        ],
+        [
+          "Eines",
+          "199 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "545 m\u00B2"
+        ],
+        [
+          "Municipi",
+          "Castell-Platja d\u0027Aro i S\u0027Agaro"
+        ],
+        [
+          "Codi postal",
+          "17249"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Habitacions",
+          "5"
+        ],
+        [
+          "Banys",
+          "2"
+        ],
+        [
+          "Edat",
+          "1981 (45 anys)"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "Consum:E-262|Efici\u00E8ncia:E-54"
+        ],
+        [
+          "Certificat d\u0027ocupaci\u00F3",
+          "CHG0261412001"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003ECastell-Platja d\u0027Aro i S\u0027Agaro\u003C/strong\u003E.",
+        "Es tracta d\u0027una casa de dues plantes que es va reformar completament el 2016 amb materials de primera qualitat, ideal per a qui busca la comoditat d\u0027un habitatge modern en un entorn tranquil. La parcel\u00B7la est\u00E0 totalment tancada, amb entrades independents i un jard\u00ED privat amb arbres fruiters, mimosa, il\u00B7luminaci\u00F3 exterior i una zona de barbacoa amb totes les connexions necess\u00E0ries (electricitat, aigua i clavegueram).",
+        "Planta baixa: disposa d\u0027un ampli sal\u00F3 amb llar de foc, grans finestrals i una cuina moderna amb electrodom\u00E8stics d\u0027\u00FAltima generaci\u00F3. Inclou un bany complet amb dutxa higi\u00E8nica, un menjador vidriat amb sortida a una terrassa amb vistes al jard\u00ED, i dos dormitoris (un dels quals s\u0027ha convertit en una bugaderia i un vestidor totalment equipat).",
+        "Pla\u00E7a superior: disposa de 3 dormitoris amb s\u00F2l de fusta, una segona sala d\u0027estar amb finestrals de terra a sostre i preinstal\u00B7laci\u00F3 per a una petita cuina (subministrament d\u0027aigua i desgu\u00E0s). Aquesta planta compta amb un bany de luxe amb banyera rodona i acc\u00E9s directe al jard\u00ED des de l\u0027habitaci\u00F3 principal mitjan\u00E7ant una escala exterior.",
+        "Instal\u00B7lacions i estat: La propietat est\u00E0 com nova (nom\u00E9s 1,5 anys d\u0027\u00FAs real), lliure d\u0027humitat gr\u00E0cies a l\u0027\u00FAs de deshumidificadors i sistemes d\u0027aire condicionat actius. Disposa de calefacci\u00F3 per radiadors, aire condicionat, una sala d\u0027emmagatzematge, una sala de calderes i un aparcament cobert per a dos vehicles."
+      ],
+      "location_text": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona"
+    },
+    "en": {
+      "price": "1.200.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Charming 5-bedroom villa with a garden",
+      "seo_description": "This is a two-story home that was completely renovated in 2016 using top-quality materials, ideal for those seeking the comfort of a modern home in a relaxing setting.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Charming 5-bedroom villa with a garden | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "house"
+        ],
+        [
+          "Area",
+          "295 m\u00B2"
+        ],
+        [
+          "Tools",
+          "199 m\u00B2"
+        ],
+        [
+          "Lot",
+          "545 m\u00B2"
+        ],
+        [
+          "Municipality",
+          "Castell-Platja d\u0027Aro and S\u0027Agaro"
+        ],
+        [
+          "ZIP code",
+          "17249"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Bedrooms",
+          "5"
+        ],
+        [
+          "Bathrooms",
+          "2"
+        ],
+        [
+          "Age",
+          "1981 (45 years)"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Consum:E-262|Efici\u00E8ncia:E-54"
+        ],
+        [
+          "Certificate of Occupancy",
+          "CHG0261412001"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ECastell-Platja d\u0027Aro and S\u0027Agaro\u003C/strong\u003E.",
+        "This is a two-story home that was completely renovated in 2016 using top-quality materials, ideal for those seeking the comfort of a modern home in a peaceful setting. The property is fully fenced, with separate entrances and a private garden featuring fruit trees, mimosas, outdoor lighting, and a barbecue area with all necessary connections (electricity, water, and sewer).",
+        "Main Floor: Features a spacious living room with a fireplace, large windows, and a modern kitchen with up-to-date appliances. It includes a full bathroom with a hygienic shower, a glass-enclosed dining area with terrace-style windows overlooking the garden, and two bedrooms (one of which is configured as a laundry area and a fully equipped walk-in closet).",
+        "Upper Floor: Features 3 bedrooms with hardwood floors, a second living room with floor-to-ceiling windows, and pre-wiring for a small kitchen (water supply and drain). This floor features a luxurious bathroom with a round bathtub and direct access to the garden from the master bedroom via an outdoor staircase.",
+        "Features and Condition: The property is in like-new condition (only 1.5 years of actual use) and free of moisture thanks to the use of dehumidifiers and active climate control systems. It features radiator heating, air conditioning, a storage room, a boiler room, and covered parking for two vehicles."
+      ],
+      "location_text": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "1.200.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Charmante villa avec jardin, comprenant 5 chambres",
+      "seo_description": "Il s\u0027agit d\u0027une maison \u00E0 deux \u00E9tages enti\u00E8rement r\u00E9nov\u00E9e en 2016 avec des mat\u00E9riaux de premi\u00E8re qualit\u00E9, id\u00E9ale pour ceux qui recherchent le confort d\u0027une maison moderne dans un cadre propice \u00E0 la d\u00E9tente.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Charmante villa avec jardin, comprenant 5 chambres | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "maison"
+        ],
+        [
+          "Superficie",
+          "295 m\u00B2"
+        ],
+        [
+          "Outils",
+          "199 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "545 m\u00B2"
+        ],
+        [
+          "Commune",
+          "Castell-Platja d\u0027Aro et S\u0027Agaro"
+        ],
+        [
+          "Code postal",
+          "17249"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Chambres",
+          "5"
+        ],
+        [
+          "Salles de bains",
+          "2"
+        ],
+        [
+          "Anciennet\u00E9",
+          "1981 (45 ans)"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "Consum:E-262|Efici\u00E8ncia:E-54"
+        ],
+        [
+          "Certificat d\u0027habitabilit\u00E9",
+          "CHG0261412001"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003ECastell-Platja d\u0027Aro et S\u0027Agaro\u003C/strong\u003E.",
+        "Il s\u0027agit d\u0027une maison \u00E0 deux \u00E9tages enti\u00E8rement r\u00E9nov\u00E9e en 2016 avec des mat\u00E9riaux de premi\u00E8re qualit\u00E9, id\u00E9ale pour ceux qui recherchent le confort d\u0027une maison moderne dans un cadre propice \u00E0 la d\u00E9tente. Le terrain est enti\u00E8rement cl\u00F4tur\u00E9, avec des acc\u00E8s ind\u00E9pendants et un jardin priv\u00E9 agr\u00E9ment\u00E9 d\u2019arbres fruitiers, de mimosas, d\u2019un \u00E9clairage ext\u00E9rieur et d\u2019un espace barbecue dot\u00E9 de tous les raccordements (\u00E9lectricit\u00E9, eau et tout-\u00E0-l\u2019\u00E9gout).",
+        "Rez-de-chauss\u00E9e : il comprend un vaste salon avec chemin\u00E9e, de grandes baies vitr\u00E9es et une cuisine moderne \u00E9quip\u00E9e d\u2019appareils \u00E9lectrom\u00E9nagers r\u00E9cents. Elle comprend une salle de bains compl\u00E8te avec douche hygi\u00E9nique, une salle \u00E0 manger vitr\u00E9e de type terrasse donnant sur le jardin et deux chambres (dont l\u2019une am\u00E9nag\u00E9e en buanderie et dressing enti\u00E8rement \u00E9quip\u00E9s).",
+        "\u00C9tage sup\u00E9rieur : il comprend 3 chambres avec parquet, un deuxi\u00E8me salon dot\u00E9 de baies vitr\u00E9es allant du sol au plafond et une pr\u00E9-installation pour une petite cuisine (arriv\u00E9e d\u2019eau et \u00E9vacuation). Cet \u00E9tage comprend une salle de bains de luxe avec une baignoire ronde et un acc\u00E8s direct au jardin depuis la chambre principale par un escalier ext\u00E9rieur.",
+        "\u00C9quipements et \u00E9tat : La propri\u00E9t\u00E9 est comme neuve (seulement 1 an et demi d\u2019utilisation effective), exempte d\u2019humidit\u00E9 gr\u00E2ce \u00E0 l\u2019utilisation de d\u00E9shumidificateurs et de syst\u00E8mes de climatisation en service. Elle dispose d\u2019un chauffage par radiateurs, de la climatisation, d\u2019un d\u00E9barras, d\u2019un local technique et d\u2019un parking couvert pouvant accueillir deux v\u00E9hicules."
+      ],
+      "location_text": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona"
+    },
+    "de": {
+      "price": "1.200.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Bezaubernde Villa mit Garten und 5 Schlafzimmern",
+      "seo_description": "Es handelt sich um ein zweist\u00F6ckiges Haus, das 2016 mit hochwertigen Materialien komplett renoviert wurde und sich ideal f\u00FCr diejenigen eignet, die den Komfort eines modernen Hauses in einer erholsamen Umgebung suchen.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Bezaubernde Villa mit Garten und 5 Schlafzimmern | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Haus"
+        ],
+        [
+          "Fl\u00E4che",
+          "295 m\u00B2"
+        ],
+        [
+          "N\u00FCtzliche Informationen",
+          "199 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "545 m\u00B2"
+        ],
+        [
+          "Gemeinde",
+          "Castell-Platja d\u2019Aro und S\u2019Agaro"
+        ],
+        [
+          "Postleitzahl",
+          "17249"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Schlafzimmer",
+          "5"
+        ],
+        [
+          "Badezimmer",
+          "2"
+        ],
+        [
+          "Alter",
+          "1981 (vor 45 Jahren)"
+        ],
+        [
+          "Energieausweis",
+          "Consum:E-262|Efici\u00E8ncia:E-54"
+        ],
+        [
+          "Bewohnbarkeitsbescheinigung",
+          "CHG0261412001"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Angebot in \u003Cstrong\u003ECastell-Platja d\u2019Aro und S\u2019Agaro\u003C/strong\u003E.",
+        "Es handelt sich um ein zweist\u00F6ckiges Haus, das 2016 mit hochwertigen Materialien komplett renoviert wurde und sich ideal f\u00FCr diejenigen eignet, die den Komfort eines modernen Hauses in einer erholsamen Umgebung suchen. Das Grundst\u00FCck ist vollst\u00E4ndig umz\u00E4unt, verf\u00FCgt \u00FCber separate Zug\u00E4nge und einen privaten Garten mit Obstb\u00E4umen, Mimosen, Au\u00DFenbeleuchtung sowie einem Grillbereich mit allen Anschl\u00FCssen (Strom, Wasser und Kanalisation).",
+        "Erdgeschoss: Es verf\u00FCgt \u00FCber ein ger\u00E4umiges Wohnzimmer mit Kamin, gro\u00DFen Fenstern und einer modernen K\u00FCche mit aktuellen Haushaltsger\u00E4ten. Dazu geh\u00F6ren ein komplettes Badezimmer mit Hygienedusche, ein verglaster Essbereich im Terrassenstil mit Blick auf den Garten sowie zwei Schlafzimmer (von denen eines als Waschbereich und voll ausgestatteter Ankleideraum eingerichtet ist).",
+        "Obergeschoss: Es verf\u00FCgt \u00FCber 3 Schlafzimmer mit Parkettb\u00F6den, ein zweites Wohnzimmer mit raumhohen Fenstern sowie eine Vorinstallation f\u00FCr eine kleine K\u00FCche (Wasser- und Abwasseranschluss). Auf dieser Etage befindet sich ein luxuri\u00F6ses Badezimmer mit runder Badewanne sowie ein direkter Zugang zum Garten vom Hauptschlafzimmer aus \u00FCber eine Au\u00DFentreppe.",
+        "Ausstattung und Zustand: Die Immobilie befindet sich in neuwertigem Zustand (nur 1,5 Jahre tats\u00E4chliche Nutzung) und ist dank des Einsatzes von Luftentfeuchtern und aktiven Klimatisierungssystemen frei von Feuchtigkeit. Sie verf\u00FCgt \u00FCber eine Heizung mit Heizk\u00F6rpern, eine Klimaanlage, einen Abstellraum, einen Heizungsraum sowie einen \u00FCberdachten Parkplatz f\u00FCr zwei Fahrzeuge."
+      ],
+      "location_text": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "1.200.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u041E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0441 \u0441\u0430\u0434\u043E\u043C \u0438 5 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438",
+      "seo_description": "\u0420\u0435\u0447\u044C \u0438\u0434\u0435\u0442 \u043E \u0434\u0432\u0443\u0445\u044D\u0442\u0430\u0436\u043D\u043E\u043C \u0434\u043E\u043C\u0435, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u043C \u0432 2016 \u0433\u043E\u0434\u0443 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u0438\u0449\u0435\u0442 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0433\u043E \u0434\u043E\u043C\u0430 \u0432 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E\u0439 \u043E\u0431\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0435.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u041E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0441 \u0441\u0430\u0434\u043E\u043C \u0438 5 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0434\u043E\u043C"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
+          "295 m\u00B2"
+        ],
+        [
+          "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
+          "199 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "545 m\u00B2"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u041F\u043B\u0430\u0439\u044F-\u0434\u0027\u0410\u0440\u043E \u0438 \u0421\u0430\u0433\u0430\u0440\u043E"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17249"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "5"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "2"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "1981 (45 \u043B\u0435\u0442)"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "Consum:E-262|Efici\u00E8ncia:E-54"
+        ],
+        [
+          "\u0421\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E \u043E \u043F\u0440\u0438\u0433\u043E\u0434\u043D\u043E\u0441\u0442\u0438 \u043A \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043D\u0438\u044E",
+          "CHG0261412001"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0434\u0430\u043D\u043D\u043E\u0435 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0435 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0435 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E \u0438 \u0421\u0027\u0410\u0433\u0430\u0440\u043E\u003C/strong\u003E.",
+        "\u0420\u0435\u0447\u044C \u0438\u0434\u0435\u0442 \u043E \u0434\u0432\u0443\u0445\u044D\u0442\u0430\u0436\u043D\u043E\u043C \u0434\u043E\u043C\u0435, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u043C \u0432 2016 \u0433\u043E\u0434\u0443 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u0438\u0449\u0435\u0442 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0433\u043E \u0434\u043E\u043C\u0430 \u0432 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E\u0439 \u043E\u0431\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0435. \u0423\u0447\u0430\u0441\u0442\u043E\u043A \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0433\u043E\u0440\u043E\u0436\u0435\u043D, \u0438\u043C\u0435\u0435\u0442 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0435 \u043F\u043E\u0434\u044A\u0435\u0437\u0434\u043D\u044B\u0435 \u043F\u0443\u0442\u0438 \u0438 \u0447\u0430\u0441\u0442\u043D\u044B\u0439 \u0441\u0430\u0434 \u0441 \u0444\u0440\u0443\u043A\u0442\u043E\u0432\u044B\u043C\u0438 \u0434\u0435\u0440\u0435\u0432\u044C\u044F\u043C\u0438, \u043C\u0438\u043C\u043E\u0437\u0430\u043C\u0438, \u043D\u0430\u0440\u0443\u0436\u043D\u044B\u043C \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0435\u043C \u0438 \u0437\u043E\u043D\u043E\u0439 \u0434\u043B\u044F \u0431\u0430\u0440\u0431\u0435\u043A\u044E \u0441\u043E \u0432\u0441\u0435\u043C\u0438 \u043F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F\u043C\u0438 (\u044D\u043B\u0435\u043A\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043E, \u0432\u043E\u0434\u0430 \u0438 \u043A\u0430\u043D\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F).",
+        "\u041F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436: \u0437\u0434\u0435\u0441\u044C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u0439 \u0433\u043E\u0441\u0442\u0438\u043D\u044B\u0439 \u0437\u0430\u043B \u0441 \u043A\u0430\u043C\u0438\u043D\u043E\u043C, \u0431\u043E\u043B\u044C\u0448\u0438\u043C\u0438 \u043E\u043A\u043D\u0430\u043C\u0438 \u0438 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0439 \u043A\u0443\u0445\u043D\u0435\u0439, \u043E\u0441\u043D\u0430\u0449\u0435\u043D\u043D\u043E\u0439 \u043D\u043E\u0432\u0435\u0439\u0448\u0435\u0439 \u0431\u044B\u0442\u043E\u0432\u043E\u0439 \u0442\u0435\u0445\u043D\u0438\u043A\u043E\u0439. \u0417\u0434\u0435\u0441\u044C \u0442\u0430\u043A\u0436\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0432\u0430\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u0433\u0438\u0433\u0438\u0435\u043D\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0434\u0443\u0448\u0435\u0432\u043E\u0439 \u043A\u0430\u0431\u0438\u043D\u043E\u0439, \u0437\u0430\u0441\u0442\u0435\u043A\u043B\u0451\u043D\u043D\u0430\u044F \u0441\u0442\u043E\u043B\u043E\u0432\u0430\u044F \u0432 \u0441\u0442\u0438\u043B\u0435 \u0442\u0435\u0440\u0440\u0430\u0441\u044B \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u0441\u0430\u0434 \u0438 \u0434\u0432\u0435 \u0441\u043F\u0430\u043B\u044C\u043D\u0438 (\u043E\u0434\u043D\u0430 \u0438\u0437 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043E\u0431\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u0430 \u043F\u043E\u0434 \u043F\u0440\u0430\u0447\u0435\u0447\u043D\u0443\u044E \u0438 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u0433\u0430\u0440\u0434\u0435\u0440\u043E\u0431\u043D\u0443\u044E).",
+        "\u0412\u0435\u0440\u0445\u043D\u0438\u0439 \u044D\u0442\u0430\u0436: \u0417\u0434\u0435\u0441\u044C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B 3 \u0441\u043F\u0430\u043B\u044C\u043D\u0438 \u0441 \u0434\u0435\u0440\u0435\u0432\u044F\u043D\u043D\u044B\u043C\u0438 \u043F\u043E\u043B\u0430\u043C\u0438, \u0432\u0442\u043E\u0440\u0430\u044F \u0433\u043E\u0441\u0442\u0438\u043D\u0430\u044F \u0441 \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C\u0438 \u043E\u043A\u043D\u0430\u043C\u0438 \u043E\u0442 \u043F\u043E\u043B\u0430 \u0434\u043E \u043F\u043E\u0442\u043E\u043B\u043A\u0430, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u0434\u043B\u044F \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u043A\u0443\u0445\u043D\u0438 (\u043F\u043E\u0434\u0432\u043E\u0434 \u0432\u043E\u0434\u044B \u0438 \u0441\u043B\u0438\u0432). \u041D\u0430 \u044D\u0442\u043E\u043C \u044D\u0442\u0430\u0436\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u0440\u043E\u0441\u043A\u043E\u0448\u043D\u0430\u044F \u0432\u0430\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u043A\u0440\u0443\u0433\u043B\u043E\u0439 \u0432\u0430\u043D\u043D\u043E\u0439, \u0430 \u0438\u0437 \u0433\u043B\u0430\u0432\u043D\u043E\u0439 \u0441\u043F\u0430\u043B\u044C\u043D\u0438 \u0447\u0435\u0440\u0435\u0437 \u043D\u0430\u0440\u0443\u0436\u043D\u0443\u044E \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0443 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u043F\u0440\u044F\u043C\u043E\u0439 \u0432\u044B\u0445\u043E\u0434 \u0432 \u0441\u0430\u0434.",
+        "\u041E\u0441\u043D\u0430\u0449\u0435\u043D\u0438\u0435 \u0438 \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435: \u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438 (\u0444\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0440\u043E\u043A \u044D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u0438 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0432\u0441\u0435\u0433\u043E 1,5 \u0433\u043E\u0434\u0430), \u0432 \u043D\u0435\u0439 \u043E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0441\u044B\u0440\u043E\u0441\u0442\u044C \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044E \u043E\u0441\u0443\u0448\u0438\u0442\u0435\u043B\u0435\u0439 \u0432\u043E\u0437\u0434\u0443\u0445\u0430 \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F. \u0412 \u0434\u043E\u043C\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u0440\u0430\u0434\u0438\u0430\u0442\u043E\u0440\u043D\u043E\u0435 \u043E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u0435, \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440, \u043A\u043B\u0430\u0434\u043E\u0432\u0430\u044F, \u043A\u043E\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435 \u0438 \u043A\u0440\u044B\u0442\u0430\u044F \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u0430 \u043D\u0430 \u0434\u0432\u0430 \u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044F."
+      ],
+      "location_text": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona"
     }
   }
 }

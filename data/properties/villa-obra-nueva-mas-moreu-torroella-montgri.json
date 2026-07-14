@@ -129,6 +129,536 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "640.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Vila de nova construcci\u00F3 a Mas Moreu, Torroella de Montgr\u00ED",
+      "seo_description": "Una vila contempor\u00E0nia de nova construcci\u00F3 a Mas Moreu, amb vistes al mar i al castell de Montgr\u00ED, alta efici\u00E8ncia h\u00EDdrica i acabats de luxe personalitzables.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Vila de nova construcci\u00F3 a Mas Moreu, Torroella de Montgr\u00ED | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "Vila"
+        ],
+        [
+          "Estat",
+          "Nova construcci\u00F3"
+        ],
+        [
+          "\u00C0rea",
+          "Mas Moreu"
+        ],
+        [
+          "Vistes",
+          "Mar i Castell de Montgr\u00ED"
+        ],
+        [
+          "Habitacions",
+          "3 habitacions dobles"
+        ],
+        [
+          "Banys",
+          "2"
+        ],
+        [
+          "Constru\u00EFt",
+          "189 m\u00B2"
+        ],
+        [
+          "Eines",
+          "180 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "405 m\u00B2"
+        ],
+        [
+          "Gara",
+          "Acc\u00E9s privat motoritzat"
+        ],
+        [
+          "Aire condicionat",
+          "Bombeta de calor Panasonic i conductes separats per a cada planta"
+        ],
+        [
+          "Sostenibilitat",
+          "Aigua grisa 1.245 L i aigua de pluja 3.000 L"
+        ],
+        [
+          "Acabats",
+          "Technal, vidre de baixa emissivitat, gres porcell\u00E0nic i cuina Bosch"
+        ],
+        [
+          "Codi postal",
+          "17258"
+        ],
+        [
+          "Municipi",
+          "Torroella de Montgr\u00ED"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "Consum:A|Efici\u00E8ncia:A"
+        ],
+        [
+          "Data de publicaci\u00F3",
+          "2026-05-07"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003EMas Moreu, Torroella de Montgr\u00ED\u003C/strong\u003E, un indret tranquil amb vistes al mar i al castell de Montgr\u00ED.",
+        "L\u0027anunci de la propietat descriu una \u003Cstrong\u003Evila contempor\u00E0nia de nova construcci\u00F3\u003C/strong\u003E amb \u003Cstrong\u003Euna superf\u00EDcie\u003C/strong\u003E de \u003Cstrong\u003E189 m\u00B2 \u003C/strong\u003Een un terreny de \u003Cstrong\u003E405 m\u00B2\u003C/strong\u003E, que ofereix privacitat, arbres propis i proximitat als serveis locals.",
+        "La propietat disposa de \u003Cstrong\u003E3 dormitoris dobles\u003C/strong\u003E, un garatge privat motoritzat, patis de gres antilliscants, una fa\u00E7ana d\u0027argamassa blanca, finestres Technal amb trencaments t\u00E8rmics i vidres de baixa emissivitat.",
+        "El projecte inclou un sistema de bomba de calor Panasonic, aire condicionat per conductes independent a cada planta, persianes motoritzades, un dip\u00F2sit d\u0027aig\u00FCes grises de \u003Cstrong\u003E1.245 litres\u003C/strong\u003E i un dip\u00F2sit d\u0027aigua de pluja de \u003Cstrong\u003E3.000 litres\u003C/strong\u003E per a reg i \u00FAs sanitari.",
+        "Segons l\u0027anunci, si la compra es completa a temps, els acabats encara es poden personalitzar. Si us plau, comproveu aqu\u00ED el text final, les imatges, el PDF i el pl\u00E0nol de la parcel\u00B7la abans de publicar."
+      ],
+      "location_text": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona"
+    },
+    "en": {
+      "price": "640.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Newly built villa in Mas Moreu, Torroella de Montgr\u00ED",
+      "seo_description": "Contemporary new-construction villa in Mas Moreu, with views of the sea and Montgr\u00ED Castle, high water efficiency, and customizable luxury finishes.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Newly built villa in Mas Moreu, Torroella de Montgr\u00ED | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Villa"
+        ],
+        [
+          "Status",
+          "New construction"
+        ],
+        [
+          "Area",
+          "Mas Moreu"
+        ],
+        [
+          "Views",
+          "Sea and Montgr\u00ED Castle"
+        ],
+        [
+          "Bedrooms",
+          "3 double bedrooms"
+        ],
+        [
+          "Bathrooms",
+          "2"
+        ],
+        [
+          "Built",
+          "189 m\u00B2"
+        ],
+        [
+          "Tools",
+          "180 m\u00B2"
+        ],
+        [
+          "Lot",
+          "405 m\u00B2"
+        ],
+        [
+          "Garage",
+          "Private driveway"
+        ],
+        [
+          "Climate Control",
+          "Panasonic heat pump and separate ductwork for each floor"
+        ],
+        [
+          "Sustainability",
+          "Graywater: 1,245 L; Rainwater: 3,000 L"
+        ],
+        [
+          "Finishes",
+          "Technal, low-emissivity glazing, porcelain tile, and a Bosch kitchen"
+        ],
+        [
+          "ZIP code",
+          "17258"
+        ],
+        [
+          "Municipality",
+          "Torroella de Montgr\u00ED"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Consum:A|Efici\u00E8ncia:A"
+        ],
+        [
+          "Publication Date",
+          "2026-05-07"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this collaborative listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003EMas Moreu, Torroella de Montgr\u00ED\u003C/strong\u003E, a quiet location with views of the sea and Montgr\u00ED Castle.",
+        "The listing describes a \u003Cstrong\u003Econtemporary, newly built villa\u003C/strong\u003E with \u003Cstrong\u003E189 m\u00B2 of floor\u003C/strong\u003E \u003Cstrong\u003Espace\u003C/strong\u003E on a \u003Cstrong\u003E405 m\u00B2\u003C/strong\u003E lot, offering privacy, its own trees, and proximity to local amenities.",
+        "The home features \u003Cstrong\u003E3 double bedrooms\u003C/strong\u003E, a private garage with an automatic door, porches with non-slip stone tiles, a white stucco facade, Technal windows with thermal breaks, and low-emissivity glass.",
+        "The project features a Panasonic heat pump system, independent ducted HVAC on each floor, motorized blinds, a \u003Cstrong\u003E1,245-liter\u003C/strong\u003E graywater tank, and a \u003Cstrong\u003E3,000-liter\u003C/strong\u003E rainwater tank for irrigation and plumbing.",
+        "According to the listing, if the purchase is made in time, you can still customize the finishes. Review the final text, images, PDF, and lot plan here before publishing."
+      ],
+      "location_text": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona"
+    },
+    "fr": {
+      "price": "640.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Villa neuve \u00E0 Mas Moreu, Torroella de Montgr\u00ED",
+      "seo_description": "Villa contemporaine neuve situ\u00E9e \u00E0 Mas Moreu, offrant une vue sur la mer et le ch\u00E2teau du Montgr\u00ED, dot\u00E9e d\u2019un syst\u00E8me de gestion de l\u2019eau \u00E0 haute efficacit\u00E9 et de finitions de luxe personnalisables.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Villa neuve \u00E0 Mas Moreu, Torroella de Montgr\u00ED | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Villa"
+        ],
+        [
+          "\u00C9tat",
+          "Programme immobilier neuf"
+        ],
+        [
+          "R\u00E9gion",
+          "Mas Moreu"
+        ],
+        [
+          "Vues",
+          "Mer et ch\u00E2teau du Montgr\u00ED"
+        ],
+        [
+          "Chambres",
+          "3 chambres doubles"
+        ],
+        [
+          "Salles de bains",
+          "2"
+        ],
+        [
+          "Construits",
+          "189 m\u00B2"
+        ],
+        [
+          "Outils",
+          "180 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "405 m\u00B2"
+        ],
+        [
+          "Garage",
+          "All\u00E9e priv\u00E9e motoris\u00E9e"
+        ],
+        [
+          "Climatisation",
+          "Syst\u00E8me a\u00E9rothermique Panasonic et conduits ind\u00E9pendants par \u00E9tage"
+        ],
+        [
+          "D\u00E9veloppement durable",
+          "Eaux grises : 1 245 L et eaux pluviales : 3 000 L"
+        ],
+        [
+          "Finitions",
+          "Technal, vitrage \u00E0 faible \u00E9missivit\u00E9, carrelage en gr\u00E8s c\u00E9rame et cuisine Bosch"
+        ],
+        [
+          "Code postal",
+          "17258"
+        ],
+        [
+          "Commune",
+          "Torroella de Montgr\u00ED"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "Consum:A|Efici\u00E8ncia:A"
+        ],
+        [
+          "Date de publication",
+          "2026-05-07"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003EMas Moreu, Torroella de Montgr\u00ED\u003C/strong\u003E, un emplacement paisible offrant une vue sur la mer et le ch\u00E2teau du Montgr\u00ED.",
+        "La fiche commerciale d\u00E9crit une \u003Cstrong\u003Evilla contemporaine neuve\u003C/strong\u003E \u003Cstrong\u003Ede\u003C/strong\u003E \u003Cstrong\u003E189 m\u00B2 construits\u003C/strong\u003E sur un terrain de \u003Cstrong\u003E405 m\u00B2\u003C/strong\u003E, offrant une grande intimit\u00E9, un espace vert priv\u00E9 et la proximit\u00E9 des commodit\u00E9s locales.",
+        "La propri\u00E9t\u00E9 dispose de \u003Cstrong\u003E3 chambres doubles\u003C/strong\u003E, d\u2019un garage priv\u00E9 \u00E0 porte motoris\u00E9e, de terrasses en gr\u00E8s antid\u00E9rapant, d\u2019une fa\u00E7ade en mortier blanc, de menuiseries Technal \u00E0 rupture de pont thermique et de vitrages \u00E0 faible \u00E9missivit\u00E9.",
+        "Le projet int\u00E8gre un syst\u00E8me de g\u00E9othermie Panasonic, une climatisation par conduits ind\u00E9pendante \u00E0 chaque \u00E9tage, des volets motoris\u00E9s, un r\u00E9servoir d\u0027eaux grises de \u003Cstrong\u003E1 245 L\u003C/strong\u003E et un r\u00E9servoir d\u0027eaux de pluie de \u003Cstrong\u003E3 000 L\u003C/strong\u003E destin\u00E9s \u00E0 l\u0027arrosage et aux sanitaires.",
+        "D\u2019apr\u00E8s la r\u00E9f\u00E9rence, si l\u2019achat est effectu\u00E9 \u00E0 temps, il est encore possible de personnaliser les finitions. V\u00E9rifiez ici le texte final, les images, le PDF et le plan cadastral avant de le publier."
+      ],
+      "location_text": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona"
+    },
+    "de": {
+      "price": "640.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Neubauvilla in Mas Moreu, Torroella de Montgr\u00ED",
+      "seo_description": "Moderne Neubauvilla in Mas Moreu mit Blick auf das Meer und die Burg von Montgr\u00ED, hoher Wassereffizienz und individuell anpassbaren Luxusausstattungen.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Neubauvilla in Mas Moreu, Torroella de Montgr\u00ED | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Villa"
+        ],
+        [
+          "Zustand",
+          "Neubau"
+        ],
+        [
+          "Lage",
+          "Mas Moreu"
+        ],
+        [
+          "Aufrufe",
+          "Meer und Burg von Montgr\u00ED"
+        ],
+        [
+          "Schlafzimmer",
+          "3 Doppelzimmer"
+        ],
+        [
+          "Badezimmer",
+          "2"
+        ],
+        [
+          "Errichtet",
+          "189 m\u00B2"
+        ],
+        [
+          "N\u00FCtzliche Informationen",
+          "180 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "405 m\u00B2"
+        ],
+        [
+          "Garage",
+          "Privater, motorisierter Zugang"
+        ],
+        [
+          "Klimaanlage",
+          "Panasonic-W\u00E4rmepumpen und separate Luftkan\u00E4le pro Etage"
+        ],
+        [
+          "Nachhaltigkeit",
+          "Grauwasser 1.245 l und Regenwasser 3.000 l"
+        ],
+        [
+          "Ausstattung",
+          "Technal, Low-E-Verglasung, Feinsteinzeug und eine Bosch-K\u00FCche"
+        ],
+        [
+          "Postleitzahl",
+          "17258"
+        ],
+        [
+          "Gemeinde",
+          "Torroella de Montgr\u00ED"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Energieausweis",
+          "Consum:A|Efici\u00E8ncia:A"
+        ],
+        [
+          "Ver\u00F6ffentlichungsdatum",
+          "2026-05-07"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E vermittelte Objekt in \u003Cstrong\u003EMas Moreu, Torroella de Montgr\u00ED\u003C/strong\u003E \u2013 einer ruhigen Lage mit Blick auf das Meer und die Burg von Montgr\u00ED.",
+        "Die Objektbeschreibung umfasst eine \u003Cstrong\u003Emoderne Neubauvilla mit einer bebauten Fl\u00E4che\u003C/strong\u003E von \u003Cstrong\u003E189 m\u00B2\u003C/strong\u003E auf einem \u003Cstrong\u003E405 m\u00B2\u003C/strong\u003E gro\u00DFen Grundst\u00FCck, die Privatsph\u00E4re, einen eigenen Baumbestand und die N\u00E4he zu lokalen Einrichtungen bietet.",
+        "Das Haus verf\u00FCgt \u00FCber \u003Cstrong\u003E3 Doppelzimmer\u003C/strong\u003E, eine private Garage mit Torantrieb, Veranden mit rutschfesten Steinfliesen, eine Fassade aus wei\u00DFem M\u00F6rtel sowie Technal-Fenster und -T\u00FCren mit thermischer Trennung und Low-E-Verglasung.",
+        "Das Projekt umfasst eine Panasonic-W\u00E4rmepumpenanlage, eine unabh\u00E4ngige Kanalklimaanlage auf jeder Etage, motorisierte Rolll\u00E4den, einen Grauwasserspeicher mit \u003Cstrong\u003E1.245 l\u003C/strong\u003E Fassungsverm\u00F6gen sowie einen Regenwasserspeicher mit \u003Cstrong\u003E3.000 l\u003C/strong\u003E Fassungsverm\u00F6gen f\u00FCr Bew\u00E4sserung und Sanit\u00E4ranlagen.",
+        "Laut der Referenz k\u00F6nnen die Ausstattungsdetails noch individuell angepasst werden, sofern der Kauf rechtzeitig erfolgt. Bitte \u00FCberpr\u00FCfen Sie hier den endg\u00FCltigen Text, die Bilder, die PDF-Datei und den Lageplan, bevor Sie die Anzeige ver\u00F6ffentlichen."
+      ],
+      "location_text": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona"
+    },
+    "ru": {
+      "price": "640.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u041D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0432 \u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443, \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438",
+      "seo_description": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u043D\u043E\u0432\u043E\u0433\u043E \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430 \u0432 \u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443 \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0438 \u0437\u0430\u043C\u043E\u043A \u041C\u043E\u043D\u0433\u0440\u0438, \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0430\u044F\u0441\u044F \u0432\u044B\u0441\u043E\u043A\u043E\u0439 \u044D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C\u044E \u0432\u043E\u0434\u043E\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0438 \u0440\u043E\u0441\u043A\u043E\u0448\u043D\u043E\u0439 \u043E\u0442\u0434\u0435\u043B\u043A\u043E\u0439, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043C\u043E\u0436\u043D\u043E \u0430\u0434\u0430\u043F\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043F\u043E\u0434 \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0442\u0435\u043D\u0438\u044F.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u041D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0432 \u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443, \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0412\u0438\u043B\u043B\u0430"
+        ],
+        [
+          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
+          "\u041D\u043E\u0432\u043E\u0435 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E"
+        ],
+        [
+          "\u0420\u0430\u0439\u043E\u043D",
+          "\u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443"
+        ],
+        [
+          "\u0412\u0438\u0434\u044B",
+          "\u041C\u043E\u0440\u0435 \u0438 \u0437\u0430\u043C\u043E\u043A \u041C\u043E\u043D\u0433\u0440\u0438"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "3 \u0434\u0432\u0443\u0445\u043C\u0435\u0441\u0442\u043D\u044B\u0435 \u0441\u043F\u0430\u043B\u044C\u043D\u0438"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "2"
+        ],
+        [
+          "\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435",
+          "189 m\u00B2"
+        ],
+        [
+          "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
+          "180 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "405 m\u00B2"
+        ],
+        [
+          "\u0413\u0430\u0440\u0430\u0436",
+          "\u0427\u0430\u0441\u0442\u043D\u044B\u0439 \u043F\u043E\u0434\u044A\u0435\u0437\u0434 \u0441 \u043C\u0435\u0445\u0430\u043D\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u0439"
+        ],
+        [
+          "\u041A\u043B\u0438\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F",
+          "\u0421\u0438\u0441\u0442\u0435\u043C\u0430 \u0430\u044D\u0440\u043E\u0442\u0435\u0440\u043C\u0438\u0438 Panasonic \u0438 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0435 \u0432\u043E\u0437\u0434\u0443\u0445\u043E\u0432\u043E\u0434\u044B \u043D\u0430 \u043A\u0430\u0436\u0434\u043E\u043C \u044D\u0442\u0430\u0436\u0435"
+        ],
+        [
+          "\u0423\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435",
+          "\u041E\u0431\u044A\u0451\u043C \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440\u0430 \u0434\u043B\u044F \u0441\u0442\u043E\u0447\u043D\u044B\u0445 \u0432\u043E\u0434 \u2014 1 245 \u043B, \u0434\u043B\u044F \u0434\u043E\u0436\u0434\u0435\u0432\u043E\u0439 \u0432\u043E\u0434\u044B \u2014 3 000 \u043B"
+        ],
+        [
+          "\u041E\u0442\u0434\u0435\u043B\u043E\u0447\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
+          "Technal, \u043D\u0438\u0437\u043A\u043E\u044D\u043C\u0438\u0441\u0441\u0438\u043E\u043D\u043D\u043E\u0435 \u0441\u0442\u0435\u043A\u043B\u043E, \u043A\u0435\u0440\u0430\u043C\u043E\u0433\u0440\u0430\u043D\u0438\u0442 \u0438 \u043A\u0443\u0445\u043E\u043D\u043D\u0430\u044F \u0442\u0435\u0445\u043D\u0438\u043A\u0430 Bosch"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17258"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "Consum:A|Efici\u00E8ncia:A"
+        ],
+        [
+          "\u0414\u0430\u0442\u0430 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438",
+          "2026-05-07"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E\u0442 \u043E\u0431\u044A\u0435\u043A\u0442, \u0440\u0430\u0437\u043C\u0435\u0449\u0451\u043D\u043D\u044B\u0439 \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0435\u043A\u0442\u0430 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443, \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438\u003C/strong\u003E \u2014 \u0442\u0438\u0445\u043E\u043C \u043C\u0435\u0441\u0442\u0435 \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0438 \u0437\u0430\u043C\u043E\u043A \u041C\u043E\u043D\u0433\u0440\u0438.",
+        "\u0412 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0438 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0430 \u003Cstrong\u003E\u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u043D\u043E\u0432\u043E\u0439 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438\u003C/strong\u003E \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E189 \u043C\u00B2\u003C/strong\u003E, \u003Cstrong\u003E\u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F\u003C/strong\u003E \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E405 \u043C\u00B2\u003C/strong\u003E, \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0430\u044F\u0441\u044F \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u043D\u043E\u0441\u0442\u044C\u044E, \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u043B\u0435\u0441\u043E\u043F\u0430\u0440\u043A\u043E\u043C \u0438 \u0431\u043B\u0438\u0437\u043E\u0441\u0442\u044C\u044E \u043A \u043C\u0435\u0441\u0442\u043D\u044B\u043C \u043E\u0431\u044A\u0435\u043A\u0442\u0430\u043C \u0438\u043D\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B.",
+        "\u0412 \u0434\u043E\u043C\u0435 \u0438\u043C\u0435\u044E\u0442\u0441\u044F \u003Cstrong\u003E3 \u0434\u0432\u0443\u0445\u043C\u0435\u0441\u0442\u043D\u044B\u0435 \u0441\u043F\u0430\u043B\u044C\u043D\u0438\u003C/strong\u003E, \u0447\u0430\u0441\u0442\u043D\u044B\u0439 \u0433\u0430\u0440\u0430\u0436 \u0441 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u043E\u0439 \u043E\u0442\u043A\u0440\u044B\u0432\u0430\u043D\u0438\u044F, \u0432\u0435\u0440\u0430\u043D\u0434\u044B \u0441 \u043F\u0440\u043E\u0442\u0438\u0432\u043E\u0441\u043A\u043E\u043B\u044C\u0437\u044F\u0449\u0438\u043C \u043A\u0435\u0440\u0430\u043C\u043E\u0433\u0440\u0430\u043D\u0438\u0442\u043E\u043C, \u0444\u0430\u0441\u0430\u0434 \u0438\u0437 \u0431\u0435\u043B\u043E\u0433\u043E \u0440\u0430\u0441\u0442\u0432\u043E\u0440\u0430, \u043E\u043A\u043D\u0430 Technal \u0441 \u0442\u0435\u0440\u043C\u043E\u0440\u0430\u0437\u0440\u044B\u0432\u043E\u043C \u0438 \u0441\u0442\u0435\u043A\u043B\u043E \u0441 \u043D\u0438\u0437\u043A\u0438\u043C \u043A\u043E\u044D\u0444\u0444\u0438\u0446\u0438\u0435\u043D\u0442\u043E\u043C \u0438\u0437\u043B\u0443\u0447\u0435\u043D\u0438\u044F.",
+        "\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u0430\u044D\u0440\u043E\u0442\u0435\u0440\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E \u043E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u044F Panasonic, \u043D\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043C\u0443\u044E \u0441\u0438\u0441\u0442\u0435\u043C\u0443 \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u0441 \u0432\u043E\u0437\u0434\u0443\u0445\u043E\u0432\u043E\u0434\u0430\u043C\u0438 \u043D\u0430 \u043A\u0430\u0436\u0434\u043E\u043C \u044D\u0442\u0430\u0436\u0435, \u0436\u0430\u043B\u044E\u0437\u0438 \u0441 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043F\u0440\u0438\u0432\u043E\u0434\u043E\u043C, \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440 \u0434\u043B\u044F \u0441\u0442\u043E\u0447\u043D\u044B\u0445 \u0432\u043E\u0434 \u043E\u0431\u044A\u0435\u043C\u043E\u043C \u003Cstrong\u003E1 245 \u043B\u003C/strong\u003E \u0438 \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440 \u0434\u043B\u044F \u0434\u043E\u0436\u0434\u0435\u0432\u043E\u0439 \u0432\u043E\u0434\u044B \u043E\u0431\u044A\u0435\u043C\u043E\u043C \u003Cstrong\u003E3 000 \u043B\u003C/strong\u003E, \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u043D\u044B\u0435 \u0434\u043B\u044F \u043F\u043E\u043B\u0438\u0432\u0430 \u0438 \u0441\u0430\u043D\u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043D\u0443\u0436\u0434.",
+        "\u0421\u043E\u0433\u043B\u0430\u0441\u043D\u043E \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438 \u0432 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0438, \u043F\u0440\u0438 \u0441\u0432\u043E\u0435\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u043C \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u0438\u0438 \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u0435\u0449\u0451 \u043C\u043E\u0436\u043D\u043E \u0432\u044B\u0431\u0440\u0430\u0442\u044C \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u0443\u044E \u043E\u0442\u0434\u0435\u043B\u043A\u0443. \u041F\u0440\u043E\u0432\u0435\u0440\u044C\u0442\u0435 \u0437\u0434\u0435\u0441\u044C \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0442\u0435\u043A\u0441\u0442, \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F, PDF-\u0444\u0430\u0439\u043B \u0438 \u043F\u043B\u0430\u043D \u0443\u0447\u0430\u0441\u0442\u043A\u0430 \u043F\u0435\u0440\u0435\u0434 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0435\u0439."
+      ],
+      "location_text": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona"
     }
   }
 }

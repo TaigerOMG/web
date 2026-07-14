@@ -393,6 +393,656 @@
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
       "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "240.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Casa cantonera a Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
+      "seo_description": "Una casa cantonera a la zona de Puigmal-Mas Nou, amb garatge privat, terrassa, barbacoa, jard\u00ED i bona orientaci\u00F3.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Casa cantonera a Puigmal, Castell\u00F3 d\u0027Emp\u00FAries | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "Casa cantonera"
+        ],
+        [
+          "Estat",
+          "Bona condici\u00F3"
+        ],
+        [
+          "\u00C0rea",
+          "Puigmal - Mas Nou"
+        ],
+        [
+          "Constru\u00EFt",
+          "98 m\u00B2"
+        ],
+        [
+          "Eines",
+          "59 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "119 m\u00B2"
+        ],
+        [
+          "Habitacions",
+          "2"
+        ],
+        [
+          "Banys",
+          "2"
+        ],
+        [
+          "Terrassa",
+          "S\u00ED"
+        ],
+        [
+          "Jard\u00ED",
+          "\u00C0rea paisatg\u00EDstica"
+        ],
+        [
+          "Barbacoa",
+          "S\u00ED"
+        ],
+        [
+          "Gara",
+          "Privat"
+        ],
+        [
+          "Aparcament",
+          "Privat"
+        ],
+        [
+          "Aire condicionat",
+          "S\u00ED"
+        ],
+        [
+          "Cuina",
+          "Moblat i equipat"
+        ],
+        [
+          "Moblat",
+          "S\u00ED"
+        ],
+        [
+          "Edat",
+          "1988 (38 anys)"
+        ],
+        [
+          "Codi postal",
+          "17487"
+        ],
+        [
+          "Municipi",
+          "Castell\u00F3 d\u0027Emp\u00FAries"
+        ],
+        [
+          "Regi\u00F3",
+          "Alt Empord\u00E0"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Certificat d\u0027ocupaci\u00F3",
+          "890717047006954"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "Data de publicaci\u00F3",
+          "2026-03-30"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a la zona de \u003Cstrong\u003EPuigmal-Mas Nou\u003C/strong\u003E de Castell\u00F3 d\u0027Emp\u00FAries, una zona residencial tranquil\u00B7la a prop de serveis i de les platges de l\u0027Empord\u00E0.",
+        "La descripci\u00F3 de la propietat detalla una \u003Cstrong\u003Ecasa cantonera\u003C/strong\u003E ben orientada i plena de llum, situada en un terreny de \u003Cstrong\u003E119 m\u00B2\u003C/strong\u003E, amb una zona de jard\u00ED, terrassa, barbacoa i espai exterior per gaudir de l\u0027aire fresc.",
+        "La propietat t\u00E9 \u003Cstrong\u003Euna superf\u00EDcie\u003C/strong\u003E de \u003Cstrong\u003E98 m\u00B2 \u003C/strong\u003Ei s\u0027ofereix totalment moblada, amb cuina equipada, aire condicionat i aparcament privat.",
+        "Segons l\u0027anunci, disposa d\u0027un garatge privat, t\u00E9 entre \u003Cstrong\u003E30 i 50 anys\u003C/strong\u003E d\u0027antiguitat i es troba en perfecte estat per entrar-hi a viure.",
+        "Consulteu aqu\u00ED la selecci\u00F3 final d\u0027imatges, el pl\u00E0nol de la parcel\u00B7la i el text de venda abans de publicar l\u0027anunci a LacostaHaus."
+      ],
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona"
+    },
+    "en": {
+      "price": "240.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Corner house in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
+      "seo_description": "Corner house in the Puigmal-Mas Nou neighborhood, with a private garage, terrace, barbecue, landscaped area, and good exposure.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Corner house in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Corner house"
+        ],
+        [
+          "Status",
+          "Good condition"
+        ],
+        [
+          "Area",
+          "Puigmal - Mas Nou"
+        ],
+        [
+          "Built",
+          "98 m\u00B2"
+        ],
+        [
+          "Tools",
+          "59 m\u00B2"
+        ],
+        [
+          "Lot",
+          "119 m\u00B2"
+        ],
+        [
+          "Bedrooms",
+          "2"
+        ],
+        [
+          "Bathrooms",
+          "2"
+        ],
+        [
+          "Terrace",
+          "Yes"
+        ],
+        [
+          "Garden",
+          "Landscaped area"
+        ],
+        [
+          "Barbecue",
+          "Yes"
+        ],
+        [
+          "Garage",
+          "Private"
+        ],
+        [
+          "Parking",
+          "Private"
+        ],
+        [
+          "Air conditioning",
+          "Yes"
+        ],
+        [
+          "Kitchen",
+          "Furnished and equipped"
+        ],
+        [
+          "Furnished",
+          "Yes"
+        ],
+        [
+          "Age",
+          "1988 (38 years)"
+        ],
+        [
+          "ZIP code",
+          "17487"
+        ],
+        [
+          "Municipality",
+          "Castell\u00F3 d\u0027Emp\u00FAries"
+        ],
+        [
+          "Region",
+          "Alt Empord\u00E0"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Certificate of Occupancy",
+          "890717047006954"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "Publication Date",
+          "2026-03-30"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in the \u003Cstrong\u003EPuigmal-Mas Nou\u003C/strong\u003E neighborhood of Castell\u00F3 d\u0027Emp\u00FAries, a quiet residential area close to amenities and beaches in the Empord\u00E0 region.",
+        "The listing describes a well-oriented, bright \u003Cstrong\u003Ecorner house\u003C/strong\u003E with a \u003Cstrong\u003E119 m\u00B2\u003C/strong\u003E lot, a landscaped area, a terrace, a barbecue, and outdoor space to enjoy the fresh air.",
+        "The home has a \u003Cstrong\u003Efloor area\u003C/strong\u003E of \u003Cstrong\u003E98 m\u00B2\u003C/strong\u003E and comes fully furnished, with a fully equipped kitchen, air conditioning, and private parking.",
+        "According to the listing, it features a private garage and is approximately \u003Cstrong\u003E30 to 50 years\u003C/strong\u003E old, in move-in ready condition.",
+        "Review the final selection of images, the lot plan, and the sales text here before publishing the listing on LacostaHaus."
+      ],
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona"
+    },
+    "fr": {
+      "price": "240.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Maison d\u0027angle \u00E0 Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
+      "seo_description": "Maison d\u0027angle situ\u00E9e dans le quartier de Puigmal-Mas Nou, avec garage priv\u00E9, terrasse, barbecue, espace vert et bonne exposition.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Maison d\u0027angle \u00E0 Puigmal, Castell\u00F3 d\u0027Emp\u00FAries | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Maison d\u0027angle"
+        ],
+        [
+          "\u00C9tat",
+          "Bon \u00E9tat"
+        ],
+        [
+          "R\u00E9gion",
+          "Puigmal - Mas Nou"
+        ],
+        [
+          "Construits",
+          "98 m\u00B2"
+        ],
+        [
+          "Outils",
+          "59 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "119 m\u00B2"
+        ],
+        [
+          "Chambres",
+          "2"
+        ],
+        [
+          "Salles de bains",
+          "2"
+        ],
+        [
+          "Terrasse",
+          "Oui"
+        ],
+        [
+          "Jardin",
+          "Espace paysager"
+        ],
+        [
+          "Barbecue",
+          "Oui"
+        ],
+        [
+          "Garage",
+          "Priv\u00E9"
+        ],
+        [
+          "Parking",
+          "Priv\u00E9"
+        ],
+        [
+          "Climatisation",
+          "Oui"
+        ],
+        [
+          "Cuisine",
+          "Meubl\u00E9e et \u00E9quip\u00E9e"
+        ],
+        [
+          "Meubl\u00E9",
+          "Oui"
+        ],
+        [
+          "Anciennet\u00E9",
+          "1988 (38 ans)"
+        ],
+        [
+          "Code postal",
+          "17487"
+        ],
+        [
+          "Commune",
+          "Castell\u00F3 d\u0027Emp\u00FAries"
+        ],
+        [
+          "R\u00E9gion",
+          "Alt Empord\u00E0"
+        ],
+        [
+          "Province",
+          "G\u00E9rone"
+        ],
+        [
+          "Certificat d\u0027habitabilit\u00E9",
+          "890717047006954"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "Date de publication",
+          "2026-03-30"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E dans le quartier de \u003Cstrong\u003EPuigmal-Mas Nou\u003C/strong\u003E \u00E0 Castell\u00F3 d\u0027Emp\u00FAries, un quartier r\u00E9sidentiel calme situ\u00E9 \u00E0 proximit\u00E9 des commodit\u00E9s et des plages de l\u0027Empord\u00E0.",
+        "La fiche commerciale d\u00E9crit une \u003Cstrong\u003Emaison d\u0027angle\u003C/strong\u003E bien expos\u00E9e et lumineuse, avec un terrain de \u003Cstrong\u003E119 m\u00B2\u003C/strong\u003E, un espace vert, une terrasse, un barbecue et un espace ext\u00E9rieur pour profiter du grand air.",
+        "La propri\u00E9t\u00E9 dispose d\u0027une surface \u003Cstrong\u003Econstruite\u003C/strong\u003E de \u003Cstrong\u003E98 m\u00B2\u003C/strong\u003E ; elle est remise enti\u00E8rement meubl\u00E9e, avec une cuisine \u00E9quip\u00E9e, la climatisation et un parking priv\u00E9.",
+        "Selon la r\u00E9f\u00E9rence, la propri\u00E9t\u00E9 dispose d\u0027un garage priv\u00E9 et date d\u0027environ \u003Cstrong\u003E30 \u003C/strong\u003E\u00E0\u003Cstrong\u003E 50 ans\u003C/strong\u003E ; elle est en \u00E9tat d\u0027\u00EAtre habit\u00E9e imm\u00E9diatement.",
+        "Veuillez v\u00E9rifier ici la s\u00E9lection finale des images, le plan du terrain et le texte commercial avant de publier la fiche sur LacostaHaus."
+      ],
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona"
+    },
+    "de": {
+      "price": "240.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Eckhaus in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
+      "seo_description": "Eckhaus im Stadtteil Puigmal-Mas Nou, mit eigener Garage, Terrasse, Grillplatz, Gartenbereich und guter Ausrichtung.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Eckhaus in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Eckhaus"
+        ],
+        [
+          "Zustand",
+          "Guter Zustand"
+        ],
+        [
+          "Lage",
+          "Puigmal \u2013 Mas Nou"
+        ],
+        [
+          "Errichtet",
+          "98 m\u00B2"
+        ],
+        [
+          "N\u00FCtzliche Informationen",
+          "59 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "119 m\u00B2"
+        ],
+        [
+          "Schlafzimmer",
+          "2"
+        ],
+        [
+          "Badezimmer",
+          "2"
+        ],
+        [
+          "Terrasse",
+          "Ja"
+        ],
+        [
+          "Garten",
+          "Gartenanlage"
+        ],
+        [
+          "Grill",
+          "Ja"
+        ],
+        [
+          "Garage",
+          "Privat"
+        ],
+        [
+          "Parkplatz",
+          "Privat"
+        ],
+        [
+          "Klimaanlage",
+          "Ja"
+        ],
+        [
+          "K\u00FCche",
+          "M\u00F6bliert und ausgestattet"
+        ],
+        [
+          "M\u00F6bliert",
+          "Ja"
+        ],
+        [
+          "Alter",
+          "1988 (vor 38 Jahren)"
+        ],
+        [
+          "Postleitzahl",
+          "17487"
+        ],
+        [
+          "Gemeinde",
+          "Castell\u00F3 d\u0027Emp\u00FAries"
+        ],
+        [
+          "Region",
+          "Alt Empord\u00E0"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Bewohnbarkeitsbescheinigung",
+          "890717047006954"
+        ],
+        [
+          "Energieausweis",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "Ver\u00F6ffentlichungsdatum",
+          "2026-03-30"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E erstellte Angebot im Stadtteil \u003Cstrong\u003EPuigmal-Mas Nou\u003C/strong\u003E in Castell\u00F3 d\u2019Emp\u00FAries, einer ruhigen Wohngegend in der N\u00E4he von Einkaufsm\u00F6glichkeiten und den Str\u00E4nden des Empord\u00E0.",
+        "Die Objektbeschreibung umfasst ein gut ausgerichtetes und helles \u003Cstrong\u003EEckhaus\u003C/strong\u003E mit einem \u003Cstrong\u003E119 m\u00B2\u003C/strong\u003E gro\u00DFen Grundst\u00FCck, einem Gartenbereich, einer Terrasse, einem Grillplatz und Au\u00DFenbereichen, die zum Verweilen im Freien einladen.",
+        "Die Immobilie verf\u00FCgt \u00FCber \u003Cstrong\u003Eeine Wohnfl\u00E4che von 98 m\u00B2\u003C/strong\u003E und wird komplett m\u00F6bliert, mit einer ausgestatteten K\u00FCche, Klimaanlage und einem privaten Parkplatz \u00FCbergeben.",
+        "Laut der Anzeige verf\u00FCgt die Immobilie \u00FCber eine private Garage und ist etwa \u003Cstrong\u003E30 \u003C/strong\u003Ebis\u003Cstrong\u003E 50 Jahre\u003C/strong\u003E alt; sie befindet sich in einem bezugsfertigen Zustand.",
+        "Bitte \u00FCberpr\u00FCfen Sie hier die endg\u00FCltige Bildauswahl, den Grundst\u00FCcksplan und den Werbetext, bevor Sie das Inserat auf LacostaHaus ver\u00F6ffentlichen."
+      ],
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona"
+    },
+    "ru": {
+      "price": "240.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C \u0432 \u041F\u0443\u0438\u0433\u043C\u0430\u043B\u0435, \u041A\u0430\u0441\u0442\u0435\u043B\u044C\u043E-\u0434\u0027\u042D\u043C\u043F\u0443\u0440\u0438\u0435\u0441",
+      "seo_description": "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u041F\u0443\u0438\u0433\u043C\u0430\u043B\u044C-\u041C\u0430\u0441-\u041D\u043E\u0443 \u0441 \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0433\u0430\u0440\u0430\u0436\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u043E\u0439 \u0434\u043B\u044F \u0431\u0430\u0440\u0431\u0435\u043A\u044E, \u0431\u043B\u0430\u0433\u043E\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u043C \u0441\u0430\u0434\u043E\u043C \u0438 \u0443\u0434\u0430\u0447\u043D\u043E\u0439 \u043E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u0435\u0439.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C \u0432 \u041F\u0443\u0438\u0433\u043C\u0430\u043B\u0435, \u041A\u0430\u0441\u0442\u0435\u043B\u044C\u043E-\u0434\u0027\u042D\u043C\u043F\u0443\u0440\u0438\u0435\u0441 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C"
+        ],
+        [
+          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
+          "\u0425\u043E\u0440\u043E\u0448\u0435\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435"
+        ],
+        [
+          "\u0420\u0430\u0439\u043E\u043D",
+          "\u041F\u0443\u0438\u0433\u043C\u0430\u043B\u044C \u2014 \u041C\u0430\u0441-\u041D\u043E\u0443"
+        ],
+        [
+          "\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435",
+          "98 m\u00B2"
+        ],
+        [
+          "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
+          "59 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "119 m\u00B2"
+        ],
+        [
+          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "2"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "2"
+        ],
+        [
+          "\u0422\u0435\u0440\u0440\u0430\u0441\u0430",
+          "\u0414\u0430"
+        ],
+        [
+          "\u0421\u0430\u0434",
+          "\u041B\u0430\u043D\u0434\u0448\u0430\u0444\u0442\u043D\u044B\u0439 \u0443\u0447\u0430\u0441\u0442\u043E\u043A"
+        ],
+        [
+          "\u0411\u0430\u0440\u0431\u0435\u043A\u044E",
+          "\u0414\u0430"
+        ],
+        [
+          "\u0413\u0430\u0440\u0430\u0436",
+          "\u041A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E"
+        ],
+        [
+          "\u041F\u0430\u0440\u043A\u043E\u0432\u043A\u0430",
+          "\u041A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E"
+        ],
+        [
+          "\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440",
+          "\u0414\u0430"
+        ],
+        [
+          "\u041A\u0443\u0445\u043D\u044F",
+          "\u041C\u0435\u0431\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0438 \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u0430\u044F"
+        ],
+        [
+          "\u0421 \u043C\u0435\u0431\u0435\u043B\u044C\u044E",
+          "\u0414\u0430"
+        ],
+        [
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u044F",
+          "1988 (38 \u043B\u0435\u0442)"
+        ],
+        [
+          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "17487"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041A\u0430\u0441\u0442\u0435\u043B\u044C\u043E-\u0434\u0027\u042D\u043C\u043F\u0443\u0440\u0438\u0435\u0441"
+        ],
+        [
+          "\u0420\u0435\u0433\u0438\u043E\u043D",
+          "\u0410\u043B\u044C\u0442-\u042D\u043C\u043F\u043E\u0440\u0434\u0430"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u043E \u043E \u043F\u0440\u0438\u0433\u043E\u0434\u043D\u043E\u0441\u0442\u0438 \u043A \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043D\u0438\u044E",
+          "890717047006954"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "Consum:F-217|Efici\u00E8ncia:E-37"
+        ],
+        [
+          "\u0414\u0430\u0442\u0430 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438",
+          "2026-03-30"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E\u0442 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u003Cstrong\u003E\u041F\u0443\u0438\u0433\u043C\u0430\u043B\u044C-\u041C\u0430\u0441-\u041D\u043E\u0443\u003C/strong\u003E \u0432 \u041A\u0430\u0441\u0442\u0435\u043B\u044C\u043E-\u0434\u0027\u042D\u043C\u043F\u0443\u0440\u0438\u0435\u0441 \u2014 \u0442\u0438\u0445\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u043C \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u0438\u043D\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B \u0438 \u043F\u043B\u044F\u0436\u0435\u0439 \u042D\u043C\u043F\u043E\u0440\u0434\u0430.",
+        "\u0412 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0438 \u043E\u043F\u0438\u0441\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u003Cstrong\u003E\u0443\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C\u003C/strong\u003E \u0441 \u0443\u0434\u0430\u0447\u043D\u043E\u0439 \u043E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u0435\u0439 \u0438 \u0445\u043E\u0440\u043E\u0448\u0438\u043C \u043E\u0441\u0432\u0435\u0449\u0435\u043D\u0438\u0435\u043C, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E119 \u043C\u00B2\u003C/strong\u003E, \u0441 \u0441\u0430\u0434\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u0437\u043E\u043D\u043E\u0439 \u0434\u043B\u044F \u0431\u0430\u0440\u0431\u0435\u043A\u044E \u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0439 \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u043E\u0439 \u0434\u043B\u044F \u043E\u0442\u0434\u044B\u0445\u0430 \u043D\u0430 \u0441\u0432\u0435\u0436\u0435\u043C \u0432\u043E\u0437\u0434\u0443\u0445\u0435.",
+        "\u003Cstrong\u003E\u041F\u043B\u043E\u0449\u0430\u0434\u044C\u003C/strong\u003E \u0434\u043E\u043C\u0430 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u003Cstrong\u003E98 \u043C\u00B2\u003C/strong\u003E; \u043E\u043D \u0441\u0434\u0430\u0435\u0442\u0441\u044F \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043C\u0435\u0431\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u043C, \u0441 \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u043E\u0439 \u043A\u0443\u0445\u043D\u0435\u0439, \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u0438 \u0447\u0430\u0441\u0442\u043D\u043E\u0439 \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439.",
+        "\u0421\u043E\u0433\u043B\u0430\u0441\u043D\u043E \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438 \u0432 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0438, \u0432 \u0434\u043E\u043C\u0435 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u0447\u0430\u0441\u0442\u043D\u044B\u0439 \u0433\u0430\u0440\u0430\u0436, \u0430 \u0435\u0433\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E \u043E\u0442 \u003Cstrong\u003E30 \u0434\u043E 50 \u043B\u0435\u0442\u003C/strong\u003E; \u0434\u043E\u043C \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438, \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u044E\u0449\u0435\u043C \u0441\u0440\u0430\u0437\u0443 \u0437\u0430\u0441\u0435\u043B\u0438\u0442\u044C\u0441\u044F.",
+        "\u041E\u0437\u043D\u0430\u043A\u043E\u043C\u044C\u0442\u0435\u0441\u044C \u0437\u0434\u0435\u0441\u044C \u0441 \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u0432\u044B\u0431\u043E\u0440\u043E\u043C \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0439, \u043F\u043B\u0430\u043D\u043E\u043C \u0443\u0447\u0430\u0441\u0442\u043A\u0430 \u0438 \u0440\u0435\u043A\u043B\u0430\u043C\u043D\u044B\u043C \u0442\u0435\u043A\u0441\u0442\u043E\u043C \u043F\u0435\u0440\u0435\u0434 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0435\u0439 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u044F \u043D\u0430 \u0441\u0430\u0439\u0442\u0435 LacostaHaus."
+      ],
+      "location_text": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona"
     }
   }
 }

@@ -1,991 +1,991 @@
 {
-    "assets":  {
-                   "logo":  "assets/logo-lacostahaus-small.png",
-                   "hero":  "assets/hero-principal.png",
-                   "heroCard":  "assets/hero-clean.svg"
-               },
-    "featuredCards":  [
-                          {
-                              "image":  "assets/villa.svg",
-                              "route":  "properties",
-                              "key":  "villa"
-                          },
-                          {
-                              "image":  "assets/casa.svg",
-                              "route":  "properties",
-                              "key":  "casa"
-                          },
-                          {
-                              "image":  "assets/apartamento.svg",
-                              "route":  "properties",
-                              "key":  "apartamento"
-                          },
-                          {
-                              "image":  "assets/apartamento.svg",
-                              "route":  "properties",
-                              "key":  "atico"
-                          }
-                      ],
-    "translations":  {
-                         "es":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Inmobiliaria premium en Costa Brava",
-                                                "description":  "Compra, vende y valora propiedades premium en la Costa Brava. Masías, villas y proyectos inmobiliarios con atención internacional y asesoramiento personalizado."
-                                            },
-                                    "nav":  {
-                                                "home":  "Inicio",
-                                                "properties":  "Inmuebles",
-                                                "languages":  "Idiomas",
-                                                "contact":  "Contacto",
-                                                "valuation":  "Tasación gratuita",
-                                                "allProperties":  "Inmuebles"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Compra, vende y valora inmuebles premium en la Costa Brava.",
-                                                 "text":  "Una home más profesional, con secciones visuales diferenciadas, mejor narrativa comercial y acceso directo a inmuebles destacados.",
-                                                 "primary":  "Solicita tasación gratuita",
-                                                 "secondary":  "Ver inmuebles"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Clientes asesorados"
-                                                  },
-                                                  {
-                                                      "value":  "6 idiomas",
-                                                      "label":  "Atención internacional"
-                                                  },
-                                                  {
-                                                      "value":  "24h",
-                                                      "label":  "Respuesta ágil"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Selección premium",
-                                                   "footerText":  "Propiedades con mejor presentación y más claridad comercial.",
-                                                   "link":  "Ver catálogo"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Servicios",
-                                                     "title":  "¿Cómo te podemos ayudar?",
-                                                     "cta":  "Ver servicio",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "Buscamos propiedades según tu perfil y filtramos oportunidades con mejor encaje."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Tasación estratégica",
-                                                                       "text":  "Valoración orientada a posicionar el inmueble y facilitar una venta más eficaz."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "Venta internacional",
-                                                                       "text":  "Comunicación multilingüe y presentación más profesional de la propiedad."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Inmuebles destacados",
-                                                     "text":  "Una selección visual para dar más vida a la home y facilitar la navegación.",
-                                                     "all":  "Ver todos los inmuebles",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "Nuevo",
-                                                                                 "title":  "Villa con vistas al mar",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "2.350.000 €"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Exclusiva",
-                                                                                "title":  "Casa señorial reformada",
-                                                                                "location":  "Begur",
-                                                                                "price":  "1.980.000 €"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Lujo",
-                                                                                       "title":  "Apartamento premium",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "890.000 €"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Costa",
-                                                                                 "title":  "Ático mediterráneo",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "1.150.000 €"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Método",
-                                                    "title":  "Nuestro proceso",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "Escuchamos",
-                                                                      "text":  "Analizamos tu objetivo: comprar, vender, invertir o valorar."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "Seleccionamos",
-                                                                      "text":  "Filtramos oportunidades y organizamos una propuesta clara y visual."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "Presentamos",
-                                                                      "text":  "Mostramos el inmueble o la estrategia de venta con mejor narrativa comercial."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "Acompañamos",
-                                                                      "text":  "Te acompañamos hasta el cierre y la gestión posterior."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Tasación gratuita",
-                                                      "title":  "¿Quieres una valoración gratuita de tu propiedad?",
-                                                      "text":  "Analizamos el posicionamiento, la demanda y el potencial de tu inmueble para ayudarte a vender mejor.",
-                                                      "button":  "Solicita tasación gratuita"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Catálogo",
-                                                    "title":  "Inmuebles LacostaHaus",
-                                                    "text":  "Listado editable desde Admin. Los inmuebles publicados aparecerán aquí."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Inmobiliaria orientada a clientes nacionales e internacionales en la Costa Brava.",
-                                                   "quickTitle":  "Enlaces rápidos",
-                                                   "usefulTitle":  "Enlaces útiles",
-                                                   "legalTitle":  "Legal",
-                                                   "socialTitle":  "Síguenos",
-                                                   "services":  "Servicios",
-                                                   "featured":  "Destacados",
-                                                   "process":  "Proceso",
-                                                   "about":  "Sobre nosotros",
-                                                   "privacy":  "Política de privacidad",
-                                                   "cookies":  "Política de cookies",
-                                                   "partner":  "API / Colegiación",
-                                                   "license":  "Colegiado 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Preferencias de cookies",
-                                                    "text":  "Utilizamos cookies técnicas necesarias para que la web funcione y, solo si aceptas, cookies de medición mediante Google Tag Manager.",
-                                                    "accept":  "Aceptar cookies",
-                                                    "reject":  "Rechazar cookies",
-                                                    "policy":  "Política de cookies"
-                                                }
-                                },
-                         "en":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Premium Real Estate in Costa Brava",
-                                                "description":  "Buy, sell and value premium properties on the Costa Brava. Villas, farmhouses and real estate projects with international guidance."
-                                            },
-                                    "nav":  {
-                                                "home":  "Home",
-                                                "properties":  "Properties",
-                                                "languages":  "Languages",
-                                                "contact":  "Contact",
-                                                "valuation":  "Free valuation",
-                                                "allProperties":  "Properties"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Find, sell and value properties with a more premium image.",
-                                                 "text":  "A more professional home page with distinct visual sections, stronger commercial storytelling and direct access to featured properties.",
-                                                 "primary":  "Request a free valuation",
-                                                 "secondary":  "View properties"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Clients advised"
-                                                  },
-                                                  {
-                                                      "value":  "6 languages",
-                                                      "label":  "International service"
-                                                  },
-                                                  {
-                                                      "value":  "24h",
-                                                      "label":  "Agile response"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Premium selection",
-                                                   "footerText":  "Properties with stronger presentation and clearer commercial positioning.",
-                                                   "link":  "View catalogue"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Services",
-                                                     "title":  "How can we help you?",
-                                                     "cta":  "View service",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "We search for properties according to your profile and filter the best-fit opportunities."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Strategic valuation",
-                                                                       "text":  "A valuation designed to position the property and support a more effective sale."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "International sale",
-                                                                       "text":  "Multilingual communication and a more professional presentation of the property."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Featured properties",
-                                                     "text":  "A visual selection to give the home page more life and make navigation easier.",
-                                                     "all":  "View all properties",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "New",
-                                                                                 "title":  "Villa with sea views",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "€2,350,000"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Exclusive",
-                                                                                "title":  "Renovated manor house",
-                                                                                "location":  "Begur",
-                                                                                "price":  "€1,980,000"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Luxury",
-                                                                                       "title":  "Premium apartment",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "€890,000"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Coast",
-                                                                                 "title":  "Mediterranean penthouse",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "€1,150,000"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Method",
-                                                    "title":  "Our process",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "We listen",
-                                                                      "text":  "We analyze your objective: buying, selling, investing or valuing."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "We select",
-                                                                      "text":  "We filter opportunities and prepare a clear, visual proposal."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "We present",
-                                                                      "text":  "We show the property or sale strategy with stronger commercial storytelling."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "We accompany",
-                                                                      "text":  "We stay with you through closing and the following steps."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Free valuation",
-                                                      "title":  "Would you like a free valuation of your property?",
-                                                      "text":  "We analyze positioning, demand and potential to help you sell better.",
-                                                      "button":  "Request a free valuation"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Catalogue",
-                                                    "title":  "LacostaHaus properties",
-                                                    "text":  "Editable listing from Admin. Published properties will appear here."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Real estate agency for national and international clients on the Costa Brava.",
-                                                   "quickTitle":  "Quick links",
-                                                   "usefulTitle":  "Useful links",
-                                                   "legalTitle":  "Legal",
-                                                   "socialTitle":  "Follow us",
-                                                   "services":  "Services",
-                                                   "featured":  "Featured",
-                                                   "process":  "Process",
-                                                   "about":  "About us",
-                                                   "privacy":  "Privacy policy",
-                                                   "cookies":  "Cookie policy",
-                                                   "partner":  "API / Membership",
-                                                   "license":  "Member 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Cookie preferences",
-                                                    "text":  "We use essential technical cookies for the website to work and, only if you accept, measurement cookies through Google Tag Manager.",
-                                                    "accept":  "Accept cookies",
-                                                    "reject":  "Reject cookies",
-                                                    "policy":  "Cookie policy"
-                                                }
-                                },
-                         "fr":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Immobilier premium sur la Costa Brava",
-                                                "description":  "Achetez, vendez et estimez des biens premium sur la Costa Brava. Villas, masias et projets immobiliers avec accompagnement international."
-                                            },
-                                    "nav":  {
-                                                "home":  "Accueil",
-                                                "properties":  "Biens",
-                                                "languages":  "Langues",
-                                                "contact":  "Contact",
-                                                "valuation":  "Estimation gratuite",
-                                                "allProperties":  "Biens"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Trouvez, vendez et estimez des biens avec une image plus premium.",
-                                                 "text":  "Une page d\u0027accueil plus professionnelle, avec des sections visuelles distinctes, un meilleur récit commercial et un accès direct aux biens mis en avant.",
-                                                 "primary":  "Demander une estimation gratuite",
-                                                 "secondary":  "Voir les biens"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Clients conseillés"
-                                                  },
-                                                  {
-                                                      "value":  "6 langues",
-                                                      "label":  "Service international"
-                                                  },
-                                                  {
-                                                      "value":  "24h",
-                                                      "label":  "Réponse rapide"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Sélection premium",
-                                                   "footerText":  "Des biens mieux présentés et plus clairs commercialement.",
-                                                   "link":  "Voir le catalogue"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Services",
-                                                     "title":  "Comment pouvons-nous vous aider ?",
-                                                     "cta":  "Voir le service",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "Nous recherchons des biens selon votre profil et filtrons les meilleures opportunités."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Estimation stratégique",
-                                                                       "text":  "Une valorisation pensée pour positionner le bien et faciliter une vente plus efficace."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "Vente internationale",
-                                                                       "text":  "Communication multilingue et présentation plus professionnelle du bien."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Biens en vedette",
-                                                     "text":  "Une sélection visuelle pour donner plus de vie à la page d\u0027accueil et faciliter la navigation.",
-                                                     "all":  "Voir tous les biens",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "Nouveau",
-                                                                                 "title":  "Villa avec vue sur mer",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "2.350.000 €"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Exclusive",
-                                                                                "title":  "Maison de maître rénovée",
-                                                                                "location":  "Begur",
-                                                                                "price":  "1.980.000 €"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Luxe",
-                                                                                       "title":  "Appartement premium",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "890.000 €"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Côte",
-                                                                                 "title":  "Penthouse méditerranéen",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "1.150.000 €"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Méthode",
-                                                    "title":  "Notre processus",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "Nous écoutons",
-                                                                      "text":  "Nous analysons votre objectif : acheter, vendre, investir ou estimer."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "Nous sélectionnons",
-                                                                      "text":  "Nous filtrons les opportunités et préparons une proposition claire et visuelle."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "Nous présentons",
-                                                                      "text":  "Nous montrons le bien ou la stratégie de vente avec un meilleur récit commercial."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "Nous accompagnons",
-                                                                      "text":  "Nous vous accompagnons jusqu\u0027à la clôture et dans les démarches suivantes."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Estimation gratuite",
-                                                      "title":  "Souhaitez-vous une estimation gratuite de votre propriété ?",
-                                                      "text":  "Nous analysons le positionnement, la demande et le potentiel de votre bien pour vous aider à mieux vendre.",
-                                                      "button":  "Demander une estimation gratuite"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Catalogue",
-                                                    "title":  "Biens LacostaHaus",
-                                                    "text":  "Liste modifiable depuis Admin. Les biens publiés apparaîtront ici."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Agence immobilière pour clients nationaux et internationaux sur la Costa Brava.",
-                                                   "quickTitle":  "Liens rapides",
-                                                   "usefulTitle":  "Liens utiles",
-                                                   "legalTitle":  "Légal",
-                                                   "socialTitle":  "Suivez-nous",
-                                                   "services":  "Services",
-                                                   "featured":  "Vedettes",
-                                                   "process":  "Processus",
-                                                   "about":  "À propos",
-                                                   "privacy":  "Politique de confidentialité",
-                                                   "cookies":  "Politique de cookies",
-                                                   "partner":  "API / Adhésion",
-                                                   "license":  "Membre 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Préférences de cookies",
-                                                    "text":  "Nous utilisons des cookies techniques nécessaires au fonctionnement du site et, uniquement si vous acceptez, des cookies de mesure via Google Tag Manager.",
-                                                    "accept":  "Accepter les cookies",
-                                                    "reject":  "Refuser les cookies",
-                                                    "policy":  "Politique de cookies"
-                                                }
-                                },
-                         "de":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Premium-Immobilien an der Costa Brava",
-                                                "description":  "Kaufen, verkaufen und bewerten Sie Premium-Immobilien an der Costa Brava. Villen, Masias und Immobilienprojekte mit internationaler Begleitung."
-                                            },
-                                    "nav":  {
-                                                "home":  "Startseite",
-                                                "properties":  "Immobilien",
-                                                "languages":  "Sprachen",
-                                                "contact":  "Kontakt",
-                                                "valuation":  "Kostenlose Bewertung",
-                                                "allProperties":  "Immobilien"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Immobilien finden, verkaufen und bewerten mit einem hochwertigeren Auftritt.",
-                                                 "text":  "Eine professionellere Startseite mit klaren visuellen Bereichen, stärkerer Verkaufsnarrative und direktem Zugang zu ausgewählten Immobilien.",
-                                                 "primary":  "Kostenlose Bewertung anfragen",
-                                                 "secondary":  "Immobilien ansehen"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Beratene Kunden"
-                                                  },
-                                                  {
-                                                      "value":  "6 Sprachen",
-                                                      "label":  "Internationaler Service"
-                                                  },
-                                                  {
-                                                      "value":  "24h",
-                                                      "label":  "Schnelle Antwort"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Premium-Auswahl",
-                                                   "footerText":  "Immobilien mit besserer Präsentation und klarerer Verkaufspositionierung.",
-                                                   "link":  "Katalog ansehen"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Services",
-                                                     "title":  "Wie können wir helfen?",
-                                                     "cta":  "Service ansehen",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "Wir suchen Immobilien nach Ihrem Profil und filtern passende Chancen."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Strategische Bewertung",
-                                                                       "text":  "Eine Bewertung, die die Immobilie richtig positioniert und den Verkauf erleichtert."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "Internationaler Verkauf",
-                                                                       "text":  "Mehrsprachige Kommunikation und professionellere Präsentation der Immobilie."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Ausgewählte Immobilien",
-                                                     "text":  "Eine visuelle Auswahl, die der Startseite mehr Leben gibt und die Navigation erleichtert.",
-                                                     "all":  "Alle Immobilien ansehen",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "Neu",
-                                                                                 "title":  "Villa mit Meerblick",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "2.350.000 €"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Exklusiv",
-                                                                                "title":  "Renoviertes Herrenhaus",
-                                                                                "location":  "Begur",
-                                                                                "price":  "1.980.000 €"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Luxus",
-                                                                                       "title":  "Premium-Apartment",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "890.000 €"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Küste",
-                                                                                 "title":  "Mediterranes Penthouse",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "1.150.000 €"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Methode",
-                                                    "title":  "Unser Prozess",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "Wir hören zu",
-                                                                      "text":  "Wir analysieren Ihr Ziel: kaufen, verkaufen, investieren oder bewerten."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "Wir wählen aus",
-                                                                      "text":  "Wir filtern Chancen und erstellen einen klaren, visuellen Vorschlag."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "Wir präsentieren",
-                                                                      "text":  "Wir zeigen die Immobilie oder Verkaufsstrategie mit stärkerer kommerzieller Erzählung."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "Wir begleiten",
-                                                                      "text":  "Wir begleiten Sie bis zum Abschluss und bei den nächsten Schritten."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Kostenlose Bewertung",
-                                                      "title":  "Möchten Sie eine kostenlose Bewertung Ihrer Immobilie?",
-                                                      "text":  "Wir analysieren Positionierung, Nachfrage und Potenzial Ihrer Immobilie, damit Sie besser verkaufen.",
-                                                      "button":  "Kostenlose Bewertung anfragen"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Katalog",
-                                                    "title":  "LacostaHaus Immobilien",
-                                                    "text":  "Bearbeitbares Listing aus Admin. Veröffentlichte Immobilien erscheinen hier."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Immobilienagentur für nationale und internationale Kunden an der Costa Brava.",
-                                                   "quickTitle":  "Schnellzugriff",
-                                                   "usefulTitle":  "Nützliche Links",
-                                                   "legalTitle":  "Rechtliches",
-                                                   "socialTitle":  "Folgen Sie uns",
-                                                   "services":  "Services",
-                                                   "featured":  "Highlights",
-                                                   "process":  "Prozess",
-                                                   "about":  "Über uns",
-                                                   "privacy":  "Datenschutz",
-                                                   "cookies":  "Cookie-Richtlinie",
-                                                   "partner":  "API / Mitgliedschaft",
-                                                   "license":  "Mitglied 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Cookie-Einstellungen",
-                                                    "text":  "Wir verwenden notwendige technische Cookies für den Betrieb der Website und, nur wenn Sie zustimmen, Mess-Cookies über Google Tag Manager.",
-                                                    "accept":  "Cookies akzeptieren",
-                                                    "reject":  "Cookies ablehnen",
-                                                    "policy":  "Cookie-Richtlinie"
-                                                }
-                                },
-                         "ru":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Премиальная недвижимость на Коста-Брава",
-                                                "description":  "Покупка, продажа и оценка премиальной недвижимости на Коста-Брава: виллы, масии и инвестиционные проекты с международным сопровождением."
-                                            },
-                                    "nav":  {
-                                                "home":  "Главная",
-                                                "properties":  "Недвижимость",
-                                                "languages":  "Языки",
-                                                "contact":  "Контакт",
-                                                "valuation":  "Бесплатная оценка",
-                                                "allProperties":  "Объекты"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Найдите, продайте и оцените недвижимость с более премиальным образом.",
-                                                 "text":  "Более профессиональная главная страница с выразительными разделами, сильной коммерческой подачей и быстрым доступом к избранным объектам.",
-                                                 "primary":  "Запросить бесплатную оценку",
-                                                 "secondary":  "Смотреть объекты"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Клиентов получили консультацию"
-                                                  },
-                                                  {
-                                                      "value":  "6 языков",
-                                                      "label":  "Международный сервис"
-                                                  },
-                                                  {
-                                                      "value":  "24ч",
-                                                      "label":  "Быстрый ответ"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Премиальная подборка",
-                                                   "footerText":  "Объекты с лучшей презентацией и более понятным коммерческим позиционированием.",
-                                                   "link":  "Смотреть каталог"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Услуги",
-                                                     "title":  "Как мы можем помочь?",
-                                                     "cta":  "Смотреть услугу",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "Мы ищем объекты по вашему профилю и отбираем наиболее подходящие возможности."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Стратегическая оценка",
-                                                                       "text":  "Оценка, которая помогает правильно позиционировать объект и продавать эффективнее."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "Международная продажа",
-                                                                       "text":  "Многоязычная коммуникация и более профессиональная презентация объекта."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Избранные объекты",
-                                                     "text":  "Визуальная подборка, которая делает главную страницу живее и упрощает навигацию.",
-                                                     "all":  "Смотреть все объекты",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "Новое",
-                                                                                 "title":  "Вилла с видом на море",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "2.350.000 €"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Эксклюзив",
-                                                                                "title":  "Отреставрированный особняк",
-                                                                                "location":  "Begur",
-                                                                                "price":  "1.980.000 €"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Люкс",
-                                                                                       "title":  "Премиальные апартаменты",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "890.000 €"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Побережье",
-                                                                                 "title":  "Средиземноморский пентхаус",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "1.150.000 €"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Метод",
-                                                    "title":  "Наш процесс",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "Слушаем",
-                                                                      "text":  "Мы анализируем вашу цель: покупка, продажа, инвестиция или оценка."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "Отбираем",
-                                                                      "text":  "Мы фильтруем возможности и готовим ясное визуальное предложение."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "Презентуем",
-                                                                      "text":  "Мы показываем объект или стратегию продажи с более сильной коммерческой подачей."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "Сопровождаем",
-                                                                      "text":  "Мы сопровождаем вас до закрытия сделки и на следующих этапах."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Бесплатная оценка",
-                                                      "title":  "Хотите бесплатную оценку вашей недвижимости?",
-                                                      "text":  "Мы анализируем позиционирование, спрос и потенциал объекта, чтобы помочь вам продать лучше.",
-                                                      "button":  "Запросить бесплатную оценку"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Каталог",
-                                                    "title":  "Объекты LacostaHaus",
-                                                    "text":  "Опубликованные объекты будут отображаться здесь."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Агентство недвижимости для местных и международных клиентов на Коста-Брава.",
-                                                   "quickTitle":  "Быстрые ссылки",
-                                                   "usefulTitle":  "Полезные ссылки",
-                                                   "legalTitle":  "Правовая информация",
-                                                   "socialTitle":  "Мы в соцсетях",
-                                                   "services":  "Услуги",
-                                                   "featured":  "Избранное",
-                                                   "process":  "Процесс",
-                                                   "about":  "О нас",
-                                                   "privacy":  "Политика конфиденциальности",
-                                                   "cookies":  "Политика cookies",
-                                                   "partner":  "API / Членство",
-                                                   "license":  "Член 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Настройки cookies",
-                                                    "text":  "Мы используем необходимые технические cookies для работы сайта и, только если вы согласитесь, аналитические cookies через Google Tag Manager.",
-                                                    "accept":  "Принять cookies",
-                                                    "reject":  "Отклонить cookies",
-                                                    "policy":  "Политика cookies"
-                                                }
-                                },
-                         "ca":  {
-                                    "seo":  {
-                                                "title":  "LacostaHaus | Immobiliària premium a la Costa Brava",
-                                                "description":  "Compra, ven i valora propietats premium a la Costa Brava. Masies, viles i projectes immobiliaris amb atenció internacional i assessorament personalitzat."
-                                            },
-                                    "nav":  {
-                                                "home":  "Inici",
-                                                "properties":  "Immobles",
-                                                "languages":  "Idiomes",
-                                                "contact":  "Contacte",
-                                                "valuation":  "Taxació gratuïta",
-                                                "allProperties":  "Immobles"
-                                            },
-                                    "hero":  {
-                                                 "kicker":  "Costa Brava · Boutique Real Estate",
-                                                 "title":  "Compra, ven i valora immobles premium a la Costa Brava.",
-                                                 "text":  "Una home més professional, amb seccions visuals diferenciades, millor relat comercial i accés directe als immobles destacats.",
-                                                 "primary":  "Sol·licita taxació gratuïta",
-                                                 "secondary":  "Veure immobles"
-                                             },
-                                    "stats":  [
-                                                  {
-                                                      "value":  "+120",
-                                                      "label":  "Clients assessorats"
-                                                  },
-                                                  {
-                                                      "value":  "6 idiomes",
-                                                      "label":  "Atenció internacional"
-                                                  },
-                                                  {
-                                                      "value":  "24 h",
-                                                      "label":  "Resposta àgil"
-                                                  }
-                                              ],
-                                    "visual":  {
-                                                   "badge":  "LacostaHaus Selection",
-                                                   "title":  "LacostaHaus",
-                                                   "subtitle":  "Costa Brava Boutique Real Estate",
-                                                   "footerTitle":  "Selecció premium",
-                                                   "footerText":  "Propietats amb millor presentació i més claredat comercial.",
-                                                   "link":  "Veure catàleg"
-                                               },
-                                    "services":  {
-                                                     "eyebrow":  "Serveis",
-                                                     "title":  "Com et podem ajudar?",
-                                                     "cta":  "Veure servei",
-                                                     "items":  [
-                                                                   {
-                                                                       "className":  "service-card-home--personal-shopper",
-                                                                       "title":  "Personal Shopper",
-                                                                       "text":  "Busquem propietats segons el teu perfil i filtrem oportunitats amb millor encaix."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--tasacion",
-                                                                       "title":  "Taxació estratègica",
-                                                                       "text":  "Valoració orientada a posicionar l\u0027immoble i facilitar una venda més eficaç."
-                                                                   },
-                                                                   {
-                                                                       "className":  "service-card-home--venta-internacional",
-                                                                       "title":  "Venda internacional",
-                                                                       "text":  "Comunicació multilingüe i presentació més professional de la propietat."
-                                                                   }
-                                                               ]
-                                                 },
-                                    "featured":  {
-                                                     "eyebrow":  "Showcase",
-                                                     "title":  "Immobles destacats",
-                                                     "text":  "Una selecció visual per donar més vida a la home i facilitar la navegació.",
-                                                     "all":  "Veure tots els immobles",
-                                                     "cards":  {
-                                                                   "villa":  {
-                                                                                 "tag":  "Nou",
-                                                                                 "title":  "Vila amb vistes al mar",
-                                                                                 "location":  "S\u0027Agaró",
-                                                                                 "price":  "2.350.000 €"
-                                                                             },
-                                                                   "casa":  {
-                                                                                "tag":  "Exclusiva",
-                                                                                "title":  "Casa senyorial reformada",
-                                                                                "location":  "Begur",
-                                                                                "price":  "1.980.000 €"
-                                                                            },
-                                                                   "apartamento":  {
-                                                                                       "tag":  "Luxe",
-                                                                                       "title":  "Apartament premium",
-                                                                                       "location":  "Platja d\u0027Aro",
-                                                                                       "price":  "890.000 €"
-                                                                                   },
-                                                                   "atico":  {
-                                                                                 "tag":  "Costa",
-                                                                                 "title":  "Àtic mediterrani",
-                                                                                 "location":  "Sant Feliu de Guíxols",
-                                                                                 "price":  "1.150.000 €"
-                                                                             }
-                                                               }
-                                                 },
-                                    "process":  {
-                                                    "eyebrow":  "Mètode",
-                                                    "title":  "El nostre procés",
-                                                    "items":  [
-                                                                  {
-                                                                      "className":  "process-step-home--escuchamos",
-                                                                      "number":  "01",
-                                                                      "title":  "Escoltem",
-                                                                      "text":  "Analitzem el teu objectiu: comprar, vendre, invertir o valorar."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--seleccionamos",
-                                                                      "number":  "02",
-                                                                      "title":  "Seleccionem",
-                                                                      "text":  "Filtrem oportunitats i organitzem una proposta clara i visual."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--presentamos",
-                                                                      "number":  "03",
-                                                                      "title":  "Presentem",
-                                                                      "text":  "Mostrem l\u0027immoble o l\u0027estratègia de venda amb millor relat comercial."
-                                                                  },
-                                                                  {
-                                                                      "className":  "process-step-home--acompanamos",
-                                                                      "number":  "04",
-                                                                      "title":  "Acompanyem",
-                                                                      "text":  "T\u0027acompanyem fins al tancament i la gestió posterior."
-                                                                  }
-                                                              ]
-                                                },
-                                    "valuation":  {
-                                                      "kicker":  "Taxació gratuïta",
-                                                      "title":  "Vols una valoració gratuïta de la teva propietat?",
-                                                      "text":  "Analitzem el posicionament, la demanda i el potencial del teu immoble per ajudar-te a vendre millor.",
-                                                      "button":  "Sol·licita taxació gratuïta"
-                                                  },
-                                    "catalog":  {
-                                                    "eyebrow":  "Catàleg",
-                                                    "title":  "Immobles LacostaHaus",
-                                                    "text":  "Llistat editable des d\u0027Admin. Els immobles publicats apareixeran aquí."
-                                                },
-                                    "footer":  {
-                                                   "text":  "Immobiliària orientada a clients nacionals i internacionals a la Costa Brava.",
-                                                   "quickTitle":  "Enllaços ràpids",
-                                                   "usefulTitle":  "Enllaços útils",
-                                                   "legalTitle":  "Legal",
-                                                   "socialTitle":  "Segueix-nos",
-                                                   "services":  "Serveis",
-                                                   "featured":  "Destacats",
-                                                   "process":  "Procés",
-                                                   "about":  "Sobre nosaltres",
-                                                   "privacy":  "Política de privacitat",
-                                                   "cookies":  "Política de cookies",
-                                                   "partner":  "API / Col·legiació",
-                                                   "license":  "Col·legiat 13497 / A14452"
-                                               },
-                                    "cookies":  {
-                                                    "title":  "Preferències de cookies",
-                                                    "text":  "Utilitzem cookies tècniques necessàries perquè la web funcioni i, només si acceptes, cookies de mesurament mitjançant Google Tag Manager.",
-                                                    "accept":  "Acceptar cookies",
-                                                    "reject":  "Rebutjar cookies",
-                                                    "policy":  "Política de cookies"
-                                                }
-                                }
-                     }
+  "assets": {
+    "logo": "assets/logo-lacostahaus-small.png",
+    "hero": "assets/hero-principal.png",
+    "heroCard": "assets/hero-clean.svg"
+  },
+  "featuredCards": [
+    {
+      "image": "assets/villa.svg",
+      "route": "properties",
+      "key": "villa"
+    },
+    {
+      "image": "assets/casa.svg",
+      "route": "properties",
+      "key": "casa"
+    },
+    {
+      "image": "assets/apartamento.svg",
+      "route": "properties",
+      "key": "apartamento"
+    },
+    {
+      "image": "assets/apartamento.svg",
+      "route": "properties",
+      "key": "atico"
+    }
+  ],
+  "translations": {
+    "es": {
+      "seo": {
+        "title": "LacostaHaus | Inmobiliaria premium en Costa Brava",
+        "description": "Compra, vende y valora propiedades premium en la Costa Brava. Mas\u00EDas, villas y proyectos inmobiliarios con atenci\u00F3n internacional y asesoramiento personalizado."
+      },
+      "nav": {
+        "home": "Inicio",
+        "properties": "Inmuebles",
+        "languages": "Idiomas",
+        "contact": "Contacto",
+        "valuation": "Tasaci\u00F3n gratuita",
+        "allProperties": "Inmuebles"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "Compra, vende y valora inmuebles premium en la Costa Brava.",
+        "text": "Una home m\u00E1s profesional, con secciones visuales diferenciadas, mejor narrativa comercial y acceso directo a inmuebles destacados.",
+        "primary": "Solicita tasaci\u00F3n gratuita",
+        "secondary": "Ver inmuebles"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "Clientes asesorados"
+        },
+        {
+          "value": "6 idiomas",
+          "label": "Atenci\u00F3n internacional"
+        },
+        {
+          "value": "24h",
+          "label": "Respuesta \u00E1gil"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "Selecci\u00F3n premium",
+        "footerText": "Propiedades con mejor presentaci\u00F3n y m\u00E1s claridad comercial.",
+        "link": "Ver cat\u00E1logo"
+      },
+      "services": {
+        "eyebrow": "Servicios",
+        "title": "\u00BFC\u00F3mo te podemos ayudar?",
+        "cta": "Ver servicio",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "Buscamos propiedades seg\u00FAn tu perfil y filtramos oportunidades con mejor encaje."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "Tasaci\u00F3n estrat\u00E9gica",
+            "text": "Valoraci\u00F3n orientada a posicionar el inmueble y facilitar una venta m\u00E1s eficaz."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "Venta internacional",
+            "text": "Comunicaci\u00F3n multiling\u00FCe y presentaci\u00F3n m\u00E1s profesional de la propiedad."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "Inmuebles destacados",
+        "text": "Una selecci\u00F3n visual para dar m\u00E1s vida a la home y facilitar la navegaci\u00F3n.",
+        "all": "Ver todos los inmuebles",
+        "cards": {
+          "villa": {
+            "tag": "Nuevo",
+            "title": "Villa con vistas al mar",
+            "location": "S\u0027Agar\u00F3",
+            "price": "2.350.000 \u20AC"
+          },
+          "casa": {
+            "tag": "Exclusiva",
+            "title": "Casa se\u00F1orial reformada",
+            "location": "Begur",
+            "price": "1.980.000 \u20AC"
+          },
+          "apartamento": {
+            "tag": "Lujo",
+            "title": "Apartamento premium",
+            "location": "Platja d\u0027Aro",
+            "price": "890.000 \u20AC"
+          },
+          "atico": {
+            "tag": "Costa",
+            "title": "\u00C1tico mediterr\u00E1neo",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "1.150.000 \u20AC"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "M\u00E9todo",
+        "title": "Nuestro proceso",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "Escuchamos",
+            "text": "Analizamos tu objetivo: comprar, vender, invertir o valorar."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "Seleccionamos",
+            "text": "Filtramos oportunidades y organizamos una propuesta clara y visual."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "Presentamos",
+            "text": "Mostramos el inmueble o la estrategia de venta con mejor narrativa comercial."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "Acompa\u00F1amos",
+            "text": "Te acompa\u00F1amos hasta el cierre y la gesti\u00F3n posterior."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "Tasaci\u00F3n gratuita",
+        "title": "\u00BFQuieres una valoraci\u00F3n gratuita de tu propiedad?",
+        "text": "Analizamos el posicionamiento, la demanda y el potencial de tu inmueble para ayudarte a vender mejor.",
+        "button": "Solicita tasaci\u00F3n gratuita"
+      },
+      "catalog": {
+        "eyebrow": "Cat\u00E1logo",
+        "title": "Inmuebles LacostaHaus",
+        "text": "Listado editable desde Admin. Los inmuebles publicados aparecer\u00E1n aqu\u00ED."
+      },
+      "footer": {
+        "text": "Inmobiliaria orientada a clientes nacionales e internacionales en la Costa Brava.",
+        "quickTitle": "Enlaces r\u00E1pidos",
+        "usefulTitle": "Enlaces \u00FAtiles",
+        "legalTitle": "Legal",
+        "socialTitle": "S\u00EDguenos",
+        "services": "Servicios",
+        "featured": "Destacados",
+        "process": "Proceso",
+        "about": "Sobre nosotros",
+        "privacy": "Pol\u00EDtica de privacidad",
+        "cookies": "Pol\u00EDtica de cookies",
+        "partner": "API / Colegiaci\u00F3n",
+        "license": "Colegiado 13497 / A14452"
+      },
+      "cookies": {
+        "title": "Preferencias de cookies",
+        "text": "Utilizamos cookies t\u00E9cnicas necesarias para que la web funcione y, solo si aceptas, cookies de medici\u00F3n mediante Google Tag Manager.",
+        "accept": "Aceptar cookies",
+        "reject": "Rechazar cookies",
+        "policy": "Pol\u00EDtica de cookies"
+      }
+    },
+    "en": {
+      "seo": {
+        "title": "LacostaHaus | Premium Real Estate in Costa Brava",
+        "description": "Buy, sell and value premium properties on the Costa Brava. Villas, farmhouses and real estate projects with international guidance."
+      },
+      "nav": {
+        "home": "Home",
+        "properties": "Properties",
+        "languages": "Languages",
+        "contact": "Contact",
+        "valuation": "Free valuation",
+        "allProperties": "Properties"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "Find, sell and value properties with a more premium image.",
+        "text": "A more professional home page with distinct visual sections, stronger commercial storytelling and direct access to featured properties.",
+        "primary": "Request a free valuation",
+        "secondary": "View properties"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "Clients advised"
+        },
+        {
+          "value": "6 languages",
+          "label": "International service"
+        },
+        {
+          "value": "24h",
+          "label": "Agile response"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "Premium selection",
+        "footerText": "Properties with stronger presentation and clearer commercial positioning.",
+        "link": "View catalogue"
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "How can we help you?",
+        "cta": "View service",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "We search for properties according to your profile and filter the best-fit opportunities."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "Strategic valuation",
+            "text": "A valuation designed to position the property and support a more effective sale."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "International sale",
+            "text": "Multilingual communication and a more professional presentation of the property."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "Featured properties",
+        "text": "A visual selection to give the home page more life and make navigation easier.",
+        "all": "View all properties",
+        "cards": {
+          "villa": {
+            "tag": "New",
+            "title": "Villa with sea views",
+            "location": "S\u0027Agar\u00F3",
+            "price": "\u20AC2,350,000"
+          },
+          "casa": {
+            "tag": "Exclusive",
+            "title": "Renovated manor house",
+            "location": "Begur",
+            "price": "\u20AC1,980,000"
+          },
+          "apartamento": {
+            "tag": "Luxury",
+            "title": "Premium apartment",
+            "location": "Platja d\u0027Aro",
+            "price": "\u20AC890,000"
+          },
+          "atico": {
+            "tag": "Coast",
+            "title": "Mediterranean penthouse",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "\u20AC1,150,000"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "Method",
+        "title": "Our process",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "We listen",
+            "text": "We analyze your objective: buying, selling, investing or valuing."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "We select",
+            "text": "We filter opportunities and prepare a clear, visual proposal."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "We present",
+            "text": "We show the property or sale strategy with stronger commercial storytelling."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "We accompany",
+            "text": "We stay with you through closing and the following steps."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "Free valuation",
+        "title": "Would you like a free valuation of your property?",
+        "text": "We analyze positioning, demand and potential to help you sell better.",
+        "button": "Request a free valuation"
+      },
+      "catalog": {
+        "eyebrow": "Catalogue",
+        "title": "LacostaHaus properties",
+        "text": "Editable listing from Admin. Published properties will appear here."
+      },
+      "footer": {
+        "text": "Real estate agency for national and international clients on the Costa Brava.",
+        "quickTitle": "Quick links",
+        "usefulTitle": "Useful links",
+        "legalTitle": "Legal",
+        "socialTitle": "Follow us",
+        "services": "Services",
+        "featured": "Featured",
+        "process": "Process",
+        "about": "About us",
+        "privacy": "Privacy policy",
+        "cookies": "Cookie policy",
+        "partner": "API / Membership",
+        "license": "Member 13497 / A14452"
+      },
+      "cookies": {
+        "title": "Cookie preferences",
+        "text": "We use essential technical cookies for the website to work and, only if you accept, measurement cookies through Google Tag Manager.",
+        "accept": "Accept cookies",
+        "reject": "Reject cookies",
+        "policy": "Cookie policy"
+      }
+    },
+    "fr": {
+      "seo": {
+        "title": "LacostaHaus | Immobilier premium sur la Costa Brava",
+        "description": "Achetez, vendez et estimez des biens premium sur la Costa Brava. Villas, masias et projets immobiliers avec accompagnement international."
+      },
+      "nav": {
+        "home": "Accueil",
+        "properties": "Biens",
+        "languages": "Langues",
+        "contact": "Contact",
+        "valuation": "Estimation gratuite",
+        "allProperties": "Biens"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "Trouvez, vendez et estimez des biens avec une image plus premium.",
+        "text": "Une page d\u0027accueil plus professionnelle, avec des sections visuelles distinctes, un meilleur r\u00E9cit commercial et un acc\u00E8s direct aux biens mis en avant.",
+        "primary": "Demander une estimation gratuite",
+        "secondary": "Voir les biens"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "Clients conseill\u00E9s"
+        },
+        {
+          "value": "6 langues",
+          "label": "Service international"
+        },
+        {
+          "value": "24h",
+          "label": "R\u00E9ponse rapide"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "S\u00E9lection premium",
+        "footerText": "Des biens mieux pr\u00E9sent\u00E9s et plus clairs commercialement.",
+        "link": "Voir le catalogue"
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Comment pouvons-nous vous aider ?",
+        "cta": "Voir le service",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "Nous recherchons des biens selon votre profil et filtrons les meilleures opportunit\u00E9s."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "Estimation strat\u00E9gique",
+            "text": "Une valorisation pens\u00E9e pour positionner le bien et faciliter une vente plus efficace."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "Vente internationale",
+            "text": "Communication multilingue et pr\u00E9sentation plus professionnelle du bien."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "Biens en vedette",
+        "text": "Une s\u00E9lection visuelle pour donner plus de vie \u00E0 la page d\u0027accueil et faciliter la navigation.",
+        "all": "Voir tous les biens",
+        "cards": {
+          "villa": {
+            "tag": "Nouveau",
+            "title": "Villa avec vue sur mer",
+            "location": "S\u0027Agar\u00F3",
+            "price": "2.350.000 \u20AC"
+          },
+          "casa": {
+            "tag": "Exclusive",
+            "title": "Maison de ma\u00EEtre r\u00E9nov\u00E9e",
+            "location": "Begur",
+            "price": "1.980.000 \u20AC"
+          },
+          "apartamento": {
+            "tag": "Luxe",
+            "title": "Appartement premium",
+            "location": "Platja d\u0027Aro",
+            "price": "890.000 \u20AC"
+          },
+          "atico": {
+            "tag": "C\u00F4te",
+            "title": "Penthouse m\u00E9diterran\u00E9en",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "1.150.000 \u20AC"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "M\u00E9thode",
+        "title": "Notre processus",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "Nous \u00E9coutons",
+            "text": "Nous analysons votre objectif : acheter, vendre, investir ou estimer."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "Nous s\u00E9lectionnons",
+            "text": "Nous filtrons les opportunit\u00E9s et pr\u00E9parons une proposition claire et visuelle."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "Nous pr\u00E9sentons",
+            "text": "Nous montrons le bien ou la strat\u00E9gie de vente avec un meilleur r\u00E9cit commercial."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "Nous accompagnons",
+            "text": "Nous vous accompagnons jusqu\u0027\u00E0 la cl\u00F4ture et dans les d\u00E9marches suivantes."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "Estimation gratuite",
+        "title": "Souhaitez-vous une estimation gratuite de votre propri\u00E9t\u00E9 ?",
+        "text": "Nous analysons le positionnement, la demande et le potentiel de votre bien pour vous aider \u00E0 mieux vendre.",
+        "button": "Demander une estimation gratuite"
+      },
+      "catalog": {
+        "eyebrow": "Catalogue",
+        "title": "Biens LacostaHaus",
+        "text": "Liste modifiable depuis Admin. Les biens publi\u00E9s appara\u00EEtront ici."
+      },
+      "footer": {
+        "text": "Agence immobili\u00E8re pour clients nationaux et internationaux sur la Costa Brava.",
+        "quickTitle": "Liens rapides",
+        "usefulTitle": "Liens utiles",
+        "legalTitle": "L\u00E9gal",
+        "socialTitle": "Suivez-nous",
+        "services": "Services",
+        "featured": "Vedettes",
+        "process": "Processus",
+        "about": "\u00C0 propos",
+        "privacy": "Politique de confidentialit\u00E9",
+        "cookies": "Politique de cookies",
+        "partner": "API / Adh\u00E9sion",
+        "license": "Membre 13497 / A14452"
+      },
+      "cookies": {
+        "title": "Pr\u00E9f\u00E9rences de cookies",
+        "text": "Nous utilisons des cookies techniques n\u00E9cessaires au fonctionnement du site et, uniquement si vous acceptez, des cookies de mesure via Google Tag Manager.",
+        "accept": "Accepter les cookies",
+        "reject": "Refuser les cookies",
+        "policy": "Politique de cookies"
+      }
+    },
+    "de": {
+      "seo": {
+        "title": "LacostaHaus | Premium-Immobilien an der Costa Brava",
+        "description": "Kaufen, verkaufen und bewerten Sie Premium-Immobilien an der Costa Brava. Villen, Masias und Immobilienprojekte mit internationaler Begleitung."
+      },
+      "nav": {
+        "home": "Startseite",
+        "properties": "Immobilien",
+        "languages": "Sprachen",
+        "contact": "Kontakt",
+        "valuation": "Kostenlose Bewertung",
+        "allProperties": "Immobilien"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "Immobilien finden, verkaufen und bewerten mit einem hochwertigeren Auftritt.",
+        "text": "Eine professionellere Startseite mit klaren visuellen Bereichen, st\u00E4rkerer Verkaufsnarrative und direktem Zugang zu ausgew\u00E4hlten Immobilien.",
+        "primary": "Kostenlose Bewertung anfragen",
+        "secondary": "Immobilien ansehen"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "Beratene Kunden"
+        },
+        {
+          "value": "6 Sprachen",
+          "label": "Internationaler Service"
+        },
+        {
+          "value": "24h",
+          "label": "Schnelle Antwort"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "Premium-Auswahl",
+        "footerText": "Immobilien mit besserer Pr\u00E4sentation und klarerer Verkaufspositionierung.",
+        "link": "Katalog ansehen"
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Wie k\u00F6nnen wir helfen?",
+        "cta": "Service ansehen",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "Wir suchen Immobilien nach Ihrem Profil und filtern passende Chancen."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "Strategische Bewertung",
+            "text": "Eine Bewertung, die die Immobilie richtig positioniert und den Verkauf erleichtert."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "Internationaler Verkauf",
+            "text": "Mehrsprachige Kommunikation und professionellere Pr\u00E4sentation der Immobilie."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "Ausgew\u00E4hlte Immobilien",
+        "text": "Eine visuelle Auswahl, die der Startseite mehr Leben gibt und die Navigation erleichtert.",
+        "all": "Alle Immobilien ansehen",
+        "cards": {
+          "villa": {
+            "tag": "Neu",
+            "title": "Villa mit Meerblick",
+            "location": "S\u0027Agar\u00F3",
+            "price": "2.350.000 \u20AC"
+          },
+          "casa": {
+            "tag": "Exklusiv",
+            "title": "Renoviertes Herrenhaus",
+            "location": "Begur",
+            "price": "1.980.000 \u20AC"
+          },
+          "apartamento": {
+            "tag": "Luxus",
+            "title": "Premium-Apartment",
+            "location": "Platja d\u0027Aro",
+            "price": "890.000 \u20AC"
+          },
+          "atico": {
+            "tag": "K\u00FCste",
+            "title": "Mediterranes Penthouse",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "1.150.000 \u20AC"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "Methode",
+        "title": "Unser Prozess",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "Wir h\u00F6ren zu",
+            "text": "Wir analysieren Ihr Ziel: kaufen, verkaufen, investieren oder bewerten."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "Wir w\u00E4hlen aus",
+            "text": "Wir filtern Chancen und erstellen einen klaren, visuellen Vorschlag."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "Wir pr\u00E4sentieren",
+            "text": "Wir zeigen die Immobilie oder Verkaufsstrategie mit st\u00E4rkerer kommerzieller Erz\u00E4hlung."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "Wir begleiten",
+            "text": "Wir begleiten Sie bis zum Abschluss und bei den n\u00E4chsten Schritten."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "Kostenlose Bewertung",
+        "title": "M\u00F6chten Sie eine kostenlose Bewertung Ihrer Immobilie?",
+        "text": "Wir analysieren Positionierung, Nachfrage und Potenzial Ihrer Immobilie, damit Sie besser verkaufen.",
+        "button": "Kostenlose Bewertung anfragen"
+      },
+      "catalog": {
+        "eyebrow": "Katalog",
+        "title": "LacostaHaus Immobilien",
+        "text": "Bearbeitbares Listing aus Admin. Ver\u00F6ffentlichte Immobilien erscheinen hier."
+      },
+      "footer": {
+        "text": "Immobilienagentur f\u00FCr nationale und internationale Kunden an der Costa Brava.",
+        "quickTitle": "Schnellzugriff",
+        "usefulTitle": "N\u00FCtzliche Links",
+        "legalTitle": "Rechtliches",
+        "socialTitle": "Folgen Sie uns",
+        "services": "Services",
+        "featured": "Highlights",
+        "process": "Prozess",
+        "about": "\u00DCber uns",
+        "privacy": "Datenschutz",
+        "cookies": "Cookie-Richtlinie",
+        "partner": "API / Mitgliedschaft",
+        "license": "Mitglied 13497 / A14452"
+      },
+      "cookies": {
+        "title": "Cookie-Einstellungen",
+        "text": "Wir verwenden notwendige technische Cookies f\u00FCr den Betrieb der Website und, nur wenn Sie zustimmen, Mess-Cookies \u00FCber Google Tag Manager.",
+        "accept": "Cookies akzeptieren",
+        "reject": "Cookies ablehnen",
+        "policy": "Cookie-Richtlinie"
+      }
+    },
+    "ru": {
+      "seo": {
+        "title": "LacostaHaus | \u041F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u0430\u044F \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u043D\u0430 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430",
+        "description": "\u041F\u043E\u043A\u0443\u043F\u043A\u0430, \u043F\u0440\u043E\u0434\u0430\u0436\u0430 \u0438 \u043E\u0446\u0435\u043D\u043A\u0430 \u043F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u043D\u0430 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0432\u0438\u043B\u043B\u044B, \u043C\u0430\u0441\u0438\u0438 \u0438 \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0441 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u043C \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u0435\u043C."
+      },
+      "nav": {
+        "home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+        "properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+        "languages": "\u042F\u0437\u044B\u043A\u0438",
+        "contact": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442",
+        "valuation": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
+        "allProperties": "\u041E\u0431\u044A\u0435\u043A\u0442\u044B"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "\u041D\u0430\u0439\u0434\u0438\u0442\u0435, \u043F\u0440\u043E\u0434\u0430\u0439\u0442\u0435 \u0438 \u043E\u0446\u0435\u043D\u0438\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0441 \u0431\u043E\u043B\u0435\u0435 \u043F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u044B\u043C \u043E\u0431\u0440\u0430\u0437\u043E\u043C.",
+        "text": "\u0411\u043E\u043B\u0435\u0435 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0433\u043B\u0430\u0432\u043D\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0430 \u0441 \u0432\u044B\u0440\u0430\u0437\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C\u0438 \u0440\u0430\u0437\u0434\u0435\u043B\u0430\u043C\u0438, \u0441\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0439 \u043F\u043E\u0434\u0430\u0447\u0435\u0439 \u0438 \u0431\u044B\u0441\u0442\u0440\u044B\u043C \u0434\u043E\u0441\u0442\u0443\u043F\u043E\u043C \u043A \u0438\u0437\u0431\u0440\u0430\u043D\u043D\u044B\u043C \u043E\u0431\u044A\u0435\u043A\u0442\u0430\u043C.",
+        "primary": "\u0417\u0430\u043F\u0440\u043E\u0441\u0438\u0442\u044C \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0443\u044E \u043E\u0446\u0435\u043D\u043A\u0443",
+        "secondary": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442\u044B"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "\u041A\u043B\u0438\u0435\u043D\u0442\u043E\u0432 \u043F\u043E\u043B\u0443\u0447\u0438\u043B\u0438 \u043A\u043E\u043D\u0441\u0443\u043B\u044C\u0442\u0430\u0446\u0438\u044E"
+        },
+        {
+          "value": "6 \u044F\u0437\u044B\u043A\u043E\u0432",
+          "label": "\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0441\u0435\u0440\u0432\u0438\u0441"
+        },
+        {
+          "value": "24\u0447",
+          "label": "\u0411\u044B\u0441\u0442\u0440\u044B\u0439 \u043E\u0442\u0432\u0435\u0442"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "\u041F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u043E\u0434\u0431\u043E\u0440\u043A\u0430",
+        "footerText": "\u041E\u0431\u044A\u0435\u043A\u0442\u044B \u0441 \u043B\u0443\u0447\u0448\u0435\u0439 \u043F\u0440\u0435\u0437\u0435\u043D\u0442\u0430\u0446\u0438\u0435\u0439 \u0438 \u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043D\u044F\u0442\u043D\u044B\u043C \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u043C \u043F\u043E\u0437\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\u043C.",
+        "link": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043A\u0430\u0442\u0430\u043B\u043E\u0433"
+      },
+      "services": {
+        "eyebrow": "\u0423\u0441\u043B\u0443\u0433\u0438",
+        "title": "\u041A\u0430\u043A \u043C\u044B \u043C\u043E\u0436\u0435\u043C \u043F\u043E\u043C\u043E\u0447\u044C?",
+        "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0443\u0441\u043B\u0443\u0433\u0443",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "\u041C\u044B \u0438\u0449\u0435\u043C \u043E\u0431\u044A\u0435\u043A\u0442\u044B \u043F\u043E \u0432\u0430\u0448\u0435\u043C\u0443 \u043F\u0440\u043E\u0444\u0438\u043B\u044E \u0438 \u043E\u0442\u0431\u0438\u0440\u0430\u0435\u043C \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0438\u0435 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
+            "text": "\u041E\u0446\u0435\u043D\u043A\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u043E\u043C\u043E\u0433\u0430\u0435\u0442 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E \u043F\u043E\u0437\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442 \u0438 \u043F\u0440\u043E\u0434\u0430\u0432\u0430\u0442\u044C \u044D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u0435\u0435."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430\u044F \u043F\u0440\u043E\u0434\u0430\u0436\u0430",
+            "text": "\u041C\u043D\u043E\u0433\u043E\u044F\u0437\u044B\u0447\u043D\u0430\u044F \u043A\u043E\u043C\u043C\u0443\u043D\u0438\u043A\u0430\u0446\u0438\u044F \u0438 \u0431\u043E\u043B\u0435\u0435 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u0440\u0435\u0437\u0435\u043D\u0442\u0430\u0446\u0438\u044F \u043E\u0431\u044A\u0435\u043A\u0442\u0430."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "\u0418\u0437\u0431\u0440\u0430\u043D\u043D\u044B\u0435 \u043E\u0431\u044A\u0435\u043A\u0442\u044B",
+        "text": "\u0412\u0438\u0437\u0443\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u043E\u0434\u0431\u043E\u0440\u043A\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0434\u0435\u043B\u0430\u0435\u0442 \u0433\u043B\u0430\u0432\u043D\u0443\u044E \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0443 \u0436\u0438\u0432\u0435\u0435 \u0438 \u0443\u043F\u0440\u043E\u0449\u0430\u0435\u0442 \u043D\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044E.",
+        "all": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0432\u0441\u0435 \u043E\u0431\u044A\u0435\u043A\u0442\u044B",
+        "cards": {
+          "villa": {
+            "tag": "\u041D\u043E\u0432\u043E\u0435",
+            "title": "\u0412\u0438\u043B\u043B\u0430 \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435",
+            "location": "S\u0027Agar\u00F3",
+            "price": "2.350.000 \u20AC"
+          },
+          "casa": {
+            "tag": "\u042D\u043A\u0441\u043A\u043B\u044E\u0437\u0438\u0432",
+            "title": "\u041E\u0442\u0440\u0435\u0441\u0442\u0430\u0432\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u043E\u0441\u043E\u0431\u043D\u044F\u043A",
+            "location": "Begur",
+            "price": "1.980.000 \u20AC"
+          },
+          "apartamento": {
+            "tag": "\u041B\u044E\u043A\u0441",
+            "title": "\u041F\u0440\u0435\u043C\u0438\u0430\u043B\u044C\u043D\u044B\u0435 \u0430\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u044B",
+            "location": "Platja d\u0027Aro",
+            "price": "890.000 \u20AC"
+          },
+          "atico": {
+            "tag": "\u041F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435",
+            "title": "\u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u0441\u043A\u0438\u0439 \u043F\u0435\u043D\u0442\u0445\u0430\u0443\u0441",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "1.150.000 \u20AC"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "\u041C\u0435\u0442\u043E\u0434",
+        "title": "\u041D\u0430\u0448 \u043F\u0440\u043E\u0446\u0435\u0441\u0441",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "\u0421\u043B\u0443\u0448\u0430\u0435\u043C",
+            "text": "\u041C\u044B \u0430\u043D\u0430\u043B\u0438\u0437\u0438\u0440\u0443\u0435\u043C \u0432\u0430\u0448\u0443 \u0446\u0435\u043B\u044C: \u043F\u043E\u043A\u0443\u043F\u043A\u0430, \u043F\u0440\u043E\u0434\u0430\u0436\u0430, \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u044F \u0438\u043B\u0438 \u043E\u0446\u0435\u043D\u043A\u0430."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "\u041E\u0442\u0431\u0438\u0440\u0430\u0435\u043C",
+            "text": "\u041C\u044B \u0444\u0438\u043B\u044C\u0442\u0440\u0443\u0435\u043C \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0438 \u0433\u043E\u0442\u043E\u0432\u0438\u043C \u044F\u0441\u043D\u043E\u0435 \u0432\u0438\u0437\u0443\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u0435."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "\u041F\u0440\u0435\u0437\u0435\u043D\u0442\u0443\u0435\u043C",
+            "text": "\u041C\u044B \u043F\u043E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u043C \u043E\u0431\u044A\u0435\u043A\u0442 \u0438\u043B\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044E \u043F\u0440\u043E\u0434\u0430\u0436\u0438 \u0441 \u0431\u043E\u043B\u0435\u0435 \u0441\u0438\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0439 \u043F\u043E\u0434\u0430\u0447\u0435\u0439."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "\u0421\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0430\u0435\u043C",
+            "text": "\u041C\u044B \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0430\u0435\u043C \u0432\u0430\u0441 \u0434\u043E \u0437\u0430\u043A\u0440\u044B\u0442\u0438\u044F \u0441\u0434\u0435\u043B\u043A\u0438 \u0438 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0445 \u044D\u0442\u0430\u043F\u0430\u0445."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u043E\u0446\u0435\u043D\u043A\u0430",
+        "title": "\u0425\u043E\u0442\u0438\u0442\u0435 \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0443\u044E \u043E\u0446\u0435\u043D\u043A\u0443 \u0432\u0430\u0448\u0435\u0439 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438?",
+        "text": "\u041C\u044B \u0430\u043D\u0430\u043B\u0438\u0437\u0438\u0440\u0443\u0435\u043C \u043F\u043E\u0437\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435, \u0441\u043F\u0440\u043E\u0441 \u0438 \u043F\u043E\u0442\u0435\u043D\u0446\u0438\u0430\u043B \u043E\u0431\u044A\u0435\u043A\u0442\u0430, \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u043C\u043E\u0447\u044C \u0432\u0430\u043C \u043F\u0440\u043E\u0434\u0430\u0442\u044C \u043B\u0443\u0447\u0448\u0435.",
+        "button": "\u0417\u0430\u043F\u0440\u043E\u0441\u0438\u0442\u044C \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0443\u044E \u043E\u0446\u0435\u043D\u043A\u0443"
+      },
+      "catalog": {
+        "eyebrow": "\u041A\u0430\u0442\u0430\u043B\u043E\u0433",
+        "title": "\u041E\u0431\u044A\u0435\u043A\u0442\u044B LacostaHaus",
+        "text": "\u041E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043D\u043D\u044B\u0435 \u043E\u0431\u044A\u0435\u043A\u0442\u044B \u0431\u0443\u0434\u0443\u0442 \u043E\u0442\u043E\u0431\u0440\u0430\u0436\u0430\u0442\u044C\u0441\u044F \u0437\u0434\u0435\u0441\u044C."
+      },
+      "footer": {
+        "text": "\u0410\u0433\u0435\u043D\u0442\u0441\u0442\u0432\u043E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0434\u043B\u044F \u043C\u0435\u0441\u0442\u043D\u044B\u0445 \u0438 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043A\u043B\u0438\u0435\u043D\u0442\u043E\u0432 \u043D\u0430 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430.",
+        "quickTitle": "\u0411\u044B\u0441\u0442\u0440\u044B\u0435 \u0441\u0441\u044B\u043B\u043A\u0438",
+        "usefulTitle": "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u0441\u0441\u044B\u043B\u043A\u0438",
+        "legalTitle": "\u041F\u0440\u0430\u0432\u043E\u0432\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F",
+        "socialTitle": "\u041C\u044B \u0432 \u0441\u043E\u0446\u0441\u0435\u0442\u044F\u0445",
+        "services": "\u0423\u0441\u043B\u0443\u0433\u0438",
+        "featured": "\u0418\u0437\u0431\u0440\u0430\u043D\u043D\u043E\u0435",
+        "process": "\u041F\u0440\u043E\u0446\u0435\u0441\u0441",
+        "about": "\u041E \u043D\u0430\u0441",
+        "privacy": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438",
+        "cookies": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 cookies",
+        "partner": "API / \u0427\u043B\u0435\u043D\u0441\u0442\u0432\u043E",
+        "license": "\u0427\u043B\u0435\u043D 13497 / A14452"
+      },
+      "cookies": {
+        "title": "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 cookies",
+        "text": "\u041C\u044B \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B\u0435 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0434\u043B\u044F \u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0430\u0439\u0442\u0430 \u0438, \u0442\u043E\u043B\u044C\u043A\u043E \u0435\u0441\u043B\u0438 \u0432\u044B \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u0442\u0435\u0441\u044C, \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0447\u0435\u0440\u0435\u0437 Google Tag Manager.",
+        "accept": "\u041F\u0440\u0438\u043D\u044F\u0442\u044C cookies",
+        "reject": "\u041E\u0442\u043A\u043B\u043E\u043D\u0438\u0442\u044C cookies",
+        "policy": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 cookies"
+      }
+    },
+    "ca": {
+      "seo": {
+        "title": "LacostaHaus | Immobili\u00E0ria premium a la Costa Brava",
+        "description": "Compra, ven i valora propietats premium a la Costa Brava. Masies, viles i projectes immobiliaris amb atenci\u00F3 internacional i assessorament personalitzat."
+      },
+      "nav": {
+        "home": "Inici",
+        "properties": "Immobles",
+        "languages": "Idiomes",
+        "contact": "Contacte",
+        "valuation": "Taxaci\u00F3 gratu\u00EFta",
+        "allProperties": "Immobles"
+      },
+      "hero": {
+        "kicker": "Costa Brava \u00B7 Boutique Real Estate",
+        "title": "Compra, ven i valora immobles premium a la Costa Brava.",
+        "text": "Una home m\u00E9s professional, amb seccions visuals diferenciades, millor relat comercial i acc\u00E9s directe als immobles destacats.",
+        "primary": "Sol\u00B7licita taxaci\u00F3 gratu\u00EFta",
+        "secondary": "Veure immobles"
+      },
+      "stats": [
+        {
+          "value": "\u002B120",
+          "label": "Clients assessorats"
+        },
+        {
+          "value": "6 idiomes",
+          "label": "Atenci\u00F3 internacional"
+        },
+        {
+          "value": "24 h",
+          "label": "Resposta \u00E0gil"
+        }
+      ],
+      "visual": {
+        "badge": "LacostaHaus Selection",
+        "title": "LacostaHaus",
+        "subtitle": "Costa Brava Boutique Real Estate",
+        "footerTitle": "Selecci\u00F3 premium",
+        "footerText": "Propietats amb millor presentaci\u00F3 i m\u00E9s claredat comercial.",
+        "link": "Veure cat\u00E0leg"
+      },
+      "services": {
+        "eyebrow": "Serveis",
+        "title": "Com et podem ajudar?",
+        "cta": "Veure servei",
+        "items": [
+          {
+            "className": "service-card-home--personal-shopper",
+            "title": "Personal Shopper",
+            "text": "Busquem propietats segons el teu perfil i filtrem oportunitats amb millor encaix."
+          },
+          {
+            "className": "service-card-home--tasacion",
+            "title": "Taxaci\u00F3 estrat\u00E8gica",
+            "text": "Valoraci\u00F3 orientada a posicionar l\u0027immoble i facilitar una venda m\u00E9s efica\u00E7."
+          },
+          {
+            "className": "service-card-home--venta-internacional",
+            "title": "Venda internacional",
+            "text": "Comunicaci\u00F3 multiling\u00FCe i presentaci\u00F3 m\u00E9s professional de la propietat."
+          }
+        ]
+      },
+      "featured": {
+        "eyebrow": "Showcase",
+        "title": "Immobles destacats",
+        "text": "Una selecci\u00F3 visual per donar m\u00E9s vida a la home i facilitar la navegaci\u00F3.",
+        "all": "Veure tots els immobles",
+        "cards": {
+          "villa": {
+            "tag": "Nou",
+            "title": "Vila amb vistes al mar",
+            "location": "S\u0027Agar\u00F3",
+            "price": "2.350.000 \u20AC"
+          },
+          "casa": {
+            "tag": "Exclusiva",
+            "title": "Casa senyorial reformada",
+            "location": "Begur",
+            "price": "1.980.000 \u20AC"
+          },
+          "apartamento": {
+            "tag": "Luxe",
+            "title": "Apartament premium",
+            "location": "Platja d\u0027Aro",
+            "price": "890.000 \u20AC"
+          },
+          "atico": {
+            "tag": "Costa",
+            "title": "\u00C0tic mediterrani",
+            "location": "Sant Feliu de Gu\u00EDxols",
+            "price": "1.150.000 \u20AC"
+          }
+        }
+      },
+      "process": {
+        "eyebrow": "M\u00E8tode",
+        "title": "El nostre proc\u00E9s",
+        "items": [
+          {
+            "className": "process-step-home--escuchamos",
+            "number": "01",
+            "title": "Escoltem",
+            "text": "Analitzem el teu objectiu: comprar, vendre, invertir o valorar."
+          },
+          {
+            "className": "process-step-home--seleccionamos",
+            "number": "02",
+            "title": "Seleccionem",
+            "text": "Filtrem oportunitats i organitzem una proposta clara i visual."
+          },
+          {
+            "className": "process-step-home--presentamos",
+            "number": "03",
+            "title": "Presentem",
+            "text": "Mostrem l\u0027immoble o l\u0027estrat\u00E8gia de venda amb millor relat comercial."
+          },
+          {
+            "className": "process-step-home--acompanamos",
+            "number": "04",
+            "title": "Acompanyem",
+            "text": "T\u0027acompanyem fins al tancament i la gesti\u00F3 posterior."
+          }
+        ]
+      },
+      "valuation": {
+        "kicker": "Taxaci\u00F3 gratu\u00EFta",
+        "title": "Vols una valoraci\u00F3 gratu\u00EFta de la teva propietat?",
+        "text": "Analitzem el posicionament, la demanda i el potencial del teu immoble per ajudar-te a vendre millor.",
+        "button": "Sol\u00B7licita taxaci\u00F3 gratu\u00EFta"
+      },
+      "catalog": {
+        "eyebrow": "Cat\u00E0leg",
+        "title": "Immobles LacostaHaus",
+        "text": "Llistat editable des d\u0027Admin. Els immobles publicats apareixeran aqu\u00ED."
+      },
+      "footer": {
+        "text": "Immobili\u00E0ria orientada a clients nacionals i internacionals a la Costa Brava.",
+        "quickTitle": "Enlla\u00E7os r\u00E0pids",
+        "usefulTitle": "Enlla\u00E7os \u00FAtils",
+        "legalTitle": "Legal",
+        "socialTitle": "Segueix-nos",
+        "services": "Serveis",
+        "featured": "Destacats",
+        "process": "Proc\u00E9s",
+        "about": "Sobre nosaltres",
+        "privacy": "Pol\u00EDtica de privacitat",
+        "cookies": "Pol\u00EDtica de cookies",
+        "partner": "API / Col\u00B7legiaci\u00F3",
+        "license": "Col\u00B7legiat 13497 / A14452"
+      },
+      "cookies": {
+        "title": "Prefer\u00E8ncies de cookies",
+        "text": "Utilitzem cookies t\u00E8cniques necess\u00E0ries perqu\u00E8 la web funcioni i, nom\u00E9s si acceptes, cookies de mesurament mitjan\u00E7ant Google Tag Manager.",
+        "accept": "Acceptar cookies",
+        "reject": "Rebutjar cookies",
+        "policy": "Pol\u00EDtica de cookies"
+      }
+    }
+  }
 }
