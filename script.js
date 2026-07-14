@@ -839,7 +839,7 @@
       const property = propertyById(currentPropertyId());
       return propertyUrl(property, lang);
     }
-    if (page === "service" || page === "article" || page === "articles") {
+    if (page === "service" || page === "article" || page === "articles" || page === "local-landing") {
       return urlForPath(currentPathRoute(), lang);
     }
     if (page === "contact") {
@@ -892,7 +892,7 @@
 
     const route = page === "property"
       ? ((propertyById(currentPropertyId()) || {}).route || site.routes.properties)
-      : (page === "service" || page === "article" || page === "articles" ? currentPathRoute() : site.routes[routeForCurrentPage()]);
+      : (page === "service" || page === "article" || page === "articles" || page === "local-landing" ? currentPathRoute() : site.routes[routeForCurrentPage()]);
     const canonical = productionUrlForPath(route, currentLanguage);
     ensureLink("canonical", null, canonical);
     (site.languages || []).forEach((language) => {
@@ -1245,6 +1245,9 @@
             <li><a href="${absoluteRoute("home")}#servicios">${currentText.footer.services}</a></li>
             <li><a href="${absoluteRoute("home")}#destacados">${currentText.footer.featured}</a></li>
             <li><a href="${absoluteRoute("home")}#proceso">${currentText.footer.process}</a></li>
+            <li><a href="${urlForPath("inmobiliaria-costa-brava/")}">Costa Brava</a></li>
+            <li><a href="${urlForPath("inmobiliaria-platja-daro-sagaro/")}">Platja d'Aro · S'Agaró</a></li>
+            <li><a href="${urlForPath("inmobiliaria-calonge-torre-valentina/")}">Calonge · Torre Valentina</a></li>
             <li><a href="${urlForPath("articulos/")}">${footerLabels.articles}</a></li>
             <li><a href="${urlForPath("articulos/")}">${footerLabels.doubts}</a></li>
             <li><a href="${absoluteRoute("agent")}">${currentText.footer.about}</a></li>
@@ -2179,6 +2182,12 @@
 
     setSeo(propertyText.seo_title, propertyText.seo_description, media.poster || registryProperty?.image || "assets/hero-principal.png");
     setPropertyStructuredData(registryProperty, propertyData, propertyText, media);
+    trackEvent("view_item", {
+      item_id: registryProperty.id,
+      item_name: propertyText.title || registryProperty.id,
+      price: parseEuroPrice(propertyText.price || ""),
+      currency: "EUR"
+    });
     renderPropertyPrice(propertyText.price);
     document.querySelector("[data-property-title]").textContent = propertyText.title;
     document.querySelector("[data-property-location]").textContent = propertyText.location_text;
@@ -2482,6 +2491,59 @@
     }
   }
 
+  async function renderLocalLandingPage() {
+    if (page !== "local-landing") return;
+    const data = await loadJson("local-landings.json");
+    const landing = (data.landings || []).find((item) => item.id === document.body.dataset.landingId);
+    if (!landing) return;
+    const text = pickTranslation(landing.translations || {}, currentLanguage);
+    const heroImage = landing.hero_image || "assets/hero-principal.png";
+
+    setSeo(text.seo_title, text.seo_description, heroImage);
+
+    const kicker = document.querySelector("[data-local-kicker]");
+    const title = document.querySelector("[data-local-title]");
+    const intro = document.querySelector("[data-local-intro]");
+    const content = document.querySelector("[data-local-content]");
+    const cta = document.querySelector("[data-local-cta]");
+
+    if (kicker) kicker.textContent = text.kicker || "";
+    if (title) title.textContent = text.title || "";
+    if (intro) intro.textContent = text.intro || "";
+    if (cta) {
+      cta.textContent = text.cta || "Contactar";
+      cta.href = urlForPath("contacto/?utm_source=landing_zona&utm_medium=organic&utm_campaign=" + encodeURIComponent(landing.id));
+    }
+
+    if (content) {
+      content.innerHTML = (text.sections || []).map((section) => `
+        <section>
+          <h2>${section.title}</h2>
+          ${renderParagraphs(section.paragraphs || [])}
+        </section>
+      `).join("");
+    }
+
+    setJsonLd("localLandingStructuredData", {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: text.title,
+      description: text.seo_description || text.intro,
+      url: productionUrlForPath(landing.route, currentLanguage),
+      inLanguage: document.documentElement.lang || currentLanguage,
+      isPartOf: {
+        "@type": "WebSite",
+        name: site.brand || "LacostaHaus",
+        url: productionUrlForPath(site.routes.home, currentLanguage)
+      },
+      about: {
+        "@type": "RealEstateAgent",
+        name: site.brand || "LacostaHaus",
+        areaServed: landing.area || "Costa Brava"
+      }
+    });
+  }
+
   async function articlesData() {
     return loadJson("articles.json");
   }
@@ -2705,6 +2767,7 @@
     const payload = {
       page_path: window.location.pathname,
       page_language: currentLanguage,
+      page_title: document.title,
       ...params
     };
     window.dataLayer = window.dataLayer || [];
@@ -2725,6 +2788,7 @@
       const label = eventLabel(link);
 
       if (absoluteHref.includes("api.whatsapp.com") || absoluteHref.includes("wa.me")) {
+        trackEvent("generate_lead", { method: "whatsapp", link_text: label, link_url: absoluteHref });
         trackEvent("contact_whatsapp_click", { link_text: label, link_url: absoluteHref });
         return;
       }
@@ -2735,11 +2799,13 @@
       }
 
       if (href.startsWith("mailto:")) {
+        trackEvent("generate_lead", { method: "email", link_text: label, link_url: href });
         trackEvent("contact_email_click", { link_text: label, link_url: href });
         return;
       }
 
       if (href.startsWith("tel:")) {
+        trackEvent("generate_lead", { method: "phone", link_text: label, link_url: href });
         trackEvent("contact_phone_click", { link_text: label, link_url: href });
         return;
       }
@@ -2755,11 +2821,13 @@
       }
 
       if (link.closest(".catalog-card")) {
+        trackEvent("select_item", { item_list_name: "catalog", link_text: label, link_url: absoluteHref });
         trackEvent("property_catalog_click", { link_text: label, link_url: absoluteHref });
         return;
       }
 
       if (link.closest(".coverflow-card")) {
+        trackEvent("select_item", { item_list_name: "home_showcase", link_text: label, link_url: absoluteHref });
         trackEvent("property_showcase_click", { link_text: label, link_url: absoluteHref });
         return;
       }
@@ -2772,6 +2840,16 @@
       if (link.matches(".btn-primary-home, .btn-secondary-home, .btn-outline, .btn-hover-effect") || link.closest(".service-card-home")) {
         trackEvent("cta_click", { link_text: label, link_url: absoluteHref });
       }
+    });
+
+    document.addEventListener("submit", (event) => {
+      const form = event.target.closest("form");
+      if (!form) return;
+      trackEvent("generate_lead", {
+        method: "contact_form",
+        form_id: form.id || "",
+        form_name: form.getAttribute("name") || eventLabel(form)
+      });
     });
   }
 
@@ -2872,6 +2950,7 @@
       await renderPrivacyPolicyPage();
       await renderAgentPage();
       await renderServicePage();
+      await renderLocalLandingPage();
       await renderArticleListPage();
       await renderArticlePage();
 

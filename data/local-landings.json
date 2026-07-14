@@ -1,0 +1,586 @@
+{
+  "landings": [
+    {
+      "id": "inmobiliaria-costa-brava",
+      "route": "inmobiliaria-costa-brava/",
+      "area": "Costa Brava",
+      "hero_image": "assets/hero-principal.png",
+      "translations": {
+        "es": {
+          "seo_title": "Inmobiliaria en Costa Brava | Comprar y vender vivienda premium",
+          "seo_description": "Inmobiliaria en Costa Brava para comprar, vender y valorar casas, villas y propiedades singulares con enfoque premium e internacional.",
+          "kicker": "Costa Brava",
+          "title": "Inmobiliaria en Costa Brava para comprar y vender con criterio",
+          "intro": "LacostaHaus acompaña a propietarios y compradores que buscan una gestión cuidada, clara y orientada a inmuebles con valor real en la Costa Brava.",
+          "cta": "Hablar sobre mi caso",
+          "sections": [
+            {
+              "title": "Una zona con micro mercados muy distintos",
+              "paragraphs": [
+                "La Costa Brava no funciona como un único mercado. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar, Torroella de Montgrí o el Baix Empordà pueden atraer compradores muy diferentes aunque estén cerca en el mapa.",
+                "Por eso una estrategia inmobiliaria seria debe cruzar ubicación, estado, privacidad, documentación, vistas, acceso, uso previsto y perfil del comprador antes de fijar precio o publicar."
+              ]
+            },
+            {
+              "title": "Venta premium y comprador internacional",
+              "paragraphs": [
+                "En viviendas singulares, villas, masías o proyectos de obra nueva, la presentación importa tanto como el anuncio. Fotos, texto, dossier, traducciones y respuesta rápida ayudan a atraer contactos más cualificados.",
+                "LacostaHaus trabaja con enfoque multilingüe y selección cuidada para que cada inmueble se entienda mejor desde el primer contacto."
+              ]
+            },
+            {
+              "title": "Comprar con menos ruido",
+              "paragraphs": [
+                "Para compradores, el objetivo no es ver más anuncios, sino comparar mejor. Una buena búsqueda filtra por uso real, zona, costes, mantenimiento, potencial futuro y negociación.",
+                "Si buscas comprar o vender en Costa Brava, podemos ayudarte a ordenar opciones y priorizar las que realmente encajan."
+              ]
+            }
+          ]
+        },
+        "ca": {
+          "seo_title": "Immobiliària a la Costa Brava | Comprar i vendre habitatge premium",
+          "seo_description": "Immobiliària a la Costa Brava per comprar, vendre i valorar cases, viles i propietats singulars amb enfocament premium i internacional.",
+          "kicker": "Costa Brava",
+          "title": "Immobiliària a la Costa Brava per comprar i vendre amb criteri",
+          "intro": "LacostaHaus acompanya propietaris i compradors que busquen una gestió cuidada, clara i orientada a immobles amb valor real.",
+          "cta": "Parlar del meu cas",
+          "sections": [
+            {
+              "title": "Una zona amb mercats locals molt diferents",
+              "paragraphs": [
+                "La Costa Brava no funciona com un únic mercat. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar, Torroella de Montgrí o el Baix Empordà poden atraure perfils molt diferents.",
+                "Per això cal creuar ubicació, estat, privacitat, documentació, vistes, accés, ús previst i perfil comprador abans de fixar preu o publicar."
+              ]
+            },
+            {
+              "title": "Venda premium i comprador internacional",
+              "paragraphs": [
+                "En habitatges singulars, viles, masies o projectes d'obra nova, la presentació és clau. Fotos, text, dossier, traduccions i resposta ràpida ajuden a atraure contactes més qualificats.",
+                "LacostaHaus treballa amb enfocament multilingüe i selecció cuidada perquè cada immoble s'entengui millor des del primer contacte."
+              ]
+            },
+            {
+              "title": "Comprar amb menys soroll",
+              "paragraphs": [
+                "Per als compradors, l'objectiu no és veure més anuncis, sinó comparar millor. Una bona cerca filtra per ús real, zona, costos, manteniment, potencial futur i negociació.",
+                "Si vols comprar o vendre a la Costa Brava, podem ajudar-te a ordenar opcions i prioritzar les que encaixen de veritat."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Real estate agency on the Costa Brava | Premium homes",
+          "seo_description": "Costa Brava real estate agency for buying, selling and valuing villas, houses and distinctive properties with an international approach.",
+          "kicker": "Costa Brava",
+          "title": "Real estate agency on the Costa Brava for clearer buying and selling",
+          "intro": "LacostaHaus supports owners and buyers who need a careful, multilingual and premium approach to property on the Costa Brava.",
+          "cta": "Discuss my case",
+          "sections": [
+            {
+              "title": "Local areas behave differently",
+              "paragraphs": [
+                "The Costa Brava is not one single market. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar, Torroella de Montgrí and the Baix Empordà can attract very different buyers.",
+                "A strong strategy should read location, condition, privacy, documents, views, access, intended use and buyer profile before pricing or publishing."
+              ]
+            },
+            {
+              "title": "Premium presentation for international buyers",
+              "paragraphs": [
+                "For villas, farmhouses, new-build projects and distinctive homes, presentation matters. Images, text, dossier, translations and fast response help attract better qualified enquiries.",
+                "LacostaHaus uses multilingual guidance and careful selection so each property is easier to understand from the first contact."
+              ]
+            },
+            {
+              "title": "Buying with less noise",
+              "paragraphs": [
+                "For buyers, the goal is not to see more listings, but to compare better. A useful search filters by real use, area, running costs, maintenance, future potential and negotiation.",
+                "If you want to buy or sell on the Costa Brava, we can help you organise the options that genuinely fit."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Agence immobilière Costa Brava | Biens premium",
+          "seo_description": "Agence immobilière sur la Costa Brava pour acheter, vendre et estimer villas, maisons et biens singuliers avec accompagnement international.",
+          "kicker": "Costa Brava",
+          "title": "Agence immobilière sur la Costa Brava avec une approche plus ciblée",
+          "intro": "LacostaHaus accompagne propriétaires et acheteurs avec une gestion claire, multilingue et adaptée aux biens premium.",
+          "cta": "Parler de mon projet",
+          "sections": [
+            {
+              "title": "Des zones proches mais différentes",
+              "paragraphs": [
+                "La Costa Brava regroupe des marchés locaux très différents. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar ou le Baix Empordà peuvent attirer des profils distincts.",
+                "Une bonne stratégie tient compte de l'emplacement, de l'état, de la confidentialité, des documents, de l'accès, de l'usage prévu et du profil acheteur."
+              ]
+            },
+            {
+              "title": "Présentation premium",
+              "paragraphs": [
+                "Pour les villas, masias et biens singuliers, la présentation est essentielle : photos, texte, dossier, traductions et suivi rapide.",
+                "LacostaHaus aide à rendre le bien plus compréhensible pour un acheteur local ou international."
+              ]
+            },
+            {
+              "title": "Acheter avec plus de clarté",
+              "paragraphs": [
+                "Un bon accompagnement permet de comparer moins de biens, mais de meilleure qualité.",
+                "Nous pouvons vous aider à filtrer les options selon l'usage réel, la zone, les coûts et le potentiel futur."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Immobilienmakler Costa Brava | Premium-Immobilien",
+          "seo_description": "Immobilienmakler an der Costa Brava für Kauf, Verkauf und Bewertung von Villen, Häusern und besonderen Immobilien.",
+          "kicker": "Costa Brava",
+          "title": "Immobilienmakler an der Costa Brava mit klarem Premium-Ansatz",
+          "intro": "LacostaHaus begleitet Eigentümer und Käufer mit sorgfältiger, mehrsprachiger und internationaler Betreuung.",
+          "cta": "Mein Projekt besprechen",
+          "sections": [
+            {
+              "title": "Jede Lage funktioniert anders",
+              "paragraphs": [
+                "Die Costa Brava ist kein einheitlicher Markt. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar und das Baix Empordà sprechen unterschiedliche Käuferprofile an.",
+                "Eine solide Strategie berücksichtigt Lage, Zustand, Privatsphäre, Unterlagen, Zugang, Nutzung und Käuferprofil."
+              ]
+            },
+            {
+              "title": "Premium-Präsentation",
+              "paragraphs": [
+                "Bei Villen, Masias und besonderen Häusern zählen Fotos, Text, Dossier, Übersetzungen und schnelle Antwort.",
+                "LacostaHaus macht Immobilien für lokale und internationale Käufer verständlicher."
+              ]
+            },
+            {
+              "title": "Gezielter kaufen",
+              "paragraphs": [
+                "Gute Beratung bedeutet nicht mehr Besichtigungen, sondern bessere Vergleiche.",
+                "Wir helfen, Optionen nach Nutzung, Lage, Kosten, Instandhaltung und Zukunftspotenzial zu filtern."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Агентство недвижимости Costa Brava | Премиум объекты",
+          "seo_description": "Агентство недвижимости на Costa Brava для покупки, продажи и оценки вилл, домов и особых объектов.",
+          "kicker": "Costa Brava",
+          "title": "Агентство недвижимости на Costa Brava с премиальным подходом",
+          "intro": "LacostaHaus сопровождает владельцев и покупателей, которым важны ясность, языковая поддержка и аккуратная презентация объекта.",
+          "cta": "Обсудить мой запрос",
+          "sections": [
+            {
+              "title": "Разные зоны, разные покупатели",
+              "paragraphs": [
+                "Costa Brava состоит из разных локальных рынков. Platja d'Aro, S'Agaró, Calonge, Sant Antoni, Lloret de Mar и Baix Empordà привлекают разные профили покупателей.",
+                "Важно учитывать локацию, состояние, приватность, документы, доступ, сценарий использования и профиль покупателя."
+              ]
+            },
+            {
+              "title": "Премиальная презентация",
+              "paragraphs": [
+                "Для вилл, масий и особых объектов важны фотографии, текст, досье, переводы и быстрый ответ.",
+                "LacostaHaus помогает сделать объект понятным для местных и международных покупателей."
+              ]
+            },
+            {
+              "title": "Покупка без лишнего шума",
+              "paragraphs": [
+                "Хороший поиск означает не больше объявлений, а более точное сравнение.",
+                "Мы помогаем фильтровать варианты по использованию, зоне, расходам, обслуживанию и будущему потенциалу."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "inmobiliaria-platja-daro-sagaro",
+      "route": "inmobiliaria-platja-daro-sagaro/",
+      "area": "Platja d'Aro y S'Agaró",
+      "hero_image": "assets/servicio-venta-internacional.png",
+      "translations": {
+        "es": {
+          "seo_title": "Inmobiliaria en Platja d'Aro y S'Agaró | Viviendas premium",
+          "seo_description": "Comprar o vender casa en Platja d'Aro y S'Agaró con estrategia, valoración y presentación premium para compradores nacionales e internacionales.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Inmobiliaria en Platja d'Aro y S'Agaró para inmuebles con valor",
+          "intro": "Una zona activa, conectada y con demanda internacional necesita una estrategia clara para no competir solo por precio.",
+          "cta": "Pedir orientación local",
+          "sections": [
+            {
+              "title": "Demanda, servicios y segunda residencia",
+              "paragraphs": [
+                "Platja d'Aro y S'Agaró combinan playa, comercio, restauración, servicios y buena conexión. Esto atrae compradores que buscan uso propio, inversión o segunda residencia con vida todo el año.",
+                "En esta zona conviene explicar muy bien la ubicación concreta, la privacidad, el estado real, los costes y la facilidad de mantenimiento."
+              ]
+            },
+            {
+              "title": "Vender sin diluir el valor",
+              "paragraphs": [
+                "Cuando hay mucha oferta, publicar rápido no siempre es vender mejor. La diferencia suele estar en la selección de imágenes, el relato comercial, la claridad documental y una respuesta profesional a cada contacto.",
+                "Una vivienda bien posicionada puede atraer mejores visitas y evitar negociaciones débiles desde el primer momento."
+              ]
+            },
+            {
+              "title": "Comprar con criterio de zona",
+              "paragraphs": [
+                "No todas las calles ni urbanizaciones ofrecen la misma experiencia. Accesos, ruido, orientación, terrazas, aparcamiento y distancia real a servicios cambian mucho la decisión.",
+                "LacostaHaus puede ayudarte a comparar opciones antes de visitar y a enfocar la búsqueda en propiedades que encajen con tu uso."
+              ]
+            }
+          ]
+        },
+        "ca": {
+          "seo_title": "Immobiliària a Platja d'Aro i S'Agaró | Habitatges premium",
+          "seo_description": "Comprar o vendre casa a Platja d'Aro i S'Agaró amb estratègia, valoració i presentació premium.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Immobiliària a Platja d'Aro i S'Agaró per a immobles amb valor",
+          "intro": "Una zona activa, connectada i amb demanda internacional necessita una estratègia clara per no competir només per preu.",
+          "cta": "Demanar orientació local",
+          "sections": [
+            {
+              "title": "Demanda, serveis i segona residència",
+              "paragraphs": [
+                "Platja d'Aro i S'Agaró combinen platja, comerç, restauració, serveis i bona connexió. Això atrau compradors que busquen ús propi, inversió o segona residència.",
+                "Cal explicar bé la ubicació concreta, la privacitat, l'estat real, els costos i la facilitat de manteniment."
+              ]
+            },
+            {
+              "title": "Vendre sense diluir el valor",
+              "paragraphs": [
+                "Quan hi ha molta oferta, publicar ràpid no sempre és vendre millor. La diferència és en les imatges, el relat comercial, la documentació i la resposta professional.",
+                "Un habitatge ben posicionat pot atreure millors visites i evitar negociacions febles."
+              ]
+            },
+            {
+              "title": "Comprar amb criteri de zona",
+              "paragraphs": [
+                "No tots els carrers ni urbanitzacions ofereixen la mateixa experiència. Accessos, soroll, orientació, terrasses i distància real als serveis canvien la decisió.",
+                "LacostaHaus pot ajudar-te a comparar opcions abans de visitar."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Real estate in Platja d'Aro and S'Agaró | Premium homes",
+          "seo_description": "Buy or sell property in Platja d'Aro and S'Agaró with premium presentation, valuation and international guidance.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Real estate in Platja d'Aro and S'Agaró for homes with real value",
+          "intro": "An active, well-connected area with international demand needs a clear strategy, not just price exposure.",
+          "cta": "Request local guidance",
+          "sections": [
+            {
+              "title": "Demand, services and second homes",
+              "paragraphs": [
+                "Platja d'Aro and S'Agaró combine beach, shopping, restaurants, services and good access. Buyers often look for own use, investment or a second home.",
+                "The exact location, privacy, condition, costs and maintenance should be explained clearly."
+              ]
+            },
+            {
+              "title": "Selling without weakening value",
+              "paragraphs": [
+                "In a market with many listings, publishing fast is not always selling better. Images, commercial story, documents and professional response make a difference.",
+                "A well-positioned home can attract better visits and stronger negotiation."
+              ]
+            },
+            {
+              "title": "Buying with area criteria",
+              "paragraphs": [
+                "Streets and developments can offer very different experiences. Access, noise, orientation, terraces, parking and distance to services matter.",
+                "LacostaHaus can help you compare options before visiting."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Agence immobilière à Platja d'Aro et S'Agaró | Biens premium",
+          "seo_description": "Acheter ou vendre un bien à Platja d'Aro et S'Agaró avec présentation premium, estimation et accompagnement international.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Agence immobilière à Platja d'Aro et S'Agaró pour des biens à forte valeur",
+          "intro": "Une zone active, bien connectée et internationale demande une stratégie claire, pas seulement une exposition par le prix.",
+          "cta": "Demander un avis local",
+          "sections": [
+            {
+              "title": "Demande, services et résidence secondaire",
+              "paragraphs": [
+                "Platja d'Aro et S'Agaró réunissent plage, commerces, restaurants, services et bons accès. Les acheteurs recherchent souvent un usage personnel, un investissement ou une résidence secondaire.",
+                "L'emplacement précis, la confidentialité, l'état, les coûts et l'entretien doivent être expliqués clairement."
+              ]
+            },
+            {
+              "title": "Vendre sans affaiblir la valeur",
+              "paragraphs": [
+                "Sur un marché avec beaucoup d'annonces, publier vite ne signifie pas toujours mieux vendre. Les images, le récit commercial, les documents et la réponse professionnelle font la différence.",
+                "Un bien bien positionné peut attirer de meilleures visites et une négociation plus solide."
+              ]
+            },
+            {
+              "title": "Acheter avec des critères de zone",
+              "paragraphs": [
+                "Les rues et urbanisations peuvent offrir des expériences très différentes. Accès, bruit, orientation, terrasses, parking et distance aux services comptent.",
+                "LacostaHaus peut vous aider à comparer les options avant de visiter."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Immobilienmakler in Platja d'Aro und S'Agaró | Premium-Immobilien",
+          "seo_description": "Immobilien in Platja d'Aro und S'Agaró kaufen oder verkaufen mit Premium-Präsentation, Bewertung und internationaler Betreuung.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Immobilienmakler in Platja d'Aro und S'Agaró für wertvolle Immobilien",
+          "intro": "Eine aktive, gut angebundene Zone mit internationaler Nachfrage braucht eine klare Strategie, nicht nur Preispräsenz.",
+          "cta": "Lokale Einschätzung anfragen",
+          "sections": [
+            {
+              "title": "Nachfrage, Service und Zweitwohnsitz",
+              "paragraphs": [
+                "Platja d'Aro und S'Agaró verbinden Strand, Geschäfte, Restaurants, Dienstleistungen und gute Erreichbarkeit.",
+                "Die genaue Lage, Privatsphäre, der Zustand, die Kosten und die Instandhaltung sollten klar erklärt werden."
+              ]
+            },
+            {
+              "title": "Verkaufen, ohne den Wert zu schwächen",
+              "paragraphs": [
+                "Viele Angebote bedeuten nicht, dass schnelles Veröffentlichen die beste Strategie ist. Bilder, Text, Unterlagen und professionelle Reaktion machen den Unterschied.",
+                "Eine gut positionierte Immobilie kann bessere Besichtigungen und stärkere Verhandlungen auslösen."
+              ]
+            },
+            {
+              "title": "Mit Lagekriterien kaufen",
+              "paragraphs": [
+                "Straßen und Wohnlagen können sehr unterschiedliche Erfahrungen bieten. Zugang, Geräusch, Ausrichtung, Terrassen, Parkplatz und Entfernung zu Dienstleistungen zählen.",
+                "LacostaHaus hilft, Optionen vor einer Besichtigung besser zu vergleichen."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Недвижимость в Platja d'Aro и S'Agaró | Премиум объекты",
+          "seo_description": "Покупка и продажа недвижимости в Platja d'Aro и S'Agaró с премиальной презентацией, оценкой и международным сопровождением.",
+          "kicker": "Platja d'Aro · S'Agaró",
+          "title": "Недвижимость в Platja d'Aro и S'Agaró для объектов с реальной ценностью",
+          "intro": "Активная и хорошо связанная зона с международным спросом требует четкой стратегии, а не только публикации по цене.",
+          "cta": "Запросить местную консультацию",
+          "sections": [
+            {
+              "title": "Спрос, сервисы и второй дом",
+              "paragraphs": [
+                "Platja d'Aro и S'Agaró объединяют пляж, магазины, рестораны, сервисы и удобный доступ.",
+                "Важно ясно объяснить точную локацию, приватность, состояние, расходы и обслуживание."
+              ]
+            },
+            {
+              "title": "Продажа без потери ценности",
+              "paragraphs": [
+                "На рынке с большим количеством объявлений быстрая публикация не всегда означает лучшую продажу. Важны изображения, текст, документы и профессиональный ответ.",
+                "Хорошо позиционированный объект может привлечь более качественные просмотры и сильнее защитить цену."
+              ]
+            },
+            {
+              "title": "Покупка с учетом района",
+              "paragraphs": [
+                "Улицы и урбанизации могут давать очень разный опыт. Доступ, шум, ориентация, террасы, парковка и расстояние до сервисов имеют значение.",
+                "LacostaHaus помогает сравнить варианты до организации визита."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "inmobiliaria-calonge-torre-valentina",
+      "route": "inmobiliaria-calonge-torre-valentina/",
+      "area": "Calonge y Torre Valentina",
+      "hero_image": "assets/articulo-compra-zona-costa-brava.png",
+      "translations": {
+        "es": {
+          "seo_title": "Inmobiliaria en Calonge y Torre Valentina | Casas y villas",
+          "seo_description": "Comprar o vender casa en Calonge, Sant Antoni y Torre Valentina con enfoque local, valoración cuidada y presentación premium.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Inmobiliaria en Calonge y Torre Valentina para casas, villas y segunda residencia",
+          "intro": "Calonge y Torre Valentina combinan costa, urbanizaciones, calma residencial y buen acceso a servicios, una mezcla que exige leer cada inmueble con detalle.",
+          "cta": "Valorar mi inmueble",
+          "sections": [
+            {
+              "title": "Una zona con perfiles de compra variados",
+              "paragraphs": [
+                "Calonge, Sant Antoni y Torre Valentina pueden interesar a familias, compradores internacionales, perfiles de segunda residencia e inversores que buscan equilibrio entre playa, privacidad y vida práctica.",
+                "La estrategia debe adaptar el mensaje a cada caso: villa con piscina, casa familiar, apartamento cerca del mar o vivienda con potencial de mejora."
+              ]
+            },
+            {
+              "title": "Qué hace más vendible una propiedad",
+              "paragraphs": [
+                "Orientación, vistas, estado de la piscina, terrazas, aparcamiento, privacidad, gastos y documentación influyen en la percepción del comprador antes incluso de visitar.",
+                "Ordenar esa información permite defender mejor el precio y reducir dudas durante la negociación."
+              ]
+            },
+            {
+              "title": "Acompañamiento local y multilingüe",
+              "paragraphs": [
+                "Muchos compradores no comparan solo propiedades, comparan confianza. Un acompañamiento claro, en varios idiomas y con información bien preparada puede mejorar la calidad de los contactos.",
+                "LacostaHaus te ayuda a preparar la venta o la compra con una lectura local y una presentación más profesional."
+              ]
+            }
+          ]
+        },
+        "ca": {
+          "seo_title": "Immobiliària a Calonge i Torre Valentina | Cases i viles",
+          "seo_description": "Comprar o vendre casa a Calonge, Sant Antoni i Torre Valentina amb enfocament local, valoració cuidada i presentació premium.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Immobiliària a Calonge i Torre Valentina per a cases, viles i segona residència",
+          "intro": "Calonge i Torre Valentina combinen costa, urbanitzacions, calma residencial i bon accés a serveis.",
+          "cta": "Valorar el meu immoble",
+          "sections": [
+            {
+              "title": "Una zona amb perfils de compra variats",
+              "paragraphs": [
+                "Calonge, Sant Antoni i Torre Valentina poden interessar a famílies, compradors internacionals, segona residència i inversors.",
+                "L'estratègia ha d'adaptar el missatge a cada cas: vila amb piscina, casa familiar, apartament prop del mar o habitatge amb potencial."
+              ]
+            },
+            {
+              "title": "Què fa més venible una propietat",
+              "paragraphs": [
+                "Orientació, vistes, estat de la piscina, terrasses, aparcament, privacitat, despeses i documentació influeixen en la percepció del comprador.",
+                "Ordenar aquesta informació ajuda a defensar millor el preu i reduir dubtes."
+              ]
+            },
+            {
+              "title": "Acompanyament local i multilingüe",
+              "paragraphs": [
+                "Molts compradors no comparen només propietats, comparen confiança.",
+                "LacostaHaus t'ajuda a preparar la venda o la compra amb lectura local i presentació professional."
+              ]
+            }
+          ]
+        },
+        "en": {
+          "seo_title": "Real estate in Calonge and Torre Valentina | Villas and homes",
+          "seo_description": "Buy or sell property in Calonge, Sant Antoni and Torre Valentina with local insight, careful valuation and premium presentation.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Real estate in Calonge and Torre Valentina for houses, villas and second homes",
+          "intro": "Calonge and Torre Valentina combine coastline, residential areas, calm surroundings and access to services.",
+          "cta": "Value my property",
+          "sections": [
+            {
+              "title": "Different buyer profiles",
+              "paragraphs": [
+                "Calonge, Sant Antoni and Torre Valentina can attract families, international buyers, second-home profiles and investors.",
+                "The message should adapt to each case: villa with pool, family home, apartment near the sea or property with improvement potential."
+              ]
+            },
+            {
+              "title": "What makes a property easier to sell",
+              "paragraphs": [
+                "Orientation, views, pool condition, terraces, parking, privacy, running costs and documents influence buyer perception before a visit.",
+                "Preparing this information helps defend price and reduce doubts."
+              ]
+            },
+            {
+              "title": "Local and multilingual guidance",
+              "paragraphs": [
+                "Buyers compare trust as much as properties.",
+                "LacostaHaus helps prepare buying or selling with local insight and professional presentation."
+              ]
+            }
+          ]
+        },
+        "fr": {
+          "seo_title": "Agence immobilière à Calonge et Torre Valentina | Villas et maisons",
+          "seo_description": "Acheter ou vendre à Calonge, Sant Antoni et Torre Valentina avec connaissance locale, estimation soignée et présentation premium.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Agence immobilière à Calonge et Torre Valentina pour maisons, villas et résidence secondaire",
+          "intro": "Calonge et Torre Valentina combinent littoral, quartiers résidentiels, calme et accès aux services.",
+          "cta": "Estimer mon bien",
+          "sections": [
+            {
+              "title": "Des profils d'acheteurs variés",
+              "paragraphs": [
+                "Calonge, Sant Antoni et Torre Valentina peuvent attirer familles, acheteurs internationaux, profils de résidence secondaire et investisseurs.",
+                "Le message doit s'adapter à chaque cas : villa avec piscine, maison familiale, appartement près de la mer ou bien avec potentiel."
+              ]
+            },
+            {
+              "title": "Ce qui rend un bien plus vendable",
+              "paragraphs": [
+                "Orientation, vues, état de la piscine, terrasses, parking, confidentialité, charges et documents influencent la perception avant même la visite.",
+                "Préparer ces informations aide à mieux défendre le prix et à réduire les doutes."
+              ]
+            },
+            {
+              "title": "Accompagnement local et multilingue",
+              "paragraphs": [
+                "Les acheteurs comparent autant la confiance que les biens.",
+                "LacostaHaus aide à préparer l'achat ou la vente avec une lecture locale et une présentation professionnelle."
+              ]
+            }
+          ]
+        },
+        "de": {
+          "seo_title": "Immobilienmakler in Calonge und Torre Valentina | Villen und Häuser",
+          "seo_description": "Immobilien in Calonge, Sant Antoni und Torre Valentina kaufen oder verkaufen mit lokaler Einschätzung, Bewertung und Premium-Präsentation.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Immobilienmakler in Calonge und Torre Valentina für Häuser, Villen und Zweitwohnsitze",
+          "intro": "Calonge und Torre Valentina verbinden Küste, Wohnlagen, Ruhe und guten Zugang zu Dienstleistungen.",
+          "cta": "Immobilie bewerten",
+          "sections": [
+            {
+              "title": "Unterschiedliche Käuferprofile",
+              "paragraphs": [
+                "Calonge, Sant Antoni und Torre Valentina können Familien, internationale Käufer, Zweitwohnsitz-Suchende und Investoren anziehen.",
+                "Die Botschaft sollte zum Objekt passen: Villa mit Pool, Familienhaus, Wohnung am Meer oder Immobilie mit Potenzial."
+              ]
+            },
+            {
+              "title": "Was eine Immobilie verkaufsstärker macht",
+              "paragraphs": [
+                "Ausrichtung, Blick, Poolzustand, Terrassen, Parkplatz, Privatsphäre, Kosten und Unterlagen beeinflussen die Wahrnehmung vor der Besichtigung.",
+                "Gut vorbereitete Informationen helfen, den Preis zu verteidigen und Zweifel zu reduzieren."
+              ]
+            },
+            {
+              "title": "Lokale und mehrsprachige Begleitung",
+              "paragraphs": [
+                "Käufer vergleichen nicht nur Immobilien, sondern auch Vertrauen.",
+                "LacostaHaus unterstützt Kauf oder Verkauf mit lokaler Einordnung und professioneller Präsentation."
+              ]
+            }
+          ]
+        },
+        "ru": {
+          "seo_title": "Недвижимость в Calonge и Torre Valentina | Виллы и дома",
+          "seo_description": "Покупка и продажа недвижимости в Calonge, Sant Antoni и Torre Valentina с локальным подходом, оценкой и премиальной презентацией.",
+          "kicker": "Calonge · Torre Valentina",
+          "title": "Недвижимость в Calonge и Torre Valentina для домов, вилл и второго жилья",
+          "intro": "Calonge и Torre Valentina сочетают побережье, жилые районы, спокойствие и доступ к сервисам.",
+          "cta": "Оценить мой объект",
+          "sections": [
+            {
+              "title": "Разные профили покупателей",
+              "paragraphs": [
+                "Calonge, Sant Antoni и Torre Valentina могут интересовать семьи, международных покупателей, владельцев второго жилья и инвесторов.",
+                "Сообщение должно соответствовать объекту: вилла с бассейном, семейный дом, квартира рядом с морем или объект с потенциалом."
+              ]
+            },
+            {
+              "title": "Что делает объект более продаваемым",
+              "paragraphs": [
+                "Ориентация, виды, состояние бассейна, террасы, парковка, приватность, расходы и документы влияют на восприятие еще до визита.",
+                "Подготовленная информация помогает лучше защитить цену и снизить сомнения."
+              ]
+            },
+            {
+              "title": "Локальное и многоязычное сопровождение",
+              "paragraphs": [
+                "Покупатели сравнивают не только объекты, но и уровень доверия.",
+                "LacostaHaus помогает подготовить покупку или продажу с локальным пониманием и профессиональной презентацией."
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
