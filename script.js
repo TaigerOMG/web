@@ -2581,10 +2581,9 @@
       banner.hidden = true;
     }
 
-    loadGtm();
-
     if (saved === "accepted") {
       updateConsent(true);
+      loadGtm();
       banner.hidden = true;
     } else if (saved === "rejected") {
       updateConsent(false);
@@ -2596,6 +2595,7 @@
     if (accept) {
       accept.addEventListener("click", () => {
         updateConsent(true);
+        loadGtm();
         close("accepted");
       });
     }
