@@ -1596,7 +1596,7 @@
     return String(locationText || "")
       .split(/[·|,]/)
       .map((item) => item.trim().replace(/^Barrio\s+/i, "").replace(/\s+area$/i, ""))
-      .filter((item) => item.length > 1);
+      .filter((item) => item.length > 1 && !/^\d+$/.test(item));
   }
 
   function catalogCardMarkup(property, text) {
