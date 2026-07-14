@@ -83,6 +83,7 @@
 
   const propertyMapLabels = {
     es: "Abrir ubicacion en Google Maps",
+    ca: "Obrir ubicacio a Google Maps",
     en: "Open location in Google Maps",
     fr: "Ouvrir l'emplacement dans Google Maps",
     de: "Standort in Google Maps offnen",
@@ -91,6 +92,7 @@
 
   const videoLoadingLabels = {
     es: "Cargando video...",
+    ca: "Carregant video...",
     en: "Loading video...",
     fr: "Chargement de la video...",
     de: "Video wird geladen...",
@@ -99,6 +101,7 @@
 
   const propertyContactLabels = {
     es: "Contactar por este inmueble",
+    ca: "Contactar per aquest immoble",
     en: "Contact us about this property",
     fr: "Nous contacter pour ce bien",
     de: "Kontakt zu dieser Immobilie",
@@ -107,6 +110,7 @@
 
   const contactPropertyLabels = {
     es: "Consulta sobre",
+    ca: "Consulta sobre",
     en: "Enquiry about",
     fr: "Demande sur",
     de: "Anfrage zu",
@@ -115,6 +119,7 @@
 
   const propertyDetailsToggleLabels = {
     es: { more: "Ver más detalles", less: "Mostrar menos" },
+    ca: { more: "Veure mes detalls", less: "Mostrar menys" },
     en: { more: "View more details", less: "Show less" },
     fr: { more: "Voir plus de détails", less: "Afficher moins" },
     de: { more: "Mehr Details anzeigen", less: "Weniger anzeigen" },
@@ -123,6 +128,7 @@
 
   const currencyLabels = {
     es: "Cambio aproximado",
+    ca: "Canvi aproximat",
     en: "Approximate exchange",
     fr: "Change approximatif",
     de: "Ungefährer Wechselkurs",
@@ -144,6 +150,21 @@
       min: "Precio min.",
       max: "Precio max.",
       noResults: "No hay inmuebles que coincidan con la busqueda."
+    },
+    ca: {
+      price: "Preu",
+      search: "Cercar",
+      searchPlaceholder: "Nom o localitat",
+      location: "Localitat",
+      allLocations: "Totes les localitats",
+      sort: "Ordre",
+      recommended: "Ordre recomanat",
+      lowHigh: "Preu: de menys a mes",
+      highLow: "Preu: de mes a menys",
+      name: "Nom A-Z",
+      min: "Preu min.",
+      max: "Preu max.",
+      noResults: "No hi ha immobles que coincideixin amb la cerca."
     },
     en: {
       price: "Price",
@@ -216,6 +237,7 @@
 
   const footerUtilityLabels = {
     es: { articles: "Artículos", doubts: "Preguntas" },
+    ca: { articles: "Articles", doubts: "Preguntes" },
     en: { articles: "Articles", doubts: "Seller FAQ" },
     fr: { articles: "Articles", doubts: "Questions" },
     de: { articles: "Artikel", doubts: "Fragen" },
@@ -233,6 +255,18 @@
         { label: "Plazos de venta", route: "articulos/cuanto-tarda-vender-casa-lujo-costa-brava/" },
         { label: "Inmobiliaria o particular", route: "articulos/vender-con-inmobiliaria-o-particular/" },
         { label: "Preparar vivienda", route: "articulos/preparar-villa-antes-vender-costa-brava/" }
+      ]
+    },
+    ca: {
+      title: "Preguntes",
+      items: [
+        { label: "Vendre sense malvendre", route: "articulos/vender-casa-lujo-costa-brava/" },
+        { label: "Preu massa alt", route: "articulos/casa-sobrevalorada-antes-vender/" },
+        { label: "Mesos sense ofertes", route: "articulos/casa-meses-en-venta-sin-ofertas/" },
+        { label: "Documentacio", route: "articulos/documentacion-vender-casa-costa-brava/" },
+        { label: "Terminis de venda", route: "articulos/cuanto-tarda-vender-casa-lujo-costa-brava/" },
+        { label: "Immobiliaria o particular", route: "articulos/vender-con-inmobiliaria-o-particular/" },
+        { label: "Preparar l'habitatge", route: "articulos/preparar-villa-antes-vender-costa-brava/" }
       ]
     },
     en: {
@@ -514,6 +548,17 @@
         { title: "Decisiones mejor filtradas", paragraphs: ["Trabajamos con criterios claros para reducir ruido, priorizar oportunidades útiles y facilitar una decisión más segura."] }
       ]
     },
+    ca: {
+      kicker: "Servei boutique",
+      section_title: "Servei immobiliari amb criteri",
+      aside_title: "Inclou",
+      cta: "Sol·licitar informació",
+      benefits: ["Anàlisi personalitzada.", "Selecció d'oportunitats.", "Acompanyament proper.", "Comunicació clara.", "Seguiment del procés."],
+      sections: [
+        { title: "Enfocament personalitzat", paragraphs: ["Adaptem el servei a l'objectiu real del client, al tipus d'immoble i a la zona d'interès a la Costa Brava."] },
+        { title: "Decisions millor filtrades", paragraphs: ["Treballem amb criteris clars per reduir soroll, prioritzar oportunitats útils i facilitar una decisió més segura."] }
+      ]
+    },
     en: {
       kicker: "Boutique service",
       section_title: "Real estate guidance with clear criteria",
@@ -562,6 +607,7 @@
 
   const articleShareLabels = {
     es: { title: "Compartir guía", whatsapp: "WhatsApp", telegram: "Telegram", copy: "Copiar enlace", copied: "Enlace copiado", ctaTitle: "¿Quieres vender con más criterio?", ctaText: "Podemos revisar tu caso, detectar bloqueos y preparar una salida al mercado más cuidada.", ctaButton: "Solicitar valoración" },
+    ca: { title: "Compartir guia", whatsapp: "WhatsApp", telegram: "Telegram", copy: "Copiar enllaç", copied: "Enllaç copiat", ctaTitle: "Vols vendre amb més criteri?", ctaText: "Podem revisar el teu cas, detectar bloquejos i preparar una sortida al mercat més cuidada.", ctaButton: "Sol·licitar valoració" },
     en: { title: "Share guide", whatsapp: "WhatsApp", telegram: "Telegram", copy: "Copy link", copied: "Link copied", ctaTitle: "Want to sell with clearer criteria?", ctaText: "We can review your case, identify blockers and prepare a more careful market launch.", ctaButton: "Request valuation" },
     fr: { title: "Partager le guide", whatsapp: "WhatsApp", telegram: "Telegram", copy: "Copier le lien", copied: "Lien copié", ctaTitle: "Vous voulez vendre avec plus de méthode ?", ctaText: "Nous pouvons étudier votre cas, identifier les freins et préparer une mise sur le marché plus soignée.", ctaButton: "Demander une estimation" },
     de: { title: "Ratgeber teilen", whatsapp: "WhatsApp", telegram: "Telegram", copy: "Link kopieren", copied: "Link kopiert", ctaTitle: "Möchten Sie strukturierter verkaufen?", ctaText: "Wir können Ihren Fall prüfen, Hindernisse erkennen und einen sorgfältigeren Marktstart vorbereiten.", ctaButton: "Bewertung anfragen" },

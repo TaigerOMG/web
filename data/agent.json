@@ -1,100 +1,134 @@
 {
-  "translations": {
-    "es": {
-      "seo_title": "Sergiu Crudu | Agente inmobiliario LacostaHaus",
-      "seo_description": "Sergiu Crudu, representante de ventas para mercados internacionales en LacostaHaus.",
-      "kicker": "Agente inmobiliario",
-      "title": "Sergiu Crudu",
-      "role": "Representante de ventas para mercados internacionales",
-      "intro": "Acompañamiento cercano para compradores y propietarios nacionales e internacionales en la Costa Brava.",
-      "languages_title": "Idiomas",
-      "contact_title": "Contacto directo",
-      "whatsapp": "Enviar un WhatsApp",
-      "telegram": "Enviar un telegrama",
-      "sms": "Enviar un mensaje de texto",
-      "email": "Enviar email",
-      "phone": "+34 722 279 795",
-      "back": "Contacto Web"
-    },
-    "en": {
-      "seo_title": "Sergiu Crudu | LacostaHaus real estate agent",
-      "seo_description": "Sergiu Crudu, sales representative for international markets at LacostaHaus.",
-      "kicker": "Real estate agent",
-      "title": "Sergiu Crudu",
-      "role": "Sales representative for international markets",
-      "intro": "Personal guidance for national and international buyers and owners on the Costa Brava.",
-      "languages_title": "Languages",
-      "contact_title": "Direct contact",
-      "whatsapp": "Send a WhatsApp",
-      "telegram": "Send a Telegram",
-      "sms": "Send a text message",
-      "email": "Send email",
-      "phone": "+34 722 279 795",
-      "back": "Website contact"
-    },
-    "fr": {
-      "seo_title": "Sergiu Crudu | Agent immobilier LacostaHaus",
-      "seo_description": "Sergiu Crudu, représentant commercial pour les marchés internationaux chez LacostaHaus.",
-      "kicker": "Agent immobilier",
-      "title": "Sergiu Crudu",
-      "role": "Représentant commercial pour les marchés internationaux",
-      "intro": "Accompagnement personnalisé pour acheteurs et propriétaires nationaux et internationaux sur la Costa Brava.",
-      "languages_title": "Langues",
-      "contact_title": "Contact direct",
-      "whatsapp": "Envoyer un WhatsApp",
-      "telegram": "Envoyer un Telegram",
-      "sms": "Envoyer un SMS",
-      "email": "Envoyer un email",
-      "phone": "+34 722 279 795",
-      "back": "Contact web"
-    },
-    "de": {
-      "seo_title": "Sergiu Crudu | Immobilienmakler LacostaHaus",
-      "seo_description": "Sergiu Crudu, Vertriebsvertreter für internationale Märkte bei LacostaHaus.",
-      "kicker": "Immobilienmakler",
-      "title": "Sergiu Crudu",
-      "role": "Vertriebsvertreter für internationale Märkte",
-      "intro": "Persönliche Begleitung für nationale und internationale Käufer und Eigentümer an der Costa Brava.",
-      "languages_title": "Sprachen",
-      "contact_title": "Direkter Kontakt",
-      "whatsapp": "WhatsApp senden",
-      "telegram": "Telegram senden",
-      "sms": "SMS senden",
-      "email": "E-Mail senden",
-      "phone": "+34 722 279 795",
-      "back": "Web-Kontakt"
-    },
-    "ru": {
-      "seo_title": "Sergiu Crudu | Агент по недвижимости LacostaHaus",
-      "seo_description": "Sergiu Crudu, представитель по продажам для международных рынков в LacostaHaus.",
-      "kicker": "Агент по недвижимости",
-      "title": "Sergiu Crudu",
-      "role": "Представитель по продажам для международных рынков",
-      "intro": "Персональное сопровождение для покупателей и владельцев недвижимости на Коста-Брава.",
-      "languages_title": "Языки",
-      "contact_title": "Прямой контакт",
-      "whatsapp": "Отправить WhatsApp",
-      "telegram": "Отправить Telegram",
-      "sms": "Отправить SMS",
-      "email": "Отправить email",
-      "phone": "+34 722 279 795",
-      "back": "Контакт на сайте"
-    }
-  },
-  "languages": [
-    { "flag": "cat", "label": "Català" },
-    { "flag": "fr", "label": "Français" },
-    { "flag": "de", "label": "Deutsch" },
-    { "flag": "ro", "label": "Română" },
-    { "flag": "ru", "label": "Русский" },
-    { "flag": "es", "label": "Español" }
-  ],
-  "contact": {
-    "phone": "+34 722 279 795",
-    "phone_href": "tel:+34722279795",
-    "whatsapp": "https://api.whatsapp.com/send/?phone=34722279795&text&type=phone_number&app_absent=0",
-    "telegram": "https://t.me/+34722279795",
-    "sms": "sms:+34722279795",
-    "email": "mailto:lacostahaus@gmail.com"
-  }
+    "translations":  {
+                         "es":  {
+                                    "seo_title":  "Sergiu Crudu | Agente inmobiliario LacostaHaus",
+                                    "seo_description":  "Sergiu Crudu, representante de ventas para mercados internacionales en LacostaHaus.",
+                                    "kicker":  "Agente inmobiliario",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Representante de ventas para mercados internacionales",
+                                    "intro":  "Acompañamiento cercano para compradores y propietarios nacionales e internacionales en la Costa Brava.",
+                                    "languages_title":  "Idiomas",
+                                    "contact_title":  "Contacto directo",
+                                    "whatsapp":  "Enviar un WhatsApp",
+                                    "telegram":  "Enviar un telegrama",
+                                    "sms":  "Enviar un mensaje de texto",
+                                    "email":  "Enviar email",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Contacto Web"
+                                },
+                         "en":  {
+                                    "seo_title":  "Sergiu Crudu | LacostaHaus real estate agent",
+                                    "seo_description":  "Sergiu Crudu, sales representative for international markets at LacostaHaus.",
+                                    "kicker":  "Real estate agent",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Sales representative for international markets",
+                                    "intro":  "Personal guidance for national and international buyers and owners on the Costa Brava.",
+                                    "languages_title":  "Languages",
+                                    "contact_title":  "Direct contact",
+                                    "whatsapp":  "Send a WhatsApp",
+                                    "telegram":  "Send a Telegram",
+                                    "sms":  "Send a text message",
+                                    "email":  "Send email",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Website contact"
+                                },
+                         "fr":  {
+                                    "seo_title":  "Sergiu Crudu | Agent immobilier LacostaHaus",
+                                    "seo_description":  "Sergiu Crudu, représentant commercial pour les marchés internationaux chez LacostaHaus.",
+                                    "kicker":  "Agent immobilier",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Représentant commercial pour les marchés internationaux",
+                                    "intro":  "Accompagnement personnalisé pour acheteurs et propriétaires nationaux et internationaux sur la Costa Brava.",
+                                    "languages_title":  "Langues",
+                                    "contact_title":  "Contact direct",
+                                    "whatsapp":  "Envoyer un WhatsApp",
+                                    "telegram":  "Envoyer un Telegram",
+                                    "sms":  "Envoyer un SMS",
+                                    "email":  "Envoyer un email",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Contact web"
+                                },
+                         "de":  {
+                                    "seo_title":  "Sergiu Crudu | Immobilienmakler LacostaHaus",
+                                    "seo_description":  "Sergiu Crudu, Vertriebsvertreter für internationale Märkte bei LacostaHaus.",
+                                    "kicker":  "Immobilienmakler",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Vertriebsvertreter für internationale Märkte",
+                                    "intro":  "Persönliche Begleitung für nationale und internationale Käufer und Eigentümer an der Costa Brava.",
+                                    "languages_title":  "Sprachen",
+                                    "contact_title":  "Direkter Kontakt",
+                                    "whatsapp":  "WhatsApp senden",
+                                    "telegram":  "Telegram senden",
+                                    "sms":  "SMS senden",
+                                    "email":  "E-Mail senden",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Web-Kontakt"
+                                },
+                         "ru":  {
+                                    "seo_title":  "Sergiu Crudu | Агент по недвижимости LacostaHaus",
+                                    "seo_description":  "Sergiu Crudu, представитель по продажам для международных рынков в LacostaHaus.",
+                                    "kicker":  "Агент по недвижимости",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Представитель по продажам для международных рынков",
+                                    "intro":  "Персональное сопровождение для покупателей и владельцев недвижимости на Коста-Брава.",
+                                    "languages_title":  "Языки",
+                                    "contact_title":  "Прямой контакт",
+                                    "whatsapp":  "Отправить WhatsApp",
+                                    "telegram":  "Отправить Telegram",
+                                    "sms":  "Отправить SMS",
+                                    "email":  "Отправить email",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Контакт на сайте"
+                                },
+                         "ca":  {
+                                    "seo_title":  "Sergiu Crudu | Agent immobiliari LacostaHaus",
+                                    "seo_description":  "Sergiu Crudu, representant de vendes per a mercats internacionals a LacostaHaus.",
+                                    "kicker":  "Agent immobiliari",
+                                    "title":  "Sergiu Crudu",
+                                    "role":  "Representant de vendes per a mercats internacionals",
+                                    "intro":  "Acompanyament proper per a compradors i propietaris nacionals i internacionals a la Costa Brava.",
+                                    "languages_title":  "Idiomes",
+                                    "contact_title":  "Contacte directe",
+                                    "whatsapp":  "Enviar un WhatsApp",
+                                    "telegram":  "Enviar un Telegram",
+                                    "sms":  "Enviar un missatge de text",
+                                    "email":  "Enviar email",
+                                    "phone":  "+34 722 279 795",
+                                    "back":  "Contacte web"
+                                }
+                     },
+    "languages":  [
+                      {
+                          "flag":  "cat",
+                          "label":  "Català"
+                      },
+                      {
+                          "flag":  "fr",
+                          "label":  "Français"
+                      },
+                      {
+                          "flag":  "de",
+                          "label":  "Deutsch"
+                      },
+                      {
+                          "flag":  "ro",
+                          "label":  "Română"
+                      },
+                      {
+                          "flag":  "ru",
+                          "label":  "Русский"
+                      },
+                      {
+                          "flag":  "es",
+                          "label":  "Español"
+                      }
+                  ],
+    "contact":  {
+                    "phone":  "+34 722 279 795",
+                    "phone_href":  "tel:+34722279795",
+                    "whatsapp":  "https://api.whatsapp.com/send/?phone=34722279795\u0026text\u0026type=phone_number\u0026app_absent=0",
+                    "telegram":  "https://t.me/+34722279795",
+                    "sms":  "sms:+34722279795",
+                    "email":  "mailto:lacostahaus@gmail.com"
+                }
 }

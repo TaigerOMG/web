@@ -29,6 +29,12 @@
                                     "seo_description":  "Короткие гиды о покупке, продаже и оценке недвижимости на Коста-Браве.",
                                     "title":  "Гиды по недвижимости Costa Brava",
                                     "intro":  "Короткие статьи для органического продвижения, внутренних ссылок и будущих маркетинговых кампаний."
+                                },
+                         "ca":  {
+                                    "seo_title":  "Guies immobiliàries Costa Brava | LacostaHaus",
+                                    "seo_description":  "Guies breus sobre comprar, vendre i valorar immobles a la Costa Brava.",
+                                    "title":  "Guies immobiliàries Costa Brava",
+                                    "intro":  "Articles breus pensats per al posicionament orgànic, els enllaços interns i futures campanyes de mesurament."
                                 }
                      },
     "articles":  [
@@ -192,6 +198,38 @@
                                                                               "paragraphs":  [
                                                                                                  "Вилла с видом может быть идеальной для одного покупателя и неудобной для другого. Масия с проектом может иметь высокий потенциал, но требует другого финансового и документального анализа.",
                                                                                                  "Поэтому мы рекомендуем сравнивать объекты по простой матрице: расположение, состояние, приватность, расходы, потенциал и лёгкость будущей продажи."
+                                                                                             ]
+                                                                          }
+                                                                      ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Comprar casa a la Costa Brava: zones i criteris | LacostaHaus",
+                                                         "seo_description":  "Com comprar una casa, vila o masia a la Costa Brava amb millor criteri: zona, ús real, privacitat, costos i potencial futur.",
+                                                         "category":  "Compra",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Comprar casa a la Costa Brava: com triar zona sense perdre oportunitats",
+                                                         "excerpt":  "Una guia ràpida per a compradors que volen comparar zones sense perdre\u0027s entre anuncis semblants.",
+                                                         "read_more":  "Llegir guia",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "La zona defineix més que el preu",
+                                                                              "paragraphs":  [
+                                                                                                 "Comprar casa a la Costa Brava no consisteix només a comparar metres i preu. Dues vivendes amb xifres semblants poden oferir experiències molt diferents segons orientació, privacitat, accés al mar, soroll, pendent del terreny, manteniment i serveis propers.",
+                                                                                                 "Platja d\u0027Aro i S\u0027Agaró solen atraure compradors que busquen activitat, serveis i bona connexió. Begur i el Baix Empordà encaixen millor amb perfils que prioritzen caràcter, calma i propietats més singulars. La decisió correcta neix de creuar zona, ús i estil de vida."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què revisar abans de visitar",
+                                                                              "paragraphs":  [
+                                                                                                 "Abans d\u0027organitzar visites convé filtrar per objectiu: habitatge habitual, segona residència, inversió, projecte de reforma o immoble amb potencial turístic. Sense aquest filtre, el comprador sol perdre temps veient propietats boniques però poc adequades.",
+                                                                                                 "A LacostaHaus treballem aquest filtratge des del servei de \u003ca href=\"../../servicios/personal-shopper/?utm_source=blog\u0026utm_medium=organic\u0026utm_campaign=comprar_costa_brava\"\u003ePersonal Shopper Immobiliari\u003c/a\u003e: reduïm soroll, comparem zones amb criteri local i ajudem que cada visita tingui una raó concreta."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "La millor compra és la que encaixa amb el teu ús",
+                                                                              "paragraphs":  [
+                                                                                                 "Una vila amb vistes pot ser perfecta per a un comprador i poc pràctica per a un altre. Una masia amb projecte pot tenir molt potencial, però exigeix una altra lectura financera, documental i de temps. El millor immoble no sempre és el més espectacular, sinó el que encaixa amb l\u0027ús previst.",
+                                                                                                 "Per això recomanem comparar cada oportunitat amb una matriu senzilla: ubicació, estat, privacitat, costos, potencial, facilitat de manteniment i sortida futura al mercat. Aquesta lectura evita decisions impulsives i millora la negociació."
                                                                                              ]
                                                                           }
                                                                       ]
@@ -361,6 +399,38 @@
                                                                                              ]
                                                                           }
                                                                       ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Taxació d\u0027habitatge a la Costa Brava: preu, demanda i estratègia | LacostaHaus",
+                                                         "seo_description":  "Per què una valoració útil ha de mirar competència, demanda, presentació i marge de negociació.",
+                                                         "category":  "Taxació",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Taxació d\u0027habitatge a la Costa Brava: preu, demanda i estratègia",
+                                                         "excerpt":  "Per què una valoració útil ha de mirar competència, demanda, presentació i marge de negociació.",
+                                                         "read_more":  "Llegir taxació",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "El preu no es decideix aïlladament",
+                                                                              "paragraphs":  [
+                                                                                                 "En una propietat premium, el preu no depèn només dels metres o d\u0027una comparativa ràpida de portals. Influeixen la ubicació, l\u0027estat, la privacitat, la demanda real, la documentació, el tipus de comprador i la manera com es presenta l\u0027immoble.",
+                                                                                                 "Una taxació útil ha de connectar dades i estratègia. El preu ha de poder defensar-se davant del comprador i sostenir una negociació amb arguments clars."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què aporta una valoració estratègica",
+                                                                              "paragraphs":  [
+                                                                                                 "Una valoració estratègica ajuda a saber si convé publicar de seguida, preparar millor la propietat, ajustar relat comercial o revisar fotografies i documentació abans de sortir al mercat.",
+                                                                                                 "També permet detectar objeccions previsibles: preu massa alt, informació incompleta, manca de plànols, costos poc clars o dubtes sobre ús i manteniment."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Dades que convé preparar",
+                                                                              "paragraphs":  [
+                                                                                                 "Abans de valorar, convé reunir superfície, estat legal, documentació energètica, plànols, informació d\u0027IBI o comunitat, reformes fetes, possibilitats d\u0027ús i qualsevol element que diferenciï l\u0027immoble.",
+                                                                                                 "Com millor està preparada la informació, més precisa és la lectura de valor i més fàcil és construir una sortida al mercat coherent."
+                                                                                             ]
+                                                                          }
+                                                                      ]
                                                      }
                                           }
                      },
@@ -524,6 +594,38 @@
                                                                               "paragraphs":  [
                                                                                                  "Серьезная международная стратегия должна отслеживать порталы, органический поиск, социальные ссылки, рекомендации и внутренние статьи.",
                                                                                                  "Это помогает улучшать кампанию, а не повторять одно объявление без понимания результата."
+                                                                                             ]
+                                                                          }
+                                                                      ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Vendre un immoble a la Costa Brava a compradors internacionals | LacostaHaus",
+                                                         "seo_description":  "Com preparar una propietat per a compradors estrangers que busquen claredat, confiança i bona documentació.",
+                                                         "category":  "Venda internacional",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Vendre un immoble a la Costa Brava a compradors internacionals",
+                                                         "excerpt":  "Com preparar una propietat per a compradors estrangers que busquen claredat, confiança i bona documentació.",
+                                                         "read_more":  "Llegir guia",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "El comprador internacional necessita claredat",
+                                                                              "paragraphs":  [
+                                                                                                 "Un comprador de fora necessita entendre ràpidament què compra, on és, quines despeses pot esperar, quin estat té la documentació i quin ús real permet la propietat.",
+                                                                                                 "Una fitxa incompleta crea dubtes; una presentació clara genera contactes més qualificats. En mercats internacionals, la confiança comença abans de la visita."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Idiomes, seguiment i confiança",
+                                                                              "paragraphs":  [
+                                                                                                 "Traduir només el títol no és suficient. Cal explicar la propietat amb un llenguatge comprensible, respondre ràpid i mantenir coherència entre fitxa, correus, visites i documentació.",
+                                                                                                 "L\u0027atenció multilingüe redueix friccions i permet qualificar millor el comprador abans d\u0027invertir temps en visites o negociacions."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Canals i contactes mesurables",
+                                                                              "paragraphs":  [
+                                                                                                 "La venda internacional funciona millor quan es pot veure d\u0027on arriben els contactes, quin tipus de consulta fan i quines objeccions es repeteixen.",
+                                                                                                 "Mesurar canals no és només màrqueting: ajuda a ajustar preu, relat, fotografies i informació disponible abans que l\u0027anunci perdi força."
                                                                                              ]
                                                                           }
                                                                       ]
@@ -704,6 +806,45 @@
                                                                                              ]
                                                                           }
                                                                       ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Com vendre una casa de luxe sense malvendre-la a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Guia per a propietaris de viles, masies i pisos premium que volen vendre amb estratègia, millor presentació i compradors qualificats.",
+                                                         "category":  "Guia venedor",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Com vendre una casa de luxe sense malvendre-la a la Costa Brava",
+                                                         "excerpt":  "Una guia per a propietaris de viles, masies i pisos premium que volen vendre amb estratègia, millor presentació i compradors realment qualificats.",
+                                                         "read_more":  "Llegir guia",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Malvendre no sempre vol dir vendre barat",
+                                                                              "paragraphs":  [
+                                                                                                 "Molts propietaris associen malvendre amb acceptar una oferta massa baixa. En immobles premium, el risc sol començar abans: sortir al mercat amb un preu poc defensable, una presentació feble o un relat comercial que no explica per què la propietat mereix atenció.",
+                                                                                                 "Vendre bé exigeix preparar la percepció de valor abans de negociar. Si el comprador no entén el potencial, la ubicació o la singularitat, pressionarà el preu des del primer contacte."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Per què una propietat premium es crema als portals",
+                                                                              "paragraphs":  [
+                                                                                                 "El comprador premium compara ràpid. Si no entén la ubicació, la privacitat, l\u0027estat, l\u0027ús possible o la documentació disponible, no pregunta o pregunta només per negociar a la baixa.",
+                                                                                                 "Una fitxa incompleta atrau curiositat; una fitxa clara atrau contactes més qualificats. La diferència es nota en la qualitat de les converses."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "La presentació ven confiança abans de la visita",
+                                                                              "paragraphs":  [
+                                                                                                 "Abans de visitar, el comprador ja pren decisions. Les fotografies, l\u0027ordre de la informació, els plànols, l\u0027explicació de la zona i la claredat documental influeixen directament en la qualitat del contacte.",
+                                                                                                 "Una bona imatge no és decoració: redueix dubtes i prepara millor la negociació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Quan compensa deixar-ho en mans d\u0027una immobiliària",
+                                                                              "paragraphs":  [
+                                                                                                 "Una immobiliària especialitzada aporta lectura local, filtre de compradors, seguiment multilingüe i una sortida al mercat més ordenada. No es tracta només de publicar, sinó de protegir valor.",
+                                                                                                 "A LacostaHaus treballem especialment amb propietaris que volen vendre viles, masies, projectes i pisos premium a la Costa Brava amb una presentació més cuidada."
+                                                                                             ]
+                                                                          }
+                                                                      ]
                                                      }
                                           }
                      },
@@ -878,6 +1019,45 @@
                                                                               "paragraphs":  [
                                                                                                  "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
                                                                                                  "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+                                                                                             ]
+                                                                          }
+                                                                      ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Com saber si casa meva està sobrevalorada abans de vendre-la | LacostaHaus",
+                                                         "seo_description":  "Senyals pràctics per detectar si el preu pot frenar la venda d\u0027un habitatge premium abans d\u0027exposar-lo al mercat.",
+                                                         "category":  "Preu",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Com saber si casa meva està sobrevalorada abans de vendre-la",
+                                                         "excerpt":  "Senyals pràctics per detectar si el preu pot frenar la venda d\u0027un habitatge premium abans d\u0027exposar-la al mercat.",
+                                                         "read_more":  "Llegir senyals",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "El primer error sol aparèixer abans de publicar",
+                                                                              "paragraphs":  [
+                                                                                                 "Una casa pot estar sobrevalorada abans de rebre cap visita si el preu s\u0027ha fixat només per expectativa, comparacions superficials o necessitat personal, i no per una lectura real de demanda.",
+                                                                                                 "En immobles premium, aquest desajust pot desgastar la percepció des del primer moment."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Senyals que el preu pot estar frenant la venda",
+                                                                              "paragraphs":  [
+                                                                                                 "Pocs contactes qualificats, moltes visites sense oferta, preguntes repetides sobre el mateix punt o comparacions desfavorables amb immobles similars poden indicar que el mercat no valida el preu.",
+                                                                                                 "També convé revisar el temps al mercat. Si passen setmanes o mesos sense contactes bons, repetir el mateix anunci amb el mateix preu rara vegada millora el resultat."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Comparar anuncis no és valorar una propietat",
+                                                                              "paragraphs":  [
+                                                                                                 "Els portals mostren preus de sortida, no necessàriament preus de tancament. Dos immobles semblants poden tenir diferències importants en estat, privacitat, ubicació, documentació o potencial.",
+                                                                                                 "Una valoració seriosa ha de mirar competència, demanda, relat comercial i marge de negociació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què fer abans de baixar el preu",
+                                                                              "paragraphs":  [
+                                                                                                 "Abans de reduir, convé revisar presentació, fotografies, ordre de la fitxa, arguments de valor i canals. De vegades el problema no és només el preu, sinó com s\u0027explica l\u0027immoble.",
+                                                                                                 "En habitatges de valor alt, millorar presentació i claredat pot canviar la qualitat dels contactes sense trencar el posicionament."
                                                                                              ]
                                                                           }
                                                                       ]
@@ -1058,6 +1238,45 @@
                                                                                              ]
                                                                           }
                                                                       ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "La meva casa porta mesos en venda i no rep ofertes serioses | LacostaHaus",
+                                                         "seo_description":  "Què revisar quan una propietat premium porta temps publicada i no arriben compradors qualificats.",
+                                                         "category":  "Estratègia",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "La meva casa porta mesos en venda i no rebo ofertes serioses: què revisar",
+                                                         "excerpt":  "Una guia per a propietaris que tenen un habitatge premium publicat des de fa temps i volen entendre per què no arriben compradors qualificats.",
+                                                         "read_more":  "Llegir revisió",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "No sempre falta comprador: a vegades falta estratègia",
+                                                                              "paragraphs":  [
+                                                                                                 "Una vila, una masia o un pis singular a la Costa Brava pot tenir demanda real i tot i així no rebre bons contactes si el comprador no entén ràpidament quin valor té, quin ús permet i per què el preu té sentit.",
+                                                                                                 "Quan passen mesos sense ofertes serioses, cal revisar el conjunt: preu, presentació, canal, documentació i perfil de comprador."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Senyals que l\u0027anunci s\u0027està desgastant",
+                                                                              "paragraphs":  [
+                                                                                                 "Si l\u0027anunci rep visites digitals però poques consultes, si els contactes només pregunten per rebaixa o si les visites no avancen, pot existir un problema de posicionament.",
+                                                                                                 "El mercat recorda els immobles que porten temps publicats. Sense canvis clars, tornar a aparèixer igual sol tenir menys força."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què revisar abans de tocar el preu",
+                                                                              "paragraphs":  [
+                                                                                                 "Abans d\u0027abaixar, revisa fotografies, ordre del dossier, plànols, explicació de la zona, punts forts, objeccions previsibles i canals on apareix l\u0027immoble.",
+                                                                                                 "A vegades una millora de relat i informació crea més confiança que una baixada prematura."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Com rellançar un habitatge premium sense perdre força",
+                                                                              "paragraphs":  [
+                                                                                                 "Rellançar no hauria de consistir a canviar dues fotos i republicar. En una propietat premium, significa ordenar el missatge, preparar documentació, definir comprador objectiu i decidir quina informació es mostra abans i després del primer contacte.",
+                                                                                                 "Un rellançament ben fet pot recuperar interès sense transmetre urgència o desgast."
+                                                                                             ]
+                                                                          }
+                                                                      ]
                                                      }
                                           }
                      },
@@ -1221,6 +1440,38 @@
                                                                               "paragraphs":  [
                                                                                                  "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
                                                                                                  "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+                                                                                             ]
+                                                                          }
+                                                                      ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Quina documentació necessito per vendre una casa a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Documents que ajuden a preparar una venda premium amb menys fricció i més confiança.",
+                                                         "category":  "Documentació",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Quina documentació necessito per vendre una casa a la Costa Brava",
+                                                         "excerpt":  "Un repàs pràctic als documents que ajuden a preparar una venda premium amb menys fricció i més confiança.",
+                                                         "read_more":  "Llegir documentació",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "La documentació també ven",
+                                                                              "paragraphs":  [
+                                                                                                 "En una venda premium, la documentació no és només un tràmit final. Ajuda a generar confiança, reduir dubtes i evitar bloquejos quan apareix un comprador seriós.",
+                                                                                                 "Com més clara està la informació, més fàcil és sostenir el valor i avançar en la negociació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què convé tenir preparat",
+                                                                              "paragraphs":  [
+                                                                                                 "Convé revisar nota simple, escriptura, IBI, cèdula o documentació d\u0027habitabilitat quan correspongui, certificat energètic, plànols, informació urbanística, despeses comunitàries i justificants de reformes importants.",
+                                                                                                 "També és útil preparar informació sobre superfícies, orientació, serveis, accessos, manteniment i possibles usos."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Per què ajuda a vendre millor",
+                                                                              "paragraphs":  [
+                                                                                                 "Un comprador amb informació clara pot decidir abans i negociar amb menys incertesa. La falta de documents, en canvi, sol generar pauses, dubtes i pressió sobre el preu.",
+                                                                                                 "A LacostaHaus utilitzem aquesta revisió com a part de la preparació comercial abans de sortir al mercat."
                                                                                              ]
                                                                           }
                                                                       ]
@@ -1390,6 +1641,38 @@
                                                                                              ]
                                                                           }
                                                                       ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Quant es tarda a vendre una casa de luxe a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Temps mitjà de venda d\u0027un habitatge premium a la Costa Brava i factors que influeixen: preu, demanda, presentació i estratègia.",
+                                                         "category":  "Temps de venda",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Quant es tarda a vendre una casa de luxe a la Costa Brava",
+                                                         "excerpt":  "Un repàs pràctic al temps de venda, els factors que l\u0027acceleren i quan convé revisar l\u0027estratègia.",
+                                                         "read_more":  "Llegir temps",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "El temps de venda no depèn només del mercat",
+                                                                              "paragraphs":  [
+                                                                                                 "El mercat influeix, però no explica tot. En immobles premium, el temps de venda depèn del preu, la presentació, la ubicació, la demanda real, la documentació i la qualitat dels contactes.",
+                                                                                                 "Una propietat ben posicionada pot generar converses serioses abans, encara que el comprador final trigui a decidir."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Factors que acceleren o frenen",
+                                                                              "paragraphs":  [
+                                                                                                 "Un preu defensable, bona fotografia, dossier clar, documentació preparada i canals adequats solen accelerar contactes qualificats.",
+                                                                                                 "En canvi, una presentació feble o un preu sense suport pot allargar mesos la venda sense que el propietari rebi senyals clares."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Quan revisar l\u0027estratègia",
+                                                                              "paragraphs":  [
+                                                                                                 "Si després de diverses setmanes no arriben consultes adequades, convé revisar l\u0027anunci abans que perdi força.",
+                                                                                                 "Aquesta revisió ha d\u0027incloure preu, relat, canals, fotos, informació disponible i objeccions que apareixen en els contactes."
+                                                                                             ]
+                                                                          }
+                                                                      ]
                                                      }
                                           }
                      },
@@ -1556,6 +1839,38 @@
                                                                                              ]
                                                                           }
                                                                       ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Vendre amb immobiliària o pel teu compte: què convé en una propietat premium | LacostaHaus",
+                                                         "seo_description":  "Comparativa per decidir si vendre un habitatge premium amb immobiliària o pel teu compte: riscos, temps, contactes i negociació.",
+                                                         "category":  "Venedor",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Vendre amb immobiliària o pel teu compte: què convé en un habitatge premium",
+                                                         "excerpt":  "Un repàs clar de riscos, temps, filtratge de compradors i negociació abans de decidir com vendre.",
+                                                         "read_more":  "Llegir comparativa",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "La pregunta no és només la comissió",
+                                                                              "paragraphs":  [
+                                                                                                 "Vendre pel teu compte pot semblar més econòmic, però en immobles premium el cost real pot aparèixer en temps, contactes poc qualificats, negociacions febles o exposició excessiva de la propietat.",
+                                                                                                 "La decisió ha de comparar estalvi aparent amb capacitat de defensar valor, filtrar compradors i gestionar documentació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què aporta una immobiliària especialitzada",
+                                                                              "paragraphs":  [
+                                                                                                 "Una immobiliària especialitzada aporta lectura local, preparació comercial, selecció de canals, resposta multilingüe i filtratge de consultes.",
+                                                                                                 "També ajuda a ordenar visites, gestionar objeccions i mantenir una narrativa coherent durant la negociació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Quan vendre sol pot sortir car",
+                                                                              "paragraphs":  [
+                                                                                                 "Pot sortir car quan el preu queda mal posicionat, quan s\u0027accepten visites sense filtre o quan la propietat es publica amb informació insuficient.",
+                                                                                                 "En una venda premium, perdre força al mercat pot pesar més que una comissió ben justificada."
+                                                                                             ]
+                                                                          }
+                                                                      ]
                                                      }
                                           }
                      },
@@ -1719,6 +2034,38 @@
                                                                               "paragraphs":  [
                                                                                                  "Специализированное агентство дает местное понимание, фильтр покупателей, многоязычное сопровождение и более последовательный старт. Речь не только о публикации, а о защите ценности и поиске качественного спроса.",
                                                                                                  "LacostaHaus использует такой подход для владельцев, которые хотят аккуратно продавать на Коста-Брава."
+                                                                                             ]
+                                                                          }
+                                                                      ]
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Preparar una vila abans de vendre a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Com preparar una vila premium abans de la venda: imatge, documentació, relat comercial i detalls que milloren la percepció.",
+                                                         "category":  "Guia venedor",
+                                                         "date":  "Actualitzat 2026",
+                                                         "title":  "Com preparar una vila abans de posar-la a la venda a la Costa Brava",
+                                                         "excerpt":  "Petites decisions abans de publicar poden canviar la percepció, la qualitat dels contactes i la negociació.",
+                                                         "read_more":  "Llegir preparació",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Preparar no vol dir reformar-ho tot",
+                                                                              "paragraphs":  [
+                                                                                                 "Preparar una vila per vendre no sempre exigeix grans obres. Sovint consisteix a ordenar espais, corregir petits detalls, millorar llum, neteja visual i coherència entre fotos, text i informació.",
+                                                                                                 "L\u0027objectiu és que el comprador entengui el valor sense distraccions innecessàries."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què revisar abans de la sessió de fotos",
+                                                                              "paragraphs":  [
+                                                                                                 "Cal revisar façana, jardí, piscina, terrasses, accessos, ordre interior, elements personals, persianes, il·luminació i punts que puguin generar dubtes.",
+                                                                                                 "També convé decidir quins espais expliquen millor l\u0027ús de la propietat: vida familiar, segona residència, inversió o projecte de millora."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Preparació comercial i documental",
+                                                                              "paragraphs":  [
+                                                                                                 "A més de la imatge, cal preparar superfícies, plànols, documentació bàsica, despeses, reformes realitzades i arguments de zona.",
+                                                                                                 "A LacostaHaus aquesta preparació forma part d\u0027una sortida al mercat més cuidada, pensada per atreure contactes qualificats i protegir el valor."
                                                                                              ]
                                                                           }
                                                                       ]

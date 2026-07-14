@@ -1,139 +1,259 @@
 {
-  "services": [
-    {
-      "id": "personal-shopper",
-      "translations": {
-        "es": {
-          "seo_title": "Personal Shopper Inmobiliario en Costa Brava | LacostaHaus",
-          "seo_description": "Servicio de búsqueda de inmuebles premium en Costa Brava para compradores nacionales e internacionales.",
-          "kicker": "Servicio boutique",
-          "title": "Personal Shopper Inmobiliario",
-          "intro": "Seleccionamos inmuebles en Costa Brava según tu estilo de vida, presupuesto, ubicación deseada y objetivo real de compra.",
-          "section_title": "Búsqueda inmobiliaria con criterio",
-          "sections": [
-            {
-              "title": "Qué hacemos por ti",
-              "paragraphs": [
-                "Analizamos tu perfil comprador, tus tiempos y la finalidad de la inversión para evitar visitas improductivas y centrar la búsqueda en propiedades con sentido.",
-                "Filtramos casas, villas, masías, apartamentos premium y oportunidades fuera de catálogo cuando encajan con tus requisitos de zona, estado, privacidad y potencial."
-              ]
-            },
-            {
-              "title": "Para quién está pensado",
-              "paragraphs": [
-                "Este servicio encaja con compradores que no viven en la Costa Brava, inversores que necesitan una visión local y familias que buscan una segunda residencia sin perder semanas revisando anuncios repetidos.",
-                "También es útil cuando el comprador necesita comparar Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols o el Baix Empordà con una lectura inmobiliaria más clara."
-              ]
-            },
-            {
-              "title": "Cómo trabajamos",
-              "paragraphs": [
-                "Creamos una propuesta ordenada con inmuebles preseleccionados, argumentos de compra, posibles riesgos, documentación a revisar y una agenda de visitas eficiente.",
-                "El objetivo es que cada visita tenga una razón concreta y que la decisión final esté apoyada por información útil, no solo por una buena imagen."
-              ]
-            }
-          ],
-          "aside_title": "Incluye",
-          "benefits": [
-            "Definición del perfil comprador.",
-            "Búsqueda y filtrado de inmuebles.",
-            "Comparativa de zonas y precios.",
-            "Organización de visitas.",
-            "Acompañamiento hasta la negociación."
-          ],
-          "cta": "Solicitar búsqueda personalizada"
-        }
-      }
-    },
-    {
-      "id": "tasacion-estrategica",
-      "translations": {
-        "es": {
-          "seo_title": "Tasación Inmobiliaria Estratégica en Costa Brava | LacostaHaus",
-          "seo_description": "Valoración de propiedades en Costa Brava orientada a precio, posicionamiento y estrategia comercial.",
-          "kicker": "Valoración estratégica",
-          "title": "Tasación estratégica de inmuebles",
-          "intro": "Valoramos tu propiedad con una lectura comercial: precio, demanda, presentación, competencia y margen real de negociación.",
-          "section_title": "Más que poner un precio",
-          "sections": [
-            {
-              "title": "Una tasación para vender mejor",
-              "paragraphs": [
-                "Una vivienda premium no se vende solo por metros cuadrados. La ubicación, la orientación, el estado, la privacidad, el potencial de reforma y el tipo de comprador influyen en el valor percibido.",
-                "Por eso trabajamos la valoración como una herramienta de posicionamiento, no como una cifra aislada."
-              ]
-            },
-            {
-              "title": "Qué analizamos",
-              "paragraphs": [
-                "Revisamos comparables, demanda activa, presentación visual, puntos fuertes, objeciones probables y forma de salida al mercado.",
-                "El resultado ayuda a decidir si conviene vender de inmediato, preparar mejor el inmueble, ajustar el relato comercial o trabajar primero documentación e imagen."
-              ]
-            },
-            {
-              "title": "Para propietarios",
-              "paragraphs": [
-                "Es especialmente útil para propietarios de casas, villas, masías o apartamentos en Platja d'Aro, S'Agaró, Begur, Sant Feliu de Guíxols y Costa Brava que quieren evitar salir al mercado con un precio mal enfocado.",
-                "Una estrategia clara desde el inicio reduce desgaste, mejora la percepción del inmueble y facilita conversaciones de venta más serias."
-              ]
-            }
-          ],
-          "aside_title": "Incluye",
-          "benefits": [
-            "Análisis de precio y competencia.",
-            "Revisión de fortalezas y objeciones.",
-            "Recomendación de posicionamiento.",
-            "Orientación de presentación visual.",
-            "Plan inicial de salida al mercado."
-          ],
-          "cta": "Solicitar tasación estratégica"
-        }
-      }
-    },
-    {
-      "id": "venta-internacional",
-      "translations": {
-        "es": {
-          "seo_title": "Venta Internacional de Inmuebles en Costa Brava | LacostaHaus",
-          "seo_description": "Comercialización internacional de propiedades premium en Costa Brava con atención multilingüe.",
-          "kicker": "Alcance internacional",
-          "title": "Venta internacional de propiedades",
-          "intro": "Preparamos y comunicamos tu inmueble para compradores nacionales e internacionales que buscan claridad, confianza y una presentación profesional.",
-          "section_title": "Vender mejor a compradores de fuera",
-          "sections": [
-            {
-              "title": "Presentación adaptada al comprador internacional",
-              "paragraphs": [
-                "Un comprador extranjero necesita entender rápido la propiedad, la zona, la documentación, los costes aproximados y el potencial del inmueble.",
-                "Trabajamos textos, fotografías, ficha, argumentos y seguimiento para que la propiedad se perciba con profesionalidad desde el primer contacto."
-              ]
-            },
-            {
-              "title": "Comunicación multilingüe",
-              "paragraphs": [
-                "La atención en varios idiomas reduce fricción y permite explicar mejor viviendas premium, proyectos hoteleros, masías, villas y propiedades singulares.",
-                "También ayuda a cualificar mejor al interesado antes de invertir tiempo en visitas o documentación."
-              ]
-            },
-            {
-              "title": "Estrategia de canales",
-              "paragraphs": [
-                "Combinamos presencia digital, material comercial claro y seguimiento de consultas para entender qué canal atrae compradores más cualificados.",
-                "El objetivo no es tener más ruido, sino mejores conversaciones y oportunidades de venta más reales."
-              ]
-            }
-          ],
-          "aside_title": "Incluye",
-          "benefits": [
-            "Ficha comercial profesional.",
-            "Textos orientados a comprador internacional.",
-            "Atención multilingüe.",
-            "Cualificación de contactos.",
-            "Seguimiento de canales y consultas."
-          ],
-          "cta": "Preparar venta internacional"
-        }
-      }
-    }
-  ]
+    "services":  [
+                     {
+                         "id":  "personal-shopper",
+                         "translations":  {
+                                              "es":  {
+                                                         "seo_title":  "Personal Shopper Inmobiliario en Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Servicio de búsqueda de inmuebles premium en Costa Brava para compradores nacionales e internacionales.",
+                                                         "kicker":  "Servicio boutique",
+                                                         "title":  "Personal Shopper Inmobiliario",
+                                                         "intro":  "Seleccionamos inmuebles en Costa Brava según tu estilo de vida, presupuesto, ubicación deseada y objetivo real de compra.",
+                                                         "section_title":  "Búsqueda inmobiliaria con criterio",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Qué hacemos por ti",
+                                                                              "paragraphs":  [
+                                                                                                 "Analizamos tu perfil comprador, tus tiempos y la finalidad de la inversión para evitar visitas improductivas y centrar la búsqueda en propiedades con sentido.",
+                                                                                                 "Filtramos casas, villas, masías, apartamentos premium y oportunidades fuera de catálogo cuando encajan con tus requisitos de zona, estado, privacidad y potencial."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Para quién está pensado",
+                                                                              "paragraphs":  [
+                                                                                                 "Este servicio encaja con compradores que no viven en la Costa Brava, inversores que necesitan una visión local y familias que buscan una segunda residencia sin perder semanas revisando anuncios repetidos.",
+                                                                                                 "También es útil cuando el comprador necesita comparar Platja d\u0027Aro, S\u0027Agaró, Begur, Sant Feliu de Guíxols o el Baix Empordà con una lectura inmobiliaria más clara."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Cómo trabajamos",
+                                                                              "paragraphs":  [
+                                                                                                 "Creamos una propuesta ordenada con inmuebles preseleccionados, argumentos de compra, posibles riesgos, documentación a revisar y una agenda de visitas eficiente.",
+                                                                                                 "El objetivo es que cada visita tenga una razón concreta y que la decisión final esté apoyada por información útil, no solo por una buena imagen."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Incluye",
+                                                         "benefits":  [
+                                                                          "Definición del perfil comprador.",
+                                                                          "Búsqueda y filtrado de inmuebles.",
+                                                                          "Comparativa de zonas y precios.",
+                                                                          "Organización de visitas.",
+                                                                          "Acompañamiento hasta la negociación."
+                                                                      ],
+                                                         "cta":  "Solicitar búsqueda personalizada"
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Personal Shopper Immobiliari a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Servei de recerca d\u0027immobles premium a la Costa Brava per a compradors nacionals i internacionals.",
+                                                         "kicker":  "Servei boutique",
+                                                         "title":  "Personal Shopper Immobiliari",
+                                                         "intro":  "Seleccionem immobles a la Costa Brava segons el teu estil de vida, pressupost, ubicació desitjada i objectiu real de compra.",
+                                                         "section_title":  "Recerca immobiliària amb criteri",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Què fem per tu",
+                                                                              "paragraphs":  [
+                                                                                                 "Analitzem el teu perfil comprador, els teus temps i la finalitat de la inversió per evitar visites improductives i centrar la recerca en propietats amb sentit.",
+                                                                                                 "Filtrem cases, viles, masies, apartaments premium i oportunitats fora de catàleg quan encaixen amb els teus requisits de zona, estat, privacitat i potencial."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Per a qui està pensat",
+                                                                              "paragraphs":  [
+                                                                                                 "Aquest servei encaixa amb compradors que no viuen a la Costa Brava, inversors que necessiten una visió local i famílies que busquen una segona residència sense perdre setmanes revisant anuncis repetits.",
+                                                                                                 "També és útil quan el comprador necessita comparar Platja d\u0027Aro, S\u0027Agaró, Begur, Sant Feliu de Guíxols o el Baix Empordà amb una lectura immobiliària més clara."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Com treballem",
+                                                                              "paragraphs":  [
+                                                                                                 "Creem una proposta ordenada amb immobles preseleccionats, arguments de compra, possibles riscos, documentació a revisar i una agenda de visites eficient.",
+                                                                                                 "L\u0027objectiu és que cada visita tingui una raó concreta i que la decisió final estigui recolzada per informació útil, no només per una bona imatge."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Inclou",
+                                                         "benefits":  [
+                                                                          "Definició del perfil comprador.",
+                                                                          "Recerca i filtratge d\u0027immobles.",
+                                                                          "Comparativa de zones i preus.",
+                                                                          "Organització de visites.",
+                                                                          "Acompanyament fins a la negociació."
+                                                                      ],
+                                                         "cta":  "Sol·licitar recerca personalitzada"
+                                                     }
+                                          }
+                     },
+                     {
+                         "id":  "tasacion-estrategica",
+                         "translations":  {
+                                              "es":  {
+                                                         "seo_title":  "Tasación Inmobiliaria Estratégica en Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Valoración de propiedades en Costa Brava orientada a precio, posicionamiento y estrategia comercial.",
+                                                         "kicker":  "Valoración estratégica",
+                                                         "title":  "Tasación estratégica de inmuebles",
+                                                         "intro":  "Valoramos tu propiedad con una lectura comercial: precio, demanda, presentación, competencia y margen real de negociación.",
+                                                         "section_title":  "Más que poner un precio",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Una tasación para vender mejor",
+                                                                              "paragraphs":  [
+                                                                                                 "Una vivienda premium no se vende solo por metros cuadrados. La ubicación, la orientación, el estado, la privacidad, el potencial de reforma y el tipo de comprador influyen en el valor percibido.",
+                                                                                                 "Por eso trabajamos la valoración como una herramienta de posicionamiento, no como una cifra aislada."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Qué analizamos",
+                                                                              "paragraphs":  [
+                                                                                                 "Revisamos comparables, demanda activa, presentación visual, puntos fuertes, objeciones probables y forma de salida al mercado.",
+                                                                                                 "El resultado ayuda a decidir si conviene vender de inmediato, preparar mejor el inmueble, ajustar el relato comercial o trabajar primero documentación e imagen."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Para propietarios",
+                                                                              "paragraphs":  [
+                                                                                                 "Es especialmente útil para propietarios de casas, villas, masías o apartamentos en Platja d\u0027Aro, S\u0027Agaró, Begur, Sant Feliu de Guíxols y Costa Brava que quieren evitar salir al mercado con un precio mal enfocado.",
+                                                                                                 "Una estrategia clara desde el inicio reduce desgaste, mejora la percepción del inmueble y facilita conversaciones de venta más serias."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Incluye",
+                                                         "benefits":  [
+                                                                          "Análisis de precio y competencia.",
+                                                                          "Revisión de fortalezas y objeciones.",
+                                                                          "Recomendación de posicionamiento.",
+                                                                          "Orientación de presentación visual.",
+                                                                          "Plan inicial de salida al mercado."
+                                                                      ],
+                                                         "cta":  "Solicitar tasación estratégica"
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Taxació Immobiliària Estratègica a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Valoració de propietats a la Costa Brava orientada a preu, posicionament i estratègia comercial.",
+                                                         "kicker":  "Valoració estratègica",
+                                                         "title":  "Taxació estratègica d\u0027immobles",
+                                                         "intro":  "Valorem la teva propietat amb una lectura comercial: preu, demanda, presentació, competència i marge real de negociació.",
+                                                         "section_title":  "Més que posar un preu",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Una taxació per vendre millor",
+                                                                              "paragraphs":  [
+                                                                                                 "Un habitatge premium no es ven només per metres quadrats. La ubicació, l\u0027orientació, l\u0027estat, la privacitat, el potencial de reforma i el tipus de comprador influeixen en el valor percebut.",
+                                                                                                 "Per això treballem la valoració com una eina de posicionament, no com una xifra aïllada."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Què analitzem",
+                                                                              "paragraphs":  [
+                                                                                                 "Revisem comparables, demanda activa, presentació visual, punts forts, objeccions probables i forma de sortida al mercat.",
+                                                                                                 "El resultat ajuda a decidir si convé vendre de seguida, preparar millor l\u0027immoble, ajustar el relat comercial o treballar primer documentació i imatge."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Per a propietaris",
+                                                                              "paragraphs":  [
+                                                                                                 "És especialment útil per a propietaris de cases, viles, masies o apartaments a Platja d\u0027Aro, S\u0027Agaró, Begur, Sant Feliu de Guíxols i Costa Brava que volen evitar sortir al mercat amb un preu mal enfocat.",
+                                                                                                 "Una estratègia clara des de l\u0027inici redueix desgast, millora la percepció de l\u0027immoble i facilita converses de venda més serioses."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Inclou",
+                                                         "benefits":  [
+                                                                          "Anàlisi de preu i competència.",
+                                                                          "Revisió de fortaleses i objeccions.",
+                                                                          "Recomanació de posicionament.",
+                                                                          "Orientació de presentació visual.",
+                                                                          "Pla inicial de sortida al mercat."
+                                                                      ],
+                                                         "cta":  "Sol·licitar taxació estratègica"
+                                                     }
+                                          }
+                     },
+                     {
+                         "id":  "venta-internacional",
+                         "translations":  {
+                                              "es":  {
+                                                         "seo_title":  "Venta Internacional de Inmuebles en Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Comercialización internacional de propiedades premium en Costa Brava con atención multilingüe.",
+                                                         "kicker":  "Alcance internacional",
+                                                         "title":  "Venta internacional de propiedades",
+                                                         "intro":  "Preparamos y comunicamos tu inmueble para compradores nacionales e internacionales que buscan claridad, confianza y una presentación profesional.",
+                                                         "section_title":  "Vender mejor a compradores de fuera",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Presentación adaptada al comprador internacional",
+                                                                              "paragraphs":  [
+                                                                                                 "Un comprador extranjero necesita entender rápido la propiedad, la zona, la documentación, los costes aproximados y el potencial del inmueble.",
+                                                                                                 "Trabajamos textos, fotografías, ficha, argumentos y seguimiento para que la propiedad se perciba con profesionalidad desde el primer contacto."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Comunicación multilingüe",
+                                                                              "paragraphs":  [
+                                                                                                 "La atención en varios idiomas reduce fricción y permite explicar mejor viviendas premium, proyectos hoteleros, masías, villas y propiedades singulares.",
+                                                                                                 "También ayuda a cualificar mejor al interesado antes de invertir tiempo en visitas o documentación."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Estrategia de canales",
+                                                                              "paragraphs":  [
+                                                                                                 "Combinamos presencia digital, material comercial claro y seguimiento de consultas para entender qué canal atrae compradores más cualificados.",
+                                                                                                 "El objetivo no es tener más ruido, sino mejores conversaciones y oportunidades de venta más reales."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Incluye",
+                                                         "benefits":  [
+                                                                          "Ficha comercial profesional.",
+                                                                          "Textos orientados a comprador internacional.",
+                                                                          "Atención multilingüe.",
+                                                                          "Cualificación de contactos.",
+                                                                          "Seguimiento de canales y consultas."
+                                                                      ],
+                                                         "cta":  "Preparar venta internacional"
+                                                     },
+                                              "ca":  {
+                                                         "seo_title":  "Venda Internacional d\u0027Immobles a la Costa Brava | LacostaHaus",
+                                                         "seo_description":  "Comercialització internacional de propietats premium a la Costa Brava amb atenció multilingüe.",
+                                                         "kicker":  "Abast internacional",
+                                                         "title":  "Venda internacional de propietats",
+                                                         "intro":  "Preparem i comuniquem el teu immoble per a compradors nacionals i internacionals que busquen claredat, confiança i una presentació professional.",
+                                                         "section_title":  "Vendre millor a compradors de fora",
+                                                         "sections":  [
+                                                                          {
+                                                                              "title":  "Presentació adaptada al comprador internacional",
+                                                                              "paragraphs":  [
+                                                                                                 "Un comprador estranger necessita entendre ràpidament la propietat, la zona, la documentació, els costos aproximats i el potencial de l\u0027immoble.",
+                                                                                                 "Treballem textos, fotografies, fitxa, arguments i seguiment perquè la propietat es percebi amb professionalitat des del primer contacte."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Comunicació multilingüe",
+                                                                              "paragraphs":  [
+                                                                                                 "L\u0027atenció en diversos idiomes redueix fricció i permet explicar millor habitatges premium, projectes hotelers, masies, viles i propietats singulars.",
+                                                                                                 "També ajuda a qualificar millor la persona interessada abans d\u0027invertir temps en visites o documentació."
+                                                                                             ]
+                                                                          },
+                                                                          {
+                                                                              "title":  "Estratègia de canals",
+                                                                              "paragraphs":  [
+                                                                                                 "Combinem presència digital, material comercial clar i seguiment de consultes per entendre quin canal atrau compradors més qualificats.",
+                                                                                                 "L\u0027objectiu no és tenir més soroll, sinó millors converses i oportunitats de venda més reals."
+                                                                                             ]
+                                                                          }
+                                                                      ],
+                                                         "aside_title":  "Inclou",
+                                                         "benefits":  [
+                                                                          "Fitxa comercial professional.",
+                                                                          "Textos orientats al comprador internacional.",
+                                                                          "Atenció multilingüe.",
+                                                                          "Qualificació de contactes.",
+                                                                          "Seguiment de canals i consultes."
+                                                                      ],
+                                                         "cta":  "Preparar venda internacional"
+                                                     }
+                                          }
+                     }
+                 ]
 }
