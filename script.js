@@ -131,6 +131,7 @@
 
   const catalogFilterLabels = {
     es: {
+      price: "Precio",
       search: "Buscar",
       searchPlaceholder: "Nombre o localidad",
       location: "Localidad",
@@ -140,11 +141,12 @@
       lowHigh: "Precio: de menos a mas",
       highLow: "Precio: de mas a menos",
       name: "Nombre A-Z",
-      min: "Precio minimo",
-      max: "Precio maximo",
+      min: "Precio min.",
+      max: "Precio max.",
       noResults: "No hay inmuebles que coincidan con la busqueda."
     },
     en: {
+      price: "Price",
       search: "Search",
       searchPlaceholder: "Name or location",
       location: "Location",
@@ -154,11 +156,12 @@
       lowHigh: "Price: low to high",
       highLow: "Price: high to low",
       name: "Name A-Z",
-      min: "Minimum price",
-      max: "Maximum price",
+      min: "Min. price",
+      max: "Max. price",
       noResults: "No properties match the search."
     },
     fr: {
+      price: "Prix",
       search: "Rechercher",
       searchPlaceholder: "Nom ou localite",
       location: "Localite",
@@ -168,11 +171,12 @@
       lowHigh: "Prix: du plus bas au plus haut",
       highLow: "Prix: du plus haut au plus bas",
       name: "Nom A-Z",
-      min: "Prix minimum",
-      max: "Prix maximum",
+      min: "Prix min.",
+      max: "Prix max.",
       noResults: "Aucun bien ne correspond a la recherche."
     },
     de: {
+      price: "Preis",
       search: "Suchen",
       searchPlaceholder: "Name oder Ort",
       location: "Ort",
@@ -182,11 +186,12 @@
       lowHigh: "Preis: niedrig bis hoch",
       highLow: "Preis: hoch bis niedrig",
       name: "Name A-Z",
-      min: "Mindestpreis",
-      max: "Hochstpreis",
+      min: "Preis min.",
+      max: "Preis max.",
       noResults: "Keine Immobilien entsprechen der Suche."
     },
     ru: {
+      price: "\u0426\u0435\u043d\u0430",
       search: "\u041f\u043e\u0438\u0441\u043a",
       searchPlaceholder: "\u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0438\u043b\u0438 \u043c\u0435\u0441\u0442\u043e",
       location: "\u041c\u0435\u0441\u0442\u043e",
@@ -196,8 +201,8 @@
       lowHigh: "\u0426\u0435\u043d\u0430: \u043e\u0442 \u043d\u0438\u0437\u043a\u043e\u0439 \u043a \u0432\u044b\u0441\u043e\u043a\u043e\u0439",
       highLow: "\u0426\u0435\u043d\u0430: \u043e\u0442 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 \u043a \u043d\u0438\u0437\u043a\u043e\u0439",
       name: "\u0418\u043c\u044f A-Z",
-      min: "\u041c\u0438\u043d. \u0446\u0435\u043d\u0430",
-      max: "\u041c\u0430\u043a\u0441. \u0446\u0435\u043d\u0430",
+      min: "\u0426\u0435\u043d\u0430 \u043c\u0438\u043d.",
+      max: "\u0426\u0435\u043d\u0430 \u043c\u0430\u043a\u0441.",
       noResults: "\u041d\u0435\u0442 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u043f\u043e \u044d\u0442\u043e\u043c\u0443 \u043f\u043e\u0438\u0441\u043a\u0443."
     }
   };
@@ -210,7 +215,7 @@
   };
 
   const footerUtilityLabels = {
-    es: { articles: "Artículos", doubts: "Dudas" },
+    es: { articles: "Artículos", doubts: "Preguntas" },
     en: { articles: "Articles", doubts: "Seller FAQ" },
     fr: { articles: "Articles", doubts: "Questions" },
     de: { articles: "Artikel", doubts: "Fragen" },
@@ -219,7 +224,7 @@
 
   const doubtsNavLabels = {
     es: {
-      title: "Dudas",
+      title: "Preguntas",
       items: [
         { label: "Vender sin malvender", route: "articulos/vender-casa-lujo-costa-brava/" },
         { label: "Precio alto", route: "articulos/casa-sobrevalorada-antes-vender/" },
@@ -1187,6 +1192,16 @@
     }
   }
 
+  function formatInteger(value) {
+    try {
+      return new Intl.NumberFormat("es-ES", {
+        maximumFractionDigits: 0
+      }).format(Number(value) || 0);
+    } catch {
+      return String(Math.round(Number(value) || 0));
+    }
+  }
+
   async function hydrateCurrencyMenu(priceElement, euroValue) {
     const menu = priceElement.querySelector("[data-currency-menu]");
     if (!menu || !euroValue) return;
@@ -1296,8 +1311,14 @@
   function renderFeaturedCoverflow() {
     const track = document.querySelector("[data-featured-coverflow]");
     if (!track) return;
-    const featuredProperties = orderedProperties(propertiesData.homeFeatured);
+    const featuredProperties = orderedProperties(propertiesData.homeFeatured)
+      .sort((a, b) => {
+        const priceA = euroAmountFromText(propertyTranslation(a).price || "");
+        const priceB = euroAmountFromText(propertyTranslation(b).price || "");
+        return priceB - priceA;
+      });
     track.classList.toggle("is-single-card", featuredProperties.length === 1);
+    track.classList.toggle("is-two-cards", featuredProperties.length === 2);
     if (!featuredProperties.length) {
       track.innerHTML = "";
       return;
@@ -1306,6 +1327,8 @@
       const text = propertyTranslation(property);
       const price = text.price || "";
       const cta = text.cta || currentText.featured.all || "Ver inmueble";
+      const coverflowTitle = shortenCoverflowTitle(text.title || "");
+      const coverflowExcerpt = shortenCoverflowExcerpt(text.excerpt || "");
       const externalBrandingClass = propertyHasExternalBranding(property) ? " coverflow-card--other-agency" : "";
       return `
         <a href="${propertyUrl(property)}" class="coverflow-card${externalBrandingClass}">
@@ -1317,14 +1340,34 @@
               <span class="coverflow-info__tag">${text.tag || ""}</span>
               ${price ? `<strong class="coverflow-info__price">${price}</strong>` : ""}
             </div>
-            <h3>${text.title || ""}</h3>
+            <h3>${coverflowTitle}</h3>
             <p class="coverflow-info__location">${text.location || ""}</p>
-            <p class="coverflow-info__excerpt">${text.excerpt || ""}</p>
+            <p class="coverflow-info__excerpt">${coverflowExcerpt}</p>
             <span class="coverflow-info__cta">${cta}</span>
           </div>
         </a>
       `;
     }).join("");
+  }
+
+  function shortenCoverflowTitle(title) {
+    const clean = String(title || "").replace(/\s+/g, " ").trim();
+    const limit = 82;
+    if (clean.length <= limit) return clean;
+    const slice = clean.slice(0, limit + 1);
+    const lastSpace = slice.lastIndexOf(" ");
+    const trimmed = slice.slice(0, lastSpace > 52 ? lastSpace : limit).trim();
+    return trimmed.replace(/[.,;:!?-]+$/, "") + "...";
+  }
+
+  function shortenCoverflowExcerpt(excerpt) {
+    const clean = String(excerpt || "").replace(/\s+/g, " ").trim();
+    const limit = 118;
+    if (clean.length <= limit) return clean;
+    const slice = clean.slice(0, limit + 1);
+    const lastSpace = slice.lastIndexOf(" ");
+    const trimmed = slice.slice(0, lastSpace > 72 ? lastSpace : limit).trim();
+    return trimmed.replace(/[.,;:!?-]+$/, "") + "...";
   }
 
   function renderProcess() {
@@ -1443,6 +1486,8 @@
     const labels = catalogFilterText();
     const priceValues = enrichedProperties.map((item) => item.price).filter((value) => value !== null);
     const hasPrices = priceValues.length > 0;
+    const showPriceFilter = priceValues.length > 1 && Math.min(...priceValues) < Math.max(...priceValues);
+    container.classList.toggle("catalog-filters--compact", !showPriceFilter);
     const minPrice = hasPrices ? Math.floor(Math.min(...priceValues)) : "";
     const maxPrice = hasPrices ? Math.ceil(Math.max(...priceValues)) : "";
     const locations = Array.from(new Set(enrichedProperties.flatMap((item) => item.locations))).sort((a, b) => a.localeCompare(b, currentLanguage));
@@ -1468,6 +1513,7 @@
           <option value="name">${labels.name}</option>
         </select>
       </div>
+      ${showPriceFilter ? `
       <div class="catalog-filter-field catalog-filter-field--price-range${hasPrices ? "" : " is-disabled"}">
         <div class="catalog-price-range__labels">
           <span>${labels.min}</span>
@@ -1476,20 +1522,22 @@
         <div class="catalog-price-range" data-catalog-price-range>
           <div class="catalog-price-range__line"></div>
           <div class="catalog-price-range__active" data-catalog-price-active></div>
-          <input id="catalogMinPrice" type="range" data-catalog-min min="${minPrice}" max="${maxPrice}" value="${minPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
-          <input id="catalogMaxPrice" type="range" data-catalog-max min="${minPrice}" max="${maxPrice}" value="${maxPrice}" step="1000" ${hasPrices ? "" : "disabled"}>
+          <input id="catalogMinPrice" class="catalog-price-range__input catalog-price-range__input--min" type="range" data-catalog-min min="${minPrice}" max="${maxPrice}" value="${minPrice}" step="1000" aria-label="${escapeAttribute(labels.min)}" ${hasPrices ? "" : "disabled"}>
+          <input id="catalogMaxPrice" class="catalog-price-range__input catalog-price-range__input--max" type="range" data-catalog-max min="${minPrice}" max="${maxPrice}" value="${maxPrice}" step="1000" aria-label="${escapeAttribute(labels.max)}" ${hasPrices ? "" : "disabled"}>
         </div>
         <div class="catalog-price-range__values">
-          <div class="catalog-price-range__value">
-            <small>Min.</small>
-            <strong data-catalog-min-label>${hasPrices ? formatCurrencyValue(minPrice, "€") : "--"}</strong>
-          </div>
-          <div class="catalog-price-range__value">
-            <small>Max.</small>
-            <strong data-catalog-max-label>${hasPrices ? formatCurrencyValue(maxPrice, "€") : "--"}</strong>
-          </div>
+          <label class="catalog-price-range__field">
+            <input type="text" inputmode="numeric" autocomplete="off" data-catalog-min-field value="${hasPrices ? formatInteger(minPrice) : ""}" placeholder="0" ${hasPrices ? "" : "disabled"}>
+            <span aria-hidden="true">\u20AC</span>
+          </label>
+          <div class="catalog-price-range__separator" aria-hidden="true">-</div>
+          <label class="catalog-price-range__field">
+            <input type="text" inputmode="numeric" autocomplete="off" data-catalog-max-field value="${hasPrices ? formatInteger(maxPrice) : ""}" placeholder="0" ${hasPrices ? "" : "disabled"}>
+            <span aria-hidden="true">\u20AC</span>
+          </label>
         </div>
       </div>
+      ` : ""}
     `;
 
     return {
@@ -1499,8 +1547,9 @@
       min: container.querySelector("[data-catalog-min]"),
       max: container.querySelector("[data-catalog-max]"),
       active: container.querySelector("[data-catalog-price-active]"),
-      minLabel: container.querySelector("[data-catalog-min-label]"),
-      maxLabel: container.querySelector("[data-catalog-max-label]")
+      range: container.querySelector("[data-catalog-price-range]"),
+      minField: container.querySelector("[data-catalog-min-field]"),
+      maxField: container.querySelector("[data-catalog-max-field]")
     };
   }
 
@@ -1530,28 +1579,68 @@
     });
 
     const controls = renderCatalogFilters(filters, enriched);
+    const minLimit = Number.parseFloat(controls?.min?.min || "0");
+    const maxLimit = Number.parseFloat(controls?.max?.max || "0");
+    const minGap = Math.max(1, Number.parseFloat(controls?.min?.step || "1000"));
+    const parsePriceField = (value, fallback) => {
+      const digits = String(value || "").replace(/[^\d]/g, "");
+      const parsed = Number.parseInt(digits, 10);
+      return Number.isFinite(parsed) ? parsed : fallback;
+    };
+    const clampPriceValue = (value) => Math.min(Math.max(value, minLimit), maxLimit);
+    const syncPriceFromUrl = () => {
+      if (!controls?.min || !controls?.max || !Number.isFinite(minLimit) || !Number.isFinite(maxLimit) || minLimit >= maxLimit) return;
+      const params = new URLSearchParams(window.location.search);
+      const urlMin = clampPriceValue(parsePriceField(params.get("price_from"), minLimit));
+      const urlMax = clampPriceValue(parsePriceField(params.get("price_to"), maxLimit));
+      controls.min.value = String(Math.min(urlMin, urlMax));
+      controls.max.value = String(Math.max(urlMin, urlMax));
+    };
+    const syncPriceFields = (minCurrent, maxCurrent) => {
+      if (controls?.minField && document.activeElement !== controls.minField) controls.minField.value = formatInteger(minCurrent);
+      if (controls?.maxField && document.activeElement !== controls.maxField) controls.maxField.value = formatInteger(maxCurrent);
+    };
     const updatePriceRangeUi = () => {
-      if (!controls?.min || !controls?.max || !controls?.active || !controls?.minLabel || !controls?.maxLabel) return;
-      const minLimit = Number.parseFloat(controls.min.min || "0");
-      const maxLimit = Number.parseFloat(controls.max.max || "0");
-      let minCurrent = Number.parseFloat(controls.min.value || String(minLimit));
-      let maxCurrent = Number.parseFloat(controls.max.value || String(maxLimit));
+      if (!controls?.min || !controls?.max || !controls?.active || !controls?.range) return;
+      let minCurrent = clampPriceValue(Number.parseFloat(controls.min.value || String(minLimit)));
+      let maxCurrent = clampPriceValue(Number.parseFloat(controls.max.value || String(maxLimit)));
       if (!Number.isFinite(minCurrent)) minCurrent = minLimit;
       if (!Number.isFinite(maxCurrent)) maxCurrent = maxLimit;
-      if (minCurrent > maxCurrent) {
-        if (document.activeElement === controls.min) maxCurrent = minCurrent;
-        else minCurrent = maxCurrent;
+      if ((maxCurrent - minCurrent) < minGap) {
+        if (document.activeElement === controls.min) minCurrent = maxCurrent - minGap;
+        else maxCurrent = minCurrent + minGap;
       }
+      minCurrent = clampPriceValue(minCurrent);
+      maxCurrent = clampPriceValue(maxCurrent);
+      if (minCurrent > maxCurrent) [minCurrent, maxCurrent] = [maxCurrent, minCurrent];
       controls.min.value = String(minCurrent);
       controls.max.value = String(maxCurrent);
+      controls.min.setAttribute("aria-valuenow", String(minCurrent));
+      controls.max.setAttribute("aria-valuenow", String(maxCurrent));
 
       const total = Math.max(1, maxLimit - minLimit);
       const start = ((minCurrent - minLimit) / total) * 100;
       const end = ((maxCurrent - minLimit) / total) * 100;
-      controls.active.style.left = `${start}%`;
-      controls.active.style.width = `${Math.max(0, end - start)}%`;
-      controls.minLabel.textContent = formatCurrencyValue(minCurrent, "€");
-      controls.maxLabel.textContent = formatCurrencyValue(maxCurrent, "€");
+      controls.range.style.setProperty("--catalog-min-pos", `${start}%`);
+      controls.range.style.setProperty("--catalog-max-pos", `${end}%`);
+      controls.active.style.left = `calc(18px + (${start} / 100) * (100% - 36px))`;
+      controls.active.style.width = `calc((${Math.max(0, end - start)} / 100) * (100% - 36px))`;
+      syncPriceFields(minCurrent, maxCurrent);
+    };
+
+    const updateCatalogUrl = (minCurrent, maxCurrent) => {
+      if (!controls?.min || !controls?.max) return;
+      const params = new URLSearchParams(window.location.search);
+      if (minCurrent <= minLimit && maxCurrent >= maxLimit) {
+        params.delete("price_from");
+        params.delete("price_to");
+      } else {
+        params.set("price_from", String(minCurrent));
+        params.set("price_to", String(maxCurrent));
+      }
+      const query = params.toString();
+      const target = `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash || ""}`;
+      history.replaceState({}, "", target);
     };
 
     const applyFilters = () => {
@@ -1563,6 +1652,7 @@
       const min = Number.isFinite(minValue) ? minValue : -Infinity;
       const max = Number.isFinite(maxValue) ? maxValue : Infinity;
       updatePriceRangeUi();
+      updateCatalogUrl(Number.parseFloat(controls?.min?.value || String(minLimit)), Number.parseFloat(controls?.max?.value || String(maxLimit)));
 
       let results = enriched.filter((item) => {
         const matchesQuery = !query || item.haystack.includes(query);
@@ -1587,10 +1677,35 @@
         : `<p class="catalog-empty">${labels.noResults}</p>`;
     };
 
-    Object.values(controls || {}).forEach((control) => {
-      if (control) control.addEventListener("input", applyFilters);
-      if (control) control.addEventListener("change", applyFilters);
+    syncPriceFromUrl();
+    controls?.minField?.addEventListener("input", () => {
+      if (!controls?.min) return;
+      controls.min.value = String(clampPriceValue(parsePriceField(controls.minField.value, minLimit)));
+      updatePriceRangeUi();
+      applyFilters();
     });
+    controls?.maxField?.addEventListener("input", () => {
+      if (!controls?.max) return;
+      controls.max.value = String(clampPriceValue(parsePriceField(controls.maxField.value, maxLimit)));
+      updatePriceRangeUi();
+      applyFilters();
+    });
+    if (controls?.search) controls.search.addEventListener("input", applyFilters);
+    if (controls?.location) controls.location.addEventListener("change", applyFilters);
+    if (controls?.sort) controls.sort.addEventListener("change", applyFilters);
+    if (controls?.min) {
+      controls.min.draggable = false;
+      controls.min.addEventListener("dragstart", (event) => event.preventDefault());
+      controls.min.addEventListener("input", applyFilters);
+      controls.min.addEventListener("change", applyFilters);
+    }
+    if (controls?.max) {
+      controls.max.draggable = false;
+      controls.max.addEventListener("dragstart", (event) => event.preventDefault());
+      controls.max.addEventListener("input", applyFilters);
+      controls.max.addEventListener("change", applyFilters);
+    }
+    window.addEventListener("resize", updatePriceRangeUi);
     updatePriceRangeUi();
     applyFilters();
   }
@@ -1602,6 +1717,7 @@
     const nextBtn = document.getElementById("coverflowNext");
     if (!track || !cards.length || !prevBtn || !nextBtn) return;
     track.classList.toggle("is-single-card", cards.length === 1);
+    track.classList.toggle("is-two-cards", cards.length === 2);
 
     const isMobileCoverflow = () => window.matchMedia("(max-width: 850px)").matches;
     const stateClasses = ["is-active", "is-prev", "is-next", "is-prev-2", "is-next-2", "is-single"];
@@ -1619,10 +1735,24 @@
       return;
     }
 
-    if (isMobileCoverflow()) {
+    if (cards.length === 2) {
       clearCoverflowState();
+      cards[0].classList.add("is-active");
+      cards[1].classList.add("is-next");
+      prevBtn.hidden = true;
+      nextBtn.hidden = true;
       return;
     }
+
+    if (isMobileCoverflow()) {
+      clearCoverflowState();
+      prevBtn.hidden = true;
+      nextBtn.hidden = true;
+      return;
+    }
+
+    prevBtn.hidden = false;
+    nextBtn.hidden = false;
 
     let current = 0;
     function updateCoverflow() {
@@ -1639,8 +1769,10 @@
       }
       cards[(current - 1 + total) % total].classList.add("is-prev");
       cards[(current + 1) % total].classList.add("is-next");
-      cards[(current - 2 + total) % total].classList.add("is-prev-2");
-      cards[(current + 2) % total].classList.add("is-next-2");
+      if (total > 3) {
+        cards[(current - 2 + total) % total].classList.add("is-prev-2");
+        cards[(current + 2) % total].classList.add("is-next-2");
+      }
     }
 
     prevBtn.addEventListener("click", () => {
