@@ -4,7 +4,7 @@
   const SCROLL_RESTORE_KEY = "lacostahaus_restore_scroll";
   const scriptUrl = document.currentScript ? document.currentScript.src : window.location.href;
   const baseUrl = new URL(".", scriptUrl);
-  const DATA_VERSION = "20260706-main-image-lightbox";
+  const DATA_VERSION = "20260714-ideas-pool";
   const page = document.body.dataset.page || "home";
 
   function repairTextValue(value) {
@@ -318,6 +318,17 @@
       ]
     }
   };
+
+  const ideasNavLabels = {
+    es: "Ideas",
+    ca: "Idees",
+    en: "Ideas",
+    fr: "Idees",
+    de: "Ideen",
+    ru: "Ideas"
+  };
+
+  const ideaPoolStateKey = "lacostahaus_idea_pool_state";
 
   const serviceClassById = {
     "personal-shopper": "service-card-home--personal-shopper",
@@ -839,7 +850,7 @@
       const property = propertyById(currentPropertyId());
       return propertyUrl(property, lang);
     }
-    if (page === "service" || page === "article" || page === "articles" || page === "local-landing") {
+    if (page === "service" || page === "article" || page === "articles" || page === "local-landing" || page === "ideas") {
       return urlForPath(currentPathRoute(), lang);
     }
     if (page === "contact") {
@@ -892,7 +903,7 @@
 
     const route = page === "property"
       ? ((propertyById(currentPropertyId()) || {}).route || site.routes.properties)
-      : (page === "service" || page === "article" || page === "articles" || page === "local-landing" ? currentPathRoute() : site.routes[routeForCurrentPage()]);
+      : (page === "service" || page === "article" || page === "articles" || page === "local-landing" || page === "ideas" ? currentPathRoute() : site.routes[routeForCurrentPage()]);
     const canonical = productionUrlForPath(route, currentLanguage);
     ensureLink("canonical", null, canonical);
     (site.languages || []).forEach((language) => {
@@ -1095,6 +1106,20 @@
         ${labels.items.map((entry) => `<li><a href="${urlForPath(entry.route)}">${entry.label}</a></li>`).join("")}
       </ul>
     `;
+
+    if (contactItem) navList.insertBefore(item, contactItem);
+    else navList.appendChild(item);
+  }
+
+  function renderIdeasMenu() {
+    const navList = document.querySelector(".site-nav > ul");
+    if (!navList) return;
+    navList.querySelector("[data-ideas-menu-item]")?.remove();
+
+    const contactItem = navList.querySelector('[data-route="contact"]')?.closest("li");
+    const item = document.createElement("li");
+    item.dataset.ideasMenuItem = "";
+    item.innerHTML = `<a href="${urlForPath("ideas/")}">${ideasNavLabels[currentLanguage] || ideasNavLabels.es}</a>`;
 
     if (contactItem) navList.insertBefore(item, contactItem);
     else navList.appendChild(item);
@@ -2639,6 +2664,107 @@
     }
   }
 
+  function ideaText(value) {
+    if (!value || typeof value !== "object") return String(value || "");
+    return value[currentLanguage] || value.es || Object.values(value)[0] || "";
+  }
+
+  function loadIdeaPoolState() {
+    try {
+      return JSON.parse(localStorage.getItem(ideaPoolStateKey) || "{}");
+    } catch (error) {
+      return {};
+    }
+  }
+
+  function saveIdeaPoolState(state) {
+    localStorage.setItem(ideaPoolStateKey, JSON.stringify(state));
+  }
+
+  function ideaPoolCardMarkup(idea, index, labels, state) {
+    const itemState = state[idea.id] || {};
+    const baseHeat = Number(idea.heat || 40);
+    const likes = Math.max(0, baseHeat + Number(itemState.likes || 0) - Number(itemState.dislikes || 0));
+    const glow = Math.min(1, Math.max(.32, likes / 100));
+    const direction = index % 2 ? "reverse" : "normal";
+    const duration = 24 + (index % 4) * 4;
+    const delay = -1 * (index * 2.6);
+
+    return `
+      <article class="idea-card" data-idea-card="${escapeAttribute(idea.id)}" style="--idea-glow:${glow}; --idea-duration:${duration}s; --idea-delay:${delay}s; --idea-direction:${direction};">
+        <span class="idea-card__category">${escapeAttribute(ideaText(idea.category))}</span>
+        <h2>${escapeAttribute(ideaText(idea.title))}</h2>
+        <p>${escapeAttribute(ideaText(idea.summary))}</p>
+        <div class="idea-card__actions">
+          <button type="button" data-idea-action="like" data-idea-id="${escapeAttribute(idea.id)}" aria-label="${escapeAttribute(labels.heart)}">♡ <span>${escapeAttribute(labels.heart)}</span></button>
+          <button type="button" data-idea-action="dislike" data-idea-id="${escapeAttribute(idea.id)}" aria-label="${escapeAttribute(labels.dislike)}">− <span>${escapeAttribute(labels.dislike)}</span></button>
+          <strong data-idea-count="${escapeAttribute(idea.id)}">${likes} ${escapeAttribute(labels.votes)}</strong>
+        </div>
+        <label class="idea-card__comment">
+          <span>${escapeAttribute(labels.comment)}</span>
+          <textarea data-idea-comment="${escapeAttribute(idea.id)}" rows="2" placeholder="${escapeAttribute(labels.comment_placeholder)}">${escapeAttribute(itemState.comment || "")}</textarea>
+        </label>
+        <button class="idea-card__save" type="button" data-idea-action="comment" data-idea-id="${escapeAttribute(idea.id)}">${escapeAttribute(labels.save_comment)}</button>
+      </article>
+    `;
+  }
+
+  function initIdeaPoolInteractions(data, labels) {
+    const state = loadIdeaPoolState();
+    document.querySelectorAll("[data-idea-action]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const id = button.dataset.ideaId;
+        if (!id) return;
+        state[id] = state[id] || {};
+
+        if (button.dataset.ideaAction === "like") {
+          state[id].likes = Number(state[id].likes || 0) + 1;
+        } else if (button.dataset.ideaAction === "dislike") {
+          state[id].dislikes = Number(state[id].dislikes || 0) + 1;
+        } else if (button.dataset.ideaAction === "comment") {
+          const textarea = document.querySelector(`[data-idea-comment="${CSS.escape(id)}"]`);
+          state[id].comment = textarea ? textarea.value.trim() : "";
+          button.textContent = labels.saved;
+          setTimeout(() => { button.textContent = labels.save_comment; }, 1400);
+        }
+
+        saveIdeaPoolState(state);
+        const idea = (data.ideas || []).find((item) => item.id === id);
+        const count = document.querySelector(`[data-idea-count="${CSS.escape(id)}"]`);
+        const card = document.querySelector(`[data-idea-card="${CSS.escape(id)}"]`);
+        const baseHeat = Number(idea?.heat || 40);
+        const likes = Math.max(0, baseHeat + Number(state[id].likes || 0) - Number(state[id].dislikes || 0));
+        if (count) count.textContent = `${likes} ${labels.votes}`;
+        if (card) card.style.setProperty("--idea-glow", String(Math.min(1, Math.max(.32, likes / 100))));
+      });
+    });
+  }
+
+  async function renderIdeaPoolPage() {
+    if (page !== "ideas") return;
+    const data = await loadJson("ideas-pool.json");
+    const labels = pickTranslation(data.translations || {}, currentLanguage);
+    const stage = document.querySelector("[data-idea-pool-stage]");
+    const state = loadIdeaPoolState();
+
+    setSeo(labels.seo_title, labels.seo_description, "assets/hero-principal.png");
+    const title = document.querySelector("[data-idea-title]");
+    const kicker = document.querySelector("[data-idea-kicker]");
+    const intro = document.querySelector("[data-idea-intro]");
+    const note = document.querySelector("[data-idea-note]");
+    if (title) title.textContent = labels.title;
+    if (kicker) kicker.textContent = labels.kicker;
+    if (intro) intro.textContent = labels.intro;
+    if (note) note.textContent = labels.note;
+
+    if (stage) {
+      stage.innerHTML = (data.ideas || [])
+        .map((idea, index) => ideaPoolCardMarkup(idea, index, labels, state))
+        .join("");
+      initIdeaPoolInteractions(data, labels);
+    }
+  }
+
   async function renderArticlePage() {
     if (page !== "article") return;
     const data = await articlesData();
@@ -2927,6 +3053,7 @@
       setGlobalStructuredData();
       updateRoutes();
       renderDoubtsMenu();
+      renderIdeasMenu();
       renderLanguageMenu();
       applyStaticTranslations();
       renderFooter();
@@ -2953,6 +3080,7 @@
       await renderLocalLandingPage();
       await renderArticleListPage();
       await renderArticlePage();
+      await renderIdeaPoolPage();
 
       initCookies();
       document.body.classList.add("is-ready");

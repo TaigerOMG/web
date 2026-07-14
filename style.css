@@ -3424,6 +3424,233 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
   margin-top: 28px;
 }
 
+.idea-pool-main {
+  min-height: 100vh;
+  padding-top: 80px;
+  background:
+    radial-gradient(circle at 18% 22%, rgba(24, 210, 209, .10), transparent 34%),
+    radial-gradient(circle at 80% 18%, rgba(198, 154, 91, .12), transparent 30%),
+    linear-gradient(135deg, #0a1729 0%, #13213a 46%, #0b3440 100%);
+  overflow: hidden;
+}
+
+body[data-page="ideas"] {
+  overflow-x: hidden;
+}
+
+body[data-page="ideas"] .container-custom,
+.idea-pool-stage-wrap {
+  width: min(1180px, calc(100vw - 40px));
+  max-width: calc(100vw - 40px);
+}
+
+.idea-pool-hero__grid > *,
+.idea-pool-stage > * {
+  min-width: 0;
+}
+
+.idea-pool-hero {
+  padding: 78px 0 22px;
+}
+
+.idea-pool-hero__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
+  gap: 34px;
+  align-items: end;
+}
+
+.idea-pool-hero h1 {
+  margin: 20px 0 16px;
+  max-width: 780px;
+  font-size: clamp(2.4rem, 5vw, 5.2rem);
+  line-height: .96;
+  letter-spacing: 0;
+}
+
+.idea-pool-hero p {
+  max-width: 720px;
+  color: #d7e4f3;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.idea-pool-note {
+  margin: 0;
+  padding: 20px;
+  color: #d9e4ef;
+  background: rgba(8, 20, 38, .72);
+  border: 1px solid rgba(255,255,255,.14);
+  border-radius: 8px;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.05);
+}
+
+.idea-pool-stage-wrap {
+  width: min(1180px, calc(100% - 40px));
+  margin: 0 auto 78px;
+}
+
+.idea-pool-stage {
+  position: relative;
+  min-height: 610px;
+  padding: 34px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  background: rgba(5, 15, 29, .66);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 8px;
+  box-shadow: 0 30px 90px rgba(0,0,0,.25);
+}
+
+.idea-card {
+  position: relative;
+  min-height: 300px;
+  padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  overflow: hidden;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.10), rgba(255,255,255,.035)),
+    rgba(10, 24, 43, .92);
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 8px;
+  box-shadow:
+    0 14px 36px rgba(0,0,0,.24),
+    0 0 calc(18px + 28px * var(--idea-glow)) rgba(24,210,209, calc(.08 + .15 * var(--idea-glow)));
+  animation: ideaCardFloat var(--idea-duration) ease-in-out var(--idea-delay) infinite alternate var(--idea-direction);
+}
+
+.idea-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(110deg, transparent 0%, rgba(24,210,209, calc(.08 * var(--idea-glow))) 45%, transparent 70%);
+  transform: translateX(-55%);
+  animation: ideaCardSheen calc(var(--idea-duration) * .8) linear var(--idea-delay) infinite;
+}
+
+.idea-card::after {
+  content: "";
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  width: 52px;
+  height: 52px;
+  border: 1px solid rgba(198,154,91, calc(.22 + .28 * var(--idea-glow)));
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(198,154,91, calc(.08 + .14 * var(--idea-glow)));
+  opacity: .9;
+}
+
+.idea-card__category {
+  width: fit-content;
+  max-width: calc(100% - 68px);
+  padding: 7px 12px;
+  color: #04131f;
+  background: linear-gradient(135deg, #18d2d1, #d5b06d);
+  border-radius: 999px;
+  font-size: .78rem;
+  font-weight: 800;
+}
+
+.idea-card h2 {
+  margin: 0;
+  max-width: 92%;
+  font-size: clamp(1.18rem, 2vw, 1.55rem);
+  line-height: 1.14;
+  letter-spacing: 0;
+  overflow-wrap: anywhere;
+}
+
+.idea-card p {
+  margin: 0;
+  color: #cfdae8;
+  line-height: 1.58;
+  overflow-wrap: anywhere;
+}
+
+.idea-card__actions {
+  margin-top: auto;
+  display: grid;
+  grid-template-columns: auto auto minmax(72px, 1fr);
+  gap: 8px;
+  align-items: center;
+}
+
+.idea-card__actions button,
+.idea-card__save {
+  min-height: 38px;
+  padding: 8px 12px;
+  color: #f7fbff;
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 999px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.idea-card__actions button:hover,
+.idea-card__save:hover {
+  border-color: rgba(24,210,209,.55);
+  box-shadow: 0 0 20px rgba(24,210,209,.16);
+}
+
+.idea-card__actions strong {
+  justify-self: end;
+  color: #d5b06d;
+  font-size: .88rem;
+}
+
+.idea-card__comment {
+  display: grid;
+  gap: 7px;
+  color: #d7e4f3;
+  font-size: .88rem;
+  font-weight: 800;
+}
+
+.idea-card__comment textarea {
+  width: 100%;
+  resize: vertical;
+  min-height: 54px;
+  padding: 10px;
+  color: #f7fbff;
+  background: rgba(0,0,0,.20);
+  border: 1px solid rgba(255,255,255,.16);
+  border-radius: 8px;
+  font: inherit;
+}
+
+.idea-card__save {
+  align-self: start;
+  border-radius: 8px;
+}
+
+@keyframes ideaCardFloat {
+  0% { transform: translate3d(0, 0, 0); }
+  35% { transform: translate3d(10px, -12px, 0); }
+  70% { transform: translate3d(-8px, 10px, 0); }
+  100% { transform: translate3d(6px, -5px, 0); }
+}
+
+@keyframes ideaCardSheen {
+  0% { transform: translateX(-70%); opacity: .15; }
+  55% { opacity: .7; }
+  100% { transform: translateX(120%); opacity: .15; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .idea-card,
+  .idea-card::before {
+    animation: none;
+  }
+}
+
 @media (max-width: 940px) {
   header {
     padding: 15px 20px;
@@ -3494,7 +3721,9 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
   .home-agent-panel,
   .home-agent-details,
   .service-detail-grid,
-  .articles-grid {
+  .articles-grid,
+  .idea-pool-hero__grid,
+  .idea-pool-stage {
     grid-template-columns: 1fr;
   }
 
@@ -3627,6 +3856,96 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
   .article-contact-cta .btn-primary-home {
     width: 100%;
     justify-content: center;
+  }
+
+  .idea-pool-hero {
+    padding-top: 48px;
+  }
+
+  .idea-pool-stage {
+    min-height: auto;
+    padding: 18px;
+  }
+
+  .idea-card {
+    animation: none;
+  }
+
+  .idea-card__actions {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .idea-card__actions strong {
+    grid-column: 1 / -1;
+    justify-self: start;
+  }
+}
+
+@media (max-width: 560px) {
+  body[data-page="ideas"] .container-custom,
+  .idea-pool-stage-wrap {
+    width: min(340px, calc(100vw - 28px));
+    max-width: min(340px, calc(100vw - 28px));
+    margin-right: 14px;
+    margin-left: 14px;
+  }
+
+  body[data-page="ideas"] .idea-pool-main,
+  body[data-page="ideas"] .idea-pool-hero,
+  body[data-page="ideas"] .idea-pool-stage,
+  body[data-page="ideas"] .idea-card,
+  body[data-page="ideas"] .idea-pool-note {
+    width: auto;
+    max-width: 100%;
+  }
+
+  .idea-pool-hero h1 {
+    max-width: 100%;
+    font-size: 1.68rem;
+    line-height: 1.08;
+    overflow-wrap: break-word;
+  }
+
+  .idea-pool-hero p,
+  .idea-pool-note,
+  .idea-card h2,
+  .idea-card p,
+  .idea-card__comment,
+  .idea-card__actions {
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+
+  .idea-pool-stage {
+    padding: 14px;
+  }
+
+  .idea-card {
+    padding: 16px;
+  }
+
+  .idea-card::after {
+    width: 38px;
+    height: 38px;
+  }
+
+  .idea-card__category {
+    max-width: calc(100% - 52px);
+    font-size: .72rem;
+  }
+
+  .idea-card h2 {
+    font-size: 1.08rem;
+  }
+
+  .idea-card__actions {
+    grid-template-columns: 1fr;
+  }
+
+  .idea-card__actions button {
+    width: 100%;
+    padding-inline: 10px;
+    font-size: .86rem;
   }
 }
 

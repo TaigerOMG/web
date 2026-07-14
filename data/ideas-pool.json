@@ -1,0 +1,236 @@
+{
+  "translations": {
+    "es": {
+      "seo_title": "Pool de ideas inmobiliarias | LacostaHaus",
+      "seo_description": "Ideas abiertas para futuros articulos, preguntas y temas inmobiliarios de LacostaHaus en la Costa Brava.",
+      "kicker": "Laboratorio editorial",
+      "title": "Pool de ideas LacostaHaus",
+      "intro": "Un espacio secundario para probar futuras preguntas, articulos y temas utiles antes de llevarlos a la web principal.",
+      "note": "Los votos y comentarios son una prueba local en este navegador. Sirven para validar el efecto visual y priorizar ideas.",
+      "heart": "Me interesa",
+      "dislike": "No lo veo",
+      "comment": "Comentario",
+      "comment_placeholder": "Anota una idea breve...",
+      "save_comment": "Guardar nota",
+      "saved": "Nota guardada",
+      "votes": "votos"
+    },
+    "ca": {
+      "seo_title": "Pool d'idees immobiliaries | LacostaHaus",
+      "seo_description": "Idees obertes per a futurs articles, preguntes i temes immobiliaris de LacostaHaus a la Costa Brava.",
+      "kicker": "Laboratori editorial",
+      "title": "Pool d'idees LacostaHaus",
+      "intro": "Un espai secundari per provar futures preguntes, articles i temes utils abans de portar-los a la web principal.",
+      "note": "Els vots i comentaris son una prova local en aquest navegador. Serveixen per validar l'efecte visual i prioritzar idees.",
+      "heart": "M'interessa",
+      "dislike": "No ho veig",
+      "comment": "Comentari",
+      "comment_placeholder": "Anota una idea breu...",
+      "save_comment": "Desar nota",
+      "saved": "Nota desada",
+      "votes": "vots"
+    },
+    "en": {
+      "seo_title": "Real estate idea pool | LacostaHaus",
+      "seo_description": "Open ideas for future LacostaHaus articles, questions and real estate topics on the Costa Brava.",
+      "kicker": "Editorial lab",
+      "title": "LacostaHaus idea pool",
+      "intro": "A secondary space to test future questions, articles and useful topics before moving them to the main website.",
+      "note": "Votes and comments are stored locally in this browser. This is a visual test to help prioritize ideas.",
+      "heart": "Interesting",
+      "dislike": "Not for me",
+      "comment": "Comment",
+      "comment_placeholder": "Write a short note...",
+      "save_comment": "Save note",
+      "saved": "Note saved",
+      "votes": "votes"
+    },
+    "fr": {
+      "seo_title": "Pool d'idees immobilieres | LacostaHaus",
+      "seo_description": "Idees ouvertes pour de futurs articles, questions et sujets immobiliers LacostaHaus sur la Costa Brava.",
+      "kicker": "Laboratoire editorial",
+      "title": "Pool d'idees LacostaHaus",
+      "intro": "Un espace secondaire pour tester de futures questions, articles et sujets utiles avant de les publier sur le site principal.",
+      "note": "Les votes et commentaires restent locaux dans ce navigateur. Ils servent a valider l'effet visuel et a prioriser les idees.",
+      "heart": "Ca m'interesse",
+      "dislike": "Pas pour moi",
+      "comment": "Commentaire",
+      "comment_placeholder": "Ajouter une note breve...",
+      "save_comment": "Enregistrer",
+      "saved": "Note enregistree",
+      "votes": "votes"
+    },
+    "de": {
+      "seo_title": "Ideenpool Immobilien | LacostaHaus",
+      "seo_description": "Offene Ideen fur zukunftige LacostaHaus Artikel, Fragen und Immobilienthemen an der Costa Brava.",
+      "kicker": "Redaktionslabor",
+      "title": "LacostaHaus Ideenpool",
+      "intro": "Ein separater Bereich, um zukunftige Fragen, Artikel und nutzliche Themen zu testen, bevor sie auf die Hauptwebsite kommen.",
+      "note": "Stimmen und Kommentare werden lokal in diesem Browser gespeichert. Der Bereich dient als visueller Test.",
+      "heart": "Interessant",
+      "dislike": "Eher nicht",
+      "comment": "Kommentar",
+      "comment_placeholder": "Kurze Notiz schreiben...",
+      "save_comment": "Notiz speichern",
+      "saved": "Notiz gespeichert",
+      "votes": "Stimmen"
+    },
+    "ru": {
+      "seo_title": "Pool of real estate ideas | LacostaHaus",
+      "seo_description": "Open ideas for future LacostaHaus articles, questions and real estate topics on the Costa Brava.",
+      "kicker": "Editorial lab",
+      "title": "LacostaHaus idea pool",
+      "intro": "A secondary space to test future questions, articles and useful topics before moving them to the main website.",
+      "note": "Votes and comments are stored locally in this browser. This is a visual test to help prioritize ideas.",
+      "heart": "Interesting",
+      "dislike": "Not for me",
+      "comment": "Comment",
+      "comment_placeholder": "Write a short note...",
+      "save_comment": "Save note",
+      "saved": "Note saved",
+      "votes": "votes"
+    }
+  },
+  "ideas": [
+    {
+      "id": "reviews-private-link",
+      "heat": 88,
+      "category": {
+        "es": "Confianza",
+        "ca": "Confiança",
+        "en": "Trust",
+        "fr": "Confiance",
+        "de": "Vertrauen",
+        "ru": "Trust"
+      },
+      "title": {
+        "es": "Reseñas reales solo con enlace privado",
+        "ca": "Ressenyes reals nomes amb enllac privat",
+        "en": "Real reviews through a private link only",
+        "fr": "Avis reels uniquement avec lien prive",
+        "de": "Echte Bewertungen nur uber privaten Link",
+        "ru": "Real reviews through a private link only"
+      },
+      "summary": {
+        "es": "Sistema para pedir opinion solo despues de atender a un cliente y mantener la calidad de la reputacion.",
+        "ca": "Sistema per demanar opinio nomes despres d'atendre un client i mantenir la qualitat de la reputacio.",
+        "en": "A system to request feedback only after serving a client and protect reputation quality.",
+        "fr": "Un systeme pour demander un avis seulement apres avoir accompagne un client.",
+        "de": "Feedback erst nach echter Betreuung anfragen und die Qualitat der Reputation schutzen.",
+        "ru": "A system to request feedback only after serving a client."
+      }
+    },
+    {
+      "id": "selling-too-high",
+      "heat": 74,
+      "category": {
+        "es": "Articulo",
+        "ca": "Article",
+        "en": "Article",
+        "fr": "Article",
+        "de": "Artikel",
+        "ru": "Article"
+      },
+      "title": {
+        "es": "Por que una casa con precio alto deja de recibir visitas",
+        "ca": "Per que una casa amb preu massa alt deixa de rebre visites",
+        "en": "Why an overpriced home stops receiving visits",
+        "fr": "Pourquoi un bien trop cher ne recoit plus de visites",
+        "de": "Warum eine zu teure Immobilie keine Besichtigungen mehr bekommt",
+        "ru": "Why an overpriced home stops receiving visits"
+      },
+      "summary": {
+        "es": "Tema SEO para propietarios que sienten que su inmueble no avanza y necesitan una lectura realista del mercado.",
+        "ca": "Tema SEO per a propietaris que veuen que l'immoble no avanca i necessiten una lectura realista del mercat.",
+        "en": "SEO topic for owners whose property is stuck and need a realistic market reading.",
+        "fr": "Sujet SEO pour proprietaires dont le bien n'avance pas et qui ont besoin d'une lecture realiste.",
+        "de": "SEO Thema fur Eigentumer, deren Immobilie nicht vorankommt und die eine ehrliche Markteinschatzung brauchen.",
+        "ru": "SEO topic for owners whose property is stuck."
+      }
+    },
+    {
+      "id": "international-buyer",
+      "heat": 67,
+      "category": {
+        "es": "Compradores",
+        "ca": "Compradors",
+        "en": "Buyers",
+        "fr": "Acheteurs",
+        "de": "Kaufer",
+        "ru": "Buyers"
+      },
+      "title": {
+        "es": "Que busca un comprador internacional en la Costa Brava",
+        "ca": "Que busca un comprador internacional a la Costa Brava",
+        "en": "What international buyers look for on the Costa Brava",
+        "fr": "Ce que cherche un acheteur international sur la Costa Brava",
+        "de": "Was internationale Kaufer an der Costa Brava suchen",
+        "ru": "What international buyers look for on the Costa Brava"
+      },
+      "summary": {
+        "es": "Contenido para conectar con propietarios que quieren vender bien a perfiles franceses, alemanes o del norte de Europa.",
+        "ca": "Contingut per connectar amb propietaris que volen vendre be a perfils francesos, alemanys o del nord d'Europa.",
+        "en": "Content for owners who want to sell well to French, German or Northern European buyers.",
+        "fr": "Contenu pour parler aux proprietaires qui visent des acheteurs francais, allemands ou nord-europeens.",
+        "de": "Inhalt fur Eigentumer, die an franzosische, deutsche oder nordeuropaische Kaufer verkaufen mochten.",
+        "ru": "Content for owners targeting international buyers."
+      }
+    },
+    {
+      "id": "silent-listing",
+      "heat": 52,
+      "category": {
+        "es": "Pregunta",
+        "ca": "Pregunta",
+        "en": "Question",
+        "fr": "Question",
+        "de": "Frage",
+        "ru": "Question"
+      },
+      "title": {
+        "es": "Cuanto tiempo esperar antes de cambiar la estrategia de venta",
+        "ca": "Quant temps esperar abans de canviar l'estrategia de venda",
+        "en": "How long to wait before changing a selling strategy",
+        "fr": "Combien attendre avant de changer de strategie de vente",
+        "de": "Wie lange warten, bevor man die Verkaufsstrategie andert",
+        "ru": "How long to wait before changing a selling strategy"
+      },
+      "summary": {
+        "es": "Ideal para explicar ajustes de precio, presentacion, fotos, canales y filtrado de compradores.",
+        "ca": "Ideal per explicar ajustos de preu, presentacio, fotos, canals i filtratge de compradors.",
+        "en": "Useful to explain price, presentation, photos, channels and buyer filtering.",
+        "fr": "Utile pour expliquer les ajustements de prix, presentation, photos, canaux et filtrage.",
+        "de": "Gut fur Preis, Prasentation, Fotos, Kanale und Kauferfilterung.",
+        "ru": "Useful to explain strategy adjustments."
+      }
+    },
+    {
+      "id": "zona-landing",
+      "heat": 61,
+      "category": {
+        "es": "SEO local",
+        "ca": "SEO local",
+        "en": "Local SEO",
+        "fr": "SEO local",
+        "de": "Lokales SEO",
+        "ru": "Local SEO"
+      },
+      "title": {
+        "es": "Landings por zona: Platja d'Aro, Calonge y Torre Valentina",
+        "ca": "Landings per zona: Platja d'Aro, Calonge i Torre Valentina",
+        "en": "Area pages: Platja d'Aro, Calonge and Torre Valentina",
+        "fr": "Pages par zone: Platja d'Aro, Calonge et Torre Valentina",
+        "de": "Lokale Seiten: Platja d'Aro, Calonge und Torre Valentina",
+        "ru": "Area pages: Platja d'Aro, Calonge and Torre Valentina"
+      },
+      "summary": {
+        "es": "Ideas de paginas organicas para atacar busquedas concretas sin depender de la marca LacostaHaus.",
+        "ca": "Idees de pagines organiques per captar cerques concretes sense dependre de la marca LacostaHaus.",
+        "en": "Organic page ideas to target searches without relying on the LacostaHaus brand name.",
+        "fr": "Idees de pages organiques pour capter des recherches sans dependre du nom LacostaHaus.",
+        "de": "Organische Seitenideen fur Suchanfragen ohne Abhangigkeit vom Markennamen LacostaHaus.",
+        "ru": "Organic page ideas for non-brand searches."
+      }
+    }
+  ]
+}
