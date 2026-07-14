@@ -2716,11 +2716,13 @@
       const menu = dropdown.querySelector(".dropdown-menu");
       const trigger = dropdownTrigger(dropdown);
       if (!menu || !trigger) return;
+      const isDirectMobileLink = trigger.dataset.route === "properties";
       trigger.setAttribute("aria-haspopup", "true");
       trigger.setAttribute("aria-expanded", "false");
 
       trigger.addEventListener("click", (event) => {
         if (!mobileQuery.matches) return;
+        if (isDirectMobileLink) return;
         if (!dropdown.classList.contains("is-open")) {
           event.preventDefault();
           closeMobileDropdowns(nav, dropdown);
