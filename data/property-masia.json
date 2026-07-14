@@ -5,11 +5,11 @@
     "images": [
       {
         "src": "/images/Inmueble/1.jpg",
-        "alt_es": "Vista exterior Mas\u00EDa"
+        "alt_es": "Vista exterior Masía"
       },
       {
         "src": "/images/Inmueble/2.jpg",
-        "alt_es": "Jard\u00EDn y terraza"
+        "alt_es": "Jardín y terraza"
       },
       {
         "src": "/images/Inmueble/3.jpg",
@@ -25,22 +25,22 @@
       }
     ],
     "pdf": "/images/Finca%20siglo%20XVI%20con%20proyecto%20de%20hotel.pdf",
-    "map_embed": "https://www.google.com/maps?q=Port%20d%27Aro%2C%20Platja%20d%27Aro%2C%20Girona\u0026output=embed"
+    "map_embed": "https://www.google.com/maps?q=Port%20d%27Aro%2C%20Platja%20d%27Aro%2C%20Girona&output=embed"
   },
   "translations": {
     "es": {
       "nav_home": "Inicio",
       "nav_properties": "Inmuebles",
       "nav_languages": "Idiomas",
-      "title": "Mas\u00EDa en Port d\u0027Aro",
-      "seo_title": "Mas\u00EDa en Port d\u0027Aro | LacostaHaus",
-      "seo_description": "Proyecto hotelero en una mas\u00EDa hist\u00F3rica en Port d\u0027Aro, cerca de Platja d\u0027Aro, con parcela de 10.680 m\u00B2 y proyecto aprobado.",
+      "title": "Masía en Port d'Aro",
+      "seo_title": "Masía en Port d'Aro | LacostaHaus",
+      "seo_description": "Proyecto hotelero en una masía histórica en Port d'Aro, cerca de Platja d'Aro, con parcela de 10.680 m² y proyecto aprobado.",
       "details_title": "Detalles de la Propiedad",
-      "price": "2.9M \u20AC",
+      "price": "2.9M €",
       "details": [
         [
           "Tipo",
-          "Mas\u00EDa"
+          "Masía"
         ],
         [
           "Plantas",
@@ -48,11 +48,11 @@
         ],
         [
           "Construidos",
-          "1.141 m\u00B2"
+          "1.141 m²"
         ],
         [
-          "\u00DAtiles",
-          "1.100 m\u00B2"
+          "Útiles",
+          "1.100 m²"
         ],
         [
           "Habitaciones",
@@ -60,11 +60,11 @@
         ],
         [
           "Parcela",
-          "10.680 m\u00B2"
+          "10.680 m²"
         ],
         [
-          "Terraza/Balc\u00F3n",
-          "S\u00ED"
+          "Terraza/Balcón",
+          "Sí"
         ],
         [
           "Garaje",
@@ -76,60 +76,60 @@
         ],
         [
           "Trastero",
-          "S\u00ED"
+          "Sí"
         ],
         [
-          "Orientaci\u00F3n",
+          "Orientación",
           "Sur, Este"
         ],
         [
-          "A\u00F1o construcci\u00F3n",
+          "Año construcción",
           "1988"
         ],
         [
-          "Calefacci\u00F3n",
+          "Calefacción",
           "No dispone"
         ],
         [
           "Equipamiento",
-          "Jard\u00EDn"
+          "Jardín"
         ],
         [
-          "Certificado energ\u00E9tico",
-          "En tr\u00E1mite"
+          "Certificado energético",
+          "En trámite"
         ]
       ],
       "project_title": "Proyecto",
-      "pdf_title": "Proyecto de reforma \u2014 LacostaHaus",
+      "pdf_title": "Proyecto de reforma — LacostaHaus",
       "download_pdf": "Descargar PDF",
-      "description_title": "Descripci\u00F3n",
+      "description_title": "Descripción",
       "description": [
-        "Desde \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E queremos presentar este fabuloso proyecto hotelero de 4 estrellas superior en la hist\u00F3rica mas\u00EDa \u003Cem\u003EMas Candell\u003C/em\u003E del siglo XVI, reconocida como patrimonio cultural de Catalunya.",
-        "Esta incre\u00EDble propiedad descansa sobre una parcela de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E, a menos de 2 kil\u00F3metros de las estupendas playas de Platja d\u2019Aro y del bullicioso centro urbano, donde poder disfrutar de una variada oferta gastron\u00F3mica y comercial, as\u00ED como de actividades de ocio. Adem\u00E1s, queda pr\u00F3xima al puerto deportivo y de diversos campos de golf de renombre.",
-        "El proyecto del hotel se centra en conservar y realzar la belleza hist\u00F3rica de la mas\u00EDa, mientras se fusiona con dos edificios modernos. La capacidad del hotel ser\u00E1 de \u003Cstrong\u003E90 hu\u00E9spedes\u003C/strong\u003E, hasta un m\u00E1ximo de \u003Cstrong\u003E107 hu\u00E9spedes\u003C/strong\u003E.",
-        "La mas\u00EDa albergar\u00E1 el coraz\u00F3n del hotel, con su encantadora sala de recepci\u00F3n y lounge, \u003Cstrong\u003E11 suites\u003C/strong\u003E y \u003Cstrong\u003E6 habitaciones superiores\u003C/strong\u003E, as\u00ED como un restaurante con capacidad para \u003Cstrong\u003E50 comensales\u003C/strong\u003E y cocina propia. Los hu\u00E9spedes disfrutar\u00E1n de dos amplias terrazas: una con capacidad para \u003Cstrong\u003E100 personas\u003C/strong\u003E y otra con un \u00E1rea de \u003Cstrong\u003Echill-out de 200 m\u00B2\u003C/strong\u003E, perfectas para relajarse y disfrutar del clima mediterr\u00E1neo.",
-        "Otra parte del hotel consistir\u00E1 en un complejo de \u003Cstrong\u003E14 bungalows\u003C/strong\u003E individuales para familias, con su propia entrada y amplias terrazas. Los bungalows estar\u00E1n situados junto a una amplia zona verde con grandes \u00E1rboles frondosos, que proporcionan mucha sombra y crean un ambiente totalmente relajante.",
-        "El hotel tambi\u00E9n cuenta con \u003Cstrong\u003Edos piscinas\u003C/strong\u003E, \u003Cstrong\u003Ezona de spa\u003C/strong\u003E y \u003Cstrong\u003Ejacuzzi\u003C/strong\u003E, as\u00ED como un \u003Cstrong\u003Eespacio multifuncional\u003C/strong\u003E para bodas, conciertos y eventos con capacidad para hasta \u003Cstrong\u003E200 personas\u003C/strong\u003E, con \u003Cstrong\u003E7.087 m\u00B2\u003C/strong\u003E de jardines y \u003Cstrong\u003E2.470 m\u00B2\u003C/strong\u003E de zonas comunes.",
-        "Este proyecto est\u00E1 completamente desarrollado y aprobado por las autoridades locales y regionales, por lo que ser\u00EDa una inversi\u00F3n con un gran potencial de rentabilidad.",
-        "\u003Cstrong\u003EEl precio anunciado incluye la propiedad en su estado actual; el coste de la reforma se contrata por separado.\u003C/strong\u003E",
-        "Para cualquier informaci\u00F3n, no duden en contactar con nosotros."
+        "Desde <strong>LacostaHaus</strong> queremos presentar este fabuloso proyecto hotelero de 4 estrellas superior en la histórica masía <em>Mas Candell</em> del siglo XVI, reconocida como patrimonio cultural de Catalunya.",
+        "Esta increíble propiedad descansa sobre una parcela de <strong>10.680 m²</strong>, a menos de 2 kilómetros de las estupendas playas de Platja d’Aro y del bullicioso centro urbano, donde poder disfrutar de una variada oferta gastronómica y comercial, así como de actividades de ocio. Además, queda próxima al puerto deportivo y de diversos campos de golf de renombre.",
+        "El proyecto del hotel se centra en conservar y realzar la belleza histórica de la masía, mientras se fusiona con dos edificios modernos. La capacidad del hotel será de <strong>90 huéspedes</strong>, hasta un máximo de <strong>107 huéspedes</strong>.",
+        "La masía albergará el corazón del hotel, con su encantadora sala de recepción y lounge, <strong>11 suites</strong> y <strong>6 habitaciones superiores</strong>, así como un restaurante con capacidad para <strong>50 comensales</strong> y cocina propia. Los huéspedes disfrutarán de dos amplias terrazas: una con capacidad para <strong>100 personas</strong> y otra con un área de <strong>chill-out de 200 m²</strong>, perfectas para relajarse y disfrutar del clima mediterráneo.",
+        "Otra parte del hotel consistirá en un complejo de <strong>14 bungalows</strong> individuales para familias, con su propia entrada y amplias terrazas. Los bungalows estarán situados junto a una amplia zona verde con grandes árboles frondosos, que proporcionan mucha sombra y crean un ambiente totalmente relajante.",
+        "El hotel también cuenta con <strong>dos piscinas</strong>, <strong>zona de spa</strong> y <strong>jacuzzi</strong>, así como un <strong>espacio multifuncional</strong> para bodas, conciertos y eventos con capacidad para hasta <strong>200 personas</strong>, con <strong>7.087 m²</strong> de jardines y <strong>2.470 m²</strong> de zonas comunes.",
+        "Este proyecto está completamente desarrollado y aprobado por las autoridades locales y regionales, por lo que sería una inversión con un gran potencial de rentabilidad.",
+        "<strong>El precio anunciado incluye la propiedad en su estado actual; el coste de la reforma se contrata por separado.</strong>",
+        "Para cualquier información, no duden en contactar con nosotros."
       ],
-      "location_title": "Ubicaci\u00F3n",
-      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
+      "location_title": "Ubicación",
+      "location_text": "Barrio Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
       "contact_label": "Contacto",
       "email_label": "Gmail",
       "spoken_label": "Hablamos",
-      "video_fallback": "Tu navegador no soporta la reproducci\u00F3n de v\u00EDdeo."
+      "video_fallback": "Tu navegador no soporta la reproducción de vídeo."
     },
     "en": {
       "nav_home": "Home",
       "nav_properties": "Properties",
       "nav_languages": "Languages",
-      "title": "Farmhouse for sale in Port d\u0027Aro",
-      "seo_title": "Farmhouse for sale in Port d\u0027Aro | LacostaHaus",
-      "seo_description": "Hotel project in a historic farmhouse in Port d\u0027Aro, near Platja d\u0027Aro, with a 10,680 m\u00B2 plot and an approved project.",
+      "title": "Farmhouse for sale in Port d'Aro",
+      "seo_title": "Farmhouse for sale in Port d'Aro | LacostaHaus",
+      "seo_description": "Hotel project in a historic farmhouse in Port d'Aro, near Platja d'Aro, with a 10,680 m² plot and an approved project.",
       "details_title": "Property Details",
-      "price": "\u20AC4,500,000",
+      "price": "€4,500,000",
       "details": [
         [
           "Type",
@@ -141,11 +141,11 @@
         ],
         [
           "Built area",
-          "1,141 m\u00B2"
+          "1,141 m²"
         ],
         [
           "Usable area",
-          "1,100 m\u00B2"
+          "1,100 m²"
         ],
         [
           "Bedrooms",
@@ -153,7 +153,7 @@
         ],
         [
           "Plot",
-          "10,680 m\u00B2"
+          "10,680 m²"
         ],
         [
           "Terrace/Balcony",
@@ -193,22 +193,22 @@
         ]
       ],
       "project_title": "Project",
-      "pdf_title": "Renovation project \u2014 LacostaHaus",
+      "pdf_title": "Renovation project — LacostaHaus",
       "download_pdf": "Download PDF",
       "description_title": "Description",
       "description": [
-        "At \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E, we are pleased to present this outstanding 4-star superior hotel project in the historic 16th-century \u003Cem\u003EMas Candell\u003C/em\u003E farmhouse, recognised as part of Catalonia\u0027s cultural heritage.",
-        "This remarkable property sits on a \u003Cstrong\u003E10,680 m\u00B2\u003C/strong\u003E plot, less than 2 kilometres from the beautiful beaches of Platja d\u2019Aro and the lively town centre, with restaurants, shops and leisure activities. It is also close to the marina and several renowned golf courses.",
-        "The hotel project focuses on preserving and enhancing the historic beauty of the farmhouse while combining it with two modern buildings. The hotel capacity will be \u003Cstrong\u003E90 guests\u003C/strong\u003E, up to a maximum of \u003Cstrong\u003E107 guests\u003C/strong\u003E.",
-        "The farmhouse will be the heart of the hotel, with a charming reception and lounge area, \u003Cstrong\u003E11 suites\u003C/strong\u003E and \u003Cstrong\u003E6 superior rooms\u003C/strong\u003E, as well as a restaurant for \u003Cstrong\u003E50 diners\u003C/strong\u003E with its own kitchen. Guests will enjoy two spacious terraces: one for \u003Cstrong\u003E100 people\u003C/strong\u003E and another with a \u003Cstrong\u003E200 m\u00B2 chill-out area\u003C/strong\u003E.",
-        "Another part of the hotel will consist of \u003Cstrong\u003E14 individual family bungalows\u003C/strong\u003E, each with its own entrance and spacious terraces. The bungalows will be located next to a large green area with mature trees that provide shade and a relaxing atmosphere.",
-        "The hotel also includes \u003Cstrong\u003Etwo swimming pools\u003C/strong\u003E, a \u003Cstrong\u003Espa area\u003C/strong\u003E and \u003Cstrong\u003Ejacuzzi\u003C/strong\u003E, as well as a \u003Cstrong\u003Emultifunctional space\u003C/strong\u003E for weddings, concerts and events for up to \u003Cstrong\u003E200 people\u003C/strong\u003E, with \u003Cstrong\u003E7,087 m\u00B2\u003C/strong\u003E of gardens and \u003Cstrong\u003E2,470 m\u00B2\u003C/strong\u003E of common areas.",
+        "At <strong>LacostaHaus</strong>, we are pleased to present this outstanding 4-star superior hotel project in the historic 16th-century <em>Mas Candell</em> farmhouse, recognised as part of Catalonia's cultural heritage.",
+        "This remarkable property sits on a <strong>10,680 m²</strong> plot, less than 2 kilometres from the beautiful beaches of Platja d’Aro and the lively town centre, with restaurants, shops and leisure activities. It is also close to the marina and several renowned golf courses.",
+        "The hotel project focuses on preserving and enhancing the historic beauty of the farmhouse while combining it with two modern buildings. The hotel capacity will be <strong>90 guests</strong>, up to a maximum of <strong>107 guests</strong>.",
+        "The farmhouse will be the heart of the hotel, with a charming reception and lounge area, <strong>11 suites</strong> and <strong>6 superior rooms</strong>, as well as a restaurant for <strong>50 diners</strong> with its own kitchen. Guests will enjoy two spacious terraces: one for <strong>100 people</strong> and another with a <strong>200 m² chill-out area</strong>.",
+        "Another part of the hotel will consist of <strong>14 individual family bungalows</strong>, each with its own entrance and spacious terraces. The bungalows will be located next to a large green area with mature trees that provide shade and a relaxing atmosphere.",
+        "The hotel also includes <strong>two swimming pools</strong>, a <strong>spa area</strong> and <strong>jacuzzi</strong>, as well as a <strong>multifunctional space</strong> for weddings, concerts and events for up to <strong>200 people</strong>, with <strong>7,087 m²</strong> of gardens and <strong>2,470 m²</strong> of common areas.",
         "The project is fully developed and approved by the local and regional authorities, making it an investment with strong profitability potential.",
-        "\u003Cstrong\u003EThe advertised price includes the property in its current condition; renovation costs are contracted separately.\u003C/strong\u003E",
+        "<strong>The advertised price includes the property in its current condition; renovation costs are contracted separately.</strong>",
         "Please contact us for further information."
       ],
       "location_title": "Location",
-      "location_text": "Port d\u0027Aro area \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
+      "location_text": "Port d'Aro area · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
       "contact_label": "Contact",
       "email_label": "Email",
       "spoken_label": "We speak",
@@ -218,27 +218,27 @@
       "nav_home": "Accueil",
       "nav_properties": "Biens",
       "nav_languages": "Langues",
-      "title": "Masia \u00E0 vendre \u00E0 Port d\u0027Aro",
-      "seo_title": "Masia \u00E0 vendre \u00E0 Port d\u0027Aro | LacostaHaus",
-      "seo_description": "Projet h\u00F4telier dans une masia historique \u00E0 Port d\u0027Aro, pr\u00E8s de Platja d\u0027Aro, avec terrain de 10 680 m\u00B2 et projet approuv\u00E9.",
-      "details_title": "D\u00E9tails de la propri\u00E9t\u00E9",
-      "price": "2.9M \u20AC",
+      "title": "Masia à vendre à Port d'Aro",
+      "seo_title": "Masia à vendre à Port d'Aro | LacostaHaus",
+      "seo_description": "Projet hôtelier dans une masia historique à Port d'Aro, près de Platja d'Aro, avec terrain de 10 680 m² et projet approuvé.",
+      "details_title": "Détails de la propriété",
+      "price": "2.9M €",
       "details": [
         [
           "Type",
           "Masia"
         ],
         [
-          "\u00C9tages",
+          "Étages",
           "3"
         ],
         [
           "Surface construite",
-          "1.141 m\u00B2"
+          "1.141 m²"
         ],
         [
           "Surface utile",
-          "1.100 m\u00B2"
+          "1.100 m²"
         ],
         [
           "Chambres",
@@ -246,7 +246,7 @@
         ],
         [
           "Terrain",
-          "10.680 m\u00B2"
+          "10.680 m²"
         ],
         [
           "Terrasse/Balcon",
@@ -257,11 +257,11 @@
           "Inclus dans le prix"
         ],
         [
-          "\u00C9tat",
-          "Seconde main / \u00E0 r\u00E9nover"
+          "État",
+          "Seconde main / à rénover"
         ],
         [
-          "D\u00E9barras",
+          "Débarras",
           "Oui"
         ],
         [
@@ -269,7 +269,7 @@
           "Sud, Est"
         ],
         [
-          "Ann\u00E9e de construction",
+          "Année de construction",
           "1988"
         ],
         [
@@ -277,45 +277,45 @@
           "Non disponible"
         ],
         [
-          "\u00C9quipement",
+          "Équipement",
           "Jardin"
         ],
         [
-          "Certificat \u00E9nerg\u00E9tique",
+          "Certificat énergétique",
           "En cours"
         ]
       ],
       "project_title": "Projet",
-      "pdf_title": "Projet de r\u00E9novation \u2014 LacostaHaus",
-      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "pdf_title": "Projet de rénovation — LacostaHaus",
+      "download_pdf": "Télécharger le PDF",
       "description_title": "Description",
       "description": [
-        "Chez \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E, nous pr\u00E9sentons ce magnifique projet h\u00F4telier 4 \u00E9toiles sup\u00E9rieur dans l\u2019historique masia \u003Cem\u003EMas Candell\u003C/em\u003E du XVIe si\u00E8cle, reconnue comme patrimoine culturel de Catalogne.",
-        "Cette propri\u00E9t\u00E9 exceptionnelle repose sur un terrain de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E, \u00E0 moins de 2 kilom\u00E8tres des plages de Platja d\u2019Aro et de son centre anim\u00E9, avec restaurants, commerces et loisirs. Elle est \u00E9galement proche du port de plaisance et de plusieurs terrains de golf renomm\u00E9s.",
-        "Le projet h\u00F4telier vise \u00E0 pr\u00E9server et valoriser la beaut\u00E9 historique de la masia tout en l\u2019associant \u00E0 deux b\u00E2timents modernes. La capacit\u00E9 de l\u2019h\u00F4tel sera de \u003Cstrong\u003E90 clients\u003C/strong\u003E, jusqu\u2019\u00E0 un maximum de \u003Cstrong\u003E107 clients\u003C/strong\u003E.",
-        "La masia accueillera le c\u0153ur de l\u2019h\u00F4tel, avec une charmante r\u00E9ception et un lounge, \u003Cstrong\u003E11 suites\u003C/strong\u003E et \u003Cstrong\u003E6 chambres sup\u00E9rieures\u003C/strong\u003E, ainsi qu\u2019un restaurant de \u003Cstrong\u003E50 couverts\u003C/strong\u003E avec cuisine propre. Les clients profiteront de deux grandes terrasses : l\u2019une pour \u003Cstrong\u003E100 personnes\u003C/strong\u003E et l\u2019autre avec un espace \u003Cstrong\u003Echill-out de 200 m\u00B2\u003C/strong\u003E.",
-        "Une autre partie de l\u2019h\u00F4tel comprendra \u003Cstrong\u003E14 bungalows familiaux individuels\u003C/strong\u003E, avec entr\u00E9e priv\u00E9e et grandes terrasses. Ils seront situ\u00E9s \u00E0 c\u00F4t\u00E9 d\u2019un vaste espace vert arbor\u00E9 offrant de l\u2019ombre et une atmosph\u00E8re relaxante.",
-        "L\u2019h\u00F4tel dispose \u00E9galement de \u003Cstrong\u003Edeux piscines\u003C/strong\u003E, d\u2019un \u003Cstrong\u003Eespace spa\u003C/strong\u003E et d\u2019un \u003Cstrong\u003Ejacuzzi\u003C/strong\u003E, ainsi que d\u2019un \u003Cstrong\u003Eespace multifonctionnel\u003C/strong\u003E pour mariages, concerts et \u00E9v\u00E9nements jusqu\u2019\u00E0 \u003Cstrong\u003E200 personnes\u003C/strong\u003E, avec \u003Cstrong\u003E7.087 m\u00B2\u003C/strong\u003E de jardins et \u003Cstrong\u003E2.470 m\u00B2\u003C/strong\u003E d\u2019espaces communs.",
-        "Le projet est enti\u00E8rement d\u00E9velopp\u00E9 et approuv\u00E9 par les autorit\u00E9s locales et r\u00E9gionales, ce qui en fait un investissement \u00E0 fort potentiel de rentabilit\u00E9.",
-        "\u003Cstrong\u003ELe prix annonc\u00E9 inclut la propri\u00E9t\u00E9 dans son \u00E9tat actuel ; le co\u00FBt de la r\u00E9novation est contract\u00E9 s\u00E9par\u00E9ment.\u003C/strong\u003E",
-        "Pour toute information compl\u00E9mentaire, n\u2019h\u00E9sitez pas \u00E0 nous contacter."
+        "Chez <strong>LacostaHaus</strong>, nous présentons ce magnifique projet hôtelier 4 étoiles supérieur dans l’historique masia <em>Mas Candell</em> du XVIe siècle, reconnue comme patrimoine culturel de Catalogne.",
+        "Cette propriété exceptionnelle repose sur un terrain de <strong>10.680 m²</strong>, à moins de 2 kilomètres des plages de Platja d’Aro et de son centre animé, avec restaurants, commerces et loisirs. Elle est également proche du port de plaisance et de plusieurs terrains de golf renommés.",
+        "Le projet hôtelier vise à préserver et valoriser la beauté historique de la masia tout en l’associant à deux bâtiments modernes. La capacité de l’hôtel sera de <strong>90 clients</strong>, jusqu’à un maximum de <strong>107 clients</strong>.",
+        "La masia accueillera le cœur de l’hôtel, avec une charmante réception et un lounge, <strong>11 suites</strong> et <strong>6 chambres supérieures</strong>, ainsi qu’un restaurant de <strong>50 couverts</strong> avec cuisine propre. Les clients profiteront de deux grandes terrasses : l’une pour <strong>100 personnes</strong> et l’autre avec un espace <strong>chill-out de 200 m²</strong>.",
+        "Une autre partie de l’hôtel comprendra <strong>14 bungalows familiaux individuels</strong>, avec entrée privée et grandes terrasses. Ils seront situés à côté d’un vaste espace vert arboré offrant de l’ombre et une atmosphère relaxante.",
+        "L’hôtel dispose également de <strong>deux piscines</strong>, d’un <strong>espace spa</strong> et d’un <strong>jacuzzi</strong>, ainsi que d’un <strong>espace multifonctionnel</strong> pour mariages, concerts et événements jusqu’à <strong>200 personnes</strong>, avec <strong>7.087 m²</strong> de jardins et <strong>2.470 m²</strong> d’espaces communs.",
+        "Le projet est entièrement développé et approuvé par les autorités locales et régionales, ce qui en fait un investissement à fort potentiel de rentabilité.",
+        "<strong>Le prix annoncé inclut la propriété dans son état actuel ; le coût de la rénovation est contracté séparément.</strong>",
+        "Pour toute information complémentaire, n’hésitez pas à nous contacter."
       ],
       "location_title": "Emplacement",
-      "location_text": "Quartier Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, G\u00E9rone",
+      "location_text": "Quartier Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Gérone",
       "contact_label": "Contact",
       "email_label": "Email",
       "spoken_label": "Nous parlons",
-      "video_fallback": "Votre navigateur ne prend pas en charge la lecture vid\u00E9o."
+      "video_fallback": "Votre navigateur ne prend pas en charge la lecture vidéo."
     },
     "de": {
       "nav_home": "Startseite",
       "nav_properties": "Immobilien",
       "nav_languages": "Sprachen",
-      "title": "Masia zum Verkauf in Port d\u0027Aro",
-      "seo_title": "Masia zum Verkauf in Port d\u0027Aro | LacostaHaus",
-      "seo_description": "Hotelprojekt in einer historischen Masia in Port d\u0027Aro, nahe Platja d\u0027Aro, mit 10.680 m\u00B2 Grundst\u00FCck und genehmigtem Projekt.",
+      "title": "Masia zum Verkauf in Port d'Aro",
+      "seo_title": "Masia zum Verkauf in Port d'Aro | LacostaHaus",
+      "seo_description": "Hotelprojekt in einer historischen Masia in Port d'Aro, nahe Platja d'Aro, mit 10.680 m² Grundstück und genehmigtem Projekt.",
       "details_title": "Immobiliendetails",
-      "price": "2.9M \u20AC",
+      "price": "2.9M €",
       "details": [
         [
           "Typ",
@@ -326,20 +326,20 @@
           "3"
         ],
         [
-          "Bebaute Fl\u00E4che",
-          "1.141 m\u00B2"
+          "Bebaute Fläche",
+          "1.141 m²"
         ],
         [
-          "Nutzfl\u00E4che",
-          "1.100 m\u00B2"
+          "Nutzfläche",
+          "1.100 m²"
         ],
         [
           "Zimmer",
           "11"
         ],
         [
-          "Grundst\u00FCck",
-          "10.680 m\u00B2"
+          "Grundstück",
+          "10.680 m²"
         ],
         [
           "Terrasse/Balkon",
@@ -351,7 +351,7 @@
         ],
         [
           "Zustand",
-          "Gebraucht / renovierungsbed\u00FCrftig"
+          "Gebraucht / renovierungsbedürftig"
         ],
         [
           "Abstellraum",
@@ -359,7 +359,7 @@
         ],
         [
           "Ausrichtung",
-          "S\u00FCd, Ost"
+          "Süd, Ost"
         ],
         [
           "Baujahr",
@@ -379,119 +379,119 @@
         ]
       ],
       "project_title": "Projekt",
-      "pdf_title": "Renovierungsprojekt \u2014 LacostaHaus",
+      "pdf_title": "Renovierungsprojekt — LacostaHaus",
       "download_pdf": "PDF herunterladen",
       "description_title": "Beschreibung",
       "description": [
-        "\u003Cstrong\u003ELacostaHaus\u003C/strong\u003E pr\u00E4sentiert dieses au\u00DFergew\u00F6hnliche 4-Sterne-Superior-Hotelprojekt in der historischen Masia \u003Cem\u003EMas Candell\u003C/em\u003E aus dem 16. Jahrhundert, die als Kulturerbe Kataloniens anerkannt ist.",
-        "Diese beeindruckende Immobilie befindet sich auf einem \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E gro\u00DFen Grundst\u00FCck, weniger als 2 Kilometer von den Str\u00E4nden von Platja d\u2019Aro und dem lebhaften Zentrum mit Gastronomie, Gesch\u00E4ften und Freizeitangeboten entfernt. Auch der Yachthafen und mehrere bekannte Golfpl\u00E4tze liegen in der N\u00E4he.",
-        "Das Hotelprojekt konzentriert sich darauf, die historische Sch\u00F6nheit der Masia zu bewahren und aufzuwerten, w\u00E4hrend sie mit zwei modernen Geb\u00E4uden kombiniert wird. Die Kapazit\u00E4t betr\u00E4gt \u003Cstrong\u003E90 G\u00E4ste\u003C/strong\u003E, bis zu maximal \u003Cstrong\u003E107 G\u00E4ste\u003C/strong\u003E.",
-        "Die Masia wird das Herzst\u00FCck des Hotels bilden, mit einem charmanten Empfangs- und Loungebereich, \u003Cstrong\u003E11 Suiten\u003C/strong\u003E und \u003Cstrong\u003E6 Superior-Zimmern\u003C/strong\u003E sowie einem Restaurant f\u00FCr \u003Cstrong\u003E50 G\u00E4ste\u003C/strong\u003E mit eigener K\u00FCche. Die G\u00E4ste genie\u00DFen zwei gro\u00DFz\u00FCgige Terrassen: eine f\u00FCr \u003Cstrong\u003E100 Personen\u003C/strong\u003E und eine weitere mit einem \u003Cstrong\u003E200 m\u00B2 gro\u00DFen Chill-out-Bereich\u003C/strong\u003E.",
-        "Ein weiterer Teil des Hotels besteht aus \u003Cstrong\u003E14 einzelnen Familienbungalows\u003C/strong\u003E mit eigenem Eingang und gro\u00DFen Terrassen. Sie liegen neben einer weitl\u00E4ufigen Gr\u00FCnfl\u00E4che mit alten B\u00E4umen, die Schatten und eine entspannte Atmosph\u00E4re bieten.",
-        "Das Hotel verf\u00FCgt au\u00DFerdem \u00FCber \u003Cstrong\u003Ezwei Pools\u003C/strong\u003E, einen \u003Cstrong\u003ESpa-Bereich\u003C/strong\u003E und einen \u003Cstrong\u003EJacuzzi\u003C/strong\u003E sowie einen \u003Cstrong\u003Emultifunktionalen Raum\u003C/strong\u003E f\u00FCr Hochzeiten, Konzerte und Veranstaltungen mit bis zu \u003Cstrong\u003E200 Personen\u003C/strong\u003E, mit \u003Cstrong\u003E7.087 m\u00B2\u003C/strong\u003E Gartenfl\u00E4chen und \u003Cstrong\u003E2.470 m\u00B2\u003C/strong\u003E Gemeinschaftsbereichen.",
-        "Das Projekt ist vollst\u00E4ndig ausgearbeitet und von den lokalen und regionalen Beh\u00F6rden genehmigt, wodurch es ein Investment mit hohem Renditepotenzial darstellt.",
-        "\u003Cstrong\u003EDer angegebene Preis beinhaltet die Immobilie im aktuellen Zustand; die Renovierungskosten werden separat beauftragt.\u003C/strong\u003E",
-        "F\u00FCr weitere Informationen kontaktieren Sie uns bitte."
+        "<strong>LacostaHaus</strong> präsentiert dieses außergewöhnliche 4-Sterne-Superior-Hotelprojekt in der historischen Masia <em>Mas Candell</em> aus dem 16. Jahrhundert, die als Kulturerbe Kataloniens anerkannt ist.",
+        "Diese beeindruckende Immobilie befindet sich auf einem <strong>10.680 m²</strong> großen Grundstück, weniger als 2 Kilometer von den Stränden von Platja d’Aro und dem lebhaften Zentrum mit Gastronomie, Geschäften und Freizeitangeboten entfernt. Auch der Yachthafen und mehrere bekannte Golfplätze liegen in der Nähe.",
+        "Das Hotelprojekt konzentriert sich darauf, die historische Schönheit der Masia zu bewahren und aufzuwerten, während sie mit zwei modernen Gebäuden kombiniert wird. Die Kapazität beträgt <strong>90 Gäste</strong>, bis zu maximal <strong>107 Gäste</strong>.",
+        "Die Masia wird das Herzstück des Hotels bilden, mit einem charmanten Empfangs- und Loungebereich, <strong>11 Suiten</strong> und <strong>6 Superior-Zimmern</strong> sowie einem Restaurant für <strong>50 Gäste</strong> mit eigener Küche. Die Gäste genießen zwei großzügige Terrassen: eine für <strong>100 Personen</strong> und eine weitere mit einem <strong>200 m² großen Chill-out-Bereich</strong>.",
+        "Ein weiterer Teil des Hotels besteht aus <strong>14 einzelnen Familienbungalows</strong> mit eigenem Eingang und großen Terrassen. Sie liegen neben einer weitläufigen Grünfläche mit alten Bäumen, die Schatten und eine entspannte Atmosphäre bieten.",
+        "Das Hotel verfügt außerdem über <strong>zwei Pools</strong>, einen <strong>Spa-Bereich</strong> und einen <strong>Jacuzzi</strong> sowie einen <strong>multifunktionalen Raum</strong> für Hochzeiten, Konzerte und Veranstaltungen mit bis zu <strong>200 Personen</strong>, mit <strong>7.087 m²</strong> Gartenflächen und <strong>2.470 m²</strong> Gemeinschaftsbereichen.",
+        "Das Projekt ist vollständig ausgearbeitet und von den lokalen und regionalen Behörden genehmigt, wodurch es ein Investment mit hohem Renditepotenzial darstellt.",
+        "<strong>Der angegebene Preis beinhaltet die Immobilie im aktuellen Zustand; die Renovierungskosten werden separat beauftragt.</strong>",
+        "Für weitere Informationen kontaktieren Sie uns bitte."
       ],
       "location_title": "Lage",
-      "location_text": "Gebiet Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
+      "location_text": "Gebiet Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
       "contact_label": "Kontakt",
       "email_label": "E-Mail",
       "spoken_label": "Wir sprechen",
-      "video_fallback": "Ihr Browser unterst\u00FCtzt keine Videowiedergabe."
+      "video_fallback": "Ihr Browser unterstützt keine Videowiedergabe."
     },
     "ru": {
-      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
-      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
-      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
-      "title": "\u041C\u0430\u0441\u0438\u044F \u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0436\u0443 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E",
-      "seo_title": "\u041C\u0430\u0441\u0438\u044F \u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0436\u0443 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E | LacostaHaus",
-      "seo_description": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u043C\u0430\u0441\u0438\u0438 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E, \u0440\u044F\u0434\u043E\u043C \u0441 \u041F\u043B\u0430\u0439\u044F-\u0434\u0435-\u0410\u0440\u043E, \u0443\u0447\u0430\u0441\u0442\u043E\u043A 10 680 \u043C\u00B2 \u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442.",
-      "details_title": "\u0414\u0435\u0442\u0430\u043B\u0438 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
-      "price": "2.9M \u20AC",
+      "nav_home": "Главная",
+      "nav_properties": "Недвижимость",
+      "nav_languages": "Языки",
+      "title": "Масия на продажу в Порт-д'Аро",
+      "seo_title": "Масия на продажу в Порт-д'Аро | LacostaHaus",
+      "seo_description": "Гостиничный проект в исторической масии в Порт-д'Аро, рядом с Плайя-де-Аро, участок 10 680 м² и утверждённый проект.",
+      "details_title": "Детали недвижимости",
+      "price": "2.9M €",
       "details": [
         [
-          "\u0422\u0438\u043F",
-          "\u041C\u0430\u0441\u0438\u044F"
+          "Тип",
+          "Масия"
         ],
         [
-          "\u042D\u0442\u0430\u0436\u0438",
+          "Этажи",
           "3"
         ],
         [
-          "\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0430\u044F \u043F\u043B\u043E\u0449\u0430\u0434\u044C",
-          "1.141 \u043C\u00B2"
+          "Построенная площадь",
+          "1.141 м²"
         ],
         [
-          "\u041F\u043E\u043B\u0435\u0437\u043D\u0430\u044F \u043F\u043B\u043E\u0449\u0430\u0434\u044C",
-          "1.100 \u043C\u00B2"
+          "Полезная площадь",
+          "1.100 м²"
         ],
         [
-          "\u041A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "Комнаты",
           "11"
         ],
         [
-          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
-          "10.680 \u043C\u00B2"
+          "Участок",
+          "10.680 м²"
         ],
         [
-          "\u0422\u0435\u0440\u0440\u0430\u0441\u0430/\u0411\u0430\u043B\u043A\u043E\u043D",
-          "\u0414\u0430"
+          "Терраса/Балкон",
+          "Да"
         ],
         [
-          "\u0413\u0430\u0440\u0430\u0436",
-          "\u0412\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0446\u0435\u043D\u0443"
+          "Гараж",
+          "Включён в цену"
         ],
         [
-          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
-          "\u0412\u0442\u043E\u0440\u0438\u0447\u043D\u044B\u0439 \u0440\u044B\u043D\u043E\u043A / \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F \u0440\u0435\u043C\u043E\u043D\u0442"
+          "Состояние",
+          "Вторичный рынок / требуется ремонт"
         ],
         [
-          "\u041A\u043B\u0430\u0434\u043E\u0432\u0430\u044F",
-          "\u0414\u0430"
+          "Кладовая",
+          "Да"
         ],
         [
-          "\u041E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u044F",
-          "\u042E\u0433, \u0412\u043E\u0441\u0442\u043E\u043A"
+          "Ориентация",
+          "Юг, Восток"
         ],
         [
-          "\u0413\u043E\u0434 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+          "Год постройки",
           "1988"
         ],
         [
-          "\u041E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u0435",
-          "\u041D\u0435\u0442"
+          "Отопление",
+          "Нет"
         ],
         [
-          "\u041E\u0441\u043D\u0430\u0449\u0435\u043D\u0438\u0435",
-          "\u0421\u0430\u0434"
+          "Оснащение",
+          "Сад"
         ],
         [
-          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
-          "\u0412 \u043F\u0440\u043E\u0446\u0435\u0441\u0441\u0435 \u043E\u0444\u043E\u0440\u043C\u043B\u0435\u043D\u0438\u044F"
+          "Энергетический сертификат",
+          "В процессе оформления"
         ]
       ],
-      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
-      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
-      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
-      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "project_title": "Проект",
+      "pdf_title": "Проект реконструкции — LacostaHaus",
+      "download_pdf": "Скачать PDF",
+      "description_title": "Описание",
       "description": [
-        "\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u044B\u0439 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0442\u0435\u0433\u043E\u0440\u0438\u0438 4 \u0437\u0432\u0435\u0437\u0434\u044B superior \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u043C\u0430\u0441\u0438\u0438 \u003Cem\u003EMas Candell\u003C/em\u003E XVI \u0432\u0435\u043A\u0430, \u043F\u0440\u0438\u0437\u043D\u0430\u043D\u043D\u043E\u0439 \u0447\u0430\u0441\u0442\u044C\u044E \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F \u041A\u0430\u0442\u0430\u043B\u043E\u043D\u0438\u0438.",
-        "\u042D\u0442\u0430 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u0430\u044F \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u003Cstrong\u003E10.680 \u043C\u00B2\u003C/strong\u003E, \u043C\u0435\u043D\u0435\u0435 \u0447\u0435\u043C \u0432 2 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430\u0445 \u043E\u0442 \u043F\u043B\u044F\u0436\u0435\u0439 \u041F\u043B\u0430\u0439\u044F-\u0434\u0435-\u0410\u0440\u043E \u0438 \u043E\u0436\u0438\u0432\u043B\u0451\u043D\u043D\u043E\u0433\u043E \u0446\u0435\u043D\u0442\u0440\u0430 \u0441 \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u0430\u043C\u0438, \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430\u043C\u0438 \u0438 \u0440\u0430\u0437\u0432\u043B\u0435\u0447\u0435\u043D\u0438\u044F\u043C\u0438. \u0422\u0430\u043A\u0436\u0435 \u0440\u044F\u0434\u043E\u043C \u043D\u0430\u0445\u043E\u0434\u044F\u0442\u0441\u044F \u043F\u043E\u0440\u0442 \u0438 \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0445 \u0433\u043E\u043B\u044C\u0444-\u043F\u043E\u043B\u0435\u0439.",
-        "\u041F\u0440\u043E\u0435\u043A\u0442 \u043E\u0442\u0435\u043B\u044F \u043D\u0430\u043F\u0440\u0430\u0432\u043B\u0435\u043D \u043D\u0430 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435 \u0438 \u043F\u043E\u0434\u0447\u0451\u0440\u043A\u0438\u0432\u0430\u043D\u0438\u0435 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u043A\u0440\u0430\u0441\u043E\u0442\u044B \u043C\u0430\u0441\u0438\u0438, \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u044F\u044F \u0435\u0451 \u0441 \u0434\u0432\u0443\u043C\u044F \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u043C\u0438 \u0437\u0434\u0430\u043D\u0438\u044F\u043C\u0438. \u0412\u043C\u0435\u0441\u0442\u0438\u043C\u043E\u0441\u0442\u044C \u043E\u0442\u0435\u043B\u044F \u0441\u043E\u0441\u0442\u0430\u0432\u0438\u0442 \u003Cstrong\u003E90 \u0433\u043E\u0441\u0442\u0435\u0439\u003C/strong\u003E, \u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u0434\u043E \u003Cstrong\u003E107 \u0433\u043E\u0441\u0442\u0435\u0439\u003C/strong\u003E.",
-        "\u041C\u0430\u0441\u0438\u044F \u0441\u0442\u0430\u043D\u0435\u0442 \u0441\u0435\u0440\u0434\u0446\u0435\u043C \u043E\u0442\u0435\u043B\u044F: \u0437\u0434\u0435\u0441\u044C \u0440\u0430\u0437\u043C\u0435\u0441\u0442\u044F\u0442\u0441\u044F \u0443\u044E\u0442\u043D\u0430\u044F \u0437\u043E\u043D\u0430 \u0440\u0435\u0441\u0435\u043F\u0448\u043D \u0438 lounge, \u003Cstrong\u003E11 \u0441\u044C\u044E\u0442\u043E\u0432\u003C/strong\u003E \u0438 \u003Cstrong\u003E6 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u044B\u0445 \u043D\u043E\u043C\u0435\u0440\u043E\u0432\u003C/strong\u003E, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D \u043D\u0430 \u003Cstrong\u003E50 \u0433\u043E\u0441\u0442\u0435\u0439\u003C/strong\u003E \u0441 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043A\u0443\u0445\u043D\u0435\u0439. \u0413\u043E\u0441\u0442\u0438 \u0441\u043C\u043E\u0433\u0443\u0442 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u0434\u0432\u0443\u043C\u044F \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438: \u043E\u0434\u043D\u043E\u0439 \u043D\u0430 \u003Cstrong\u003E100 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u003C/strong\u003E \u0438 \u0434\u0440\u0443\u0433\u043E\u0439 \u0441 \u003Cstrong\u003E\u0437\u043E\u043D\u043E\u0439 chill-out \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 200 \u043C\u00B2\u003C/strong\u003E.",
-        "\u0414\u0440\u0443\u0433\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u043E\u0442\u0435\u043B\u044F \u0431\u0443\u0434\u0435\u0442 \u0441\u043E\u0441\u0442\u043E\u044F\u0442\u044C \u0438\u0437 \u003Cstrong\u003E14 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u044B\u0445 \u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0445 \u0431\u0443\u043D\u0433\u0430\u043B\u043E\u003C/strong\u003E \u0441 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0432\u0445\u043E\u0434\u043E\u043C \u0438 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438. \u041E\u043D\u0438 \u0431\u0443\u0434\u0443\u0442 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u0440\u044F\u0434\u043E\u043C \u0441 \u0431\u043E\u043B\u044C\u0448\u043E\u0439 \u0437\u0435\u043B\u0451\u043D\u043E\u0439 \u0437\u043E\u043D\u043E\u0439 \u0441 \u0432\u0437\u0440\u043E\u0441\u043B\u044B\u043C\u0438 \u0434\u0435\u0440\u0435\u0432\u044C\u044F\u043C\u0438, \u0441\u043E\u0437\u0434\u0430\u044E\u0449\u0438\u043C\u0438 \u0442\u0435\u043D\u044C \u0438 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u0443\u044E \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0443.",
-        "\u0412 \u043E\u0442\u0435\u043B\u0435 \u0442\u0430\u043A\u0436\u0435 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u003Cstrong\u003E\u0434\u0432\u0430 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u0430\u003C/strong\u003E, \u003Cstrong\u003Espa-\u0437\u043E\u043D\u0430\u003C/strong\u003E \u0438 \u003Cstrong\u003E\u0434\u0436\u0430\u043A\u0443\u0437\u0438\u003C/strong\u003E, \u0430 \u0442\u0430\u043A\u0436\u0435 \u003Cstrong\u003E\u043C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u043E\u003C/strong\u003E \u0434\u043B\u044F \u0441\u0432\u0430\u0434\u0435\u0431, \u043A\u043E\u043D\u0446\u0435\u0440\u0442\u043E\u0432 \u0438 \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439 \u0434\u043E \u003Cstrong\u003E200 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u003C/strong\u003E, \u0441 \u003Cstrong\u003E7.087 \u043C\u00B2\u003C/strong\u003E \u0441\u0430\u0434\u043E\u0432 \u0438 \u003Cstrong\u003E2.470 \u043C\u00B2\u003C/strong\u003E \u043E\u0431\u0449\u0438\u0445 \u0437\u043E\u043D.",
-        "\u041F\u0440\u043E\u0435\u043A\u0442 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D \u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043D \u043C\u0435\u0441\u0442\u043D\u044B\u043C\u0438 \u0438 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C\u0438 \u043E\u0440\u0433\u0430\u043D\u0430\u043C\u0438, \u0447\u0442\u043E \u0434\u0435\u043B\u0430\u0435\u0442 \u0435\u0433\u043E \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0435\u0439 \u0441 \u0432\u044B\u0441\u043E\u043A\u0438\u043C \u043F\u043E\u0442\u0435\u043D\u0446\u0438\u0430\u043B\u043E\u043C \u0434\u043E\u0445\u043E\u0434\u043D\u043E\u0441\u0442\u0438.",
-        "\u003Cstrong\u003E\u0423\u043A\u0430\u0437\u0430\u043D\u043D\u0430\u044F \u0446\u0435\u043D\u0430 \u0432\u043A\u043B\u044E\u0447\u0430\u0435\u0442 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0432 \u0442\u0435\u043A\u0443\u0449\u0435\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438; \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u043E\u043F\u043B\u0430\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E.\u003C/strong\u003E",
-        "\u0421\u0432\u044F\u0436\u0438\u0442\u0435\u0441\u044C \u0441 \u043D\u0430\u043C\u0438 \u0434\u043B\u044F \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438."
+        "Компания <strong>LacostaHaus</strong> представляет великолепный гостиничный проект категории 4 звезды superior в исторической масии <em>Mas Candell</em> XVI века, признанной частью культурного наследия Каталонии.",
+        "Эта уникальная недвижимость расположена на участке <strong>10.680 м²</strong>, менее чем в 2 километрах от пляжей Плайя-де-Аро и оживлённого центра с ресторанами, магазинами и развлечениями. Также рядом находятся порт и несколько известных гольф-полей.",
+        "Проект отеля направлен на сохранение и подчёркивание исторической красоты масии, объединяя её с двумя современными зданиями. Вместимость отеля составит <strong>90 гостей</strong>, максимум до <strong>107 гостей</strong>.",
+        "Масия станет сердцем отеля: здесь разместятся уютная зона ресепшн и lounge, <strong>11 сьютов</strong> и <strong>6 улучшенных номеров</strong>, а также ресторан на <strong>50 гостей</strong> с собственной кухней. Гости смогут пользоваться двумя просторными террасами: одной на <strong>100 человек</strong> и другой с <strong>зоной chill-out площадью 200 м²</strong>.",
+        "Другая часть отеля будет состоять из <strong>14 отдельных семейных бунгало</strong> с собственным входом и просторными террасами. Они будут расположены рядом с большой зелёной зоной с взрослыми деревьями, создающими тень и спокойную атмосферу.",
+        "В отеле также предусмотрены <strong>два бассейна</strong>, <strong>spa-зона</strong> и <strong>джакузи</strong>, а также <strong>многофункциональное пространство</strong> для свадеб, концертов и мероприятий до <strong>200 человек</strong>, с <strong>7.087 м²</strong> садов и <strong>2.470 м²</strong> общих зон.",
+        "Проект полностью разработан и утверждён местными и региональными органами, что делает его инвестицией с высоким потенциалом доходности.",
+        "<strong>Указанная цена включает недвижимость в текущем состоянии; стоимость реконструкции оплачивается отдельно.</strong>",
+        "Свяжитесь с нами для получения дополнительной информации."
       ],
-      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
-      "location_text": "\u0420\u0430\u0439\u043E\u043D Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442",
+      "location_title": "Расположение",
+      "location_text": "Район Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Baix Empordà, Girona",
+      "contact_label": "Контакт",
       "email_label": "Email",
-      "spoken_label": "\u041C\u044B \u0433\u043E\u0432\u043E\u0440\u0438\u043C",
-      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0432\u0438\u0434\u0435\u043E."
+      "spoken_label": "Мы говорим",
+      "video_fallback": "Ваш браузер не поддерживает воспроизведение видео."
     }
   }
 }

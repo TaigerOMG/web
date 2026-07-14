@@ -1,73 +1,37 @@
 {
   "translations": {
     "es": {
-      "seo_title": "Pol\u00EDtica de cookies | LacostaHaus",
-      "seo_description": "Pol\u00EDtica de cookies de LacostaHaus: qu\u00E9 cookies usamos, para qu\u00E9 sirven y c\u00F3mo aceptar o rechazar las cookies de medici\u00F3n.",
-      "title": "Pol\u00EDtica de cookies",
-      "updated": "\u00DAltima actualizaci\u00F3n: junio de 2026",
-      "intro_title": "1. \u00BFQu\u00E9 son las cookies?",
+      "seo_title": "Política de cookies | LacostaHaus",
+      "seo_description": "Política de cookies de LacostaHaus: qué cookies usamos, para qué sirven y cómo aceptar o rechazar las cookies de medición.",
+      "title": "Política de cookies",
+      "updated": "Última actualización: junio de 2026",
+      "intro_title": "1. ¿Qué son las cookies?",
       "intro": [
-        "Las cookies son peque\u00F1os archivos que una p\u00E1gina web puede guardar en el navegador del usuario para recordar informaci\u00F3n sobre su visita, facilitar el funcionamiento de la p\u00E1gina o realizar mediciones de uso.",
-        "En esta web usamos cookies t\u00E9cnicas necesarias para que la p\u00E1gina funcione correctamente. Adem\u00E1s, solo si el usuario acepta, podemos usar cookies de medici\u00F3n mediante Google Tag Manager para analizar el uso de la web y mejorar su contenido."
+        "Las cookies son pequeños archivos que una página web puede guardar en el navegador del usuario para recordar información sobre su visita, facilitar el funcionamiento de la página o realizar mediciones de uso.",
+        "En esta web usamos cookies técnicas necesarias para que la página funcione correctamente. Además, solo si el usuario acepta, podemos usar cookies de medición mediante Google Tag Manager para analizar el uso de la web y mejorar su contenido."
       ],
       "responsible_title": "2. Responsable de la web",
-      "responsible": [
-        "Sitio web: LacostaHaus",
-        "Dominio: https://lacostahaus.com",
-        "Correo electr\u00F3nico de contacto: lacostahaus@gmail.com"
-      ],
+      "responsible": ["Sitio web: LacostaHaus", "Dominio: https://lacostahaus.com", "Correo electrónico de contacto: lacostahaus@gmail.com"],
       "types_title": "3. Tipos de cookies utilizadas",
-      "technical_title": "Cookies t\u00E9cnicas necesarias",
-      "technical_text": "Son necesarias para el funcionamiento b\u00E1sico de la web, por ejemplo para recordar la elecci\u00F3n del usuario sobre las cookies. Estas cookies no requieren consentimiento previo cuando son estrictamente necesarias para prestar el servicio solicitado.",
-      "analytics_title": "Cookies de medici\u00F3n o anal\u00EDticas",
-      "analytics_text": "Solo se activan si el usuario pulsa \u0022Aceptar cookies\u0022. Se utilizan para obtener informaci\u00F3n agregada sobre el uso de la p\u00E1gina mediante Google Tag Manager y las etiquetas que puedan configurarse dentro de esta herramienta, como Google Analytics si se incorpora en el contenedor.",
+      "technical_title": "Cookies técnicas necesarias",
+      "technical_text": "Son necesarias para el funcionamiento básico de la web, por ejemplo para recordar la elección del usuario sobre las cookies. Estas cookies no requieren consentimiento previo cuando son estrictamente necesarias para prestar el servicio solicitado.",
+      "analytics_title": "Cookies de medición o analíticas",
+      "analytics_text": "Solo se activan si el usuario pulsa \"Aceptar cookies\". Se utilizan para obtener información agregada sobre el uso de la página mediante Google Tag Manager y las etiquetas que puedan configurarse dentro de esta herramienta, como Google Analytics si se incorpora en el contenedor.",
       "table_title": "4. Tabla orientativa de cookies",
-      "table_headers": [
-        "Cookie o tecnolog\u00EDa",
-        "Tipo",
-        "Finalidad",
-        "Duraci\u00F3n orientativa"
-      ],
+      "table_headers": ["Cookie o tecnología", "Tipo", "Finalidad", "Duración orientativa"],
       "table_rows": [
-        [
-          "lacostahaus_cookie_consent",
-          "T\u00E9cnica",
-          "Guardar si el usuario ha aceptado o rechazado las cookies de medici\u00F3n.",
-          "Persistente en el navegador hasta que el usuario borre los datos locales."
-        ],
-        [
-          "Google Tag Manager",
-          "Medici\u00F3n / gesti\u00F3n de etiquetas",
-          "Cargar etiquetas de medici\u00F3n solo cuando el usuario acepta cookies.",
-          "Depende de las etiquetas configuradas en Google Tag Manager."
-        ],
-        [
-          "Google Analytics, si est\u00E1 configurado en GTM",
-          "Anal\u00EDtica",
-          "Analizar visitas, p\u00E1ginas vistas y uso de la web de forma estad\u00EDstica.",
-          "Seg\u00FAn configuraci\u00F3n de Google Analytics y del navegador del usuario."
-        ]
+        ["lacostahaus_cookie_consent", "Técnica", "Guardar si el usuario ha aceptado o rechazado las cookies de medición.", "Persistente en el navegador hasta que el usuario borre los datos locales."],
+        ["Google Tag Manager", "Medición / gestión de etiquetas", "Cargar etiquetas de medición solo cuando el usuario acepta cookies.", "Depende de las etiquetas configuradas en Google Tag Manager."],
+        ["Google Analytics, si está configurado en GTM", "Analítica", "Analizar visitas, páginas vistas y uso de la web de forma estadística.", "Según configuración de Google Analytics y del navegador del usuario."]
       ],
-      "consent_title": "5. C\u00F3mo aceptar, rechazar o retirar el consentimiento",
-      "consent": [
-        "Al entrar en la web, el usuario puede aceptar o rechazar las cookies de medici\u00F3n desde el banner de cookies.",
-        "Si el usuario rechaza las cookies, no se cargan las cookies de medici\u00F3n mediante Google Tag Manager.",
-        "El usuario puede cambiar de opini\u00F3n borrando los datos del sitio desde la configuraci\u00F3n de su navegador. Despu\u00E9s, al volver a entrar, aparecer\u00E1 de nuevo el banner de cookies."
-      ],
-      "browser_title": "6. C\u00F3mo borrar o bloquear cookies desde el navegador",
-      "browser": [
-        "El usuario puede permitir, bloquear o eliminar cookies desde la configuraci\u00F3n del navegador que utilice, por ejemplo Chrome, Edge, Firefox, Safari u otros navegadores.",
-        "La forma exacta de hacerlo depende del navegador y de la versi\u00F3n instalada."
-      ],
+      "consent_title": "5. Cómo aceptar, rechazar o retirar el consentimiento",
+      "consent": ["Al entrar en la web, el usuario puede aceptar o rechazar las cookies de medición desde el banner de cookies.", "Si el usuario rechaza las cookies, no se cargan las cookies de medición mediante Google Tag Manager.", "El usuario puede cambiar de opinión borrando los datos del sitio desde la configuración de su navegador. Después, al volver a entrar, aparecerá de nuevo el banner de cookies."],
+      "browser_title": "6. Cómo borrar o bloquear cookies desde el navegador",
+      "browser": ["El usuario puede permitir, bloquear o eliminar cookies desde la configuración del navegador que utilice, por ejemplo Chrome, Edge, Firefox, Safari u otros navegadores.", "La forma exacta de hacerlo depende del navegador y de la versión instalada."],
       "third_title": "7. Cookies de terceros",
-      "third": [
-        "Si el usuario acepta las cookies de medici\u00F3n, Google Tag Manager puede cargar servicios de Google u otras etiquetas configuradas por el titular de la web. Estas herramientas pueden tratar informaci\u00F3n t\u00E9cnica sobre la navegaci\u00F3n, como p\u00E1ginas visitadas, dispositivo, navegador o datos aproximados de uso.",
-        "LacostaHaus recomienda revisar tambi\u00E9n las pol\u00EDticas de privacidad y cookies de los terceros que puedan intervenir cuando se activen estas herramientas."
-      ],
-      "changes_title": "8. Cambios en la pol\u00EDtica de cookies",
-      "changes": [
-        "Esta pol\u00EDtica puede actualizarse si cambian las cookies utilizadas, las herramientas de medici\u00F3n, la normativa aplicable o la configuraci\u00F3n de la web."
-      ],
+      "third": ["Si el usuario acepta las cookies de medición, Google Tag Manager puede cargar servicios de Google u otras etiquetas configuradas por el titular de la web. Estas herramientas pueden tratar información técnica sobre la navegación, como páginas visitadas, dispositivo, navegador o datos aproximados de uso.", "LacostaHaus recomienda revisar también las políticas de privacidad y cookies de los terceros que puedan intervenir cuando se activen estas herramientas."],
+      "changes_title": "8. Cambios en la política de cookies",
+      "changes": ["Esta política puede actualizarse si cambian las cookies utilizadas, las herramientas de medición, la normativa aplicable o la configuración de la web."],
       "back_home": "Volver al inicio"
     },
     "en": {
@@ -76,279 +40,107 @@
       "title": "Cookie policy",
       "updated": "Last updated: June 2026",
       "intro_title": "1. What are cookies?",
-      "intro": [
-        "Cookies are small files that a website may store in the user\u0027s browser to remember information about the visit, enable website functionality or measure website usage.",
-        "This website uses essential technical cookies required for the website to work properly. In addition, only if the user accepts, measurement cookies may be used through Google Tag Manager to analyze website usage and improve its content."
-      ],
+      "intro": ["Cookies are small files that a website may store in the user's browser to remember information about the visit, enable website functionality or measure website usage.", "This website uses essential technical cookies required for the website to work properly. In addition, only if the user accepts, measurement cookies may be used through Google Tag Manager to analyze website usage and improve its content."],
       "responsible_title": "2. Website owner",
-      "responsible": [
-        "Website: LacostaHaus",
-        "Domain: https://lacostahaus.com",
-        "Contact email: lacostahaus@gmail.com"
-      ],
+      "responsible": ["Website: LacostaHaus", "Domain: https://lacostahaus.com", "Contact email: lacostahaus@gmail.com"],
       "types_title": "3. Types of cookies used",
       "technical_title": "Essential technical cookies",
-      "technical_text": "These are necessary for the basic operation of the website, for example to remember the user\u0027s cookie choice. Strictly necessary cookies do not require prior consent when they are essential to provide the requested service.",
+      "technical_text": "These are necessary for the basic operation of the website, for example to remember the user's cookie choice. Strictly necessary cookies do not require prior consent when they are essential to provide the requested service.",
       "analytics_title": "Measurement or analytics cookies",
-      "analytics_text": "These are only activated if the user clicks \u0022Accept cookies\u0022. They are used to obtain aggregated information about website usage through Google Tag Manager and any tags configured within that tool, such as Google Analytics if included in the container.",
+      "analytics_text": "These are only activated if the user clicks \"Accept cookies\". They are used to obtain aggregated information about website usage through Google Tag Manager and any tags configured within that tool, such as Google Analytics if included in the container.",
       "table_title": "4. Indicative cookie table",
-      "table_headers": [
-        "Cookie or technology",
-        "Type",
-        "Purpose",
-        "Approximate duration"
-      ],
-      "table_rows": [
-        [
-          "lacostahaus_cookie_consent",
-          "Technical",
-          "Stores whether the user has accepted or rejected measurement cookies.",
-          "Persistent in the browser until the user deletes local site data."
-        ],
-        [
-          "Google Tag Manager",
-          "Measurement / tag management",
-          "Loads measurement tags only when the user accepts cookies.",
-          "Depends on the tags configured in Google Tag Manager."
-        ],
-        [
-          "Google Analytics, if configured in GTM",
-          "Analytics",
-          "Analyzes visits, page views and website usage statistically.",
-          "Depends on Google Analytics settings and the user\u0027s browser."
-        ]
-      ],
+      "table_headers": ["Cookie or technology", "Type", "Purpose", "Approximate duration"],
+      "table_rows": [["lacostahaus_cookie_consent", "Technical", "Stores whether the user has accepted or rejected measurement cookies.", "Persistent in the browser until the user deletes local site data."], ["Google Tag Manager", "Measurement / tag management", "Loads measurement tags only when the user accepts cookies.", "Depends on the tags configured in Google Tag Manager."], ["Google Analytics, if configured in GTM", "Analytics", "Analyzes visits, page views and website usage statistically.", "Depends on Google Analytics settings and the user's browser."]],
       "consent_title": "5. How to accept, reject or withdraw consent",
-      "consent": [
-        "When entering the website, the user can accept or reject measurement cookies through the cookie banner.",
-        "If the user rejects cookies, measurement cookies are not loaded through Google Tag Manager.",
-        "The user can change their mind by deleting the site\u0027s data in the browser settings. After that, the cookie banner will appear again when visiting the website."
-      ],
+      "consent": ["When entering the website, the user can accept or reject measurement cookies through the cookie banner.", "If the user rejects cookies, measurement cookies are not loaded through Google Tag Manager.", "The user can change their mind by deleting the site's data in the browser settings. After that, the cookie banner will appear again when visiting the website."],
       "browser_title": "6. How to delete or block cookies in the browser",
-      "browser": [
-        "The user can allow, block or delete cookies from the settings of the browser used, such as Chrome, Edge, Firefox, Safari or others.",
-        "The exact steps depend on the browser and installed version."
-      ],
+      "browser": ["The user can allow, block or delete cookies from the settings of the browser used, such as Chrome, Edge, Firefox, Safari or others.", "The exact steps depend on the browser and installed version."],
       "third_title": "7. Third-party cookies",
-      "third": [
-        "If the user accepts measurement cookies, Google Tag Manager may load Google services or other tags configured by the website owner. These tools may process technical browsing information such as pages visited, device, browser or approximate usage data.",
-        "LacostaHaus recommends also reviewing the privacy and cookie policies of any third parties involved when these tools are activated."
-      ],
+      "third": ["If the user accepts measurement cookies, Google Tag Manager may load Google services or other tags configured by the website owner. These tools may process technical browsing information such as pages visited, device, browser or approximate usage data.", "LacostaHaus recommends also reviewing the privacy and cookie policies of any third parties involved when these tools are activated."],
       "changes_title": "8. Changes to this cookie policy",
-      "changes": [
-        "This policy may be updated if the cookies used, measurement tools, applicable regulations or website configuration change."
-      ],
+      "changes": ["This policy may be updated if the cookies used, measurement tools, applicable regulations or website configuration change."],
       "back_home": "Back to home"
     },
     "fr": {
       "seo_title": "Politique de cookies | LacostaHaus",
-      "seo_description": "Politique de cookies de LacostaHaus : quels cookies sont utilis\u00E9s, \u00E0 quoi ils servent et comment accepter ou refuser les cookies de mesure.",
+      "seo_description": "Politique de cookies de LacostaHaus : quels cookies sont utilisés, à quoi ils servent et comment accepter ou refuser les cookies de mesure.",
       "title": "Politique de cookies",
-      "updated": "Derni\u00E8re mise \u00E0 jour : juin 2026",
+      "updated": "Dernière mise à jour : juin 2026",
       "intro_title": "1. Que sont les cookies ?",
-      "intro": [
-        "Les cookies sont de petits fichiers qu\u0027un site web peut enregistrer dans le navigateur de l\u0027utilisateur afin de m\u00E9moriser des informations sur sa visite, faciliter le fonctionnement du site ou mesurer son utilisation.",
-        "Ce site utilise des cookies techniques n\u00E9cessaires \u00E0 son bon fonctionnement. En outre, uniquement si l\u0027utilisateur l\u0027accepte, des cookies de mesure peuvent \u00EAtre utilis\u00E9s via Google Tag Manager pour analyser l\u0027utilisation du site et am\u00E9liorer son contenu."
-      ],
+      "intro": ["Les cookies sont de petits fichiers qu'un site web peut enregistrer dans le navigateur de l'utilisateur afin de mémoriser des informations sur sa visite, faciliter le fonctionnement du site ou mesurer son utilisation.", "Ce site utilise des cookies techniques nécessaires à son bon fonctionnement. En outre, uniquement si l'utilisateur l'accepte, des cookies de mesure peuvent être utilisés via Google Tag Manager pour analyser l'utilisation du site et améliorer son contenu."],
       "responsible_title": "2. Responsable du site",
-      "responsible": [
-        "Site web : LacostaHaus",
-        "Domaine : https://lacostahaus.com",
-        "E-mail de contact : lacostahaus@gmail.com"
-      ],
-      "types_title": "3. Types de cookies utilis\u00E9s",
-      "technical_title": "Cookies techniques n\u00E9cessaires",
-      "technical_text": "Ils sont n\u00E9cessaires au fonctionnement de base du site, par exemple pour m\u00E9moriser le choix de l\u0027utilisateur concernant les cookies. Ces cookies ne n\u00E9cessitent pas de consentement pr\u00E9alable lorsqu\u0027ils sont strictement n\u00E9cessaires \u00E0 la fourniture du service demand\u00E9.",
-      "analytics_title": "Cookies de mesure ou d\u0027analyse",
-      "analytics_text": "Ils ne sont activ\u00E9s que si l\u0027utilisateur clique sur \u00AB Accepter les cookies \u00BB. Ils servent \u00E0 obtenir des informations agr\u00E9g\u00E9es sur l\u0027utilisation du site via Google Tag Manager et les balises qui peuvent \u00EAtre configur\u00E9es dans cet outil, comme Google Analytics s\u0027il est int\u00E9gr\u00E9 au conteneur.",
+      "responsible": ["Site web : LacostaHaus", "Domaine : https://lacostahaus.com", "E-mail de contact : lacostahaus@gmail.com"],
+      "types_title": "3. Types de cookies utilisés",
+      "technical_title": "Cookies techniques nécessaires",
+      "technical_text": "Ils sont nécessaires au fonctionnement de base du site, par exemple pour mémoriser le choix de l'utilisateur concernant les cookies. Ces cookies ne nécessitent pas de consentement préalable lorsqu'ils sont strictement nécessaires à la fourniture du service demandé.",
+      "analytics_title": "Cookies de mesure ou d'analyse",
+      "analytics_text": "Ils ne sont activés que si l'utilisateur clique sur « Accepter les cookies ». Ils servent à obtenir des informations agrégées sur l'utilisation du site via Google Tag Manager et les balises qui peuvent être configurées dans cet outil, comme Google Analytics s'il est intégré au conteneur.",
       "table_title": "4. Tableau indicatif des cookies",
-      "table_headers": [
-        "Cookie ou technologie",
-        "Type",
-        "Finalit\u00E9",
-        "Dur\u00E9e indicative"
-      ],
-      "table_rows": [
-        [
-          "lacostahaus_cookie_consent",
-          "Technique",
-          "Enregistrer si l\u0027utilisateur a accept\u00E9 ou refus\u00E9 les cookies de mesure.",
-          "Persistant dans le navigateur jusqu\u0027\u00E0 suppression des donn\u00E9es locales par l\u0027utilisateur."
-        ],
-        [
-          "Google Tag Manager",
-          "Mesure / gestion des balises",
-          "Charger les balises de mesure uniquement lorsque l\u0027utilisateur accepte les cookies.",
-          "D\u00E9pend des balises configur\u00E9es dans Google Tag Manager."
-        ],
-        [
-          "Google Analytics, si configur\u00E9 dans GTM",
-          "Analyse",
-          "Analyser statistiquement les visites, pages vues et l\u0027utilisation du site.",
-          "Selon la configuration de Google Analytics et le navigateur de l\u0027utilisateur."
-        ]
-      ],
+      "table_headers": ["Cookie ou technologie", "Type", "Finalité", "Durée indicative"],
+      "table_rows": [["lacostahaus_cookie_consent", "Technique", "Enregistrer si l'utilisateur a accepté ou refusé les cookies de mesure.", "Persistant dans le navigateur jusqu'à suppression des données locales par l'utilisateur."], ["Google Tag Manager", "Mesure / gestion des balises", "Charger les balises de mesure uniquement lorsque l'utilisateur accepte les cookies.", "Dépend des balises configurées dans Google Tag Manager."], ["Google Analytics, si configuré dans GTM", "Analyse", "Analyser statistiquement les visites, pages vues et l'utilisation du site.", "Selon la configuration de Google Analytics et le navigateur de l'utilisateur."]],
       "consent_title": "5. Comment accepter, refuser ou retirer le consentement",
-      "consent": [
-        "En entrant sur le site, l\u0027utilisateur peut accepter ou refuser les cookies de mesure depuis le bandeau de cookies.",
-        "Si l\u0027utilisateur refuse les cookies, les cookies de mesure ne sont pas charg\u00E9s via Google Tag Manager.",
-        "L\u0027utilisateur peut changer d\u0027avis en supprimant les donn\u00E9es du site depuis les param\u00E8tres de son navigateur. Ensuite, le bandeau de cookies r\u00E9appara\u00EEtra lors de la prochaine visite."
-      ],
+      "consent": ["En entrant sur le site, l'utilisateur peut accepter ou refuser les cookies de mesure depuis le bandeau de cookies.", "Si l'utilisateur refuse les cookies, les cookies de mesure ne sont pas chargés via Google Tag Manager.", "L'utilisateur peut changer d'avis en supprimant les données du site depuis les paramètres de son navigateur. Ensuite, le bandeau de cookies réapparaîtra lors de la prochaine visite."],
       "browser_title": "6. Comment supprimer ou bloquer les cookies dans le navigateur",
-      "browser": [
-        "L\u0027utilisateur peut autoriser, bloquer ou supprimer les cookies depuis les param\u00E8tres du navigateur utilis\u00E9, par exemple Chrome, Edge, Firefox, Safari ou autres.",
-        "La m\u00E9thode exacte d\u00E9pend du navigateur et de sa version."
-      ],
+      "browser": ["L'utilisateur peut autoriser, bloquer ou supprimer les cookies depuis les paramètres du navigateur utilisé, par exemple Chrome, Edge, Firefox, Safari ou autres.", "La méthode exacte dépend du navigateur et de sa version."],
       "third_title": "7. Cookies de tiers",
-      "third": [
-        "Si l\u0027utilisateur accepte les cookies de mesure, Google Tag Manager peut charger des services Google ou d\u0027autres balises configur\u00E9es par le titulaire du site. Ces outils peuvent traiter des informations techniques de navigation, comme les pages visit\u00E9es, l\u0027appareil, le navigateur ou des donn\u00E9es approximatives d\u0027utilisation.",
-        "LacostaHaus recommande \u00E9galement de consulter les politiques de confidentialit\u00E9 et de cookies des tiers susceptibles d\u0027intervenir lorsque ces outils sont activ\u00E9s."
-      ],
+      "third": ["Si l'utilisateur accepte les cookies de mesure, Google Tag Manager peut charger des services Google ou d'autres balises configurées par le titulaire du site. Ces outils peuvent traiter des informations techniques de navigation, comme les pages visitées, l'appareil, le navigateur ou des données approximatives d'utilisation.", "LacostaHaus recommande également de consulter les politiques de confidentialité et de cookies des tiers susceptibles d'intervenir lorsque ces outils sont activés."],
       "changes_title": "8. Modifications de la politique de cookies",
-      "changes": [
-        "Cette politique peut \u00EAtre mise \u00E0 jour si les cookies utilis\u00E9s, les outils de mesure, la r\u00E9glementation applicable ou la configuration du site changent."
-      ],
-      "back_home": "Retour \u00E0 l\u0027accueil"
+      "changes": ["Cette politique peut être mise à jour si les cookies utilisés, les outils de mesure, la réglementation applicable ou la configuration du site changent."],
+      "back_home": "Retour à l'accueil"
     },
     "de": {
       "seo_title": "Cookie-Richtlinie | LacostaHaus",
-      "seo_description": "Cookie-Richtlinie von LacostaHaus: welche Cookies verwendet werden, wof\u00FCr sie dienen und wie Mess-Cookies akzeptiert oder abgelehnt werden k\u00F6nnen.",
+      "seo_description": "Cookie-Richtlinie von LacostaHaus: welche Cookies verwendet werden, wofür sie dienen und wie Mess-Cookies akzeptiert oder abgelehnt werden können.",
       "title": "Cookie-Richtlinie",
       "updated": "Letzte Aktualisierung: Juni 2026",
       "intro_title": "1. Was sind Cookies?",
-      "intro": [
-        "Cookies sind kleine Dateien, die eine Website im Browser des Nutzers speichern kann, um Informationen \u00FCber den Besuch zu merken, die Funktion der Website zu erm\u00F6glichen oder die Nutzung der Website zu messen.",
-        "Diese Website verwendet notwendige technische Cookies, damit die Website ordnungsgem\u00E4\u00DF funktioniert. Dar\u00FCber hinaus k\u00F6nnen nur mit Zustimmung des Nutzers Mess-Cookies \u00FCber Google Tag Manager verwendet werden, um die Nutzung der Website zu analysieren und den Inhalt zu verbessern."
-      ],
+      "intro": ["Cookies sind kleine Dateien, die eine Website im Browser des Nutzers speichern kann, um Informationen über den Besuch zu merken, die Funktion der Website zu ermöglichen oder die Nutzung der Website zu messen.", "Diese Website verwendet notwendige technische Cookies, damit die Website ordnungsgemäß funktioniert. Darüber hinaus können nur mit Zustimmung des Nutzers Mess-Cookies über Google Tag Manager verwendet werden, um die Nutzung der Website zu analysieren und den Inhalt zu verbessern."],
       "responsible_title": "2. Verantwortlicher der Website",
-      "responsible": [
-        "Website: LacostaHaus",
-        "Domain: https://lacostahaus.com",
-        "Kontakt-E-Mail: lacostahaus@gmail.com"
-      ],
+      "responsible": ["Website: LacostaHaus", "Domain: https://lacostahaus.com", "Kontakt-E-Mail: lacostahaus@gmail.com"],
       "types_title": "3. Arten der verwendeten Cookies",
       "technical_title": "Notwendige technische Cookies",
-      "technical_text": "Diese sind f\u00FCr den grundlegenden Betrieb der Website erforderlich, zum Beispiel um die Cookie-Auswahl des Nutzers zu speichern. Streng notwendige Cookies erfordern keine vorherige Zustimmung, wenn sie f\u00FCr die Bereitstellung des angeforderten Dienstes erforderlich sind.",
+      "technical_text": "Diese sind für den grundlegenden Betrieb der Website erforderlich, zum Beispiel um die Cookie-Auswahl des Nutzers zu speichern. Streng notwendige Cookies erfordern keine vorherige Zustimmung, wenn sie für die Bereitstellung des angeforderten Dienstes erforderlich sind.",
       "analytics_title": "Mess- oder Analyse-Cookies",
-      "analytics_text": "Diese werden nur aktiviert, wenn der Nutzer auf \u201ECookies akzeptieren\u201C klickt. Sie dienen dazu, aggregierte Informationen \u00FCber die Nutzung der Website \u00FCber Google Tag Manager und dort konfigurierte Tags zu erhalten, wie z. B. Google Analytics, falls es im Container eingebunden ist.",
+      "analytics_text": "Diese werden nur aktiviert, wenn der Nutzer auf „Cookies akzeptieren“ klickt. Sie dienen dazu, aggregierte Informationen über die Nutzung der Website über Google Tag Manager und dort konfigurierte Tags zu erhalten, wie z. B. Google Analytics, falls es im Container eingebunden ist.",
       "table_title": "4. Orientierende Cookie-Tabelle",
-      "table_headers": [
-        "Cookie oder Technologie",
-        "Typ",
-        "Zweck",
-        "Ungef\u00E4hre Dauer"
-      ],
-      "table_rows": [
-        [
-          "lacostahaus_cookie_consent",
-          "Technisch",
-          "Speichert, ob der Nutzer Mess-Cookies akzeptiert oder abgelehnt hat.",
-          "Dauerhaft im Browser, bis der Nutzer lokale Websitedaten l\u00F6scht."
-        ],
-        [
-          "Google Tag Manager",
-          "Messung / Tag-Management",
-          "L\u00E4dt Mess-Tags nur, wenn der Nutzer Cookies akzeptiert.",
-          "H\u00E4ngt von den in Google Tag Manager konfigurierten Tags ab."
-        ],
-        [
-          "Google Analytics, falls in GTM konfiguriert",
-          "Analyse",
-          "Statistische Analyse von Besuchen, Seitenaufrufen und Websitenutzung.",
-          "Je nach Google-Analytics-Konfiguration und Browser des Nutzers."
-        ]
-      ],
+      "table_headers": ["Cookie oder Technologie", "Typ", "Zweck", "Ungefähre Dauer"],
+      "table_rows": [["lacostahaus_cookie_consent", "Technisch", "Speichert, ob der Nutzer Mess-Cookies akzeptiert oder abgelehnt hat.", "Dauerhaft im Browser, bis der Nutzer lokale Websitedaten löscht."], ["Google Tag Manager", "Messung / Tag-Management", "Lädt Mess-Tags nur, wenn der Nutzer Cookies akzeptiert.", "Hängt von den in Google Tag Manager konfigurierten Tags ab."], ["Google Analytics, falls in GTM konfiguriert", "Analyse", "Statistische Analyse von Besuchen, Seitenaufrufen und Websitenutzung.", "Je nach Google-Analytics-Konfiguration und Browser des Nutzers."]],
       "consent_title": "5. Zustimmung akzeptieren, ablehnen oder widerrufen",
-      "consent": [
-        "Beim Aufrufen der Website kann der Nutzer Mess-Cookies \u00FCber das Cookie-Banner akzeptieren oder ablehnen.",
-        "Wenn der Nutzer Cookies ablehnt, werden keine Mess-Cookies \u00FCber Google Tag Manager geladen.",
-        "Der Nutzer kann seine Entscheidung \u00E4ndern, indem er die Websitedaten in den Browser-Einstellungen l\u00F6scht. Danach erscheint das Cookie-Banner beim erneuten Besuch wieder."
-      ],
-      "browser_title": "6. Cookies im Browser l\u00F6schen oder blockieren",
-      "browser": [
-        "Der Nutzer kann Cookies in den Einstellungen des verwendeten Browsers zulassen, blockieren oder l\u00F6schen, z. B. in Chrome, Edge, Firefox, Safari oder anderen Browsern.",
-        "Die genauen Schritte h\u00E4ngen vom Browser und der installierten Version ab."
-      ],
+      "consent": ["Beim Aufrufen der Website kann der Nutzer Mess-Cookies über das Cookie-Banner akzeptieren oder ablehnen.", "Wenn der Nutzer Cookies ablehnt, werden keine Mess-Cookies über Google Tag Manager geladen.", "Der Nutzer kann seine Entscheidung ändern, indem er die Websitedaten in den Browser-Einstellungen löscht. Danach erscheint das Cookie-Banner beim erneuten Besuch wieder."],
+      "browser_title": "6. Cookies im Browser löschen oder blockieren",
+      "browser": ["Der Nutzer kann Cookies in den Einstellungen des verwendeten Browsers zulassen, blockieren oder löschen, z. B. in Chrome, Edge, Firefox, Safari oder anderen Browsern.", "Die genauen Schritte hängen vom Browser und der installierten Version ab."],
       "third_title": "7. Cookies von Drittanbietern",
-      "third": [
-        "Wenn der Nutzer Mess-Cookies akzeptiert, kann Google Tag Manager Google-Dienste oder andere vom Websitebetreiber konfigurierte Tags laden. Diese Tools k\u00F6nnen technische Browsing-Informationen verarbeiten, wie besuchte Seiten, Ger\u00E4t, Browser oder ungef\u00E4hre Nutzungsdaten.",
-        "LacostaHaus empfiehlt, auch die Datenschutz- und Cookie-Richtlinien der beteiligten Drittanbieter zu pr\u00FCfen, wenn diese Tools aktiviert werden."
-      ],
-      "changes_title": "8. \u00C4nderungen dieser Cookie-Richtlinie",
-      "changes": [
-        "Diese Richtlinie kann aktualisiert werden, wenn sich die verwendeten Cookies, Messwerkzeuge, geltende Vorschriften oder die Website-Konfiguration \u00E4ndern."
-      ],
+      "third": ["Wenn der Nutzer Mess-Cookies akzeptiert, kann Google Tag Manager Google-Dienste oder andere vom Websitebetreiber konfigurierte Tags laden. Diese Tools können technische Browsing-Informationen verarbeiten, wie besuchte Seiten, Gerät, Browser oder ungefähre Nutzungsdaten.", "LacostaHaus empfiehlt, auch die Datenschutz- und Cookie-Richtlinien der beteiligten Drittanbieter zu prüfen, wenn diese Tools aktiviert werden."],
+      "changes_title": "8. Änderungen dieser Cookie-Richtlinie",
+      "changes": ["Diese Richtlinie kann aktualisiert werden, wenn sich die verwendeten Cookies, Messwerkzeuge, geltende Vorschriften oder die Website-Konfiguration ändern."],
       "back_home": "Zur Startseite"
     },
     "ru": {
-      "seo_title": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 cookies | LacostaHaus",
-      "seo_description": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 cookies LacostaHaus: \u043A\u0430\u043A\u0438\u0435 cookies \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442\u0441\u044F, \u0434\u043B\u044F \u0447\u0435\u0433\u043E \u043E\u043D\u0438 \u043D\u0443\u0436\u043D\u044B \u0438 \u043A\u0430\u043A \u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0438\u043B\u0438 \u043E\u0442\u043A\u043B\u043E\u043D\u0438\u0442\u044C \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies.",
-      "title": "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 cookies",
-      "updated": "\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0435\u0435 \u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435: \u0438\u044E\u043D\u044C 2026",
-      "intro_title": "1. \u0427\u0442\u043E \u0442\u0430\u043A\u043E\u0435 cookies?",
-      "intro": [
-        "Cookies \u2014 \u044D\u0442\u043E \u043D\u0435\u0431\u043E\u043B\u044C\u0448\u0438\u0435 \u0444\u0430\u0439\u043B\u044B, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0441\u0430\u0439\u0442 \u043C\u043E\u0436\u0435\u0442 \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0442\u044C \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u0442\u044C \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E \u043E \u0432\u0438\u0437\u0438\u0442\u0435, \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u0443 \u0441\u0430\u0439\u0442\u0430 \u0438\u043B\u0438 \u0438\u0437\u043C\u0435\u0440\u044F\u0442\u044C \u0435\u0433\u043E \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435.",
-        "\u041D\u0430 \u044D\u0442\u043E\u043C \u0441\u0430\u0439\u0442\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442\u0441\u044F \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B\u0435 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0434\u043B\u044F \u043A\u043E\u0440\u0440\u0435\u043A\u0442\u043D\u043E\u0439 \u0440\u0430\u0431\u043E\u0442\u044B. \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0442\u043E\u043B\u044C\u043A\u043E \u0441 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u044F \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F \u043C\u043E\u0433\u0443\u0442 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C\u0441\u044F \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0447\u0435\u0440\u0435\u0437 Google Tag Manager \u0434\u043B\u044F \u0430\u043D\u0430\u043B\u0438\u0437\u0430 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0441\u0430\u0439\u0442\u0430 \u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u0435\u0433\u043E \u0441\u043E\u0434\u0435\u0440\u0436\u0430\u043D\u0438\u044F."
-      ],
-      "responsible_title": "2. \u041E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0437\u0430 \u0441\u0430\u0439\u0442",
-      "responsible": [
-        "\u0421\u0430\u0439\u0442: LacostaHaus",
-        "\u0414\u043E\u043C\u0435\u043D: https://lacostahaus.com",
-        "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u043D\u044B\u0439 e-mail: lacostahaus@gmail.com"
-      ],
-      "types_title": "3. \u0422\u0438\u043F\u044B \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0445 cookies",
-      "technical_title": "\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B\u0435 \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies",
-      "technical_text": "\u041E\u043D\u0438 \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B \u0434\u043B\u044F \u0431\u0430\u0437\u043E\u0432\u043E\u0439 \u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0430\u0439\u0442\u0430, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440 \u0434\u043B\u044F \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F \u0432\u044B\u0431\u043E\u0440\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u043B\u044C\u043D\u043E cookies. \u0422\u0430\u043A\u0438\u0435 cookies \u043D\u0435 \u0442\u0440\u0435\u0431\u0443\u044E\u0442 \u043F\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u044F, \u0435\u0441\u043B\u0438 \u043E\u043D\u0438 \u0441\u0442\u0440\u043E\u0433\u043E \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u044B \u0434\u043B\u044F \u043F\u0440\u0435\u0434\u043E\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0438\u044F \u0437\u0430\u043F\u0440\u043E\u0448\u0435\u043D\u043D\u043E\u0439 \u0443\u0441\u043B\u0443\u0433\u0438.",
-      "analytics_title": "\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies",
-      "analytics_text": "\u041E\u043D\u0438 \u0430\u043A\u0442\u0438\u0432\u0438\u0440\u0443\u044E\u0442\u0441\u044F \u0442\u043E\u043B\u044C\u043A\u043E \u0435\u0441\u043B\u0438 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043D\u0430\u0436\u0438\u043C\u0430\u0435\u0442 \u00AB\u041F\u0440\u0438\u043D\u044F\u0442\u044C cookies\u00BB. \u041E\u043D\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044E\u0442\u0441\u044F \u0434\u043B\u044F \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u0430\u0433\u0440\u0435\u0433\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438 \u043E\u0431 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0438 \u0441\u0430\u0439\u0442\u0430 \u0447\u0435\u0440\u0435\u0437 Google Tag Manager \u0438 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435 \u0432 \u043D\u0435\u043C \u0442\u0435\u0433\u0438, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440 Google Analytics.",
-      "table_title": "4. \u041E\u0440\u0438\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u043E\u0447\u043D\u0430\u044F \u0442\u0430\u0431\u043B\u0438\u0446\u0430 cookies",
-      "table_headers": [
-        "Cookie \u0438\u043B\u0438 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F",
-        "\u0422\u0438\u043F",
-        "\u041D\u0430\u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435",
-        "\u041E\u0440\u0438\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u043E\u0447\u043D\u044B\u0439 \u0441\u0440\u043E\u043A"
-      ],
-      "table_rows": [
-        [
-          "lacostahaus_cookie_consent",
-          "\u0422\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0430\u044F",
-          "\u0421\u043E\u0445\u0440\u0430\u043D\u044F\u0435\u0442, \u043F\u0440\u0438\u043D\u044F\u043B \u0438\u043B\u0438 \u043E\u0442\u043A\u043B\u043E\u043D\u0438\u043B \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies.",
-          "\u0425\u0440\u0430\u043D\u0438\u0442\u0441\u044F \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435 \u0434\u043E \u0443\u0434\u0430\u043B\u0435\u043D\u0438\u044F \u043B\u043E\u043A\u0430\u043B\u044C\u043D\u044B\u0445 \u0434\u0430\u043D\u043D\u044B\u0445 \u0441\u0430\u0439\u0442\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0435\u043C."
-        ],
-        [
-          "Google Tag Manager",
-          "\u0418\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u0435 / \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0442\u0435\u0433\u0430\u043C\u0438",
-          "\u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u0442 \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0442\u0435\u0433\u0438 \u0442\u043E\u043B\u044C\u043A\u043E \u043F\u043E\u0441\u043B\u0435 \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u044F \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F.",
-          "\u0417\u0430\u0432\u0438\u0441\u0438\u0442 \u043E\u0442 \u0442\u0435\u0433\u043E\u0432, \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0445 \u0432 Google Tag Manager."
-        ],
-        [
-          "Google Analytics, \u0435\u0441\u043B\u0438 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043D \u0432 GTM",
-          "\u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\u0430",
-          "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0430\u043D\u0430\u043B\u0438\u0437 \u043F\u043E\u0441\u0435\u0449\u0435\u043D\u0438\u0439, \u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440\u043E\u0432 \u0441\u0442\u0440\u0430\u043D\u0438\u0446 \u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0441\u0430\u0439\u0442\u0430.",
-          "\u0417\u0430\u0432\u0438\u0441\u0438\u0442 \u043E\u0442 \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043A Google Analytics \u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F."
-        ]
-      ],
-      "consent_title": "5. \u041A\u0430\u043A \u043F\u0440\u0438\u043D\u044F\u0442\u044C, \u043E\u0442\u043A\u043B\u043E\u043D\u0438\u0442\u044C \u0438\u043B\u0438 \u043E\u0442\u043E\u0437\u0432\u0430\u0442\u044C \u0441\u043E\u0433\u043B\u0430\u0441\u0438\u0435",
-      "consent": [
-        "\u041F\u0440\u0438 \u0432\u0445\u043E\u0434\u0435 \u043D\u0430 \u0441\u0430\u0439\u0442 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043C\u043E\u0436\u0435\u0442 \u043F\u0440\u0438\u043D\u044F\u0442\u044C \u0438\u043B\u0438 \u043E\u0442\u043A\u043B\u043E\u043D\u0438\u0442\u044C \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0447\u0435\u0440\u0435\u0437 \u0431\u0430\u043D\u043D\u0435\u0440 cookies.",
-        "\u0415\u0441\u043B\u0438 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043E\u0442\u043A\u043B\u043E\u043D\u044F\u0435\u0442 cookies, \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies \u0447\u0435\u0440\u0435\u0437 Google Tag Manager \u043D\u0435 \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u044E\u0442\u0441\u044F.",
-        "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043C\u043E\u0436\u0435\u0442 \u0438\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0440\u0435\u0448\u0435\u043D\u0438\u0435, \u0443\u0434\u0430\u043B\u0438\u0432 \u0434\u0430\u043D\u043D\u044B\u0435 \u0441\u0430\u0439\u0442\u0430 \u0432 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430\u0445 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430. \u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E \u0431\u0430\u043D\u043D\u0435\u0440 cookies \u043F\u043E\u044F\u0432\u0438\u0442\u0441\u044F \u0441\u043D\u043E\u0432\u0430 \u043F\u0440\u0438 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0435\u043C \u043F\u043E\u0441\u0435\u0449\u0435\u043D\u0438\u0438."
-      ],
-      "browser_title": "6. \u041A\u0430\u043A \u0443\u0434\u0430\u043B\u0438\u0442\u044C \u0438\u043B\u0438 \u0437\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u0442\u044C cookies \u0432 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435",
-      "browser": [
-        "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043C\u043E\u0436\u0435\u0442 \u0440\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044C, \u0437\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0438\u043B\u0438 \u0443\u0434\u0430\u043B\u0438\u0442\u044C cookies \u0432 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0430\u0445 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u043E\u0433\u043E \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440 Chrome, Edge, Firefox, Safari \u0438\u043B\u0438 \u0434\u0440\u0443\u0433\u0438\u0445.",
-        "\u0422\u043E\u0447\u043D\u044B\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044F \u0437\u0430\u0432\u0438\u0441\u044F\u0442 \u043E\u0442 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430 \u0438 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u043E\u0439 \u0432\u0435\u0440\u0441\u0438\u0438."
-      ],
-      "third_title": "7. Cookies \u0442\u0440\u0435\u0442\u044C\u0438\u0445 \u0441\u0442\u043E\u0440\u043E\u043D",
-      "third": [
-        "\u0415\u0441\u043B\u0438 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442 \u0430\u043D\u0430\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435 cookies, Google Tag Manager \u043C\u043E\u0436\u0435\u0442 \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0442\u044C \u0441\u0435\u0440\u0432\u0438\u0441\u044B Google \u0438\u043B\u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0442\u0435\u0433\u0438, \u043D\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435 \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0435\u043C \u0441\u0430\u0439\u0442\u0430. \u042D\u0442\u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u044B \u043C\u043E\u0433\u0443\u0442 \u043E\u0431\u0440\u0430\u0431\u0430\u0442\u044B\u0432\u0430\u0442\u044C \u0442\u0435\u0445\u043D\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E \u043E \u043D\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u0438, \u0442\u0430\u043A\u0443\u044E \u043A\u0430\u043A \u043F\u043E\u0441\u0435\u0449\u0435\u043D\u043D\u044B\u0435 \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u044B, \u0443\u0441\u0442\u0440\u043E\u0439\u0441\u0442\u0432\u043E, \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u0438\u043B\u0438 \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F.",
-        "LacostaHaus \u0440\u0435\u043A\u043E\u043C\u0435\u043D\u0434\u0443\u0435\u0442 \u0442\u0430\u043A\u0436\u0435 \u043E\u0437\u043D\u0430\u043A\u043E\u043C\u0438\u0442\u044C\u0441\u044F \u0441 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430\u043C\u0438 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438 \u0438 cookies \u0442\u0440\u0435\u0442\u044C\u0438\u0445 \u0441\u0442\u043E\u0440\u043E\u043D, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043C\u043E\u0433\u0443\u0442 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C \u043F\u0440\u0438 \u0430\u043A\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u044D\u0442\u0438\u0445 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u043E\u0432."
-      ],
-      "changes_title": "8. \u0418\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u044F \u044D\u0442\u043E\u0439 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0438 cookies",
-      "changes": [
-        "\u042D\u0442\u0430 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043C\u043E\u0436\u0435\u0442 \u043E\u0431\u043D\u043E\u0432\u043B\u044F\u0442\u044C\u0441\u044F \u043F\u0440\u0438 \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0438 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0435\u043C\u044B\u0445 cookies, \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u043E\u0432 \u0438\u0437\u043C\u0435\u0440\u0435\u043D\u0438\u044F, \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u043C\u044B\u0445 \u043F\u0440\u0430\u0432\u0438\u043B \u0438\u043B\u0438 \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u0441\u0430\u0439\u0442\u0430."
-      ],
-      "back_home": "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430 \u0433\u043B\u0430\u0432\u043D\u0443\u044E"
+      "seo_title": "Политика cookies | LacostaHaus",
+      "seo_description": "Политика cookies LacostaHaus: какие cookies используются, для чего они нужны и как принять или отклонить аналитические cookies.",
+      "title": "Политика cookies",
+      "updated": "Последнее обновление: июнь 2026",
+      "intro_title": "1. Что такое cookies?",
+      "intro": ["Cookies — это небольшие файлы, которые сайт может сохранять в браузере пользователя, чтобы запоминать информацию о визите, обеспечивать работу сайта или измерять его использование.", "На этом сайте используются необходимые технические cookies для корректной работы. Кроме того, только с согласия пользователя могут использоваться аналитические cookies через Google Tag Manager для анализа использования сайта и улучшения его содержания."],
+      "responsible_title": "2. Ответственный за сайт",
+      "responsible": ["Сайт: LacostaHaus", "Домен: https://lacostahaus.com", "Контактный e-mail: lacostahaus@gmail.com"],
+      "types_title": "3. Типы используемых cookies",
+      "technical_title": "Необходимые технические cookies",
+      "technical_text": "Они необходимы для базовой работы сайта, например для сохранения выбора пользователя относительно cookies. Такие cookies не требуют предварительного согласия, если они строго необходимы для предоставления запрошенной услуги.",
+      "analytics_title": "Аналитические cookies",
+      "analytics_text": "Они активируются только если пользователь нажимает «Принять cookies». Они используются для получения агрегированной информации об использовании сайта через Google Tag Manager и настроенные в нем теги, например Google Analytics.",
+      "table_title": "4. Ориентировочная таблица cookies",
+      "table_headers": ["Cookie или технология", "Тип", "Назначение", "Ориентировочный срок"],
+      "table_rows": [["lacostahaus_cookie_consent", "Техническая", "Сохраняет, принял или отклонил пользователь аналитические cookies.", "Хранится в браузере до удаления локальных данных сайта пользователем."], ["Google Tag Manager", "Измерение / управление тегами", "Загружает аналитические теги только после согласия пользователя.", "Зависит от тегов, настроенных в Google Tag Manager."], ["Google Analytics, если настроен в GTM", "Аналитика", "Статистический анализ посещений, просмотров страниц и использования сайта.", "Зависит от настроек Google Analytics и браузера пользователя."]],
+      "consent_title": "5. Как принять, отклонить или отозвать согласие",
+      "consent": ["При входе на сайт пользователь может принять или отклонить аналитические cookies через баннер cookies.", "Если пользователь отклоняет cookies, аналитические cookies через Google Tag Manager не загружаются.", "Пользователь может изменить решение, удалив данные сайта в настройках браузера. После этого баннер cookies появится снова при следующем посещении."],
+      "browser_title": "6. Как удалить или заблокировать cookies в браузере",
+      "browser": ["Пользователь может разрешить, заблокировать или удалить cookies в настройках используемого браузера, например Chrome, Edge, Firefox, Safari или других.", "Точные действия зависят от браузера и установленной версии."],
+      "third_title": "7. Cookies третьих сторон",
+      "third": ["Если пользователь принимает аналитические cookies, Google Tag Manager может загружать сервисы Google или другие теги, настроенные владельцем сайта. Эти инструменты могут обрабатывать техническую информацию о навигации, такую как посещенные страницы, устройство, браузер или приблизительные данные использования.", "LacostaHaus рекомендует также ознакомиться с политиками конфиденциальности и cookies третьих сторон, которые могут участвовать при активации этих инструментов."],
+      "changes_title": "8. Изменения этой политики cookies",
+      "changes": ["Эта политика может обновляться при изменении используемых cookies, инструментов измерения, применимых правил или конфигурации сайта."],
+      "back_home": "Вернуться на главную"
     }
   }
 }
