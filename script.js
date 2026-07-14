@@ -980,6 +980,93 @@
     });
   }
 
+  function normalizeText(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function detailValue(details, labels) {
+    const normalizedLabels = labels.map((label) => normalizeText(label));
+    const pair = (details || []).find((item) => normalizedLabels.includes(normalizeText(item?.[0] || "")));
+    return pair ? String(pair[1] || "").trim() : "";
+  }
+
+  function parseEuroPrice(priceText) {
+    const digits = String(priceText || "").replace(/[^\d]/g, "");
+    return digits ? Number(digits) : null;
+  }
+
+  function propertySchemaType(property, propertyText) {
+    const combined = normalizeText([...(property?.types || []), propertyText?.title || ""].join(" "));
+    if (combined.includes("piso") || combined.includes("apartamento") || combined.includes("apartment")) return "Apartment";
+    if (combined.includes("villa") || combined.includes("casa") || combined.includes("house")) return "House";
+    return "Residence";
+  }
+
+  function setPropertyStructuredData(registryProperty, propertyData, propertyText, media) {
+    const route = registryProperty?.route || `${site.routes.property}?id=${registryProperty?.id || currentPropertyId()}`;
+    const canonical = productionUrlForPath(route, currentLanguage);
+    const imageUrls = [
+      media?.poster || registryProperty?.image,
+      ...((media?.images || []).map((image) => image.src))
+    ].filter(Boolean).slice(0, 12).map(productionAssetUrl);
+    const details = propertyText.details || [];
+    const price = parseEuroPrice(propertyText.price);
+    const livingArea = detailValue(details, ["Superficie", "Built", "Surface", "Construidos", "Utile", "Wohnflache"]);
+    const bedrooms = detailValue(details, ["Dormitorios", "Habitaciones", "Bedrooms", "Chambres", "Schlafzimmer"]);
+    const bathrooms = detailValue(details, ["Banos", "Bathrooms", "Salles de bain", "Badezimmer"]);
+    const propertyType = propertySchemaType(registryProperty, propertyText);
+
+    const itemOffered = {
+      "@type": propertyType,
+      name: propertyText.title,
+      description: propertyText.seo_description || (propertyText.description || []).join(" "),
+      url: canonical,
+      image: imageUrls,
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: propertyText.location_text || "Costa Brava",
+        addressRegion: "Girona",
+        addressCountry: "ES"
+      }
+    };
+    if (livingArea) itemOffered.floorSize = { "@type": "QuantitativeValue", value: livingArea };
+    if (bedrooms) itemOffered.numberOfBedrooms = bedrooms;
+    if (bathrooms) itemOffered.numberOfBathroomsTotal = bathrooms;
+
+    const offer = {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      name: propertyText.title,
+      url: canonical,
+      availability: "https://schema.org/InStock",
+      priceCurrency: "EUR",
+      seller: {
+        "@type": "RealEstateAgent",
+        name: site.brand || "LacostaHaus",
+        telephone: site.contact?.phone || "+34 722 279 795",
+        email: site.contact?.email || "lacostahaus@gmail.com",
+        url: productionUrlForPath(site.routes.home, site.defaultLanguage || "es")
+      },
+      itemOffered
+    };
+    if (price) offer.price = price;
+    setJsonLd("propertyStructuredData", offer);
+
+    setJsonLd("propertyBreadcrumbStructuredData", {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: site.brand || "LacostaHaus", item: productionUrlForPath(site.routes.home, currentLanguage) },
+        { "@type": "ListItem", position: 2, name: "Inmuebles", item: productionUrlForPath(site.routes.properties, currentLanguage) },
+        { "@type": "ListItem", position: 3, name: propertyText.title, item: canonical }
+      ]
+    });
+  }
+
   function updateLanguageState() {
     const languageInfo = site.languages.find((lang) => lang.code === currentLanguage) || site.languages[0];
     document.documentElement.lang = languageInfo.htmlLang || currentLanguage;
@@ -2091,6 +2178,7 @@
     }
 
     setSeo(propertyText.seo_title, propertyText.seo_description, media.poster || registryProperty?.image || "assets/hero-principal.png");
+    setPropertyStructuredData(registryProperty, propertyData, propertyText, media);
     renderPropertyPrice(propertyText.price);
     document.querySelector("[data-property-title]").textContent = propertyText.title;
     document.querySelector("[data-property-location]").textContent = propertyText.location_text;
