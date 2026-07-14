@@ -112,7 +112,8 @@ header li:hover > a {
   max-width: 168px;
 }
 
-.dropdown:hover .dropdown-menu { display: block; }
+.language-dropdown:hover .dropdown-menu,
+.doubts-dropdown:hover .dropdown-menu { display: block; }
 
 .dropdown-menu a {
   border-radius: 0;
@@ -3473,9 +3474,12 @@ body[data-article-id="preparar-villa-antes-vender-costa-brava"] .article-hero {
     transform: none;
   }
 
-  .dropdown:hover .dropdown-menu,
-  .dropdown:focus-within .dropdown-menu,
-  .dropdown.is-open > .dropdown-menu {
+  .language-dropdown:hover .dropdown-menu,
+  .language-dropdown:focus-within .dropdown-menu,
+  .language-dropdown.is-open > .dropdown-menu,
+  .doubts-dropdown:hover .dropdown-menu,
+  .doubts-dropdown:focus-within .dropdown-menu,
+  .doubts-dropdown.is-open > .dropdown-menu {
     display: block;
   }
 
