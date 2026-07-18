@@ -49,7 +49,6 @@
     "contact": "contacto/",
     "cookies": "politica-cookies/",
     "privacy": "politica-privacidad/",
-    "agent": "agente-inmobiliario/",
-    "ideas": "ideas/"
+    "agent": "agente-inmobiliario/"
   }
 }

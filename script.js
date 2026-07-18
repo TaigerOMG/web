@@ -4,7 +4,7 @@
   const SCROLL_RESTORE_KEY = "lacostahaus_restore_scroll";
   const scriptUrl = document.currentScript ? document.currentScript.src : window.location.href;
   const baseUrl = new URL(".", scriptUrl);
-  const DATA_VERSION = "20260714-ideas-pool";
+  const DATA_VERSION = "20260718-hide-ideas";
   const page = document.body.dataset.page || "home";
 
   function repairTextValue(value) {
@@ -317,15 +317,6 @@
         { label: "Подготовить объект", route: "articulos/preparar-villa-antes-vender-costa-brava/" }
       ]
     }
-  };
-
-  const ideasNavLabels = {
-    es: "Ideas",
-    ca: "Idees",
-    en: "Ideas",
-    fr: "Idees",
-    de: "Ideen",
-    ru: "Ideas"
   };
 
   const ideaPoolStateKey = "lacostahaus_idea_pool_state";
@@ -1106,20 +1097,6 @@
         ${labels.items.map((entry) => `<li><a href="${urlForPath(entry.route)}">${entry.label}</a></li>`).join("")}
       </ul>
     `;
-
-    if (contactItem) navList.insertBefore(item, contactItem);
-    else navList.appendChild(item);
-  }
-
-  function renderIdeasMenu() {
-    const navList = document.querySelector(".site-nav > ul");
-    if (!navList) return;
-    navList.querySelector("[data-ideas-menu-item]")?.remove();
-
-    const contactItem = navList.querySelector('[data-route="contact"]')?.closest("li");
-    const item = document.createElement("li");
-    item.dataset.ideasMenuItem = "";
-    item.innerHTML = `<a href="${urlForPath("ideas/")}">${ideasNavLabels[currentLanguage] || ideasNavLabels.es}</a>`;
 
     if (contactItem) navList.insertBefore(item, contactItem);
     else navList.appendChild(item);
@@ -3053,7 +3030,6 @@
       setGlobalStructuredData();
       updateRoutes();
       renderDoubtsMenu();
-      renderIdeasMenu();
       renderLanguageMenu();
       applyStaticTranslations();
       renderFooter();
