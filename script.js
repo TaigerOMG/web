@@ -2953,6 +2953,27 @@
         form_id: form.id || "",
         form_name: form.getAttribute("name") || eventLabel(form)
       });
+
+      if (form.classList.contains("contact-form-v2")) {
+        event.preventDefault();
+        const formData = new FormData(form);
+        if ((formData.get("_honey") || "").trim()) return;
+
+        const recipient = site?.contact?.email || "lacostahaus@gmail.com";
+        const subject = formData.get("_subject") || "Nueva solicitud desde LacostaHaus";
+        const property = formData.get("property");
+        const lines = [
+          `Nombre: ${formData.get("name") || ""}`,
+          `Email: ${formData.get("email") || ""}`,
+          `Telefono: ${formData.get("phone") || ""}`,
+          property ? `Inmueble: ${property}` : "",
+          "",
+          "Mensaje:",
+          formData.get("message") || ""
+        ].filter((line, index) => line || index === 4);
+
+        window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.join("\n"))}`;
+      }
     });
   }
 
