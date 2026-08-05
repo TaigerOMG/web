@@ -1,6 +1,7 @@
 {
   "homeHeroProperty": "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
   "homeFeatured": [
+    "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
     "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
     "encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266",
@@ -13,6 +14,7 @@
     "piso-roca-grossa-lloret-mar"
   ],
   "catalog": [
+    "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
     "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
     "encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266",
@@ -692,6 +694,75 @@
       "showHome": true,
       "homeHero": true,
       "sortOrder": 14
+    },
+    {
+      "id": "casa-canal-piscina-empuriabrava-immogirona-298",
+      "route": "inmuebles/ficha/?id=casa-canal-piscina-empuriabrava-immogirona-298",
+      "image": "assets/inmuebles/casa-canal-piscina-empuriabrava-immogirona-298/principal.jpeg",
+      "types": [
+        "casa",
+        "independiente",
+        "canal",
+        "piscina",
+        "terraza",
+        "empuriabrava",
+        "segunda mano"
+      ],
+      "data": "data/properties/casa-canal-piscina-empuriabrava-immogirona-298.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Casa soleada al canal con piscina en Empuriabrava",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "Casa independiente en primera l\u00EDnea de canal en Empuriabrava, reformada y lista para entrar a vivir, con piscina privada, terrazas exteriores, 4 dormitorios y 3 ba\u00F1os.",
+          "cta": "Ver inmueble"
+        },
+        "ca": {
+          "tag": "Projecte hoteler",
+          "title": "Casa assolellada al costat del canal amb piscina a Empuriabrava",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "Casa adossada davant del canal a Empuriabrava, reformada i llesta per entrar-hi a viure, amb piscina privada, terrasses exteriors, 4 dormitoris i 3 banys.",
+          "cta": "Veure immoble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Sunny canal-side home with a pool in Empuriabrava",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "Detached house on the canalfront in Empuriabrava, renovated and ready to move in, with a private pool, outdoor terraces, 4 bedrooms, and 3 bathrooms.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet h\u00F4telier",
+          "title": "Maison ensoleill\u00E9e au bord du canal avec piscine \u00E0 Empuriabrava",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "Maison individuelle en bordure de canal \u00E0 Empuriabrava, r\u00E9nov\u00E9e et pr\u00EAte \u00E0 emm\u00E9nager, avec piscine priv\u00E9e, terrasses ext\u00E9rieures, 4 chambres et 3 salles de bains.",
+          "cta": "Voir la propri\u00E9t\u00E9"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Sonniges Haus am Kanal mit Pool in Empuriabrava",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "Freistehendes Haus in erster Kanalreihe in Empuriabrava, renoviert und bezugsfertig, mit privatem Pool, Au\u00DFenterrassen, 4 Schlafzimmern und 3 Badezimmern.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
+          "title": "\u0421\u043E\u043B\u043D\u0435\u0447\u043D\u044B\u0439 \u0434\u043E\u043C \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043A\u0430\u043D\u0430\u043B \u0438 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C \u0432 \u042D\u043C\u043F\u0443\u0440\u0438\u0430\u0431\u0440\u0430\u0432\u0435",
+          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
+          "price": "1.085.000 \u20AC",
+          "excerpt": "\u041E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0434\u043E\u043C \u043D\u0430 \u043F\u0435\u0440\u0432\u043E\u0439 \u043B\u0438\u043D\u0438\u0438 \u043A\u0430\u043D\u0430\u043B\u0430 \u0432 \u042D\u043C\u043F\u0443\u0440\u0438\u0430\u0431\u0440\u0430\u0432\u0435, \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0438 \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u043A \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044E, \u0441 \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438, 4 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438 \u0438 3 \u0432\u0430\u043D\u043D\u044B\u043C\u0438 \u043A\u043E\u043C\u043D\u0430\u0442\u0430\u043C\u0438.",
+          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+        }
+      },
+      "otherAgency": true,
+      "showHome": true,
+      "homeHero": false,
+      "sortOrder": 15
     }
   ]
 }

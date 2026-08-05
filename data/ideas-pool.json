@@ -16,13 +16,13 @@
       "votes": "votos"
     },
     "ca": {
-      "seo_title": "Pool d'idees immobiliaries | LacostaHaus",
+      "seo_title": "Pool d\u0027idees immobiliaries | LacostaHaus",
       "seo_description": "Idees obertes per a futurs articles, preguntes i temes immobiliaris de LacostaHaus a la Costa Brava.",
       "kicker": "Laboratori editorial",
-      "title": "Pool d'idees LacostaHaus",
+      "title": "Pool d\u0027idees LacostaHaus",
       "intro": "Un espai secundari per provar futures preguntes, articles i temes utils abans de portar-los a la web principal.",
-      "note": "Els vots i comentaris son una prova local en aquest navegador. Serveixen per validar l'efecte visual i prioritzar idees.",
-      "heart": "M'interessa",
+      "note": "Els vots i comentaris son una prova local en aquest navegador. Serveixen per validar l\u0027efecte visual i prioritzar idees.",
+      "heart": "M\u0027interessa",
       "dislike": "No ho veig",
       "comment": "Comentari",
       "comment_placeholder": "Anota una idea breu...",
@@ -46,13 +46,13 @@
       "votes": "votes"
     },
     "fr": {
-      "seo_title": "Pool d'idees immobilieres | LacostaHaus",
+      "seo_title": "Pool d\u0027idees immobilieres | LacostaHaus",
       "seo_description": "Idees ouvertes pour de futurs articles, questions et sujets immobiliers LacostaHaus sur la Costa Brava.",
       "kicker": "Laboratoire editorial",
-      "title": "Pool d'idees LacostaHaus",
+      "title": "Pool d\u0027idees LacostaHaus",
       "intro": "Un espace secondaire pour tester de futures questions, articles et sujets utiles avant de les publier sur le site principal.",
-      "note": "Les votes et commentaires restent locaux dans ce navigateur. Ils servent a valider l'effet visuel et a prioriser les idees.",
-      "heart": "Ca m'interesse",
+      "note": "Les votes et commentaires restent locaux dans ce navigateur. Ils servent a valider l\u0027effet visuel et a prioriser les idees.",
+      "heart": "Ca m\u0027interesse",
       "dislike": "Pas pour moi",
       "comment": "Commentaire",
       "comment_placeholder": "Ajouter une note breve...",
@@ -97,14 +97,14 @@
       "heat": 88,
       "category": {
         "es": "Confianza",
-        "ca": "Confiança",
+        "ca": "Confian\u00E7a",
         "en": "Trust",
         "fr": "Confiance",
         "de": "Vertrauen",
         "ru": "Trust"
       },
       "title": {
-        "es": "Reseñas reales solo con enlace privado",
+        "es": "Rese\u00F1as reales solo con enlace privado",
         "ca": "Ressenyes reals nomes amb enllac privat",
         "en": "Real reviews through a private link only",
         "fr": "Avis reels uniquement avec lien prive",
@@ -113,7 +113,7 @@
       },
       "summary": {
         "es": "Sistema para pedir opinion solo despues de atender a un cliente y mantener la calidad de la reputacion.",
-        "ca": "Sistema per demanar opinio nomes despres d'atendre un client i mantenir la qualitat de la reputacio.",
+        "ca": "Sistema per demanar opinio nomes despres d\u0027atendre un client i mantenir la qualitat de la reputacio.",
         "en": "A system to request feedback only after serving a client and protect reputation quality.",
         "fr": "Un systeme pour demander un avis seulement apres avoir accompagne un client.",
         "de": "Feedback erst nach echter Betreuung anfragen und die Qualitat der Reputation schutzen.",
@@ -141,9 +141,9 @@
       },
       "summary": {
         "es": "Tema SEO para propietarios que sienten que su inmueble no avanza y necesitan una lectura realista del mercado.",
-        "ca": "Tema SEO per a propietaris que veuen que l'immoble no avanca i necessiten una lectura realista del mercat.",
+        "ca": "Tema SEO per a propietaris que veuen que l\u0027immoble no avanca i necessiten una lectura realista del mercat.",
         "en": "SEO topic for owners whose property is stuck and need a realistic market reading.",
-        "fr": "Sujet SEO pour proprietaires dont le bien n'avance pas et qui ont besoin d'une lecture realiste.",
+        "fr": "Sujet SEO pour proprietaires dont le bien n\u0027avance pas et qui ont besoin d\u0027une lecture realiste.",
         "de": "SEO Thema fur Eigentumer, deren Immobilie nicht vorankommt und die eine ehrliche Markteinschatzung brauchen.",
         "ru": "SEO topic for owners whose property is stuck."
       }
@@ -169,7 +169,7 @@
       },
       "summary": {
         "es": "Contenido para conectar con propietarios que quieren vender bien a perfiles franceses, alemanes o del norte de Europa.",
-        "ca": "Contingut per connectar amb propietaris que volen vendre be a perfils francesos, alemanys o del nord d'Europa.",
+        "ca": "Contingut per connectar amb propietaris que volen vendre be a perfils francesos, alemanys o del nord d\u0027Europa.",
         "en": "Content for owners who want to sell well to French, German or Northern European buyers.",
         "fr": "Contenu pour parler aux proprietaires qui visent des acheteurs francais, allemands ou nord-europeens.",
         "de": "Inhalt fur Eigentumer, die an franzosische, deutsche oder nordeuropaische Kaufer verkaufen mochten.",
@@ -189,7 +189,7 @@
       },
       "title": {
         "es": "Cuanto tiempo esperar antes de cambiar la estrategia de venta",
-        "ca": "Quant temps esperar abans de canviar l'estrategia de venda",
+        "ca": "Quant temps esperar abans de canviar l\u0027estrategia de venda",
         "en": "How long to wait before changing a selling strategy",
         "fr": "Combien attendre avant de changer de strategie de vente",
         "de": "Wie lange warten, bevor man die Verkaufsstrategie andert",
@@ -216,12 +216,12 @@
         "ru": "Local SEO"
       },
       "title": {
-        "es": "Landings por zona: Platja d'Aro, Calonge y Torre Valentina",
-        "ca": "Landings per zona: Platja d'Aro, Calonge i Torre Valentina",
-        "en": "Area pages: Platja d'Aro, Calonge and Torre Valentina",
-        "fr": "Pages par zone: Platja d'Aro, Calonge et Torre Valentina",
-        "de": "Lokale Seiten: Platja d'Aro, Calonge und Torre Valentina",
-        "ru": "Area pages: Platja d'Aro, Calonge and Torre Valentina"
+        "es": "Landings por zona: Platja d\u0027Aro, Calonge y Torre Valentina",
+        "ca": "Landings per zona: Platja d\u0027Aro, Calonge i Torre Valentina",
+        "en": "Area pages: Platja d\u0027Aro, Calonge and Torre Valentina",
+        "fr": "Pages par zone: Platja d\u0027Aro, Calonge et Torre Valentina",
+        "de": "Lokale Seiten: Platja d\u0027Aro, Calonge und Torre Valentina",
+        "ru": "Area pages: Platja d\u0027Aro, Calonge and Torre Valentina"
       },
       "summary": {
         "es": "Ideas de paginas organicas para atacar busquedas concretas sin depender de la marca LacostaHaus.",
