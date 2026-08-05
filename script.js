@@ -1163,9 +1163,9 @@
       const url = new URL(src, window.location.href);
       if (url.origin !== window.location.origin) return "";
       if (!/\/assets\//.test(url.pathname)) return "";
-      if (!/\.(jpe?g|png)$/i.test(url.pathname)) return "";
+      if (!/\.(jpg|png)$/i.test(url.pathname)) return "";
       const suffix = variant === "thumb" ? "-thumb.jpg" : "-medium.jpg";
-      url.pathname = url.pathname.replace(/\.(jpe?g|png)$/i, suffix);
+      url.pathname = url.pathname.replace(/\.(jpg|png)$/i, suffix);
       return url.href;
     } catch (error) {
       return "";
