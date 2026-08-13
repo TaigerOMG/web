@@ -1,6 +1,7 @@
 {
   "homeHeroProperty": "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
   "homeFeatured": [
+    "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
     "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
@@ -14,6 +15,7 @@
     "piso-roca-grossa-lloret-mar"
   ],
   "catalog": [
+    "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
     "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
@@ -763,6 +765,79 @@
       "showHome": true,
       "homeHero": false,
       "sortOrder": 15
+    },
+    {
+      "id": "villa-zen-vistas-mar-lloret-mar-immogirona-301",
+      "route": "inmuebles/ficha/?id=villa-zen-vistas-mar-lloret-mar-immogirona-301",
+      "image": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/principal.webp",
+      "types": [
+        "villa",
+        "casa",
+        "independiente",
+        "lujo",
+        "piscina",
+        "spa",
+        "sauna",
+        "vistas al mar",
+        "jard\u00EDn",
+        "lloret de mar",
+        "segunda mano"
+      ],
+      "data": "data/properties/villa-zen-vistas-mar-lloret-mar-immogirona-301.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Villa zen con piscina, spa y vistas al mar en Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "Villa unifamiliar de inspiraci\u00F3n zen y r\u00FAstica en Lloret de Mar, con parcela de 806 m\u00B2, piscina privada, pabell\u00F3n wellness con sauna, garaje amplio y vistas panor\u00E1micas al mar.",
+          "cta": "Ver inmueble"
+        },
+        "ca": {
+          "tag": "Projecte hoteler",
+          "title": "Vila d\u0027estil zen amb piscina, spa i vistes al mar a Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "Una vila adossada d\u0027inspiraci\u00F3 zen i r\u00FAstica a Lloret de Mar, amb una parcel\u00B7la de 806 m\u00B2, piscina privada, pavell\u00F3 de benestar amb sauna, garatge espai\u00F3s i vistes panor\u00E0miques al mar.",
+          "cta": "Veure immoble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Zen-style villa with a pool, spa, and ocean views in Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "A Zen- and rustic-inspired single-family villa in Lloret de Mar, featuring an 806 m\u00B2 lot, a private pool, a wellness pavilion with a sauna, a spacious garage, and panoramic ocean views.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet h\u00F4telier",
+          "title": "Villa zen avec piscine, spa et vue sur la mer \u00E0 Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "Villa individuelle d\u0027inspiration zen et rustique \u00E0 Lloret de Mar, avec un terrain de 806 m\u00B2, une piscine priv\u00E9e, un pavillon de bien-\u00EAtre avec sauna, un grand garage et une vue panoramique sur la mer.",
+          "cta": "Voir la propri\u00E9t\u00E9"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Zen-Villa mit Pool, Spa und Meerblick in Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "Einfamilienvilla im Zen- und Landhausstil in Lloret de Mar, mit einem 806 m\u00B2 gro\u00DFen Grundst\u00FCck, privatem Pool, Wellnessbereich mit Sauna, ger\u00E4umiger Garage und Panoramablick auf das Meer.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
+          "title": "\u0412\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0441\u043F\u0430-\u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "920.000 \u20AC",
+          "excerpt": "\u041E\u0434\u043D\u043E\u0441\u0435\u043C\u0435\u0439\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0438 \u0440\u0443\u0441\u0442\u0438\u043A \u0432 \u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 806 \u043C\u00B2, \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u043E\u0437\u0434\u043E\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u043F\u0430\u0432\u0438\u043B\u044C\u043E\u043D\u043E\u043C \u0441 \u0441\u0430\u0443\u043D\u043E\u0439, \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C \u0433\u0430\u0440\u0430\u0436\u043E\u043C \u0438 \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
+          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+        }
+      },
+      "otherAgency": true,
+      "showHome": true,
+      "homeHero": false,
+      "sortOrder": 16
     }
   ]
 }

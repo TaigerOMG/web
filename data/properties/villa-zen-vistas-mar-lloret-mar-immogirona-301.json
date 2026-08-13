@@ -1,0 +1,924 @@
+{
+  "media": {
+    "poster": "",
+    "video": "",
+    "images": [
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/principal.webp",
+        "alt_es": "Imagen principal - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-01.webp",
+        "alt_es": "Imagen 2 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-02.webp",
+        "alt_es": "Imagen 3 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-03.webp",
+        "alt_es": "Imagen 4 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-04.webp",
+        "alt_es": "Imagen 5 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-05.webp",
+        "alt_es": "Imagen 6 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-06.webp",
+        "alt_es": "Imagen 7 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-07.webp",
+        "alt_es": "Imagen 8 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-08.webp",
+        "alt_es": "Imagen 9 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-09.webp",
+        "alt_es": "Imagen 10 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-10.webp",
+        "alt_es": "Imagen 11 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-11.webp",
+        "alt_es": "Imagen 12 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-12.webp",
+        "alt_es": "Imagen 13 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-13.webp",
+        "alt_es": "Imagen 14 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-14.webp",
+        "alt_es": "Imagen 15 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-15.webp",
+        "alt_es": "Imagen 16 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-16.webp",
+        "alt_es": "Imagen 17 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-17.webp",
+        "alt_es": "Imagen 18 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-18.webp",
+        "alt_es": "Imagen 19 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-19.webp",
+        "alt_es": "Imagen 20 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-20.webp",
+        "alt_es": "Imagen 21 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-21.webp",
+        "alt_es": "Imagen 22 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-22.webp",
+        "alt_es": "Imagen 23 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-23.webp",
+        "alt_es": "Imagen 24 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-24.webp",
+        "alt_es": "Imagen 25 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-25.webp",
+        "alt_es": "Imagen 26 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-26.webp",
+        "alt_es": "Imagen 27 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-27.webp",
+        "alt_es": "Imagen 28 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-28.webp",
+        "alt_es": "Imagen 29 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-29.webp",
+        "alt_es": "Imagen 30 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-30.webp",
+        "alt_es": "Imagen 31 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-31.webp",
+        "alt_es": "Imagen 32 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-32.webp",
+        "alt_es": "Imagen 33 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-33.webp",
+        "alt_es": "Imagen 34 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-34.webp",
+        "alt_es": "Imagen 35 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-35.webp",
+        "alt_es": "Imagen 36 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-36.webp",
+        "alt_es": "Imagen 37 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-37.webp",
+        "alt_es": "Imagen 38 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-38.webp",
+        "alt_es": "Imagen 39 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-39.webp",
+        "alt_es": "Imagen 40 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-40.webp",
+        "alt_es": "Imagen 41 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-41.webp",
+        "alt_es": "Imagen 42 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-42.webp",
+        "alt_es": "Imagen 43 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-43.webp",
+        "alt_es": "Imagen 44 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-44.webp",
+        "alt_es": "Imagen 45 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-45.webp",
+        "alt_es": "Imagen 46 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-46.webp",
+        "alt_es": "Imagen 47 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-47.webp",
+        "alt_es": "Imagen 48 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-48.webp",
+        "alt_es": "Imagen 49 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-49.webp",
+        "alt_es": "Imagen 50 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-50.webp",
+        "alt_es": "Imagen 51 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-51.webp",
+        "alt_es": "Imagen 52 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-52.webp",
+        "alt_es": "Imagen 53 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-53.webp",
+        "alt_es": "Imagen 54 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-54.webp",
+        "alt_es": "Imagen 55 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-55.webp",
+        "alt_es": "Imagen 56 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-56.webp",
+        "alt_es": "Imagen 57 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-57.webp",
+        "alt_es": "Imagen 58 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-58.webp",
+        "alt_es": "Imagen 59 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-59.webp",
+        "alt_es": "Imagen 60 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-60.webp",
+        "alt_es": "Imagen 61 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-61.webp",
+        "alt_es": "Imagen 62 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-62.webp",
+        "alt_es": "Imagen 63 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-63.webp",
+        "alt_es": "Imagen 64 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-64.webp",
+        "alt_es": "Imagen 65 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-65.webp",
+        "alt_es": "Imagen 66 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-66.webp",
+        "alt_es": "Imagen 67 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-67.webp",
+        "alt_es": "Imagen 68 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-68.webp",
+        "alt_es": "Imagen 69 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-69.webp",
+        "alt_es": "Imagen 70 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-70.webp",
+        "alt_es": "Imagen 71 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-71.webp",
+        "alt_es": "Imagen 72 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-72.webp",
+        "alt_es": "Imagen 73 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-73.webp",
+        "alt_es": "Imagen 74 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-74.webp",
+        "alt_es": "Imagen 75 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-75.webp",
+        "alt_es": "Imagen 76 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-76.webp",
+        "alt_es": "Imagen 77 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-77.webp",
+        "alt_es": "Imagen 78 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-78.webp",
+        "alt_es": "Imagen 79 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      },
+      {
+        "src": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/galeria-79.webp",
+        "alt_es": "Imagen 80 - Villa zen con piscina, spa y vistas al mar en Lloret de Mar"
+      }
+    ],
+    "pdf": "",
+    "map_embed": "https://www.google.com/maps?q=Carrer%20Alguer%201%2C%20Lloret%20de%20Mar%2C%20Girona\u0026output=embed",
+    "plot_graphic": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/grafico-parcela.png",
+    "source_url": "https://www.immogirona.com/es/301/?properties",
+    "other_agency": true,
+    "collaboration_note": "Captaci\u00F3n colaborativa con ImmoGirona gestionada por Sergiu Crudu. Las im\u00E1genes pueden conservar la marca de agua o el material original de la inmobiliaria colaboradora."
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Villa zen con piscina, spa y vistas al mar en Lloret de Mar",
+      "seo_title": "Villa zen con piscina, spa y vistas al mar en Lloret de Mar | LacostaHaus",
+      "seo_description": "Villa unifamiliar de inspiraci\u00F3n zen y r\u00FAstica en Lloret de Mar, con parcela de 806 m\u00B2, piscina privada, pabell\u00F3n wellness con sauna, garaje amplio y vistas panor\u00E1micas al mar.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "920.000 \u20AC",
+      "details": [
+        [
+          "Tipo",
+          "Villa unifamiliar"
+        ],
+        [
+          "Estado",
+          "Segunda mano"
+        ],
+        [
+          "A\u00F1o construcci\u00F3n",
+          "2006"
+        ],
+        [
+          "Superficie construida",
+          "273 m\u00B2"
+        ],
+        [
+          "Parcela",
+          "806 m\u00B2"
+        ],
+        [
+          "Precio/m\u00B2",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "Garaje",
+          "80 m\u00B2"
+        ],
+        [
+          "Piscina",
+          "Privada"
+        ],
+        [
+          "Spa / wellness",
+          "Sauna finlandesa Harvia"
+        ],
+        [
+          "Vistas",
+          "Mar y monta\u00F1a"
+        ],
+        [
+          "Climatizaci\u00F3n",
+          "Aire acondicionado con bomba de calor"
+        ],
+        [
+          "Lavadero",
+          "S\u00ED"
+        ],
+        [
+          "Localidad",
+          "Lloret de Mar"
+        ],
+        [
+          "Municipio",
+          "Lloret de Mar"
+        ],
+        [
+          "Comarca",
+          "Selva"
+        ],
+        [
+          "Provincia",
+          "Girona"
+        ],
+        [
+          "Colaboraci\u00F3n",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "LacostaHaus presenta esta captaci\u00F3n colaborativa con \u003Cstrong\u003EImmoGirona\u003C/strong\u003E en \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E, una villa unifamiliar de dise\u00F1o singular que combina inspiraci\u00F3n zen, car\u00E1cter r\u00FAstico y vistas panor\u00E1micas al mar.",
+        "La propiedad se levanta sobre una parcela de \u003Cstrong\u003E806 m\u00B2\u003C/strong\u003E y ofrece una superficie construida aproximada de \u003Cstrong\u003E273 m\u00B2\u003C/strong\u003E, distribuida entre vivienda principal, garaje y una zona wellness independiente pensada para disfrutar del confort durante todo el a\u00F1o.",
+        "La vivienda destaca por su exterior ajardinado, piscina privada de fondo oscuro, p\u00E9rgola, rincones de descanso y una cuidada atm\u00F3sfera mediterr\u00E1nea. El jard\u00EDn combina privacidad, vegetaci\u00F3n madura y una sensaci\u00F3n de retiro muy poco habitual cerca de la Costa Brava.",
+        "En el interior, la casa ofrece espacios luminosos y funcionales, con aire acondicionado por bomba de calor, lavadero equipado y una distribuci\u00F3n c\u00F3moda para residencia habitual o segunda residencia. El pabell\u00F3n wellness incorpora sauna finlandesa Harvia, ducha y sala de relax.",
+        "Una villa pensada para compradores que buscan algo m\u00E1s que metros: privacidad, dise\u00F1o, vistas, piscina, bienestar y una ubicaci\u00F3n consolidada en Lloret de Mar."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "920.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Vila d\u0027estil zen amb piscina, spa i vistes al mar a Lloret de Mar",
+      "seo_description": "Una vila adossada d\u0027inspiraci\u00F3 zen i r\u00FAstica a Lloret de Mar, amb una parcel\u00B7la de 806 m\u00B2, piscina privada, pavell\u00F3 de benestar amb sauna, garatge espai\u00F3s i vistes panor\u00E0miques al mar.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de renovaci\u00F3 \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Vila d\u0027estil zen amb piscina, spa i vistes al mar a Lloret de Mar | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "Vila independent"
+        ],
+        [
+          "Estat",
+          "De segona m\u00E0"
+        ],
+        [
+          "Any de construcci\u00F3",
+          "2006"
+        ],
+        [
+          "Superf\u00EDcie total",
+          "273 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "806 m\u00B2"
+        ],
+        [
+          "Preu per m\u00B2",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "Gara",
+          "80 m\u00B2"
+        ],
+        [
+          "Piscina",
+          "Privat"
+        ],
+        [
+          "Spa / benestar",
+          "Sauna finlandesa Harvia"
+        ],
+        [
+          "Vistes",
+          "Mar i muntanyes"
+        ],
+        [
+          "Aire condicionat",
+          "Aire condicionat amb bomba de calor"
+        ],
+        [
+          "Sala de serveis",
+          "S\u00ED"
+        ],
+        [
+          "Ubicaci\u00F3",
+          "Lloret de Mar"
+        ],
+        [
+          "Municipi",
+          "Lloret de Mar"
+        ],
+        [
+          "Regi\u00F3",
+          "Selva"
+        ],
+        [
+          "Prov\u00EDncia",
+          "Girona"
+        ],
+        [
+          "Col\u00B7laboraci\u00F3",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E a \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E: una casa unifamiliar a\u00EFllada de disseny \u00FAnic que combina elements inspirats en el Zen, encant r\u00FAstic i vistes panor\u00E0miques al mar.",
+        "La propietat est\u00E0 situada en un terreny de \u003Cstrong\u003E806 m\u00B2\u003C/strong\u003E i ofereix una superf\u00EDcie aproximada de \u003Cstrong\u003E273 m\u00B2\u003C/strong\u003E, que inclou la casa principal, un garatge i una zona de benestar independent dissenyada per garantir la comoditat durant tot l\u0027any.",
+        "La propietat destaca pels seus jardins paisatj\u00EDstics, la piscina privada amb fons profund, la p\u00E8rgola, les zones de relaxaci\u00F3 i una atmosfera mediterr\u00E0nia curosament elaborada. El jard\u00ED combina privacitat, vegetaci\u00F3 madura i un sentiment d\u0027a\u00EFllament molt poc habitual tan a prop de la Costa Brava.",
+        "A l\u0027interior, la casa ofereix espais lluminosos i funcionals, amb aire condicionat amb bomba de calor, un rebost totalment equipat i una distribuci\u00F3 pr\u00E0ctica adequada tant per a resid\u00E8ncia principal com per a segona resid\u00E8ncia. El pavell\u00F3 de benestar disposa d\u0027una sauna finlandesa Harvia, una dutxa i una sala de relaxaci\u00F3.",
+        "Una vila dissenyada per a compradors que busquen m\u00E9s que nom\u00E9s metres quadrats: privacitat, disseny, vistes, piscina, benestar i una ubicaci\u00F3 privilegiada a Lloret de Mar."
+      ],
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona"
+    },
+    "en": {
+      "price": "920.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Zen-style villa with a pool, spa, and ocean views in Lloret de Mar",
+      "seo_description": "A Zen- and rustic-inspired single-family villa in Lloret de Mar, featuring an 806 m\u00B2 lot, a private pool, a wellness pavilion with a sauna, a spacious garage, and panoramic ocean views.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Zen-style villa with a pool, spa, and ocean views in Lloret de Mar | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Single-family villa"
+        ],
+        [
+          "Status",
+          "Pre-owned"
+        ],
+        [
+          "Year built",
+          "2006"
+        ],
+        [
+          "Total floor area",
+          "273 m\u00B2"
+        ],
+        [
+          "Lot",
+          "806 m\u00B2"
+        ],
+        [
+          "Price per square meter",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "Garage",
+          "80 m\u00B2"
+        ],
+        [
+          "Swimming pool",
+          "Private"
+        ],
+        [
+          "Spa / Wellness",
+          "Harvia Finnish Sauna"
+        ],
+        [
+          "Views",
+          "Sea and Mountains"
+        ],
+        [
+          "Climate Control",
+          "Air conditioning with heat pump"
+        ],
+        [
+          "Laundry Room",
+          "Yes"
+        ],
+        [
+          "Location",
+          "Lloret de Mar"
+        ],
+        [
+          "Municipality",
+          "Lloret de Mar"
+        ],
+        [
+          "Region",
+          "Selva"
+        ],
+        [
+          "Province",
+          "Girona"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus presents this joint listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E: a uniquely designed single-family villa that combines Zen-inspired elements, rustic charm, and panoramic ocean views.",
+        "The property sits on an \u003Cstrong\u003E806 m\u00B2\u003C/strong\u003E lot and offers an approximate total floor area of \u003Cstrong\u003E273 m\u00B2\u003C/strong\u003E, divided among the main residence, a garage, and a separate wellness area designed for year-round comfort.",
+        "The property stands out for its landscaped exterior, private dark-bottomed pool, pergola, relaxation areas, and a carefully curated Mediterranean atmosphere. The garden combines privacy, mature vegetation, and a sense of seclusion that is quite rare near the Costa Brava.",
+        "Inside, the home features bright and functional spaces, with heat pump air conditioning, a fully equipped laundry room, and a comfortable layout suitable for a primary residence or vacation home. The wellness pavilion includes a Harvia Finnish sauna, a shower, and a relaxation room.",
+        "A villa designed for buyers looking for more than just square meters: privacy, design, views, a pool, comfort, and a prime location in Lloret de Mar."
+      ],
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona"
+    },
+    "fr": {
+      "price": "920.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Villa zen avec piscine, spa et vue sur la mer \u00E0 Lloret de Mar",
+      "seo_description": "Villa individuelle d\u0027inspiration zen et rustique \u00E0 Lloret de Mar, avec un terrain de 806 m\u00B2, une piscine priv\u00E9e, un pavillon de bien-\u00EAtre avec sauna, un grand garage et une vue panoramique sur la mer.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Villa zen avec piscine, spa et vue sur la mer \u00E0 Lloret de Mar | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Villa individuelle"
+        ],
+        [
+          "\u00C9tat",
+          "Occasion"
+        ],
+        [
+          "Ann\u00E9e de construction",
+          "2006"
+        ],
+        [
+          "Surface construite",
+          "273 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "806 m\u00B2"
+        ],
+        [
+          "Prix/m\u00B2",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "Garage",
+          "80 m\u00B2"
+        ],
+        [
+          "Piscine",
+          "Priv\u00E9e"
+        ],
+        [
+          "Spa / bien-\u00EAtre",
+          "Sauna finlandais Harvia"
+        ],
+        [
+          "Vues",
+          "Mer et montagne"
+        ],
+        [
+          "Climatisation",
+          "Climatisation avec pompe \u00E0 chaleur"
+        ],
+        [
+          "Buanderie",
+          "Oui"
+        ],
+        [
+          "Localit\u00E9",
+          "Lloret de Mar"
+        ],
+        [
+          "Commune",
+          "Lloret de Mar"
+        ],
+        [
+          "R\u00E9gion",
+          "Selva"
+        ],
+        [
+          "D\u00E9partement",
+          "G\u00E9rone"
+        ],
+        [
+          "Collaboration",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u00E0 \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E : une villa individuelle au design unique alliant inspiration zen, caract\u00E8re rustique et vue panoramique sur la mer.",
+        "La propri\u00E9t\u00E9 est implant\u00E9e sur un terrain de \u003Cstrong\u003E806 m\u00B2\u003C/strong\u003E et offre une surface construite d\u2019environ \u003Cstrong\u003E273 m\u00B2\u003C/strong\u003E, r\u00E9partie entre la maison principale, le garage et un espace bien-\u00EAtre ind\u00E9pendant con\u00E7u pour vous offrir un confort optimal tout au long de l\u2019ann\u00E9e.",
+        "La propri\u00E9t\u00E9 se distingue par son ext\u00E9rieur am\u00E9nag\u00E9 en jardin, sa piscine priv\u00E9e au fond sombre, sa pergola, ses coins de d\u00E9tente et son atmosph\u00E8re m\u00E9diterran\u00E9enne soign\u00E9e. Le jardin allie intimit\u00E9, v\u00E9g\u00E9tation mature et une sensation de retraite tr\u00E8s rare \u00E0 proximit\u00E9 de la Costa Brava.",
+        "\u00C0 l\u0027int\u00E9rieur, la maison offre des espaces lumineux et fonctionnels, \u00E9quip\u00E9s de la climatisation par pompe \u00E0 chaleur, d\u0027une buanderie am\u00E9nag\u00E9e et d\u0027un agencement pratique, tant pour une r\u00E9sidence principale que pour une r\u00E9sidence secondaire. Le pavillon de bien-\u00EAtre comprend un sauna finlandais Harvia, une douche et une salle de d\u00E9tente.",
+        "Une villa con\u00E7ue pour les acqu\u00E9reurs qui recherchent bien plus que de la superficie : intimit\u00E9, design, vue, piscine, bien-\u00EAtre et un emplacement de choix \u00E0 Lloret de Mar."
+      ],
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona"
+    },
+    "de": {
+      "price": "920.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Zen-Villa mit Pool, Spa und Meerblick in Lloret de Mar",
+      "seo_description": "Einfamilienvilla im Zen- und Landhausstil in Lloret de Mar, mit einem 806 m\u00B2 gro\u00DFen Grundst\u00FCck, privatem Pool, Wellnessbereich mit Sauna, ger\u00E4umiger Garage und Panoramablick auf das Meer.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Zen-Villa mit Pool, Spa und Meerblick in Lloret de Mar | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Einfamilienvilla"
+        ],
+        [
+          "Zustand",
+          "Gebraucht"
+        ],
+        [
+          "Baujahr",
+          "2006"
+        ],
+        [
+          "Bebaute Fl\u00E4che",
+          "273 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "806 m\u00B2"
+        ],
+        [
+          "Preis/m\u00B2",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "Garage",
+          "80 m\u00B2"
+        ],
+        [
+          "Swimmingpool",
+          "Privada"
+        ],
+        [
+          "Spa / Wellness",
+          "Finnische Sauna von Harvia"
+        ],
+        [
+          "Aufrufe",
+          "Meer und Berge"
+        ],
+        [
+          "Klimaanlage",
+          "Klimaanlage mit W\u00E4rmepumpe"
+        ],
+        [
+          "Waschk\u00FCche",
+          "Ja"
+        ],
+        [
+          "Ort",
+          "Lloret de Mar"
+        ],
+        [
+          "Gemeinde",
+          "Lloret de Mar"
+        ],
+        [
+          "Region",
+          "Selva"
+        ],
+        [
+          "Provinz",
+          "Girona"
+        ],
+        [
+          "Zusammenarbeit",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E in \u003Cstrong\u003ELloret de Mar\u003C/strong\u003E vermarktete Objekt: eine Einfamilienvilla mit einzigartigem Design, die Zen-Inspiration, rustikalen Charme und einen Panoramablick auf das Meer vereint.",
+        "Die Immobilie befindet sich auf einem \u003Cstrong\u003E806 m\u00B2\u003C/strong\u003E gro\u00DFen Grundst\u00FCck und bietet eine bebaute Fl\u00E4che von ca. \u003Cstrong\u003E273 m\u00B2\u003C/strong\u003E, die sich auf das Hauptwohnhaus, eine Garage und einen separaten Wellnessbereich verteilt, der daf\u00FCr konzipiert ist, das ganze Jahr \u00FCber Komfort zu genie\u00DFen.",
+        "Das Anwesen besticht durch seinen gepflegten Garten, einen privaten Pool mit dunklem Boden, eine Pergola, R\u00FCckzugsbereiche und eine sorgf\u00E4ltig gestaltete mediterrane Atmosph\u00E4re. Der Garten vereint Privatsph\u00E4re, \u00FCppige Vegetation und ein Gef\u00FChl der Abgeschiedenheit, das in der N\u00E4he der Costa Brava nur selten zu finden ist.",
+        "Im Innenbereich bietet das Haus helle und funktionale R\u00E4ume mit einer Klimaanlage mit W\u00E4rmepumpe, einem ausgestatteten Hauswirtschaftsraum und einer komfortablen Raumaufteilung, die sich sowohl f\u00FCr den Hauptwohnsitz als auch f\u00FCr einen Zweitwohnsitz eignet. Der Wellnessbereich umfasst eine finnische Harvia-Sauna, eine Dusche und einen Ruheraum.",
+        "Eine Villa f\u00FCr K\u00E4ufer, die mehr als nur Quadratmeter suchen: Privatsph\u00E4re, Design, Aussicht, einen Pool, Wohlbefinden und eine etablierte Lage in Lloret de Mar."
+      ],
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona"
+    },
+    "ru": {
+      "price": "920.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0412\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0441\u043F\u0430-\u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440",
+      "seo_description": "\u041E\u0434\u043D\u043E\u0441\u0435\u043C\u0435\u0439\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0438 \u0440\u0443\u0441\u0442\u0438\u043A \u0432 \u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 806 \u043C\u00B2, \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u043E\u0437\u0434\u043E\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u043F\u0430\u0432\u0438\u043B\u044C\u043E\u043D\u043E\u043C \u0441 \u0441\u0430\u0443\u043D\u043E\u0439, \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C \u0433\u0430\u0440\u0430\u0436\u043E\u043C \u0438 \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0412\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0441\u043F\u0430-\u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u041E\u0434\u043D\u043E\u0441\u0435\u043C\u0435\u0439\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430"
+        ],
+        [
+          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
+          "\u041D\u0430 \u0432\u0442\u043E\u0440\u0438\u0447\u043D\u043E\u043C \u0440\u044B\u043D\u043A\u0435"
+        ],
+        [
+          "\u0413\u043E\u0434 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+          "2006"
+        ],
+        [
+          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C \u0437\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+          "273 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "806 m\u00B2"
+        ],
+        [
+          "\u0426\u0435\u043D\u0430 \u0437\u0430 \u043C\u00B2",
+          "3.370 \u20AC/m\u00B2"
+        ],
+        [
+          "\u0413\u0430\u0440\u0430\u0436",
+          "80 m\u00B2"
+        ],
+        [
+          "\u0411\u0430\u0441\u0441\u0435\u0439\u043D",
+          "\u041F\u0440\u0438\u0432\u0430\u0434\u0430"
+        ],
+        [
+          "\u0421\u043F\u0430 / \u0432\u0435\u043B\u043D\u0435\u0441",
+          "\u0424\u0438\u043D\u0441\u043A\u0430\u044F \u0441\u0430\u0443\u043D\u0430 Harvia"
+        ],
+        [
+          "\u0412\u0438\u0434\u044B",
+          "\u041C\u043E\u0440\u0435 \u0438 \u0433\u043E\u0440\u044B"
+        ],
+        [
+          "\u041A\u043B\u0438\u043C\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044F",
+          "\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440 \u0441 \u0442\u0435\u043F\u043B\u043E\u0432\u044B\u043C \u043D\u0430\u0441\u043E\u0441\u043E\u043C"
+        ],
+        [
+          "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F",
+          "\u0414\u0430"
+        ],
+        [
+          "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043D\u0430\u0441\u0435\u043B\u0451\u043D\u043D\u043E\u0433\u043E \u043F\u0443\u043D\u043A\u0442\u0430",
+          "\u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440"
+        ],
+        [
+          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
+          "\u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440"
+        ],
+        [
+          "\u0420\u0435\u0433\u0438\u043E\u043D",
+          "\u0421\u0435\u043B\u044C\u0432\u0430"
+        ],
+        [
+          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
+          "\u0416\u0438\u0440\u043E\u043D\u0430"
+        ],
+        [
+          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
+          "ImmoGirona \u0026 LacostaHaus"
+        ]
+      ],
+      "description": [
+        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u044D\u0442\u043E\u0442 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0441 \u003Cstrong\u003EImmoGirona\u003C/strong\u003E \u0432 \u003Cstrong\u003E\u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440\u003C/strong\u003E \u2014 \u043E\u0434\u043D\u043E\u0441\u0435\u043C\u0435\u0439\u043D\u0443\u044E \u0432\u0438\u043B\u043B\u0443 \u0441 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u043C \u0434\u0438\u0437\u0430\u0439\u043D\u043E\u043C, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0433\u0430\u0440\u043C\u043E\u043D\u0438\u0447\u043D\u043E \u0441\u043E\u0447\u0435\u0442\u0430\u044E\u0442\u0441\u044F \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0434\u0437\u0435\u043D, \u0440\u0443\u0441\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0439 \u0441\u0442\u0438\u043B\u044C \u0438 \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u0435 \u0432\u0438\u0434\u044B \u043D\u0430 \u043C\u043E\u0440\u0435.",
+        "\u041E\u0431\u044A\u0435\u043A\u0442 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E806 \u043C\u00B2\u003C/strong\u003E \u0438 \u0438\u043C\u0435\u0435\u0442 \u043E\u0431\u0449\u0443\u044E \u0437\u0430\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0443\u044E \u043F\u043B\u043E\u0449\u0430\u0434\u044C \u043E\u043A\u043E\u043B\u043E \u003Cstrong\u003E273 \u043C\u00B2\u003C/strong\u003E, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u0430 \u043C\u0435\u0436\u0434\u0443 \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C \u0436\u0438\u043B\u044B\u043C \u0434\u043E\u043C\u043E\u043C, \u0433\u0430\u0440\u0430\u0436\u043E\u043C \u0438 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E\u0439 \u043E\u0437\u0434\u043E\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0437\u043E\u043D\u043E\u0439, \u0441\u043E\u0437\u0434\u0430\u043D\u043D\u043E\u0439 \u0434\u043B\u044F \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0430 \u0432 \u0442\u0435\u0447\u0435\u043D\u0438\u0435 \u0432\u0441\u0435\u0433\u043E \u0433\u043E\u0434\u0430.",
+        "\u0414\u043E\u043C \u0432\u044B\u0434\u0435\u043B\u044F\u0435\u0442\u0441\u044F \u0441\u0432\u043E\u0438\u043C \u0431\u043B\u0430\u0433\u043E\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u043C \u044D\u043A\u0441\u0442\u0435\u0440\u044C\u0435\u0440\u043E\u043C, \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C \u0441 \u0442\u0451\u043C\u043D\u044B\u043C \u0434\u043D\u043E\u043C, \u043F\u0435\u0440\u0433\u043E\u043B\u043E\u0439, \u0443\u044E\u0442\u043D\u044B\u043C\u0438 \u0443\u0433\u043E\u043B\u043A\u0430\u043C\u0438 \u0434\u043B\u044F \u043E\u0442\u0434\u044B\u0445\u0430 \u0438 \u0442\u0449\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u043F\u0440\u043E\u0434\u0443\u043C\u0430\u043D\u043D\u043E\u0439 \u0441\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u0441\u043A\u043E\u0439 \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u043E\u0439. \u0421\u0430\u0434 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u0435 \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435, \u0437\u0440\u0435\u043B\u0443\u044E \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C \u0438 \u043E\u0449\u0443\u0449\u0435\u043D\u0438\u0435 \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F, \u0447\u0442\u043E \u0432\u0435\u0441\u044C\u043C\u0430 \u0440\u0435\u0434\u043A\u043E \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u0432\u0431\u043B\u0438\u0437\u0438 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u044F \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430.",
+        "\u0412\u043D\u0443\u0442\u0440\u0438 \u0434\u043E\u043C \u043E\u0442\u043B\u0438\u0447\u0430\u0435\u0442\u0441\u044F \u0441\u0432\u0435\u0442\u043B\u044B\u043C\u0438 \u0438 \u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C\u0438 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F\u043C\u0438, \u043E\u0441\u043D\u0430\u0449\u0451\u043D \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u0441 \u0442\u0435\u043F\u043B\u043E\u0432\u044B\u043C \u043D\u0430\u0441\u043E\u0441\u043E\u043C, \u043E\u0431\u043E\u0440\u0443\u0434\u043E\u0432\u0430\u043D\u043D\u043E\u0439 \u043F\u0440\u0430\u0447\u0435\u0447\u043D\u043E\u0439 \u0438 \u0443\u0434\u043E\u0431\u043D\u043E\u0439 \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u043A\u043E\u0439, \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449\u0435\u0439 \u043A\u0430\u043A \u0434\u043B\u044F \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u043E\u0433\u043E \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u043D\u0438\u044F, \u0442\u0430\u043A \u0438 \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0432\u0442\u043E\u0440\u043E\u0433\u043E \u0434\u043E\u043C\u0430. \u0412 \u043E\u0437\u0434\u043E\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u043C \u043F\u0430\u0432\u0438\u043B\u044C\u043E\u043D\u0435 \u043F\u0440\u0435\u0434\u0443\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u044B \u0444\u0438\u043D\u0441\u043A\u0430\u044F \u0441\u0430\u0443\u043D\u0430 Harvia, \u0434\u0443\u0448\u0435\u0432\u0430\u044F \u0438 \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0434\u043B\u044F \u043E\u0442\u0434\u044B\u0445\u0430.",
+        "\u042D\u0442\u0430 \u0432\u0438\u043B\u043B\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u0434\u043B\u044F \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u0435\u0439, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0438\u0449\u0443\u0442 \u043D\u0435\u0447\u0442\u043E \u0431\u043E\u043B\u044C\u0448\u0435\u0435, \u0447\u0435\u043C \u043F\u0440\u043E\u0441\u0442\u043E \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u043D\u044B\u0435 \u043C\u0435\u0442\u0440\u044B: \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435, \u0434\u0438\u0437\u0430\u0439\u043D, \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u044B\u0435 \u0432\u0438\u0434\u044B, \u0431\u0430\u0441\u0441\u0435\u0439\u043D, \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0438 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432 \u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440."
+      ],
+      "location_text": "Lloret de Mar \u00B7 Selva \u00B7 Girona"
+    }
+  }
+}
