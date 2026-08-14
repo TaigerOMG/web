@@ -1133,16 +1133,24 @@
   function resolveAsset(path) {
     if (!path) return "";
     if (/^(https?:|mailto:|tel:|#)/i.test(path)) return path;
+    const siteRootUrl = window.location.origin && window.location.origin !== "null"
+      ? new URL("/", window.location.origin + "/")
+      : baseUrl;
+    const cleanPath = String(path).replace(/^\/+/, "");
 
     if (path.startsWith("/images/Inmueble/")) {
-      return new URL("assets/inmueble-masia/" + path.split("/").pop(), baseUrl).href;
+      return new URL("assets/inmueble-masia/" + path.split("/").pop(), siteRootUrl).href;
     }
 
     if (path.startsWith("/images/")) {
-      return new URL("assets/" + path.split("/").pop(), baseUrl).href;
+      return new URL("assets/" + path.split("/").pop(), siteRootUrl).href;
     }
 
-    return new URL(path.replace(/^\//, ""), baseUrl).href;
+    if (cleanPath.startsWith("assets/")) {
+      return new URL(cleanPath, siteRootUrl).href;
+    }
+
+    return new URL(cleanPath, baseUrl).href;
   }
 
   function escapeAttribute(value) {
@@ -1158,26 +1166,16 @@
   }
 
   function localImageVariant(src, variant) {
-    if (!src || /^(data:|blob:)/i.test(src)) return "";
-    try {
-      const url = new URL(src, window.location.href);
-      if (url.origin !== window.location.origin) return "";
-      if (!/\/assets\//.test(url.pathname)) return "";
-      if (!/\.(jpg|png)$/i.test(url.pathname)) return "";
-      const suffix = variant === "thumb" ? "-thumb.jpg" : "-medium.jpg";
-      url.pathname = url.pathname.replace(/\.(jpg|png)$/i, suffix);
-      return url.href;
-    } catch (error) {
-      return "";
-    }
+    return "";
   }
 
   function imageSrcset(src, includeFull = false) {
-    if (!src) return "";
-    const thumb = localImageVariant(src, "thumb");
-    const medium = localImageVariant(src, "medium");
+    const full = resolveAsset(src);
+    if (!full) return "";
+    const thumb = localImageVariant(full, "thumb");
+    const medium = localImageVariant(full, "medium");
     const sources = [thumb && `${thumb} 360w`, medium && `${medium} 1280w`].filter(Boolean);
-    if (includeFull || !sources.length) sources.push(`${src} 1800w`);
+    if (includeFull || !sources.length) sources.push(`${full} 1800w`);
     return sources.join(", ");
   }
 
@@ -1982,8 +1980,9 @@
 
     const image = document.createElement("img");
     image.className = "media-content";
-    image.src = localImageVariant(src, "medium") || src;
-    image.srcset = imageSrcset(src);
+    const full = resolveAsset(src);
+    image.src = localImageVariant(full, "medium") || full;
+    image.srcset = imageSrcset(full);
     image.sizes = "(max-width: 860px) 100vw, 68vw";
     image.alt = altText || "LacostaHaus";
     image.loading = "eager";
