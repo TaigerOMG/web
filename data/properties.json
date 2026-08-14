@@ -1,6 +1,7 @@
 {
   "homeHeroProperty": "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
   "homeFeatured": [
+    "hotel-montanamar-inversion-lloret-de-mar",
     "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
@@ -15,6 +16,7 @@
     "piso-roca-grossa-lloret-mar"
   ],
   "catalog": [
+    "hotel-montanamar-inversion-lloret-de-mar",
     "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
     "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
@@ -903,9 +905,9 @@
         }
       },
       "otherAgency": false,
-      "showHome": false,
+      "showHome": true,
       "homeHero": false,
-      "sortOrder": 17
+      "sortOrder": 18
     }
   ]
 }
