@@ -857,7 +857,7 @@
       "translations": {
         "es": {
           "tag": "Proyecto hotelero",
-          "title": "Hotel Montanamar: inversi\u00F3n hotelera en Lloret de Mar",
+          "title": "Hotel Monta\u00F1a Mar: inversi\u00F3n hotelera en Lloret de Mar",
           "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
           "price": "2.700.000 \u20AC",
           "excerpt": "Oportunidad de inversi\u00F3n hotelera en Lloret de Mar, con piscina, zonas de restauraci\u00F3n, habitaciones con balc\u00F3n, vistas al mar y material gr\u00E1fico para valorar su reposicionamiento.",
@@ -907,7 +907,7 @@
       "otherAgency": false,
       "showHome": true,
       "homeHero": false,
-      "sortOrder": 18
+      "sortOrder": 17
     }
   ]
 }
