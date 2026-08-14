@@ -838,6 +838,74 @@
       "showHome": true,
       "homeHero": false,
       "sortOrder": 16
+    },
+    {
+      "id": "hotel-montanamar-inversion-lloret-de-mar",
+      "route": "inmuebles/ficha/?id=hotel-montanamar-inversion-lloret-de-mar",
+      "image": "assets/inmuebles/hotel-montanamar-inversion-lloret-de-mar/principal.jpg",
+      "types": [
+        "hotel",
+        "inversi\u00F3n",
+        "costa brava",
+        "piscina",
+        "restaurante",
+        "lloret de mar"
+      ],
+      "data": "data/properties/hotel-montanamar-inversion-lloret-de-mar.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Hotel Montanamar: inversi\u00F3n hotelera en Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "Oportunidad de inversi\u00F3n hotelera en Lloret de Mar, con piscina, zonas de restauraci\u00F3n, habitaciones con balc\u00F3n, vistas al mar y material gr\u00E1fico para valorar su reposicionamiento.",
+          "cta": "Ver inmueble"
+        },
+        "ca": {
+          "tag": "Projecte hoteler",
+          "title": "Hotel Montanamar: inversi\u00F3 en un hotel a Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "Una oportunitat d\u0027inversi\u00F3 hotelera a Lloret de Mar, que inclou una piscina, zones de restauraci\u00F3, habitacions amb balc\u00F3, vistes al mar i material visual per avaluar-ne el reposicionament.",
+          "cta": "Veure immoble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Hotel Montanamar: Hotel Investment in Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "Hotel investment opportunity in Lloret de Mar, featuring a pool, dining areas, rooms with balconies, ocean views, and visual materials to assess its repositioning.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet h\u00F4telier",
+          "title": "H\u00F4tel Montanamar : investissement h\u00F4telier \u00E0 Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "Opportunit\u00E9 d\u0027investissement h\u00F4telier \u00E0 Lloret de Mar, avec piscine, espaces de restauration, chambres dot\u00E9es d\u0027un balcon, vue sur la mer et supports visuels permettant d\u0027\u00E9valuer son repositionnement.",
+          "cta": "Voir la propri\u00E9t\u00E9"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Hotel Montanamar: Hotelinvestition in Lloret de Mar",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "Investitionsm\u00F6glichkeit im Hotelbereich in Lloret de Mar, mit Swimmingpool, Gastronomiebereichen, Zimmern mit Balkon, Meerblick und Bildmaterial zur Bewertung einer Neupositionierung.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
+          "title": "\u041E\u0442\u0435\u043B\u044C \u00AB\u041C\u043E\u043D\u0442\u0430\u043D\u0430\u043C\u0430\u0440\u00BB: \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u0432 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u0431\u0438\u0437\u043D\u0435\u0441 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440",
+          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
+          "price": "2.700.000 \u20AC",
+          "excerpt": "\u0418\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432 \u0441\u0444\u0435\u0440\u0435 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u0431\u0438\u0437\u043D\u0435\u0441\u0430 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440: \u043E\u0431\u044A\u0435\u043A\u0442 \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u043D\u044B\u043C\u0438 \u0437\u043E\u043D\u0430\u043C\u0438, \u043D\u043E\u043C\u0435\u0440\u0430\u043C\u0438 \u0441 \u0431\u0430\u043B\u043A\u043E\u043D\u0430\u043C\u0438, \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0438 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\u043C\u0438 \u0434\u043B\u044F \u043E\u0446\u0435\u043D\u043A\u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0435\u0433\u043E \u0440\u0435\u043F\u043E\u0437\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F.",
+          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+        }
+      },
+      "otherAgency": false,
+      "showHome": false,
+      "homeHero": false,
+      "sortOrder": 17
     }
   ]
 }
