@@ -1,0 +1,582 @@
+{
+  "media": {
+    "poster": "assets/inmueble-masia/ImgVideo.PNG",
+    "video": "assets/inmueble-masia/Video.mp4",
+    "images": [
+      {
+        "src": "assets/inmueble-masia/1.jpg",
+        "alt_es": "Imagen principal - Mas\u00EDa en Port d\u0027Aro"
+      },
+      {
+        "src": "assets/inmueble-masia/2.jpg",
+        "alt_es": "Imagen 2 - Mas\u00EDa en Port d\u0027Aro"
+      },
+      {
+        "src": "assets/inmueble-masia/3.jpg",
+        "alt_es": "Imagen 3 - Mas\u00EDa en Port d\u0027Aro"
+      },
+      {
+        "src": "assets/inmueble-masia/4.jpg",
+        "alt_es": "Imagen 4 - Mas\u00EDa en Port d\u0027Aro"
+      },
+      {
+        "src": "assets/inmueble-masia/5.jpg",
+        "alt_es": "Imagen 5 - Mas\u00EDa en Port d\u0027Aro"
+      }
+    ],
+    "pdf": "assets/proyecto-masia-port-daro.pdf",
+    "map_embed": "https://www.google.com/maps?q=Port%20d%27Aro%2C%20Platja%20d%27Aro%2C%20Girona\u0026output=embed",
+    "plot_graphic": "",
+    "source_url": "",
+    "other_agency": false,
+    "collaboration_note": ""
+  },
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Mas\u00EDa en Port d\u0027Aro",
+      "seo_title": "Mas\u00EDa en Port d\u0027Aro | LacostaHaus",
+      "seo_description": "Proyecto hotelero en una mas\u00EDa hist\u00F3rica de Port d\u0027Aro, cerca de Platja d\u0027Aro, con parcela de 10.680 m\u00B2 y proyecto aprobado.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "2.900.000 \u20AC",
+      "details": [
+        [
+          "Tipo",
+          "Mas\u00EDa"
+        ],
+        [
+          "Plantas",
+          "3"
+        ],
+        [
+          "Construidos",
+          "1.141 m\u00B2"
+        ],
+        [
+          "\u00DAtiles",
+          "1.100 m\u00B2"
+        ],
+        [
+          "Habitaciones",
+          "11"
+        ],
+        [
+          "Parcela",
+          "10.680 m\u00B2"
+        ],
+        [
+          "Terraza/Balc\u00F3n",
+          "S\u00ED"
+        ],
+        [
+          "Garaje",
+          "Incluido en el precio"
+        ],
+        [
+          "Estado",
+          "Segunda mano / para reformar"
+        ],
+        [
+          "Trastero",
+          "S\u00ED"
+        ],
+        [
+          "Orientaci\u00F3n",
+          "Sur, Este"
+        ],
+        [
+          "A\u00F1o construcci\u00F3n",
+          "1988"
+        ],
+        [
+          "Calefacci\u00F3n",
+          "No dispone"
+        ],
+        [
+          "Equipamiento",
+          "Jard\u00EDn"
+        ],
+        [
+          "Certificado energ\u00E9tico",
+          "En tr\u00E1mite"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "Desde \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E queremos presentar este proyecto hotelero de 4 estrellas superior en la hist\u00F3rica mas\u00EDa \u003Cem\u003EMas Candell\u003C/em\u003E del siglo XVI, reconocida como patrimonio cultural de Catalunya.",
+        "La propiedad descansa sobre una parcela de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E, a menos de 2 kil\u00F3metros de las playas de Platja d\u0027Aro y del centro urbano, con oferta gastron\u00F3mica, comercial y de ocio.",
+        "El proyecto conserva la belleza hist\u00F3rica de la mas\u00EDa y la combina con edificios modernos. La capacidad prevista es de \u003Cstrong\u003E90 hu\u00E9spedes\u003C/strong\u003E, hasta un m\u00E1ximo de \u003Cstrong\u003E107 hu\u00E9spedes\u003C/strong\u003E.",
+        "La mas\u00EDa alberga la recepci\u00F3n, lounge, \u003Cstrong\u003E11 suites\u003C/strong\u003E, \u003Cstrong\u003E6 habitaciones superiores\u003C/strong\u003E, restaurante con cocina propia y terrazas exteriores.",
+        "El proyecto incluye \u003Cstrong\u003E14 bungalows\u003C/strong\u003E, jardines, \u003Cstrong\u003Edos piscinas\u003C/strong\u003E, zona de spa, jacuzzi y un espacio multifuncional para eventos.",
+        "El proyecto est\u00E1 desarrollado y aprobado por las autoridades locales y regionales. El precio anunciado incluye la propiedad en su estado actual; el coste de la reforma se contrata por separado."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "2.900.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Casa de camp a Port d\u0027Aro",
+      "seo_description": "Un projecte de desenvolupament hoteler en una masia hist\u00F2rica a Port d\u0027Aro, a prop de Platja d\u0027Aro, amb una parcel\u00B7la de 10.680 m\u00B2 i un pla de desenvolupament aprovat.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de reforma \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Casa de camp a Port d\u0027Aro | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "Casa de camp"
+        ],
+        [
+          "Plans de planta",
+          "3"
+        ],
+        [
+          "Constru\u00EFt",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Recursos \u00FAtils",
+          "1.100 m\u00B2"
+        ],
+        [
+          "Habitacions",
+          "11"
+        ],
+        [
+          "Parcel\u00B7la",
+          "10.680 m\u00B2"
+        ],
+        [
+          "Terrassa/Balc\u00F3",
+          "S\u00ED"
+        ],
+        [
+          "Gara",
+          "Incl\u00F2s en el preu"
+        ],
+        [
+          "Estat",
+          "De segona m\u00E0 / necessita renovaci\u00F3"
+        ],
+        [
+          "Magatzem",
+          "S\u00ED"
+        ],
+        [
+          "Orientaci\u00F3",
+          "Sud, Est"
+        ],
+        [
+          "Any de construcci\u00F3",
+          "1988"
+        ],
+        [
+          "Calefacci\u00F3",
+          "No disponible"
+        ],
+        [
+          "Serveis",
+          "Jard\u00ED"
+        ],
+        [
+          "Certificat de rendiment energ\u00E8tic",
+          "En espera"
+        ]
+      ],
+      "description": [
+        "A \u003Cstrong\u003ELacostaHaus,\u003C/strong\u003E ens complau presentar aquest projecte d\u0027hotel de 4 estrelles superior situat a la masia hist\u00F2rica del segle XVI \u003Cem\u003EMas Candell\u003C/em\u003E, reconeguda com a part del patrimoni cultural de Catalunya.",
+        "La propietat est\u00E0 situada en un terreny de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E, a menys de 2 quil\u00F2metres de les platges de Platja d\u0027Aro i del centre del poble, amb una \u00E0mplia oferta de restauraci\u00F3, comer\u00E7os i opcions d\u0027oci.",
+        "El projecte preserva la bellesa hist\u00F2rica de la masia i la combina amb edificis moderns. La capacitat prevista \u00E9s de \u003Cstrong\u003E90 hostes\u003C/strong\u003E, fins a un m\u00E0xim de \u003Cstrong\u003E107 hostes\u003C/strong\u003E.",
+        "La masia acull la recepci\u00F3, el sal\u00F3, \u003Cstrong\u003E11 suites\u003C/strong\u003E, 6\u003Cstrong\u003E habitacions superiors\u003C/strong\u003E, un restaurant amb cuina pr\u00F2pia i terrasses exteriors.",
+        "El complex consta de \u003Cstrong\u003E14 bungalous\u003C/strong\u003E, jardins, \u003Cstrong\u003Edues piscines\u003C/strong\u003E, una zona d\u0027spa, un jacuzzi i un espai polivalent per a esdeveniments.",
+        "El projecte ha estat desenvolupat i aprovat per les autoritats locals i regionals. El preu anunciat inclou la propietat en el seu estat actual; el cost de la renovaci\u00F3 es contracta per separat."
+      ],
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona"
+    },
+    "en": {
+      "price": "2.900.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Country House in Port d\u0027Aro",
+      "seo_description": "Hotel project in a historic farmhouse in Port d\u0027Aro, near Platja d\u0027Aro, with a 10,680 m\u00B2 lot and an approved project.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Country House in Port d\u0027Aro | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Country House"
+        ],
+        [
+          "Floor Plans",
+          "3"
+        ],
+        [
+          "Built",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Tools",
+          "1.100 m\u00B2"
+        ],
+        [
+          "Bedrooms",
+          "11"
+        ],
+        [
+          "Lot",
+          "10.680 m\u00B2"
+        ],
+        [
+          "Terrace/Balcony",
+          "Yes"
+        ],
+        [
+          "Garage",
+          "Included in the price"
+        ],
+        [
+          "Status",
+          "Pre-owned / needs renovation"
+        ],
+        [
+          "Storage room",
+          "Yes"
+        ],
+        [
+          "Orientation",
+          "South, East"
+        ],
+        [
+          "Year built",
+          "1988"
+        ],
+        [
+          "Heating",
+          "Not available"
+        ],
+        [
+          "Amenities",
+          "Garden"
+        ],
+        [
+          "Energy Performance Certificate",
+          "Pending"
+        ]
+      ],
+      "description": [
+        "At \u003Cstrong\u003ELacostaHaus,\u003C/strong\u003E we are pleased to present this 4-star superior hotel project located in the historic 16th-century farmhouse \u003Cem\u003EMas Candell\u003C/em\u003E, recognized as a cultural heritage site of Catalonia.",
+        "The property sits on a \u003Cstrong\u003E10,680 m\u00B2\u003C/strong\u003E lot, less than 2 kilometers from the beaches of Platja d\u0027Aro and the town center, which offers dining, shopping, and entertainment options.",
+        "The project preserves the historic beauty of the farmhouse and combines it with modern buildings. The projected capacity is \u003Cstrong\u003E90 guests\u003C/strong\u003E, up to a maximum of \u003Cstrong\u003E107 guests\u003C/strong\u003E.",
+        "The farmhouse features a reception area, a lounge, \u003Cstrong\u003E11 suites\u003C/strong\u003E, 6 \u003Cstrong\u003Esuperior rooms\u003C/strong\u003E, a restaurant with its own kitchen, and outdoor terraces.",
+        "The project includes \u003Cstrong\u003E14 bungalows\u003C/strong\u003E, gardens, \u003Cstrong\u003Etwo swimming pools\u003C/strong\u003E, a spa area, a hot tub, and a multipurpose event space.",
+        "The project has been developed and approved by local and regional authorities. The listed price includes the property in its current condition; the cost of renovation is contracted separately."
+      ],
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona"
+    },
+    "fr": {
+      "price": "2.900.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Ferme \u00E0 Port d\u0027Aro",
+      "seo_description": "Projet h\u00F4telier dans une ferme historique de Port d\u0027Aro, pr\u00E8s de Platja d\u0027Aro, avec un terrain de 10 680 m\u00B2 et un projet approuv\u00E9.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Ferme \u00E0 Port d\u0027Aro | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Mas"
+        ],
+        [
+          "Plans",
+          "3"
+        ],
+        [
+          "Construits",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Outils",
+          "1.100 m\u00B2"
+        ],
+        [
+          "Chambres",
+          "11"
+        ],
+        [
+          "Terrain",
+          "10.680 m\u00B2"
+        ],
+        [
+          "Terrasse/Balcon",
+          "Oui"
+        ],
+        [
+          "Garage",
+          "Inclus dans le prix"
+        ],
+        [
+          "\u00C9tat",
+          "Seconde main / \u00E0 r\u00E9nover"
+        ],
+        [
+          "D\u00E9barras",
+          "Oui"
+        ],
+        [
+          "Exposition",
+          "Sud, Est"
+        ],
+        [
+          "Ann\u00E9e de construction",
+          "1988"
+        ],
+        [
+          "Chauffage",
+          "Non disponible"
+        ],
+        [
+          "\u00C9quipements",
+          "Jardin"
+        ],
+        [
+          "Certificat de performance \u00E9nerg\u00E9tique",
+          "En cours de traitement"
+        ]
+      ],
+      "description": [
+        "Chez \u003Cstrong\u003ELacostaHaus,\u003C/strong\u003E nous souhaitons vous pr\u00E9senter ce projet h\u00F4telier 4 \u00E9toiles sup\u00E9rieur situ\u00E9 dans la ferme historique \u003Cem\u003EMas Candell\u003C/em\u003E, datant du XVIe si\u00E8cle et class\u00E9e au patrimoine culturel de la Catalogne.",
+        "La propri\u00E9t\u00E9 est situ\u00E9e sur un terrain de \u003Cstrong\u003E10 680 m\u00B2\u003C/strong\u003E, \u00E0 moins de 2 kilom\u00E8tres des plages de Platja d\u0027Aro et du centre-ville, qui offre des possibilit\u00E9s en mati\u00E8re de gastronomie, de commerces et de loisirs.",
+        "Le projet pr\u00E9serve la beaut\u00E9 historique de la ferme et l\u0027associe \u00E0 des b\u00E2timents modernes. La capacit\u00E9 pr\u00E9vue est de \u003Cstrong\u003E90 h\u00F4tes\u003C/strong\u003E, avec un maximum de \u003Cstrong\u003E107 h\u00F4tes\u003C/strong\u003E.",
+        "La ferme abrite la r\u00E9ception, un salon, \u003Cstrong\u003E11 suites\u003C/strong\u003E, 6\u003Cstrong\u003E chambres sup\u00E9rieures\u003C/strong\u003E, un restaurant avec cuisine sur place et des terrasses ext\u00E9rieures.",
+        "Le projet comprend \u003Cstrong\u003E14 bungalows\u003C/strong\u003E, des jardins, \u003Cstrong\u003Edeux piscines\u003C/strong\u003E, un espace spa, un jacuzzi et un espace multifonctionnel d\u00E9di\u00E9 aux \u00E9v\u00E9nements.",
+        "Le projet a \u00E9t\u00E9 \u00E9labor\u00E9 et approuv\u00E9 par les autorit\u00E9s locales et r\u00E9gionales. Le prix annonc\u00E9 comprend le bien immobilier dans son \u00E9tat actuel ; le co\u00FBt des travaux de r\u00E9novation fait l\u0027objet d\u0027un contrat distinct."
+      ],
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona"
+    },
+    "de": {
+      "price": "2.900.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Landhaus in Port d\u2019Aro",
+      "seo_description": "Hotelprojekt in einem historischen Landhaus in Port d\u2019Aro, in der N\u00E4he von Platja d\u2019Aro, mit einem Grundst\u00FCck von 10.680 m\u00B2 und genehmigtem Bauvorhaben.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Landhaus in Port d\u2019Aro | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Mas\u00EDa"
+        ],
+        [
+          "Grundrisse",
+          "3"
+        ],
+        [
+          "Errichtet",
+          "1.141 m\u00B2"
+        ],
+        [
+          "N\u00FCtzliche Informationen",
+          "1.100 m\u00B2"
+        ],
+        [
+          "Zimmer",
+          "11"
+        ],
+        [
+          "Grundst\u00FCck",
+          "10.680 m\u00B2"
+        ],
+        [
+          "Terrasse/Balkon",
+          "Ja"
+        ],
+        [
+          "Garage",
+          "Im Preis inbegriffen"
+        ],
+        [
+          "Status",
+          "Gebraucht / renovierungsbed\u00FCrftig"
+        ],
+        [
+          "Abstellraum",
+          "Ja"
+        ],
+        [
+          "Ausrichtung",
+          "S\u00FCd, Ost"
+        ],
+        [
+          "Baujahr",
+          "1988"
+        ],
+        [
+          "Heizung",
+          "Nicht verf\u00FCgbar"
+        ],
+        [
+          "Ausstattung",
+          "Garten"
+        ],
+        [
+          "Energieausweis",
+          "In Bearbeitung"
+        ]
+      ],
+      "description": [
+        "Wir von \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E m\u00F6chten Ihnen dieses 4-Sterne-Superior-Hotelprojekt in der historischen Landresidenz \u003Cem\u003EMas Candell\u003C/em\u003E aus dem 16. Jahrhundert vorstellen, die als Kulturerbe Kataloniens anerkannt ist.",
+        "Die Immobilie befindet sich auf einem \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E gro\u00DFen Grundst\u00FCck, weniger als 2 Kilometer von den Str\u00E4nden von Platja d\u2019Aro und dem Stadtzentrum entfernt, wo Sie ein vielf\u00E4ltiges Angebot an Gastronomie, Einkaufsm\u00F6glichkeiten und Freizeitaktivit\u00E4ten vorfinden.",
+        "Das Projekt bewahrt die historische Sch\u00F6nheit des Bauernhauses und verbindet diese mit modernen Geb\u00E4uden. Die geplante Kapazit\u00E4t betr\u00E4gt \u003Cstrong\u003E90 G\u00E4ste\u003C/strong\u003E, maximal \u003Cstrong\u003E107 G\u00E4ste\u003C/strong\u003E.",
+        "Das Landhaus beherbergt die Rezeption, eine Lounge, \u003Cstrong\u003E11 Suiten\u003C/strong\u003E, 6\u003Cstrong\u003E Superior-Zimmer\u003C/strong\u003E, ein Restaurant mit eigener K\u00FCche sowie Au\u00DFenterrassen.",
+        "Das Projekt umfasst \u003Cstrong\u003E14 Bungalows\u003C/strong\u003E, G\u00E4rten, \u003Cstrong\u003Ezwei Schwimmb\u00E4der\u003C/strong\u003E, einen Wellnessbereich, einen Whirlpool sowie einen multifunktionalen Veranstaltungsraum.",
+        "Das Projekt wurde von den lokalen und regionalen Beh\u00F6rden genehmigt. Der angegebene Preis bezieht sich auf die Immobilie im aktuellen Zustand; die Kosten f\u00FCr die Renovierung werden separat vereinbart."
+      ],
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona"
+    },
+    "ru": {
+      "price": "2.900.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0423\u0441\u0430\u0434\u044C\u0431\u0430 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E",
+      "seo_description": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u0443\u0441\u0430\u0434\u0435\u0431\u043D\u043E\u043C \u0434\u043E\u043C\u0435 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E, \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E, \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 10 680 \u043C\u00B2 \u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043D\u043D\u044B\u043C \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u043C.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0423\u0441\u0430\u0434\u044C\u0431\u0430 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u041C\u0430\u0441\u0438\u044F"
+        ],
+        [
+          "\u041F\u043B\u0430\u043D\u044B \u044D\u0442\u0430\u0436\u0435\u0439",
+          "3"
+        ],
+        [
+          "\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435",
+          "1.141 m\u00B2"
+        ],
+        [
+          "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
+          "1.100 m\u00B2"
+        ],
+        [
+          "\u041A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "11"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "10.680 m\u00B2"
+        ],
+        [
+          "\u0422\u0435\u0440\u0440\u0430\u0441\u0430/\u0431\u0430\u043B\u043A\u043E\u043D",
+          "\u0414\u0430"
+        ],
+        [
+          "\u0413\u0430\u0440\u0430\u0436",
+          "\u0412\u043A\u043B\u044E\u0447\u0435\u043D\u043E \u0432 \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C"
+        ],
+        [
+          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
+          "\u041D\u0430 \u0432\u0442\u043E\u0440\u0438\u0447\u043D\u043E\u043C \u0440\u044B\u043D\u043A\u0435 / \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0440\u0435\u043C\u043E\u043D\u0442\u0430"
+        ],
+        [
+          "\u041A\u043B\u0430\u0434\u043E\u0432\u0430\u044F",
+          "\u0414\u0430"
+        ],
+        [
+          "\u041E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u044F",
+          "\u042E\u0433, \u0412\u043E\u0441\u0442\u043E\u043A"
+        ],
+        [
+          "\u0413\u043E\u0434 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+          "1988"
+        ],
+        [
+          "\u041E\u0442\u043E\u043F\u043B\u0435\u043D\u0438\u0435",
+          "\u041D\u0435\u0442 \u0432 \u043D\u0430\u043B\u0438\u0447\u0438\u0438"
+        ],
+        [
+          "\u041E\u0441\u043D\u0430\u0449\u0435\u043D\u0438\u0435",
+          "\u0421\u0430\u0434"
+        ],
+        [
+          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
+          "\u041D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0432 \u043F\u0440\u043E\u0446\u0435\u0441\u0441\u0435 \u043E\u0431\u0440\u0430\u0431\u043E\u0442\u043A\u0438"
+        ]
+      ],
+      "description": [
+        "\u041A\u043E\u043C\u043F\u0430\u043D\u0438\u044F \u003Cstrong\u003ELacostaHaus\u003C/strong\u003E \u0440\u0430\u0434\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u044C \u0432\u0430\u043C \u044D\u0442\u043E\u0442 \u043F\u0440\u043E\u0435\u043A\u0442 4-\u0437\u0432\u0451\u0437\u0434\u043E\u0447\u043D\u043E\u0433\u043E \u043E\u0442\u0435\u043B\u044F \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u043A\u043B\u0430\u0441\u0441\u0430, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u043E\u0433\u043E \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u043F\u043E\u043C\u0435\u0441\u0442\u044C\u0435 \u003Cem\u003EMas Candell\u003C/em\u003E XVI \u0432\u0435\u043A\u0430, \u043F\u0440\u0438\u0437\u043D\u0430\u043D\u043D\u043E\u043C \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u044B\u043C \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435\u043C \u041A\u0430\u0442\u0430\u043B\u043E\u043D\u0438\u0438.",
+        "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0430 \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E10 680 \u043C\u00B2\u003C/strong\u003E, \u043C\u0435\u043D\u0435\u0435 \u0447\u0435\u043C \u0432 2 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440\u0430\u0445 \u043E\u0442 \u043F\u043B\u044F\u0436\u0435\u0439 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E \u0438 \u0446\u0435\u043D\u0442\u0440\u0430 \u0433\u043E\u0440\u043E\u0434\u0430, \u0433\u0434\u0435 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u044B \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u044B, \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u044B \u0438 \u0440\u0430\u0437\u0432\u043B\u0435\u043A\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0437\u0430\u0432\u0435\u0434\u0435\u043D\u0438\u044F.",
+        "\u041F\u0440\u043E\u0435\u043A\u0442 \u0441\u043E\u0445\u0440\u0430\u043D\u044F\u0435\u0442 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u043A\u0440\u0430\u0441\u043E\u0442\u0443 \u0443\u0441\u0430\u0434\u044C\u0431\u044B \u0438 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0435\u0451 \u0441 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u044B\u043C\u0438 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430\u043C\u0438. \u041F\u0440\u0435\u0434\u043F\u043E\u043B\u0430\u0433\u0430\u0435\u043C\u0430\u044F \u0432\u043C\u0435\u0441\u0442\u0438\u043C\u043E\u0441\u0442\u044C \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u003Cstrong\u003E90 \u0433\u043E\u0441\u0442\u0435\u0439\u003C/strong\u003E, \u0441 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C\u044E \u0440\u0430\u0437\u043C\u0435\u0449\u0435\u043D\u0438\u044F \u0434\u043E \u003Cstrong\u003E107 \u0433\u043E\u0441\u0442\u0435\u0439\u003C/strong\u003E.",
+        "\u0412 \u0443\u0441\u0430\u0434\u044C\u0431\u0435 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u044B \u0441\u0442\u043E\u0439\u043A\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438, \u043B\u0430\u0443\u043D\u0434\u0436, \u003Cstrong\u003E11 \u043B\u044E\u043A\u0441\u043E\u0432\u003C/strong\u003E, 6\u003Cstrong\u003E \u043D\u043E\u043C\u0435\u0440\u043E\u0432 \u043F\u043E\u0432\u044B\u0448\u0435\u043D\u043D\u043E\u0439 \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u043D\u043E\u0441\u0442\u0438\u003C/strong\u003E, \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D \u0441 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439 \u043A\u0443\u0445\u043D\u0435\u0439 \u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0435 \u0442\u0435\u0440\u0440\u0430\u0441\u044B.",
+        "\u041F\u0440\u043E\u0435\u043A\u0442 \u0432\u043A\u043B\u044E\u0447\u0430\u0435\u0442 \u003Cstrong\u003E14 \u0431\u0443\u043D\u0433\u0430\u043B\u043E\u003C/strong\u003E, \u0441\u0430\u0434\u044B, \u003Cstrong\u003E\u0434\u0432\u0430 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u0430\u003C/strong\u003E, \u0441\u043F\u0430-\u0437\u043E\u043D\u0443, \u0434\u0436\u0430\u043A\u0443\u0437\u0438 \u0438 \u043C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0435 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u043E \u0434\u043B\u044F \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u043C\u0435\u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u0439.",
+        "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D \u0438 \u043E\u0434\u043E\u0431\u0440\u0435\u043D \u043C\u0435\u0441\u0442\u043D\u044B\u043C\u0438 \u0438 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u043C\u0438 \u043E\u0440\u0433\u0430\u043D\u0430\u043C\u0438 \u0432\u043B\u0430\u0441\u0442\u0438. \u0423\u043A\u0430\u0437\u0430\u043D\u043D\u0430\u044F \u0446\u0435\u043D\u0430 \u0432\u043A\u043B\u044E\u0447\u0430\u0435\u0442 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0432 \u0435\u0451 \u0442\u0435\u043A\u0443\u0449\u0435\u043C \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0438; \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C \u0440\u0435\u043C\u043E\u043D\u0442\u0430 \u043E\u0433\u043E\u0432\u0430\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044F \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E."
+      ],
+      "location_text": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona"
+    }
+  }
+}
