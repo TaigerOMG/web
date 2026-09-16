@@ -1,0 +1,527 @@
+{
+  "media": {
+    "poster": "assets/inmueble-masia/ImgVideo.PNG",
+    "video": "assets/inmueble-masia/Video.mp4",
+    "images": [
+      {
+        "src": "assets/inmueble-masia/1.jpg",
+        "alt_es": "Imagen principal - Mas\u00EDa hist\u00F3rica fortificada del siglo XVI"
+      },
+      {
+        "src": "assets/inmueble-masia/2.jpg",
+        "alt_es": "Imagen 2 - Mas\u00EDa hist\u00F3rica fortificada del siglo XVI"
+      },
+      {
+        "src": "assets/inmueble-masia/3.jpg",
+        "alt_es": "Imagen 3 - Mas\u00EDa hist\u00F3rica fortificada del siglo XVI"
+      },
+      {
+        "src": "assets/inmueble-masia/4.jpg",
+        "alt_es": "Imagen 4 - Mas\u00EDa hist\u00F3rica fortificada del siglo XVI"
+      },
+      {
+        "src": "assets/inmueble-masia/5.jpg",
+        "alt_es": "Imagen 5 - Mas\u00EDa hist\u00F3rica fortificada del siglo XVI"
+      }
+    ],
+    "pdf": "assets/proyecto-masia-port-daro.pdf",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.1815122532303!2d3.0475178188567202!3d41.80990123440002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12bb012ecf2b17f1%3A0x700b6fa4938eaba2!2sMas%C3%ADa%20Mas%20Candell!5e1!3m2!1ses-419!2ses!4v1789556301330!5m2!1ses-419!2ses",
+    "plot_graphic": "assets/inmuebles/mas-candell-hotel-4-estrellas-platja-daro/grafico-parcela.png",
+    "source_url": "",
+    "other_agency": false,
+    "collaboration_note": "Colaboraci\u00F3n | ImmoGirona \u0026 LacostaHaus"
+  },
+  "editorDetails": [
+    {
+      "Include": true,
+      "Label": "Tipo",
+      "Value": "Mas\u00EDa patrimonial"
+    },
+    {
+      "Include": true,
+      "Label": "Mar",
+      "Value": "A menos de 2 km"
+    },
+    {
+      "Include": true,
+      "Label": "Plantas",
+      "Value": "3"
+    },
+    {
+      "Include": true,
+      "Label": "Construidos",
+      "Value": "1.141 m\u00B2"
+    },
+    {
+      "Include": true,
+      "Label": "Parcela",
+      "Value": "10.860 m\u00B2"
+    },
+    {
+      "Include": true,
+      "Label": "\u00C9poca",
+      "Value": "Siglo XVI"
+    },
+    {
+      "Include": true,
+      "Label": "Terrazas y jardines",
+      "Value": "S\u00ED"
+    },
+    {
+      "Include": true,
+      "Label": "habitaciones",
+      "Value": "11"
+    },
+    {
+      "Include": true,
+      "Label": "Ba\u00F1o",
+      "Value": "1"
+    },
+    {
+      "Include": false,
+      "Label": "Edificaci\u00F3n prevista",
+      "Value": "3.162 m\u00B2"
+    },
+    {
+      "Include": false,
+      "Label": "Capacidad",
+      "Value": "90 hu\u00E9spedes, ampliable hasta 107"
+    },
+    {
+      "Include": false,
+      "Label": "Restaurante",
+      "Value": "S\u00ED"
+    },
+    {
+      "Include": false,
+      "Label": "Piscinas",
+      "Value": "2"
+    },
+    {
+      "Include": false,
+      "Label": "Spa y jacuzzi",
+      "Value": "S\u00ED"
+    },
+    {
+      "Include": false,
+      "Label": "Colaboraci\u00F3n",
+      "Value": "ImmoGirona \u0026 LacostaHaus"
+    }
+  ],
+  "translations": {
+    "es": {
+      "nav_home": "Inicio",
+      "nav_properties": "Inmuebles",
+      "nav_languages": "Idiomas",
+      "title": "Mas\u00EDa hist\u00F3rica fortificada del siglo XVI",
+      "seo_title": "Mas\u00EDa hist\u00F3rica fortificada del siglo XVI | LacostaHaus",
+      "seo_description": "Mas\u00EDa fortificada patrimonial del siglo XVI en Port d\u0027Aro, con parcela de 10.860 m\u00B2.",
+      "details_title": "Detalles de la Propiedad",
+      "price": "2.995.000 \u20AC",
+      "details": [
+        [
+          "Tipo",
+          "Mas\u00EDa patrimonial"
+        ],
+        [
+          "Mar",
+          "A menos de 2 km"
+        ],
+        [
+          "Plantas",
+          "3"
+        ],
+        [
+          "Construidos",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Parcela",
+          "10.860 m\u00B2"
+        ],
+        [
+          "\u00C9poca",
+          "Siglo XVI"
+        ],
+        [
+          "Terrazas y jardines",
+          "S\u00ED"
+        ],
+        [
+          "habitaciones",
+          "11"
+        ],
+        [
+          "Ba\u00F1o",
+          "1"
+        ]
+      ],
+      "project_title": "Proyecto",
+      "pdf_title": "Proyecto de reforma - LacostaHaus",
+      "download_pdf": "Descargar PDF",
+      "plot_title": "Gr\u00E1fico parcela",
+      "description_title": "Descripci\u00F3n",
+      "description": [
+        "Excepcional \u003Cstrong\u003Emas\u00EDa hist\u00F3rica y casa-fortaleza del siglo XVI\u003C/strong\u003E en venta en Castell d\u0027Aro, a unos \u003Cstrong\u003E3 km de las playas de la Costa Brava\u003C/strong\u003E.",
+        "Una propiedad singular por su arquitectura y car\u00E1cter hist\u00F3rico, con \u003Cstrong\u003Etorre fortificada\u003C/strong\u003E, gruesos muros de piedra, elementos arquitect\u00F3nicos tradicionales y amplias zonas ajardinadas, situada sobre una parcela de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E.",
+        "La mas\u00EDa dispone de \u003Cstrong\u003E1.141 m\u00B2 construidos\u003C/strong\u003E, distribuidos en amplios espacios interiores, con \u003Cstrong\u003E11 habitaciones y 1 ba\u00F1o\u003C/strong\u003E en su configuraci\u00F3n actual. El inmueble se encuentra pendiente de completar su rehabilitaci\u00F3n, ofreciendo al futuro propietario la oportunidad de recuperar y adaptar una finca hist\u00F3rica excepcional conservando su identidad arquitect\u00F3nica.",
+        "La construcci\u00F3n forma parte del patrimonio cultural de Catalu\u00F1a y conserva la presencia de una aut\u00E9ntica \u003Cstrong\u003Ecasa-fortaleza\u003C/strong\u003E, rodeada de vegetaci\u00F3n y espacios exteriores que proporcionan privacidad y un entorno de gran car\u00E1cter.",
+        "Su ubicaci\u00F3n combina la tranquilidad de una gran finca hist\u00F3rica con la proximidad a Castell d\u0027Aro, Platja d\u0027Aro y las playas de la Costa Brava.",
+        "Precio: \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "Una propiedad dirigida a compradores que buscan patrimonio, arquitectura hist\u00F3rica y una finca verdaderamente singular en la Costa Brava.",
+        "Para obtener m\u00E1s informaci\u00F3n, documentaci\u00F3n de la propiedad o concertar una visita privada, contacte con nosotros."
+      ],
+      "location_title": "Ubicaci\u00F3n",
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+      "contact_label": "Contacto",
+      "email_label": "Gmail",
+      "spoken_label": "Idiomas",
+      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+    },
+    "ca": {
+      "price": "2.995.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Inici",
+      "nav_properties": "Propietats",
+      "nav_languages": "Idiomes",
+      "title": "Mas hist\u00F2ric fortificat del segle XVI",
+      "seo_description": "Una masia fortificada del segle XVI catalogada com a patrimoni a Port d\u0027Aro, amb una parcel\u00B7la de 10.860 m\u00B2.",
+      "details_title": "Detalls de la propietat",
+      "project_title": "Projecte",
+      "pdf_title": "Projecte de renovaci\u00F3 \u2013 LacostaHaus",
+      "download_pdf": "Descarrega el PDF",
+      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
+      "description_title": "Descripci\u00F3",
+      "location_title": "Ubicaci\u00F3",
+      "contact_label": "Contacte",
+      "spoken_label": "Idiomes",
+      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
+      "seo_title": "Mas hist\u00F2ric fortificat del segle XVI | LacostaHaus",
+      "details": [
+        [
+          "Tipus",
+          "Granja patrimonial"
+        ],
+        [
+          "Mar",
+          "Menys de 2 km"
+        ],
+        [
+          "Plans de planta",
+          "3"
+        ],
+        [
+          "Constru\u00EFt",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Parcel\u00B7la",
+          "10.860 m\u00B2"
+        ],
+        [
+          "Per\u00EDode",
+          "segle XVI"
+        ],
+        [
+          "Terrasses i jardins",
+          "S\u00ED"
+        ],
+        [
+          "habitacions",
+          "11"
+        ],
+        [
+          "Bany",
+          "1"
+        ]
+      ],
+      "description": [
+        "Una excepcional \u003Cstrong\u003Emasia hist\u00F2rica i casa fortificada del segle XVI\u003C/strong\u003E a la venda a Castell d\u0027Aro, a uns 3\u003Cstrong\u003E km de les platges de la Costa Brava\u003C/strong\u003E.",
+        "Una propietat \u00FAnica per la seva arquitectura i car\u00E0cter hist\u00F2ric, que compta amb \u003Cstrong\u003Euna torre fortificada\u003C/strong\u003E, gruixuts murs de pedra, elements arquitect\u00F2nics tradicionals i amplis jardins, situada en un terreny de \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E.",
+        "La masia t\u00E9 \u003Cstrong\u003Euna superf\u00EDcie\u003C/strong\u003E de \u003Cstrong\u003E1.141 m\u00B2\u003C/strong\u003E, amb \u00E0mplies zones interiors, amb \u003Cstrong\u003E11 dormitoris i 1 bany\u003C/strong\u003E en la seva distribuci\u00F3 actual. La propietat est\u00E0 a l\u0027espera de completar la seva renovaci\u00F3, la qual cosa ofereix al futur propietari l\u0027oportunitat de restaurar i adaptar una finca hist\u00F2rica excepcional, tot preservant la seva identitat arquitect\u00F2nica.",
+        "La propietat forma part del patrimoni cultural de Catalunya i conserva el car\u00E0cter d\u0027una aut\u00E8ntica \u003Cstrong\u003Ecasa fortalesa\u003C/strong\u003E, envoltada de verdor i espais exteriors que proporcionen privacitat i un entorn ple de car\u00E0cter.",
+        "La seva ubicaci\u00F3 combina la tranquil\u00B7litat d\u0027una gran finca hist\u00F2rica amb la proximitat a Castell d\u0027Aro, Platja d\u0027Aro i les platges de la Costa Brava.",
+        "Preu: \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "Una propietat adre\u00E7ada a compradors que busquen patrimoni, arquitectura hist\u00F2rica i una finca realment \u00FAnica a la Costa Brava.",
+        "Per a m\u00E9s informaci\u00F3, documentaci\u00F3 de la propietat o per concertar una visita privada, poseu-vos en contacte amb nosaltres."
+      ],
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5"
+    },
+    "en": {
+      "price": "2.995.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Home",
+      "nav_properties": "Real Estate",
+      "nav_languages": "Languages",
+      "title": "Historic fortified farmhouse from the 16th century",
+      "seo_description": "A 16th-century heritage-listed fortified farmhouse in Port d\u0027Aro, with a 10,860 m\u00B2 lot.",
+      "details_title": "Property Details",
+      "project_title": "Project",
+      "pdf_title": "Renovation Project - LacostaHaus",
+      "download_pdf": "Download PDF",
+      "plot_title": "Lot diagram",
+      "description_title": "Description",
+      "location_title": "Location",
+      "contact_label": "Contact",
+      "spoken_label": "Languages",
+      "video_fallback": "Your browser cannot play this video.",
+      "seo_title": "Historic fortified farmhouse from the 16th century | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Heritage farmhouse"
+        ],
+        [
+          "Mar",
+          "Less than 2 km"
+        ],
+        [
+          "Floor Plans",
+          "3"
+        ],
+        [
+          "Built",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Lot",
+          "10.860 m\u00B2"
+        ],
+        [
+          "Period",
+          "16th century"
+        ],
+        [
+          "Terraces and Gardens",
+          "Yes"
+        ],
+        [
+          "bedrooms",
+          "11"
+        ],
+        [
+          "Bathroom",
+          "1"
+        ]
+      ],
+      "description": [
+        "Exceptional \u003Cstrong\u003Ehistoric farmhouse and 16th-century fortress-style home\u003C/strong\u003E for sale in Castell d\u0027Aro, about 3\u003Cstrong\u003E km from the beaches of the Costa Brava\u003C/strong\u003E.",
+        "A unique property due to its architecture and historical character, featuring \u003Cstrong\u003Ea fortified tower\u003C/strong\u003E, thick stone walls, traditional architectural elements, and spacious landscaped areas, situated on a \u003Cstrong\u003E10,680 m\u00B2\u003C/strong\u003E lot\u003Cstrong\u003E.\u003C/strong\u003E",
+        "The farmhouse has \u003Cstrong\u003Ea total floor area\u003C/strong\u003E of \u003Cstrong\u003E1,141 m\u00B2\u003C/strong\u003E, distributed across spacious interior areas, with \u003Cstrong\u003E11 bedrooms and 1 bathroom\u003C/strong\u003E in its current layout. The property is awaiting completion of its renovation, offering the future owner the opportunity to restore and adapt this exceptional historic estate while preserving its architectural identity.",
+        "The property is part of Catalonia\u2019s cultural heritage and retains the character of an authentic \u003Cstrong\u003Efortress-like home\u003C/strong\u003E, surrounded by greenery and outdoor spaces that provide privacy and a setting full of character.",
+        "Its location combines the tranquility of a large historic estate with proximity to Castell d\u0027Aro, Platja d\u0027Aro, and the beaches of the Costa Brava.",
+        "Price: \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "A property aimed at buyers seeking heritage, historic architecture, and a truly unique estate on the Costa Brava.",
+        "For more information, property documentation, or to schedule a private tour, please contact us."
+      ],
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5"
+    },
+    "fr": {
+      "price": "2.995.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Accueil",
+      "nav_properties": "Biens immobiliers",
+      "nav_languages": "Langues",
+      "title": "Maison de campagne historique fortifi\u00E9e du XVIe si\u00E8cle",
+      "seo_description": "Maison de campagne fortifi\u00E9e class\u00E9e au patrimoine, datant du XVIe si\u00E8cle, situ\u00E9e \u00E0 Port d\u0027Aro, avec un terrain de 10 860 m\u00B2.",
+      "details_title": "D\u00E9tails du bien immobilier",
+      "project_title": "Projet",
+      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
+      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "plot_title": "Plan du terrain",
+      "description_title": "Description",
+      "location_title": "Emplacement",
+      "contact_label": "Contact",
+      "spoken_label": "Langues",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "seo_title": "Maison de campagne historique fortifi\u00E9e du XVIe si\u00E8cle | LacostaHaus",
+      "details": [
+        [
+          "Type",
+          "Mas patrimonial"
+        ],
+        [
+          "Mar",
+          "\u00C0 moins de 2 km"
+        ],
+        [
+          "Plans",
+          "3"
+        ],
+        [
+          "Construits",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Terrain",
+          "10.860 m\u00B2"
+        ],
+        [
+          "\u00C9poque",
+          "XVIe si\u00E8cle"
+        ],
+        [
+          "Terrasses et jardins",
+          "Oui"
+        ],
+        [
+          "chambres",
+          "11"
+        ],
+        [
+          "Salle de bains",
+          "1"
+        ]
+      ],
+      "description": [
+        "Exceptionnelle \u003Cstrong\u003Eferme historique et maison-forteresse du XVIe si\u00E8cle\u003C/strong\u003E \u00E0 vendre \u00E0 Castell d\u0027Aro, \u00E0 environ 3\u003Cstrong\u003E km des plages de la Costa Brava\u003C/strong\u003E.",
+        "Une propri\u00E9t\u00E9 unique par son architecture et son caract\u00E8re historique, dot\u00E9e d\u0027\u003Cstrong\u003Eune\u003C/strong\u003E \u003Cstrong\u003Etour fortifi\u00E9e\u003C/strong\u003E, de murs \u00E9pais en pierre, d\u0027\u00E9l\u00E9ments architecturaux traditionnels et de vastes espaces verts, situ\u00E9e sur un terrain de \u003Cstrong\u003E10 680 m\u00B2\u003C/strong\u003E.",
+        "Cette ferme dispose d\u2019une surface \u003Cstrong\u003Econstruite de 1 141 m\u00B2\u003C/strong\u003E, r\u00E9partis en vastes espaces int\u00E9rieurs, avec \u003Cstrong\u003E11 chambres et 1 salle de bains\u003C/strong\u003E dans sa configuration actuelle. La propri\u00E9t\u00E9 est en attente d\u2019ach\u00E8vement de sa r\u00E9novation, offrant ainsi au futur propri\u00E9taire l\u2019opportunit\u00E9 de restaurer et d\u2019adapter un domaine historique exceptionnel tout en pr\u00E9servant son identit\u00E9 architecturale.",
+        "Cette construction fait partie du patrimoine culturel de la Catalogne et conserve l\u2019allure d\u2019une v\u00E9ritable \u003Cstrong\u003Emaison-forteresse\u003C/strong\u003E, entour\u00E9e de v\u00E9g\u00E9tation et d\u2019espaces ext\u00E9rieurs qui garantissent l\u2019intimit\u00E9 et offrent un cadre de grand caract\u00E8re.",
+        "Son emplacement allie la tranquillit\u00E9 d\u0027un grand domaine historique \u00E0 la proximit\u00E9 de Castell d\u0027Aro, de Platja d\u0027Aro et des plages de la Costa Brava.",
+        "Prix : \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "Une propri\u00E9t\u00E9 destin\u00E9e aux acheteurs \u00E0 la recherche d\u2019un patrimoine, d\u2019une architecture historique et d\u2019une propri\u00E9t\u00E9 v\u00E9ritablement unique sur la Costa Brava.",
+        "Pour obtenir plus d\u0027informations, consulter le dossier de la propri\u00E9t\u00E9 ou organiser une visite priv\u00E9e, veuillez nous contacter."
+      ],
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5"
+    },
+    "de": {
+      "price": "2.995.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "Startseite",
+      "nav_properties": "Immobilien",
+      "nav_languages": "Sprachen",
+      "title": "Historisches, befestigtes Landhaus aus dem 16. Jahrhundert",
+      "seo_description": "Befestigtes, denkmalgesch\u00FCtztes Landhaus aus dem 16. Jahrhundert in Port d\u2019Aro mit einem Grundst\u00FCck von 10.860 m\u00B2.",
+      "details_title": "Details zur Immobilie",
+      "project_title": "Projekt",
+      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "download_pdf": "PDF herunterladen",
+      "plot_title": "Grundst\u00FCcksplan",
+      "description_title": "Beschreibung",
+      "location_title": "Lage",
+      "contact_label": "Kontakt",
+      "spoken_label": "Sprachen",
+      "video_fallback": "Ihr Browser kann dieses Video nicht wiedergeben.",
+      "seo_title": "Historisches, befestigtes Landhaus aus dem 16. Jahrhundert | LacostaHaus",
+      "details": [
+        [
+          "Typ",
+          "Historisches Landhaus"
+        ],
+        [
+          "Mar",
+          "Weniger als 2 km"
+        ],
+        [
+          "Grundrisse",
+          "3"
+        ],
+        [
+          "Errichtet",
+          "1.141 m\u00B2"
+        ],
+        [
+          "Grundst\u00FCck",
+          "10.860 m\u00B2"
+        ],
+        [
+          "Epoche",
+          "16. Jahrhundert"
+        ],
+        [
+          "Terrassen und G\u00E4rten",
+          "Ja"
+        ],
+        [
+          "Zimmer",
+          "11"
+        ],
+        [
+          "Badezimmer",
+          "1"
+        ]
+      ],
+      "description": [
+        "Au\u00DFergew\u00F6hnliches \u003Cstrong\u003Ehistorisches Landhaus und Festungsanwesen aus dem 16. Jahrhundert\u003C/strong\u003E zu verkaufen in Castell d\u2019Aro, etwa \u003Cstrong\u003E3 km von den Str\u00E4nden der Costa Brava\u003C/strong\u003E entfernt.",
+        "Eine aufgrund ihrer Architektur und ihres historischen Charakters einzigartige Immobilie mit \u003Cstrong\u003Eeinem befestigten Turm\u003C/strong\u003E, dicken Steinmauern, traditionellen architektonischen Elementen und weitl\u00E4ufigen Gartenanlagen, gelegen auf einem Grundst\u00FCck von \u003Cstrong\u003E10.680 m\u00B2\u003C/strong\u003E.",
+        "Das Landhaus verf\u00FCgt \u00FCber eine \u003Cstrong\u003Ebebaute\u003C/strong\u003E Fl\u00E4che \u003Cstrong\u003Evon 1.141 m\u00B2\u003C/strong\u003E, die sich auf gro\u00DFz\u00FCgige Innenr\u00E4ume verteilt und in der derzeitigen Aufteilung \u003Cstrong\u003E11 Zimmer sowie 1 Badezimmer\u003C/strong\u003E umfasst. Die Immobilie befindet sich noch in der Renovierungsphase und bietet dem zuk\u00FCnftigen Eigent\u00FCmer die M\u00F6glichkeit, ein au\u00DFergew\u00F6hnliches historisches Anwesen unter Wahrung seiner architektonischen Identit\u00E4t wiederherzustellen und an seine Bed\u00FCrfnisse anzupassen.",
+        "Das Anwesen ist Teil des kulturellen Erbes Kataloniens und bewahrt den Charakter einer authentischen \u003Cstrong\u003EFestungsresidenz\u003C/strong\u003E, umgeben von Vegetation und Au\u00DFenbereichen, die Privatsph\u00E4re und ein Umfeld mit gro\u00DFem Charme bieten.",
+        "Die Lage vereint die Ruhe eines gro\u00DFen historischen Anwesens mit der N\u00E4he zu Castell d\u2019Aro, Platja d\u2019Aro und den Str\u00E4nden der Costa Brava.",
+        "Preis: \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "Eine Immobilie, die sich an K\u00E4ufer richtet, die auf der Suche nach Kulturerbe, historischer Architektur und einem wahrhaft einzigartigen Anwesen an der Costa Brava sind.",
+        "F\u00FCr weitere Informationen, Unterlagen zur Immobilie oder zur Vereinbarung einer privaten Besichtigung wenden Sie sich bitte an uns."
+      ],
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5"
+    },
+    "ru": {
+      "price": "2.995.000 \u20AC",
+      "email_label": "Gmail",
+      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
+      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
+      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
+      "title": "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430",
+      "seo_description": "\u0423\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430, \u044F\u0432\u043B\u044F\u044E\u0449\u0430\u044F\u0441\u044F \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u043C \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F, \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 10 860 \u043C\u00B2.",
+      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
+      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
+      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
+      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
+      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
+      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
+      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
+      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
+      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
+      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
+      "seo_title": "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430 | LacostaHaus",
+      "details": [
+        [
+          "\u0422\u0438\u043F",
+          "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430"
+        ],
+        [
+          "\u041C\u0430\u0440",
+          "\u041C\u0435\u043D\u0435\u0435 \u0447\u0435\u043C \u0432 2 \u043A\u043C"
+        ],
+        [
+          "\u041F\u043B\u0430\u043D\u044B \u044D\u0442\u0430\u0436\u0435\u0439",
+          "3"
+        ],
+        [
+          "\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u0435",
+          "1.141 m\u00B2"
+        ],
+        [
+          "\u0423\u0447\u0430\u0441\u0442\u043E\u043A",
+          "10.860 m\u00B2"
+        ],
+        [
+          "\u042D\u043F\u043E\u0445\u0430",
+          "XVI \u0432\u0435\u043A"
+        ],
+        [
+          "\u0422\u0435\u0440\u0440\u0430\u0441\u044B \u0438 \u0441\u0430\u0434\u044B",
+          "\u0414\u0430"
+        ],
+        [
+          "\u043A\u043E\u043C\u043D\u0430\u0442",
+          "11"
+        ],
+        [
+          "\u0412\u0430\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+          "1"
+        ]
+      ],
+      "description": [
+        "\u041F\u0440\u043E\u0434\u0430\u0435\u0442\u0441\u044F \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u003Cstrong\u003E\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 \u0438 \u043A\u0440\u0435\u043F\u043E\u0441\u0442\u044C XVI \u0432\u0435\u043A\u0430\u003C/strong\u003E \u0432 \u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u0434\u0027\u0410\u0440\u043E, \u043F\u0440\u0438\u043C\u0435\u0440\u043D\u043E \u0432 3\u003Cstrong\u003E \u043A\u043C \u043E\u0442 \u043F\u043B\u044F\u0436\u0435\u0439 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u044F \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430\u003C/strong\u003E.",
+        "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C, \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u0430\u044F \u0431\u043B\u0430\u0433\u043E\u0434\u0430\u0440\u044F \u0441\u0432\u043E\u0435\u0439 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u0435 \u0438 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u043C\u0443 \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u0443, \u0441 \u003Cstrong\u003E\u0443\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u043E\u0439 \u0431\u0430\u0448\u043D\u0435\u0439\u003C/strong\u003E, \u043C\u0430\u0441\u0441\u0438\u0432\u043D\u044B\u043C\u0438 \u043A\u0430\u043C\u0435\u043D\u043D\u044B\u043C\u0438 \u0441\u0442\u0435\u043D\u0430\u043C\u0438, \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043E\u043D\u043D\u044B\u043C\u0438 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u043D\u044B\u043C\u0438 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u0430\u043C\u0438 \u0438 \u043E\u0431\u0448\u0438\u0440\u043D\u044B\u043C\u0438 \u0441\u0430\u0434\u043E\u0432\u044B\u043C\u0438 \u0443\u0447\u0430\u0441\u0442\u043A\u0430\u043C\u0438, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0435 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E \u003Cstrong\u003E10 680 \u043C\u00B2\u003C/strong\u003E.",
+        "\u041F\u043B\u043E\u0449\u0430\u0434\u044C \u003Cstrong\u003E\u0437\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438\u003C/strong\u003E \u0443\u0441\u0430\u0434\u044C\u0431\u044B \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u003Cstrong\u003E1 141 \u043C\u00B2\u003C/strong\u003E, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u044B \u043C\u0435\u0436\u0434\u0443 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C\u0438 \u0432\u043D\u0443\u0442\u0440\u0435\u043D\u043D\u0438\u043C\u0438 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F\u043C\u0438; \u0432 \u043D\u044B\u043D\u0435\u0448\u043D\u0435\u0439 \u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u0432 \u043D\u0435\u0439 \u0438\u043C\u0435\u0435\u0442\u0441\u044F \u003Cstrong\u003E11 \u043A\u043E\u043C\u043D\u0430\u0442 \u0438 1 \u0432\u0430\u043D\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430\u003C/strong\u003E. \u0420\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u044F \u043E\u0431\u044A\u0435\u043A\u0442\u0430 \u0435\u0449\u0451 \u043D\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0430, \u0447\u0442\u043E \u0434\u0430\u0451\u0442 \u0431\u0443\u0434\u0443\u0449\u0435\u043C\u0443 \u0432\u043B\u0430\u0434\u0435\u043B\u044C\u0446\u0443 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0438 \u0430\u0434\u0430\u043F\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u044D\u0442\u0443 \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0443\u044E \u0443\u0441\u0430\u0434\u044C\u0431\u0443, \u0441\u043E\u0445\u0440\u0430\u043D\u0438\u0432 \u043F\u0440\u0438 \u044D\u0442\u043E\u043C \u0435\u0451 \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u043D\u0443\u044E \u0441\u0430\u043C\u043E\u0431\u044B\u0442\u043D\u043E\u0441\u0442\u044C.",
+        "\u0414\u0430\u043D\u043D\u043E\u0435 \u0437\u0434\u0430\u043D\u0438\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u0430\u0441\u0442\u044C\u044E \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F \u041A\u0430\u0442\u0430\u043B\u043E\u043D\u0438\u0438 \u0438 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0441\u043E\u0431\u043E\u0439 \u043F\u043E\u0434\u043B\u0438\u043D\u043D\u0443\u044E \u003Cstrong\u003E\u043A\u0440\u0435\u043F\u043E\u0441\u0442\u044C\u003C/strong\u003E, \u043E\u043A\u0440\u0443\u0436\u0451\u043D\u043D\u0443\u044E \u0437\u0435\u043B\u0451\u043D\u043E\u0439 \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C\u044E \u0438 \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0430\u043C\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0438\u0432\u0430\u044E\u0442 \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435 \u0438 \u0441\u043E\u0437\u0434\u0430\u044E\u0442 \u0430\u0442\u043C\u043E\u0441\u0444\u0435\u0440\u0443 \u0441 \u043D\u0435\u043F\u043E\u0432\u0442\u043E\u0440\u0438\u043C\u044B\u043C \u0445\u0430\u0440\u0430\u043A\u0442\u0435\u0440\u043E\u043C.",
+        "\u0415\u0451 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u0435 \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435 \u043E\u0431\u0448\u0438\u0440\u043D\u043E\u0439 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0443\u0441\u0430\u0434\u044C\u0431\u044B \u0441 \u0431\u043B\u0438\u0437\u043E\u0441\u0442\u044C\u044E \u043A \u041A\u0430\u0441\u0442\u0435\u043B\u044C-\u0434\u0027\u0410\u0440\u043E, \u041F\u043B\u0430\u0439\u044F-\u0434\u0027\u0410\u0440\u043E \u0438 \u043F\u043B\u044F\u0436\u0430\u043C \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
+        "\u0426\u0435\u043D\u0430: \u003Cstrong\u003E\u20AC\u003C/strong\u003E.",
+        "\u0414\u0430\u043D\u043D\u044B\u0439 \u043E\u0431\u044A\u0435\u043A\u0442 \u043F\u0440\u0435\u0434\u043D\u0430\u0437\u043D\u0430\u0447\u0435\u043D \u0434\u043B\u044F \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u0435\u0439, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0438\u0449\u0443\u0442 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u0435, \u0430\u0440\u0445\u0438\u0442\u0435\u043A\u0442\u0443\u0440\u043D\u044B\u0435 \u0446\u0435\u043D\u043D\u043E\u0441\u0442\u0438 \u043F\u0440\u043E\u0448\u043B\u043E\u0433\u043E \u0438 \u043F\u043E\u0438\u0441\u0442\u0438\u043D\u0435 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u0443\u044E \u0443\u0441\u0430\u0434\u044C\u0431\u0443 \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430.",
+        "\u0414\u043B\u044F \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438, \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u0446\u0438\u0438 \u043F\u043E \u043E\u0431\u044A\u0435\u043A\u0442\u0443 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0438\u043B\u0438 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043E\u0441\u043C\u043E\u0442\u0440\u0430 \u043F\u0440\u043E\u0441\u0438\u043C \u0441\u0432\u044F\u0437\u0430\u0442\u044C\u0441\u044F \u0441 \u043D\u0430\u043C\u0438."
+      ],
+      "location_text": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5"
+    }
+  }
+}

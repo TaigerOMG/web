@@ -1,7 +1,7 @@
 {
-  "homeHeroProperty": "masia-port-daro",
+  "homeHeroProperty": "mas-candell-hotel-4-estrellas-platja-daro",
   "homeFeatured": [
-    "masia-port-daro",
+    "mas-candell-hotel-4-estrellas-platja-daro",
     "hotel-montanamar-inversion-lloret-de-mar",
     "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
@@ -17,7 +17,7 @@
     "piso-roca-grossa-lloret-mar"
   ],
   "catalog": [
-    "masia-port-daro",
+    "mas-candell-hotel-4-estrellas-platja-daro",
     "hotel-montanamar-inversion-lloret-de-mar",
     "villa-zen-vistas-mar-lloret-mar-immogirona-301",
     "casa-canal-piscina-empuriabrava-immogirona-298",
@@ -33,71 +33,6 @@
     "piso-roca-grossa-lloret-mar"
   ],
   "properties": [
-    {
-      "id": "masia-port-daro",
-      "route": "inmuebles/ficha/?id=masia-port-daro",
-      "image": "assets/inmueble-masia/1.jpg",
-      "types": [
-        "masia",
-        "hotel",
-        "proyecto"
-      ],
-      "data": "data/properties/masia-port-daro.json",
-      "translations": {
-        "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Mas\u00EDa en Port d\u0027Aro",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "Proyecto hotelero en una mas\u00EDa hist\u00F3rica de Port d\u0027Aro, cerca de Platja d\u0027Aro, con parcela de 10.680 m\u00B2 y proyecto aprobado.",
-          "cta": "Ver inmueble"
-        },
-        "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Casa de camp a Port d\u0027Aro",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "Un projecte de desenvolupament hoteler en una masia hist\u00F2rica a Port d\u0027Aro, a prop de Platja d\u0027Aro, amb una parcel\u00B7la de 10.680 m\u00B2 i un pla de desenvolupament aprovat.",
-          "cta": "Veure immoble"
-        },
-        "en": {
-          "tag": "Hotel project",
-          "title": "Country House in Port d\u0027Aro",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "Hotel project in a historic farmhouse in Port d\u0027Aro, near Platja d\u0027Aro, with a 10,680 m\u00B2 lot and an approved project.",
-          "cta": "View property"
-        },
-        "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Ferme \u00E0 Port d\u0027Aro",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "Projet h\u00F4telier dans une ferme historique de Port d\u0027Aro, pr\u00E8s de Platja d\u0027Aro, avec un terrain de 10 680 m\u00B2 et un projet approuv\u00E9.",
-          "cta": "Voir la propri\u00E9t\u00E9"
-        },
-        "de": {
-          "tag": "Hotelprojekt",
-          "title": "Landhaus in Port d\u2019Aro",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "Hotelprojekt in einem historischen Landhaus in Port d\u2019Aro, in der N\u00E4he von Platja d\u2019Aro, mit einem Grundst\u00FCck von 10.680 m\u00B2 und genehmigtem Bauvorhaben.",
-          "cta": "Immobilie ansehen"
-        },
-        "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0423\u0441\u0430\u0434\u044C\u0431\u0430 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E",
-          "location": "Barrio Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Baix Empord\u00E0, Girona",
-          "price": "2.900.000 \u20AC",
-          "excerpt": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0430 \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u0443\u0441\u0430\u0434\u0435\u0431\u043D\u043E\u043C \u0434\u043E\u043C\u0435 \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E, \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E, \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 10 680 \u043C\u00B2 \u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043D\u043D\u044B\u043C \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u043C.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
-        }
-      },
-      "otherAgency": false,
-      "showHome": true,
-      "homeHero": true,
-      "sortOrder": 5
-    },
     {
       "id": "piso-roca-grossa-lloret-mar",
       "route": "inmuebles/ficha/?id=piso-roca-grossa-lloret-mar",
@@ -975,6 +910,70 @@
       "showHome": true,
       "homeHero": false,
       "sortOrder": 17
+    },
+    {
+      "id": "mas-candell-hotel-4-estrellas-platja-daro",
+      "route": "inmuebles/ficha/?id=mas-candell-hotel-4-estrellas-platja-daro",
+      "image": "assets/inmueble-masia/1.jpg",
+      "types": [
+        "masia",
+        "Costa Brava"
+      ],
+      "data": "data/properties/mas-candell-hotel-4-estrellas-platja-daro.json",
+      "translations": {
+        "es": {
+          "tag": "Proyecto hotelero",
+          "title": "Mas\u00EDa hist\u00F3rica fortificada del siglo XVI",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "Mas\u00EDa fortificada patrimonial del siglo XVI en Port d\u0027Aro, con parcela de 10.860 m\u00B2.",
+          "cta": "Ver inmueble"
+        },
+        "ca": {
+          "tag": "Projecte hoteler",
+          "title": "Mas hist\u00F2ric fortificat del segle XVI",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "Una masia fortificada del segle XVI catalogada com a patrimoni a Port d\u0027Aro, amb una parcel\u00B7la de 10.860 m\u00B2.",
+          "cta": "Veure immoble"
+        },
+        "en": {
+          "tag": "Hotel project",
+          "title": "Historic fortified farmhouse from the 16th century",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "A 16th-century heritage-listed fortified farmhouse in Port d\u0027Aro, with a 10,860 m\u00B2 lot.",
+          "cta": "View property"
+        },
+        "fr": {
+          "tag": "Projet h\u00F4telier",
+          "title": "Maison de campagne historique fortifi\u00E9e du XVIe si\u00E8cle",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "Maison de campagne fortifi\u00E9e class\u00E9e au patrimoine, datant du XVIe si\u00E8cle, situ\u00E9e \u00E0 Port d\u0027Aro, avec un terrain de 10 860 m\u00B2.",
+          "cta": "Voir la propri\u00E9t\u00E9"
+        },
+        "de": {
+          "tag": "Hotelprojekt",
+          "title": "Historisches, befestigtes Landhaus aus dem 16. Jahrhundert",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "Befestigtes, denkmalgesch\u00FCtztes Landhaus aus dem 16. Jahrhundert in Port d\u2019Aro mit einem Grundst\u00FCck von 10.860 m\u00B2.",
+          "cta": "Immobilie ansehen"
+        },
+        "ru": {
+          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
+          "title": "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430",
+          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
+          "price": "2.995.000 \u20AC",
+          "excerpt": "\u0423\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430, \u044F\u0432\u043B\u044F\u044E\u0449\u0430\u044F\u0441\u044F \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u043C \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F, \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 10 860 \u043C\u00B2.",
+          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+        }
+      },
+      "otherAgency": false,
+      "showHome": true,
+      "homeHero": true,
+      "sortOrder": 18
     }
   ]
 }
