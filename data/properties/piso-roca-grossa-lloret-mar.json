@@ -137,11 +137,11 @@
       }
     ],
     "pdf": "",
-    "map_embed": "https://www.google.com/maps?q=Roca%20Grossa%2C%20Lloret%20de%20Mar%2C%20Girona\u0026output=embed",
+    "map_embed": "https://www.google.com/maps?q=Roca%20Grossa%2C%20Lloret%20de%20Mar%2C%20Girona&output=embed",
     "plot_graphic": "assets/inmuebles/piso-roca-grossa-lloret-mar/grafico-parcela.png",
     "source_url": "https://www.immogirona.com/es/261/?properties",
     "other_agency": true,
-    "collaboration_note": "Captaci\u00F3n colaborativa de ImmoGirona y LacostaHaus hecha por Sergiu Crudu. Las im\u00E1genes pueden conservar la marca de agua de la inmobiliaria colaboradora."
+    "collaboration_note": "Captación colaborativa de ImmoGirona y LacostaHaus hecha por Sergiu Crudu. Las imágenes pueden conservar la marca de agua de la inmobiliaria colaboradora."
   },
   "translations": {
     "es": {
@@ -152,7 +152,7 @@
       "seo_title": "Piso moderno con piscina, terraza y parking | LacostaHaus",
       "seo_description": "Piso moderno completamente reformado en Roca Grossa, Lloret de Mar, con piscina, terraza, parking, aire acondicionado y vistas al mar.",
       "details_title": "Detalles de la Propiedad",
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "details": [
         [
           "Vistas",
@@ -164,35 +164,35 @@
         ],
         [
           "Superficie",
-          "87 m\u00B2"
+          "87 m²"
         ],
         [
-          "\u00DAtiles",
-          "71 m\u00B2"
+          "Útiles",
+          "71 m²"
         ],
         [
           "Dormitorios",
           "2"
         ],
         [
-          "Ba\u00F1os",
+          "Baños",
           "1"
         ],
         [
           "Piscina",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Terraza",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Parking",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Aire acondicionado",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Tipo",
@@ -204,7 +204,7 @@
         ],
         [
           "Residencial",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Barrio",
@@ -215,7 +215,7 @@
           "Lloret de Mar"
         ],
         [
-          "C\u00F3digo postal",
+          "Código postal",
           "17310"
         ],
         [
@@ -227,55 +227,54 @@
           "Girona"
         ],
         [
-          "Certificado energ\u00E9tico",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Certificado energético",
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
-          "Fecha publicaci\u00F3n",
+          "Fecha publicación",
           "2026-02-07"
         ],
         [
-          "Colaboraci\u00F3n",
-          "ImmoGirona \u0026 LacostaHaus"
+          "Colaboración",
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "project_title": "Proyecto",
       "pdf_title": "Proyecto de reforma - LacostaHaus",
       "download_pdf": "Descargar PDF",
-      "plot_title": "Gr\u00E1fico parcela",
-      "description_title": "Descripci\u00F3n",
+      "plot_title": "Gráfico parcela",
+      "description_title": "Descripción",
       "description": [
-        "LacostaHaus presenta esta captaci\u00F3n colaborativa con \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, gestionada por \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, en la zona de Roca Grossa de Lloret de Mar.",
+        "LacostaHaus presenta esta captación colaborativa con <strong>ImmoGirona</strong>, gestionada por <strong>Sergiu Crudu</strong>, en la zona de Roca Grossa de Lloret de Mar.",
         "La referencia comercial describe un piso moderno en venta, completamente renovado, con piscina, terraza, parking, aire acondicionado y vistas al mar.",
-        "Seg\u00FAn la informaci\u00F3n de referencia, la vivienda se encuentra en una tercera planta, en el c\u00F3digo postal 17310, municipio de Lloret de Mar, comarca de la Selva y provincia de Girona.",
-        "Completa aqu\u00ED los datos definitivos antes de subirlo a LacostaHaus: precio, metros, habitaciones, ba\u00F1os, equipamiento, descripci\u00F3n comercial final, im\u00E1genes y gr\u00E1fico de parcela si procede."
+        "Según la información de referencia, la vivienda se encuentra en una tercera planta, en el código postal 17310, municipio de Lloret de Mar, comarca de la Selva y provincia de Girona."
       ],
-      "location_title": "Ubicaci\u00F3n",
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
+      "location_title": "Ubicación",
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona",
       "contact_label": "Contacto",
       "email_label": "Gmail",
       "spoken_label": "Idiomas",
-      "video_fallback": "Tu navegador no puede reproducir este v\u00EDdeo."
+      "video_fallback": "Tu navegador no puede reproducir este vídeo."
     },
     "ca": {
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "email_label": "Gmail",
       "nav_home": "Inici",
       "nav_properties": "Propietats",
       "nav_languages": "Idiomes",
-      "title": "Pis modern amb piscina, terrassa i pla\u00E7a d\u0027aparcament",
+      "title": "Pis modern amb piscina, terrassa i plaça d'aparcament",
       "seo_description": "Un pis modern i totalment reformat a Roca Grossa, Lloret de Mar, amb piscina, terrassa, aparcament, aire condicionat i vistes al mar.",
       "details_title": "Detalls de la propietat",
       "project_title": "Projecte",
-      "pdf_title": "Projecte de renovaci\u00F3 \u2013 LacostaHaus",
+      "pdf_title": "Projecte de renovació – LacostaHaus",
       "download_pdf": "Descarrega el PDF",
-      "plot_title": "Pl\u00E0nol de la parcel\u00B7la",
-      "description_title": "Descripci\u00F3",
-      "location_title": "Ubicaci\u00F3",
+      "plot_title": "Plànol de la parcel·la",
+      "description_title": "Descripció",
+      "location_title": "Ubicació",
       "contact_label": "Contacte",
       "spoken_label": "Idiomes",
-      "video_fallback": "El vostre navegador no pot reproduir aquest v\u00EDdeo.",
-      "seo_title": "Pis modern amb piscina, terrassa i pla\u00E7a d\u0027aparcament | LacostaHaus",
+      "video_fallback": "El vostre navegador no pot reproduir aquest vídeo.",
+      "seo_title": "Pis modern amb piscina, terrassa i plaça d'aparcament | LacostaHaus",
       "details": [
         [
           "Vistes",
@@ -286,12 +285,12 @@
           "Completament renovat"
         ],
         [
-          "\u00C0rea",
-          "87 m\u00B2"
+          "Àrea",
+          "87 m²"
         ],
         [
           "Eines",
-          "71 m\u00B2"
+          "71 m²"
         ],
         [
           "Habitacions",
@@ -303,19 +302,19 @@
         ],
         [
           "Piscina",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Terrassa",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Aparcament",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Aire condicionat",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Tipus",
@@ -327,7 +326,7 @@
         ],
         [
           "Residencial",
-          "S\u00ED"
+          "Sí"
         ],
         [
           "Barri",
@@ -342,36 +341,35 @@
           "17310"
         ],
         [
-          "Regi\u00F3",
+          "Regió",
           "Selva"
         ],
         [
-          "Prov\u00EDncia",
+          "Província",
           "Girona"
         ],
         [
-          "Certificat de rendiment energ\u00E8tic",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Certificat de rendiment energètic",
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
-          "Data de publicaci\u00F3",
+          "Data de publicació",
           "2026-02-07"
         ],
         [
-          "Col\u00B7laboraci\u00F3",
-          "ImmoGirona \u0026 LacostaHaus"
+          "Col·laboració",
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "description": [
-        "LacostaHaus presenta aquesta oferta conjunta amb \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, gestionada per \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, a la zona de Roca Grossa de Lloret de Mar.",
-        "L\u0027anunci immobiliari descriu un pis modern en venda, totalment renovat, amb piscina, terrassa, aparcament, aire condicionat i vistes al mar.",
-        "Segons la informaci\u00F3 de refer\u00E8ncia, la propietat es troba a la tercera planta, al codi postal 17310, al municipi de Lloret de Mar, a la regi\u00F3 de La Selva i a la prov\u00EDncia de Girona.",
-        "Si us plau, completeu aqu\u00ED els detalls finals abans de pujar-ho a LacostaHaus: preu, metres quadrats, nombre d\u0027habitacions, nombre de banys, instal\u00B7lacions i equipaments, descripci\u00F3 final de la venda, imatges i pl\u00E0nol de la parcel\u00B7la, si escau."
+        "LacostaHaus presenta aquesta oferta conjunta amb <strong>ImmoGirona</strong>, gestionada per <strong>Sergiu Crudu</strong>, a la zona de Roca Grossa de Lloret de Mar.",
+        "L'anunci immobiliari descriu un pis modern en venda, totalment renovat, amb piscina, terrassa, aparcament, aire condicionat i vistes al mar.",
+        "Segons la informació de referència, la propietat es troba a la tercera planta, al codi postal 17310, al municipi de Lloret de Mar, a la regió de La Selva i a la província de Girona."
       ],
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona"
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona"
     },
     "en": {
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "email_label": "Gmail",
       "nav_home": "Home",
       "nav_properties": "Real Estate",
@@ -400,11 +398,11 @@
         ],
         [
           "Area",
-          "87 m\u00B2"
+          "87 m²"
         ],
         [
           "Tools",
-          "71 m\u00B2"
+          "71 m²"
         ],
         [
           "Bedrooms",
@@ -464,7 +462,7 @@
         ],
         [
           "Energy Performance Certificate",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
           "Publication Date",
@@ -472,35 +470,34 @@
         ],
         [
           "Collaboration",
-          "ImmoGirona \u0026 LacostaHaus"
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "description": [
-        "LacostaHaus presents this collaborative listing with \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, managed by \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, in the Roca Grossa area of Lloret de Mar.",
+        "LacostaHaus presents this collaborative listing with <strong>ImmoGirona</strong>, managed by <strong>Sergiu Crudu</strong>, in the Roca Grossa area of Lloret de Mar.",
         "The listing describes a modern, fully renovated apartment for sale, featuring a pool, terrace, parking, air conditioning, and ocean views.",
-        "According to the reference information, the property is located on the third floor, in the 17310 zip code, in the municipality of Lloret de Mar, the Selva region, and the province of Girona.",
-        "Fill in the final details here before uploading it to LacostaHaus: price, square meters, number of bedrooms, number of bathrooms, amenities, final sales description, images, and plot diagram, if applicable."
+        "According to the reference information, the property is located on the third floor, in the 17310 zip code, in the municipality of Lloret de Mar, the Selva region, and the province of Girona."
       ],
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona"
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona"
     },
     "fr": {
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "email_label": "Gmail",
       "nav_home": "Accueil",
       "nav_properties": "Biens immobiliers",
       "nav_languages": "Langues",
       "title": "Appartement moderne avec piscine, terrasse et parking",
-      "seo_description": "Appartement moderne enti\u00E8rement r\u00E9nov\u00E9 \u00E0 Roca Grossa, Lloret de Mar, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
-      "details_title": "D\u00E9tails du bien immobilier",
+      "seo_description": "Appartement moderne entièrement rénové à Roca Grossa, Lloret de Mar, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
+      "details_title": "Détails du bien immobilier",
       "project_title": "Projet",
-      "pdf_title": "Projet de r\u00E9novation - LacostaHaus",
-      "download_pdf": "T\u00E9l\u00E9charger le PDF",
+      "pdf_title": "Projet de rénovation - LacostaHaus",
+      "download_pdf": "Télécharger le PDF",
       "plot_title": "Plan du terrain",
       "description_title": "Description",
       "location_title": "Emplacement",
       "contact_label": "Contact",
       "spoken_label": "Langues",
-      "video_fallback": "Votre navigateur ne peut pas lire cette vid\u00E9o.",
+      "video_fallback": "Votre navigateur ne peut pas lire cette vidéo.",
       "seo_title": "Appartement moderne avec piscine, terrasse et parking | LacostaHaus",
       "details": [
         [
@@ -508,16 +505,16 @@
           "Mar"
         ],
         [
-          "\u00C9tat",
-          "Enti\u00E8rement r\u00E9nov\u00E9"
+          "État",
+          "Entièrement rénové"
         ],
         [
           "Superficie",
-          "87 m\u00B2"
+          "87 m²"
         ],
         [
           "Outils",
-          "71 m\u00B2"
+          "71 m²"
         ],
         [
           "Chambres",
@@ -552,7 +549,7 @@
           "3"
         ],
         [
-          "R\u00E9sidence",
+          "Résidence",
           "Oui"
         ],
         [
@@ -568,16 +565,16 @@
           "17310"
         ],
         [
-          "R\u00E9gion",
+          "Région",
           "Selva"
         ],
         [
           "Province",
-          "G\u00E9rone"
+          "Gérone"
         ],
         [
-          "Certificat de performance \u00E9nerg\u00E9tique",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Certificat de performance énergétique",
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
           "Date de publication",
@@ -585,19 +582,18 @@
         ],
         [
           "Collaboration",
-          "ImmoGirona \u0026 LacostaHaus"
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "description": [
-        "LacostaHaus vous pr\u00E9sente cette annonce publi\u00E9e en collaboration avec \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, g\u00E9r\u00E9e par \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, dans le quartier de Roca Grossa \u00E0 Lloret de Mar.",
-        "L\u0027annonce immobili\u00E8re d\u00E9crit un appartement moderne \u00E0 vendre, enti\u00E8rement r\u00E9nov\u00E9, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
-        "D\u0027apr\u00E8s les informations de r\u00E9f\u00E9rence, le logement est situ\u00E9 au troisi\u00E8me \u00E9tage, dans le code postal 17310, sur la commune de Lloret de Mar, dans la r\u00E9gion de La Selva et dans la province de G\u00E9rone.",
-        "Veuillez compl\u00E9ter ici les informations d\u00E9finitives avant de publier l\u0027annonce sur LacostaHaus : prix, superficie, nombre de chambres, nombre de salles de bains, \u00E9quipement, description commerciale finale, photos et plan cadastral le cas \u00E9ch\u00E9ant."
+        "LacostaHaus vous présente cette annonce publiée en collaboration avec <strong>ImmoGirona</strong>, gérée par <strong>Sergiu Crudu</strong>, dans le quartier de Roca Grossa à Lloret de Mar.",
+        "L'annonce immobilière décrit un appartement moderne à vendre, entièrement rénové, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
+        "D'après les informations de référence, le logement est situé au troisième étage, dans le code postal 17310, sur la commune de Lloret de Mar, dans la région de La Selva et dans la province de Gérone."
       ],
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona"
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona"
     },
     "de": {
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "email_label": "Gmail",
       "nav_home": "Startseite",
       "nav_properties": "Immobilien",
@@ -606,9 +602,9 @@
       "seo_description": "Moderne, komplett renovierte Wohnung in Roca Grossa, Lloret de Mar, mit Swimmingpool, Terrasse, Parkplatz, Klimaanlage und Meerblick.",
       "details_title": "Details zur Immobilie",
       "project_title": "Projekt",
-      "pdf_title": "Renovierungsprojekt \u2013 LacostaHaus",
+      "pdf_title": "Renovierungsprojekt – LacostaHaus",
       "download_pdf": "PDF herunterladen",
-      "plot_title": "Grundst\u00FCcksplan",
+      "plot_title": "Grundstücksplan",
       "description_title": "Beschreibung",
       "location_title": "Lage",
       "contact_label": "Kontakt",
@@ -625,12 +621,12 @@
           "Komplett renoviert"
         ],
         [
-          "Fl\u00E4che",
-          "87 m\u00B2"
+          "Fläche",
+          "87 m²"
         ],
         [
-          "N\u00FCtzliche Informationen",
-          "71 m\u00B2"
+          "Nützliche Informationen",
+          "71 m²"
         ],
         [
           "Schlafzimmer",
@@ -690,137 +686,135 @@
         ],
         [
           "Energieausweis",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
-          "Ver\u00F6ffentlichungsdatum",
+          "Veröffentlichungsdatum",
           "2026-02-07"
         ],
         [
           "Zusammenarbeit",
-          "ImmoGirona \u0026 LacostaHaus"
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "description": [
-        "LacostaHaus pr\u00E4sentiert dieses gemeinsam mit \u003Cstrong\u003EImmoGirona\u003C/strong\u003E, geleitet von \u003Cstrong\u003ESergiu Crudu\u003C/strong\u003E, erstellte Angebot in der Gegend von Roca Grossa in Lloret de Mar.",
+        "LacostaHaus präsentiert dieses gemeinsam mit <strong>ImmoGirona</strong>, geleitet von <strong>Sergiu Crudu</strong>, erstellte Angebot in der Gegend von Roca Grossa in Lloret de Mar.",
         "Die Immobilienanzeige beschreibt eine moderne, komplett renovierte Wohnung zum Verkauf mit Swimmingpool, Terrasse, Parkplatz, Klimaanlage und Meerblick.",
-        "Den vorliegenden Informationen zufolge befindet sich die Immobilie im dritten Stock, in der Postleitzahl 17310, in der Gemeinde Lloret de Mar, im Landkreis La Selva und in der Provinz Girona.",
-        "Bitte vervollst\u00E4ndigen Sie hier die endg\u00FCltigen Angaben, bevor Sie den Eintrag bei LacostaHaus ver\u00F6ffentlichen: Preis, Quadratmeter, Zimmer, Badezimmer, Ausstattung, endg\u00FCltige Objektbeschreibung, Bilder und gegebenenfalls Grundst\u00FCcksplan."
+        "Den vorliegenden Informationen zufolge befindet sich die Immobilie im dritten Stock, in der Postleitzahl 17310, in der Gemeinde Lloret de Mar, im Landkreis La Selva und in der Provinz Girona."
       ],
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona"
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona"
     },
     "ru": {
-      "price": "279.000 \u20AC",
+      "price": "279.000 €",
       "email_label": "Gmail",
-      "nav_home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
-      "nav_properties": "\u041D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C",
-      "nav_languages": "\u042F\u0437\u044B\u043A\u0438",
-      "title": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439 \u0438 \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439",
-      "seo_description": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0420\u043E\u043A\u0430-\u0413\u0440\u043E\u0441\u0441\u0430, \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439, \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
-      "details_title": "\u041F\u043E\u0434\u0440\u043E\u0431\u043D\u0430\u044F \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E\u0431 \u043E\u0431\u044A\u0435\u043A\u0442\u0435 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438",
-      "project_title": "\u041F\u0440\u043E\u0435\u043A\u0442",
-      "pdf_title": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u2014 LacostaHaus",
-      "download_pdf": "\u0421\u043A\u0430\u0447\u0430\u0442\u044C PDF",
-      "plot_title": "\u0421\u0445\u0435\u043C\u0430 \u0443\u0447\u0430\u0441\u0442\u043A\u0430",
-      "description_title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435",
-      "location_title": "\u0420\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435",
-      "contact_label": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442\u044B",
-      "spoken_label": "\u042F\u0437\u044B\u043A\u0438",
-      "video_fallback": "\u0412\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043D\u0435 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442 \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u044D\u0442\u043E\u0433\u043E \u0432\u0438\u0434\u0435\u043E.",
-      "seo_title": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439 \u0438 \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439 | LacostaHaus",
+      "nav_home": "Главная",
+      "nav_properties": "Недвижимость",
+      "nav_languages": "Языки",
+      "title": "Современная квартира с бассейном, террасой и парковкой",
+      "seo_description": "Современная, полностью отремонтированная квартира в Рока-Гросса, Льорет-де-Мар, с бассейном, террасой, парковкой, кондиционером и видом на море.",
+      "details_title": "Подробная информация об объекте недвижимости",
+      "project_title": "Проект",
+      "pdf_title": "Проект реконструкции — LacostaHaus",
+      "download_pdf": "Скачать PDF",
+      "plot_title": "Схема участка",
+      "description_title": "Описание",
+      "location_title": "Расположение",
+      "contact_label": "Контакты",
+      "spoken_label": "Языки",
+      "video_fallback": "Ваш браузер не поддерживает воспроизведение этого видео.",
+      "seo_title": "Современная квартира с бассейном, террасой и парковкой | LacostaHaus",
       "details": [
         [
-          "\u0412\u0438\u0434\u044B",
-          "\u041C\u0430\u0440"
+          "Виды",
+          "Мар"
         ],
         [
-          "\u0421\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u0435",
-          "\u041F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439"
+          "Состояние",
+          "Полностью отремонтированный"
         ],
         [
-          "\u041F\u043B\u043E\u0449\u0430\u0434\u044C",
-          "87 m\u00B2"
+          "Площадь",
+          "87 m²"
         ],
         [
-          "\u041F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B",
-          "71 m\u00B2"
+          "Полезные материалы",
+          "71 m²"
         ],
         [
-          "\u0421\u043F\u0430\u043B\u044C\u043D\u0438",
+          "Спальни",
           "2"
         ],
         [
-          "\u0412\u0430\u043D\u043D\u044B\u0435 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
+          "Ванные комнаты",
           "1"
         ],
         [
-          "\u0411\u0430\u0441\u0441\u0435\u0439\u043D",
-          "\u0414\u0430"
+          "Бассейн",
+          "Да"
         ],
         [
-          "\u0422\u0435\u0440\u0440\u0430\u0441\u0430",
-          "\u0414\u0430"
+          "Терраса",
+          "Да"
         ],
         [
-          "\u041F\u0430\u0440\u043A\u043E\u0432\u043A\u0430",
-          "\u0414\u0430"
+          "Парковка",
+          "Да"
         ],
         [
-          "\u041A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440",
-          "\u0414\u0430"
+          "Кондиционер",
+          "Да"
         ],
         [
-          "\u0422\u0438\u043F",
-          "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+          "Тип",
+          "Квартира"
         ],
         [
-          "\u041F\u043B\u0430\u043D \u044D\u0442\u0430\u0436\u0430",
+          "План этажа",
           "3"
         ],
         [
-          "\u0416\u0438\u043B\u043E\u0439 \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441",
-          "\u0414\u0430"
+          "Жилой комплекс",
+          "Да"
         ],
         [
-          "\u0420\u0430\u0439\u043E\u043D",
-          "\u0420\u043E\u043A\u0430-\u0413\u0440\u043E\u0441\u0441\u0430"
+          "Район",
+          "Рока-Гросса"
         ],
         [
-          "\u041C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442",
-          "\u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440"
+          "Муниципалитет",
+          "Льорет-де-Мар"
         ],
         [
-          "\u041F\u043E\u0447\u0442\u043E\u0432\u044B\u0439 \u0438\u043D\u0434\u0435\u043A\u0441",
+          "Почтовый индекс",
           "17310"
         ],
         [
-          "\u0420\u0435\u0433\u0438\u043E\u043D",
-          "\u0421\u0435\u043B\u044C\u0432\u0430"
+          "Регион",
+          "Сельва"
         ],
         [
-          "\u041F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F",
-          "\u0416\u0438\u0440\u043E\u043D\u0430"
+          "Провинция",
+          "Жирона"
         ],
         [
-          "\u042D\u043D\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043A\u0430\u0442",
-          "Consum:F-238|Efici\u00E8ncia:E-44"
+          "Энергетический сертификат",
+          "Consum:F-238|Eficiència:E-44"
         ],
         [
-          "\u0414\u0430\u0442\u0430 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438",
+          "Дата публикации",
           "2026-02-07"
         ],
         [
-          "\u0421\u043E\u0442\u0440\u0443\u0434\u043D\u0438\u0447\u0435\u0441\u0442\u0432\u043E",
-          "ImmoGirona \u0026 LacostaHaus"
+          "Сотрудничество",
+          "ImmoGirona & LacostaHaus"
         ]
       ],
       "description": [
-        "LacostaHaus \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0434\u0430\u043D\u043D\u044B\u0439 \u0441\u043E\u0432\u043C\u0435\u0441\u0442\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0441 \u003Cstrong\u003E\u0430\u0433\u0435\u043D\u0442\u0441\u0442\u0432\u043E\u043C ImmoGirona\u003C/strong\u003E, \u0432\u043E\u0437\u0433\u043B\u0430\u0432\u043B\u044F\u0435\u043C\u044B\u043C \u003Cstrong\u003E\u0421\u0435\u0440\u0434\u0436\u0438\u0443 \u041A\u0440\u0443\u0434\u0443\u003C/strong\u003E, \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u0420\u043E\u043A\u0430-\u0413\u0440\u043E\u0441\u0441\u0430 \u0432 \u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440.",
-        "\u0412 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0438 \u043E\u043F\u0438\u0441\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430, \u0432\u044B\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u043D\u0430\u044F \u043D\u0430 \u043F\u0440\u043E\u0434\u0430\u0436\u0443, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F, \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u043F\u0430\u0440\u043A\u043E\u0432\u043E\u0447\u043D\u044B\u043C \u043C\u0435\u0441\u0442\u043E\u043C, \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
-        "\u0421\u043E\u0433\u043B\u0430\u0441\u043D\u043E \u0441\u043F\u0440\u0430\u0432\u043E\u0447\u043D\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0438, \u043E\u0431\u044A\u0435\u043A\u0442 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438 \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D \u043D\u0430 \u0442\u0440\u0435\u0442\u044C\u0435\u043C \u044D\u0442\u0430\u0436\u0435, \u0432 \u043F\u043E\u0447\u0442\u043E\u0432\u043E\u043C \u0438\u043D\u0434\u0435\u043A\u0441\u0435 17310, \u0432 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442\u0435 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u041B\u0430-\u0421\u0435\u043B\u044C\u0432\u0430 \u0438 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0416\u0438\u0440\u043E\u043D\u0430.",
-        "\u0417\u0430\u043F\u043E\u043B\u043D\u0438\u0442\u0435 \u0437\u0434\u0435\u0441\u044C \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435 \u043F\u0435\u0440\u0435\u0434 \u0440\u0430\u0437\u043C\u0435\u0449\u0435\u043D\u0438\u0435\u043C \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u044F \u043D\u0430 \u0441\u0430\u0439\u0442\u0435 LacostaHaus: \u0446\u0435\u043D\u0430, \u043F\u043B\u043E\u0449\u0430\u0434\u044C, \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043A\u043E\u043C\u043D\u0430\u0442, \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0432\u0430\u043D\u043D\u044B\u0445 \u043A\u043E\u043C\u043D\u0430\u0442, \u043E\u0441\u043D\u0430\u0449\u0435\u043D\u0438\u0435, \u043E\u043A\u043E\u043D\u0447\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u043E\u0435 \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435, \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438 \u0438 \u043F\u043B\u0430\u043D \u0443\u0447\u0430\u0441\u0442\u043A\u0430 (\u0435\u0441\u043B\u0438 \u0438\u043C\u0435\u0435\u0442\u0441\u044F)."
+        "LacostaHaus представляет данный совместный проект с <strong>агентством ImmoGirona</strong>, возглавляемым <strong>Серджиу Круду</strong>, в районе Рока-Гросса в Ллорет-де-Мар.",
+        "В объявлении описывается современная квартира, выставленная на продажу, полностью отремонтированная, с бассейном, террасой, парковочным местом, кондиционером и видом на море.",
+        "Согласно справочной информации, объект недвижимости расположен на третьем этаже, в почтовом индексе 17310, в муниципалитете Льорет-де-Мар, в регионе Ла-Сельва и провинции Жирона."
       ],
-      "location_text": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona"
+      "location_text": "Roca Grossa · Lloret de Mar · Selva · Girona"
     }
   }
 }

@@ -35,7 +35,7 @@
   "properties": [
     {
       "id": "piso-roca-grossa-lloret-mar",
-      "route": "inmuebles/ficha/?id=piso-roca-grossa-lloret-mar",
+      "route": "inmuebles/piso-roca-grossa-lloret-mar/",
       "image": "assets/inmuebles/piso-roca-grossa-lloret-mar/principal.webp",
       "types": [
         "piso",
@@ -47,52 +47,52 @@
       "data": "data/properties/piso-roca-grossa-lloret-mar.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
+          "tag": "Piso",
           "title": "Piso moderno con piscina, terraza y parking",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
           "excerpt": "Piso moderno completamente reformado en Roca Grossa, Lloret de Mar, con piscina, terraza, parking, aire acondicionado y vistas al mar.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Pis modern amb piscina, terrassa i pla\u00E7a d\u0027aparcament",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
+          "tag": "Pis",
+          "title": "Pis modern amb piscina, terrassa i plaça d'aparcament",
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
           "excerpt": "Un pis modern i totalment reformat a Roca Grossa, Lloret de Mar, amb piscina, terrassa, aparcament, aire condicionat i vistes al mar.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "Apartment",
           "title": "Modern apartment with a pool, terrace, and parking",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
           "excerpt": "Modern, fully renovated apartment in Roca Grossa, Lloret de Mar, with a pool, terrace, parking, air conditioning, and ocean views.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
+          "tag": "Appartement",
           "title": "Appartement moderne avec piscine, terrasse et parking",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "Appartement moderne enti\u00E8rement r\u00E9nov\u00E9 \u00E0 Roca Grossa, Lloret de Mar, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
+          "excerpt": "Appartement moderne entièrement rénové à Roca Grossa, Lloret de Mar, avec piscine, terrasse, parking, climatisation et vue sur la mer.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Wohnung",
           "title": "Moderne Wohnung mit Pool, Terrasse und Parkplatz",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
           "excerpt": "Moderne, komplett renovierte Wohnung in Roca Grossa, Lloret de Mar, mit Swimmingpool, Terrasse, Parkplatz, Klimaanlage und Meerblick.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439 \u0438 \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439",
-          "location": "Roca Grossa \u00B7 Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0420\u043E\u043A\u0430-\u0413\u0440\u043E\u0441\u0441\u0430, \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u043F\u0430\u0440\u043A\u043E\u0432\u043A\u043E\u0439, \u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Квартира",
+          "title": "Современная квартира с бассейном, террасой и парковкой",
+          "location": "Roca Grossa · Lloret de Mar · Selva · Girona",
+          "price": "279.000 €",
+          "excerpt": "Современная, полностью отремонтированная квартира в Рока-Гросса, Льорет-де-Мар, с бассейном, террасой, парковкой, кондиционером и видом на море.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -102,7 +102,7 @@
     },
     {
       "id": "apartamento-listo-para-entrar-con-terraza-immogirona-262",
-      "route": "inmuebles/ficha/?id=apartamento-listo-para-entrar-con-terraza-immogirona-262",
+      "route": "inmuebles/apartamento-listo-para-entrar-con-terraza-immogirona-262/",
       "image": "assets/inmuebles/apartamento-listo-para-entrar-con-terraza-immogirona-262/principal.webp",
       "types": [
         "piso",
@@ -112,52 +112,52 @@
       "data": "data/properties/apartamento-listo-para-entrar-con-terraza-immogirona-262.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
+          "tag": "Piso",
           "title": "Apartamento Listo para Entrar con Terraza",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "Descubre este encantador piso de 70 m\u00B2 en una vibrante ciudad costera de Girona, que te ofrece la combinaci\u00F3n perfecta de confort y comodidad.",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Descubre este encantador piso de 70 m² en una vibrante ciudad costera de Girona, que te ofrece la combinación perfecta de confort y comodidad.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
+          "tag": "Pis",
           "title": "Pis llest per entrar a viure amb terrassa",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "Descobreix aquest encantador pis de 70 m\u00B2 en un animat poble costaner de Girona, que ofereix la combinaci\u00F3 perfecta de comoditat i conveni\u00E8ncia.",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Descobreix aquest encantador pis de 70 m² en un animat poble costaner de Girona, que ofereix la combinació perfecta de comoditat i conveniència.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "Apartment",
           "title": "Move-In Ready Apartment with Terrace",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "Discover this charming 70 m\u00B2 apartment in a vibrant coastal town in Girona, offering the perfect combination of comfort and convenience.",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Discover this charming 70 m² apartment in a vibrant coastal town in Girona, offering the perfect combination of comfort and convenience.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Appartement pr\u00EAt \u00E0 emm\u00E9nager avec terrasse",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "D\u00E9couvrez ce charmant appartement de 70 m\u00B2 situ\u00E9 dans une ville c\u00F4ti\u00E8re anim\u00E9e de la province de G\u00E9rone, qui vous offre l\u0027alliance parfaite entre confort et commodit\u00E9.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Appartement",
+          "title": "Appartement prêt à emménager avec terrasse",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Découvrez ce charmant appartement de 70 m² situé dans une ville côtière animée de la province de Gérone, qui vous offre l'alliance parfaite entre confort et commodité.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Wohnung",
           "title": "Bezugsfertige Wohnung mit Terrasse",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "Entdecken Sie diese bezaubernde 70 m\u00B2 gro\u00DFe Wohnung in einer pulsierenden K\u00FCstenstadt in der Provinz Girona, die Ihnen die perfekte Kombination aus Komfort und Behaglichkeit bietet.",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Entdecken Sie diese bezaubernde 70 m² große Wohnung in einer pulsierenden Küstenstadt in der Provinz Girona, die Ihnen die perfekte Kombination aus Komfort und Behaglichkeit bietet.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430, \u0433\u043E\u0442\u043E\u0432\u0430\u044F \u043A \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044E, \u0441 \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439",
-          "location": "Lloret De Mar \u00B7 17310 \u00B7 Girona",
-          "price": "279.000 \u20AC",
-          "excerpt": "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u043E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 70 \u043C\u00B2 \u0432 \u043E\u0436\u0438\u0432\u043B\u0451\u043D\u043D\u043E\u043C \u043F\u0440\u0438\u0431\u0440\u0435\u0436\u043D\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u0435 \u0416\u0438\u0440\u043E\u043D\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442 \u0432\u0430\u043C \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E\u0435 \u0441\u043E\u0447\u0435\u0442\u0430\u043D\u0438\u0435 \u043A\u043E\u043C\u0444\u043E\u0440\u0442\u0430 \u0438 \u0443\u0434\u043E\u0431\u0441\u0442\u0432\u0430.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Квартира",
+          "title": "Квартира, готовая к заселению, с террасой",
+          "location": "Lloret De Mar · 17310 · Girona",
+          "price": "279.000 €",
+          "excerpt": "Откройте для себя эту очаровательную квартиру площадью 70 м² в оживлённом прибрежном городе Жирона, которая предлагает вам идеальное сочетание комфорта и удобства.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -167,7 +167,7 @@
     },
     {
       "id": "casa-adosada-obra-nueva-torroella-montgri",
-      "route": "inmuebles/ficha/?id=casa-adosada-obra-nueva-torroella-montgri",
+      "route": "inmuebles/casa-adosada-obra-nueva-torroella-montgri/",
       "image": "assets/inmuebles/casa-adosada-obra-nueva-torroella-montgri/principal.webp",
       "types": [
         "casa",
@@ -179,52 +179,52 @@
       "data": "data/properties/casa-adosada-obra-nueva-torroella-montgri.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Casa adosada de obra nueva en Torroella de Montgr\u00ED",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "Promoci\u00F3n de obra nueva en una ubicaci\u00F3n privilegiada de Torroella de Montgr\u00ED, con privacidad, vistas abiertas al Empordanet y posibilidad de personalizaci\u00F3n.",
+          "tag": "Casa",
+          "title": "Casa adosada de obra nueva en Torroella de Montgrí",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "Promoción de obra nueva en una ubicación privilegiada de Torroella de Montgrí, con privacidad, vistas abiertas al Empordanet y posibilidad de personalización.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Casa adossada de nova construcci\u00F3 a Torroella de Montgr\u00ED",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "Un projecte de nova construcci\u00F3 en una ubicaci\u00F3 privilegiada a Torroella de Montgr\u00ED, que ofereix privacitat, vistes panor\u00E0miques sense obstacles de l\u0027Empordanet i l\u0027opci\u00F3 de personalitzar la propietat.",
+          "tag": "Casa",
+          "title": "Casa adossada de nova construcció a Torroella de Montgrí",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "Un projecte de nova construcció en una ubicació privilegiada a Torroella de Montgrí, que ofereix privacitat, vistes panoràmiques sense obstacles de l'Empordanet i l'opció de personalitzar la propietat.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
-          "title": "Newly built townhouse in Torroella de Montgr\u00ED",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "New construction development in a prime location in Torroella de Montgr\u00ED, offering privacy, unobstructed views of the Empordanet, and the option to customize.",
+          "tag": "House",
+          "title": "Newly built townhouse in Torroella de Montgrí",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "New construction development in a prime location in Torroella de Montgrí, offering privacy, unobstructed views of the Empordanet, and the option to customize.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Maison mitoyenne neuve \u00E0 Torroella de Montgr\u00ED",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "Programme immobilier neuf b\u00E9n\u00E9ficiant d\u2019un emplacement privil\u00E9gi\u00E9 \u00E0 Torroella de Montgr\u00ED, offrant intimit\u00E9, vue d\u00E9gag\u00E9e sur l\u2019Empordanet et possibilit\u00E9 de personnalisation.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Maison",
+          "title": "Maison mitoyenne neuve à Torroella de Montgrí",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "Programme immobilier neuf bénéficiant d’un emplacement privilégié à Torroella de Montgrí, offrant intimité, vue dégagée sur l’Empordanet et possibilité de personnalisation.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Neubau-Reihenhaus in Torroella de Montgr\u00ED",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "Neubauprojekt in privilegierter Lage in Torroella de Montgr\u00ED, mit Privatsph\u00E4re, freiem Blick auf das Empordanet und der M\u00F6glichkeit zur individuellen Gestaltung.",
+          "tag": "Haus",
+          "title": "Neubau-Reihenhaus in Torroella de Montgrí",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "Neubauprojekt in privilegierter Lage in Torroella de Montgrí, mit Privatsphäre, freiem Blick auf das Empordanet und der Möglichkeit zur individuellen Gestaltung.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041D\u043E\u0432\u044B\u0439 \u0442\u0430\u0443\u043D\u0445\u0430\u0443\u0441 \u0432 \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438",
-          "location": "Torroella de Montgr\u00ED \u00B7 Baix Empord\u00E0 \u00B7 Girona",
-          "price": "525.000 \u20AC",
-          "excerpt": "\u041F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u043F\u043E \u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438, \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0435\u0435\u0441\u044F \u0443\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u0435\u043C, \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u042D\u043C\u043F\u043E\u0440\u0434\u0430\u043D\u0435\u0442 \u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C\u044E \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E\u0439 \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u043A\u0438.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Дом",
+          "title": "Новый таунхаус в Торроэлья-де-Монгри",
+          "location": "Torroella de Montgrí · Baix Empordà · Girona",
+          "price": "525.000 €",
+          "excerpt": "Предложение по новостройке в престижном районе Торроэлья-де-Монгри, отличающееся уединением, панорамным видом на Эмпорданет и возможностью индивидуальной планировки.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -234,7 +234,7 @@
     },
     {
       "id": "villa-obra-nueva-mas-moreu-torroella-montgri",
-      "route": "inmuebles/ficha/?id=villa-obra-nueva-mas-moreu-torroella-montgri",
+      "route": "inmuebles/villa-obra-nueva-mas-moreu-torroella-montgri/",
       "image": "assets/inmuebles/villa-obra-nueva-mas-moreu-torroella-montgri/principal.webp",
       "types": [
         "casa",
@@ -247,52 +247,52 @@
       "data": "data/properties/villa-obra-nueva-mas-moreu-torroella-montgri.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Villa de obra nueva en Mas Moreu, Torroella de Montgr\u00ED",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "Villa contempor\u00E1nea de obra nueva en Mas Moreu, con vistas al mar y al Castillo del Montgr\u00ED, alta eficiencia h\u00EDdrica y acabados de lujo personalizables.",
+          "tag": "Villa",
+          "title": "Villa de obra nueva en Mas Moreu, Torroella de Montgrí",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Villa contemporánea de obra nueva en Mas Moreu, con vistas al mar y al Castillo del Montgrí, alta eficiencia hídrica y acabados de lujo personalizables.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Vila de nova construcci\u00F3 a Mas Moreu, Torroella de Montgr\u00ED",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "Una vila contempor\u00E0nia de nova construcci\u00F3 a Mas Moreu, amb vistes al mar i al castell de Montgr\u00ED, alta efici\u00E8ncia h\u00EDdrica i acabats de luxe personalitzables.",
+          "tag": "Vil·la",
+          "title": "Vila de nova construcció a Mas Moreu, Torroella de Montgrí",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Una vila contemporània de nova construcció a Mas Moreu, amb vistes al mar i al castell de Montgrí, alta eficiència hídrica i acabats de luxe personalitzables.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
-          "title": "Newly built villa in Mas Moreu, Torroella de Montgr\u00ED",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "Contemporary new-construction villa in Mas Moreu, with views of the sea and Montgr\u00ED Castle, high water efficiency, and customizable luxury finishes.",
+          "tag": "Villa",
+          "title": "Newly built villa in Mas Moreu, Torroella de Montgrí",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Contemporary new-construction villa in Mas Moreu, with views of the sea and Montgrí Castle, high water efficiency, and customizable luxury finishes.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Villa neuve \u00E0 Mas Moreu, Torroella de Montgr\u00ED",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "Villa contemporaine neuve situ\u00E9e \u00E0 Mas Moreu, offrant une vue sur la mer et le ch\u00E2teau du Montgr\u00ED, dot\u00E9e d\u2019un syst\u00E8me de gestion de l\u2019eau \u00E0 haute efficacit\u00E9 et de finitions de luxe personnalisables.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Villa",
+          "title": "Villa neuve à Mas Moreu, Torroella de Montgrí",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Villa contemporaine neuve située à Mas Moreu, offrant une vue sur la mer et le château du Montgrí, dotée d’un système de gestion de l’eau à haute efficacité et de finitions de luxe personnalisables.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Neubauvilla in Mas Moreu, Torroella de Montgr\u00ED",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "Moderne Neubauvilla in Mas Moreu mit Blick auf das Meer und die Burg von Montgr\u00ED, hoher Wassereffizienz und individuell anpassbaren Luxusausstattungen.",
+          "tag": "Villa",
+          "title": "Neubauvilla in Mas Moreu, Torroella de Montgrí",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Moderne Neubauvilla in Mas Moreu mit Blick auf das Meer und die Burg von Montgrí, hoher Wassereffizienz und individuell anpassbaren Luxusausstattungen.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0432 \u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443, \u0422\u043E\u0440\u0440\u043E\u044D\u043B\u044C\u044F-\u0434\u0435-\u041C\u043E\u043D\u0433\u0440\u0438",
-          "location": "Mas Moreu \u00B7 Torroella de Montgr\u00ED \u00B7 Girona",
-          "price": "640.000 \u20AC",
-          "excerpt": "\u0421\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u043D\u043E\u0432\u043E\u0433\u043E \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u0441\u0442\u0432\u0430 \u0432 \u041C\u0430\u0441-\u041C\u043E\u0440\u0435\u0443 \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0438 \u0437\u0430\u043C\u043E\u043A \u041C\u043E\u043D\u0433\u0440\u0438, \u043E\u0442\u043B\u0438\u0447\u0430\u044E\u0449\u0430\u044F\u0441\u044F \u0432\u044B\u0441\u043E\u043A\u043E\u0439 \u044D\u0444\u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C\u044E \u0432\u043E\u0434\u043E\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u044F \u0438 \u0440\u043E\u0441\u043A\u043E\u0448\u043D\u043E\u0439 \u043E\u0442\u0434\u0435\u043B\u043A\u043E\u0439, \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043C\u043E\u0436\u043D\u043E \u0430\u0434\u0430\u043F\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u043F\u043E\u0434 \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u044B\u0435 \u043F\u0440\u0435\u0434\u043F\u043E\u0447\u0442\u0435\u043D\u0438\u044F.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Вилла",
+          "title": "Новостройка в Мас-Мореу, Торроэлья-де-Монгри",
+          "location": "Mas Moreu · Torroella de Montgrí · Girona",
+          "price": "640.000 €",
+          "excerpt": "Современная вилла нового строительства в Мас-Мореу с видом на море и замок Монгри, отличающаяся высокой эффективностью водопользования и роскошной отделкой, которую можно адаптировать под индивидуальные предпочтения.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -302,7 +302,7 @@
     },
     {
       "id": "casa-esquinera-puigmal-mas-nou-castello-empuries",
-      "route": "inmuebles/ficha/?id=casa-esquinera-puigmal-mas-nou-castello-empuries",
+      "route": "inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/",
       "image": "assets/inmuebles/casa-esquinera-puigmal-mas-nou-castello-empuries/principal.webp",
       "types": [
         "casa",
@@ -315,52 +315,52 @@
       "data": "data/properties/casa-esquinera-puigmal-mas-nou-castello-empuries.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Casa esquinera en Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
-          "excerpt": "Casa esquinera en el sector Puigmal-Mas Nou, con garaje privado, terraza, barbacoa, zona ajardinada y buena orientaci\u00F3n.",
+          "tag": "Casa",
+          "title": "Casa esquinera en Puigmal, Castelló d'Empúries",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
+          "excerpt": "Casa esquinera en el sector Puigmal-Mas Nou, con garaje privado, terraza, barbacoa, zona ajardinada y buena orientación.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Casa cantonera a Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
-          "excerpt": "Una casa cantonera a la zona de Puigmal-Mas Nou, amb garatge privat, terrassa, barbacoa, jard\u00ED i bona orientaci\u00F3.",
+          "tag": "Casa",
+          "title": "Casa cantonera a Puigmal, Castelló d'Empúries",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
+          "excerpt": "Una casa cantonera a la zona de Puigmal-Mas Nou, amb garatge privat, terrassa, barbacoa, jardí i bona orientació.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
-          "title": "Corner house in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
+          "tag": "House",
+          "title": "Corner house in Puigmal, Castelló d'Empúries",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
           "excerpt": "Corner house in the Puigmal-Mas Nou neighborhood, with a private garage, terrace, barbecue, landscaped area, and good exposure.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Maison d\u0027angle \u00E0 Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
-          "excerpt": "Maison d\u0027angle situ\u00E9e dans le quartier de Puigmal-Mas Nou, avec garage priv\u00E9, terrasse, barbecue, espace vert et bonne exposition.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Maison",
+          "title": "Maison d'angle à Puigmal, Castelló d'Empúries",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
+          "excerpt": "Maison d'angle située dans le quartier de Puigmal-Mas Nou, avec garage privé, terrasse, barbecue, espace vert et bonne exposition.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Eckhaus in Puigmal, Castell\u00F3 d\u0027Emp\u00FAries",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
+          "tag": "Haus",
+          "title": "Eckhaus in Puigmal, Castelló d'Empúries",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
           "excerpt": "Eckhaus im Stadtteil Puigmal-Mas Nou, mit eigener Garage, Terrasse, Grillplatz, Gartenbereich und guter Ausrichtung.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C \u0432 \u041F\u0443\u0438\u0433\u043C\u0430\u043B\u0435, \u041A\u0430\u0441\u0442\u0435\u043B\u044C\u043E-\u0434\u0027\u042D\u043C\u043F\u0443\u0440\u0438\u0435\u0441",
-          "location": "Puigmal - Mas Nou \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "240.000 \u20AC",
-          "excerpt": "\u0423\u0433\u043B\u043E\u0432\u043E\u0439 \u0434\u043E\u043C \u0432 \u0440\u0430\u0439\u043E\u043D\u0435 \u041F\u0443\u0438\u0433\u043C\u0430\u043B\u044C-\u041C\u0430\u0441-\u041D\u043E\u0443 \u0441 \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0433\u0430\u0440\u0430\u0436\u043E\u043C, \u0442\u0435\u0440\u0440\u0430\u0441\u043E\u0439, \u043F\u043B\u043E\u0449\u0430\u0434\u043A\u043E\u0439 \u0434\u043B\u044F \u0431\u0430\u0440\u0431\u0435\u043A\u044E, \u0431\u043B\u0430\u0433\u043E\u0443\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u044B\u043C \u0441\u0430\u0434\u043E\u043C \u0438 \u0443\u0434\u0430\u0447\u043D\u043E\u0439 \u043E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u0435\u0439.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Дом",
+          "title": "Угловой дом в Пуигмале, Кастельо-д'Эмпуриес",
+          "location": "Puigmal - Mas Nou · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "240.000 €",
+          "excerpt": "Угловой дом в районе Пуигмаль-Мас-Ноу с частным гаражом, террасой, площадкой для барбекю, благоустроенным садом и удачной ориентацией.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -370,65 +370,65 @@
     },
     {
       "id": "nuevo-oasis-en-una-codiciada-urbanizacion-cerca-de-pla-immogirona-265",
-      "route": "inmuebles/ficha/?id=nuevo-oasis-en-una-codiciada-urbanizacion-cerca-de-pla-immogirona-265",
+      "route": "inmuebles/nuevo-oasis-en-una-codiciada-urbanizacion-cerca-de-pla-immogirona-265/",
       "image": "assets/inmuebles/nuevo-oasis-en-una-codiciada-urbanizacion-cerca-de-pla-immogirona-265/principal.webp",
       "types": [
         "casa",
         "villa",
         "obra nueva",
-        "jard\u00EDn",
+        "jardín",
         "terraza",
         "costa brava"
       ],
       "data": "data/properties/nuevo-oasis-en-una-codiciada-urbanizacion-cerca-de-pla-immogirona-265.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Nuevo Oasis en una codiciada urbanizaci\u00F3n cerca de Platja d\u0027Aro, en el coraz\u00F3n de la preciosa Costa Brava.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "Descubre esta magn\u00EDfica villa moderna de obra nueva en una codiciada urbanizaci\u00F3n cerca de Platja d\u0027Aro , en el coraz\u00F3n de la preciosa Costa Brava.",
+          "tag": "Villa",
+          "title": "Nuevo Oasis en una codiciada urbanización cerca de Platja d'Aro, en el corazón de la preciosa Costa Brava.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Descubre esta magnífica villa moderna de obra nueva en una codiciada urbanización cerca de Platja d'Aro , en el corazón de la preciosa Costa Brava.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Un nou oasi en un desenvolupament residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la bonica Costa Brava.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "Descobriu aquesta magn\u00EDfica vila moderna i de nova construcci\u00F3 en un recinte residencial molt sol\u00B7licitat a prop de Platja d\u0027Aro, al cor de la bonica Costa Brava.",
+          "tag": "Vil·la",
+          "title": "Un nou oasi en un desenvolupament residencial molt sol·licitat a prop de Platja d'Aro, al cor de la bonica Costa Brava.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Descobriu aquesta magnífica vila moderna i de nova construcció en un recinte residencial molt sol·licitat a prop de Platja d'Aro, al cor de la bonica Costa Brava.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
-          "title": "A New Oasis in a Sought-After Community Near Platja d\u0027Aro, in the Heart of the Beautiful Costa Brava.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "Discover this magnificent, newly built modern villa in a sought-after residential community near Platja d\u0027Aro, in the heart of the beautiful Costa Brava.",
+          "tag": "Villa",
+          "title": "A New Oasis in a Sought-After Community Near Platja d'Aro, in the Heart of the Beautiful Costa Brava.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Discover this magnificent, newly built modern villa in a sought-after residential community near Platja d'Aro, in the heart of the beautiful Costa Brava.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Un nouvel oasis dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "D\u00E9couvrez cette magnifique villa moderne neuve situ\u00E9e dans un lotissement tr\u00E8s pris\u00E9 pr\u00E8s de Platja d\u0027Aro, au c\u0153ur de la magnifique Costa Brava.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Villa",
+          "title": "Un nouvel oasis dans un lotissement très prisé près de Platja d'Aro, au cœur de la magnifique Costa Brava.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Découvrez cette magnifique villa moderne neuve située dans un lotissement très prisé près de Platja d'Aro, au cœur de la magnifique Costa Brava.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Eine neue Oase in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "Entdecken Sie diese herrliche, moderne Neubauvilla in einer begehrten Wohnanlage in der N\u00E4he von Platja d\u2019Aro, im Herzen der wundersch\u00F6nen Costa Brava.",
+          "tag": "Villa",
+          "title": "Eine neue Oase in einer begehrten Wohnanlage in der Nähe von Platja d’Aro, im Herzen der wunderschönen Costa Brava.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Entdecken Sie diese herrliche, moderne Neubauvilla in einer begehrten Wohnanlage in der Nähe von Platja d’Aro, im Herzen der wunderschönen Costa Brava.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041D\u043E\u0432\u044B\u0439 \u00AB\u041E\u0430\u0437\u0438\u0441\u00BB \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0442\u0436\u0430-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
-          "location": "Castell Daro, Platja Daro I Sagar\u00F3 \u00B7 17249 \u00B7 Girona",
-          "price": "460.000 \u20AC",
-          "excerpt": "\u041E\u0442\u043A\u0440\u043E\u0439\u0442\u0435 \u0434\u043B\u044F \u0441\u0435\u0431\u044F \u044D\u0442\u0443 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u0443\u044E \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u0443\u044E \u0432\u0438\u043B\u043B\u0443, \u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u0443\u044E \u043F\u043E \u0438\u043D\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043B\u044C\u043D\u043E\u043C\u0443 \u043F\u0440\u043E\u0435\u043A\u0442\u0443, \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0436\u0438\u043B\u043E\u043C \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441\u0435 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u041F\u043B\u0430\u0439\u044F-\u0434\u0027\u0410\u0440\u043E, \u0432 \u0441\u0430\u043C\u043E\u043C \u0441\u0435\u0440\u0434\u0446\u0435 \u043F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E\u0439 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u044B.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Вилла",
+          "title": "Новый «Оазис» в престижном жилом комплексе недалеко от Платжа-д'Аро, в самом сердце прекрасной Коста-Бравы.",
+          "location": "Castell Daro, Platja Daro I Sagaró · 17249 · Girona",
+          "price": "460.000 €",
+          "excerpt": "Откройте для себя эту великолепную современную виллу, построенную по индивидуальному проекту, в престижном жилом комплексе недалеко от Плайя-д'Аро, в самом сердце прекрасной Коста-Бравы.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -438,63 +438,63 @@
     },
     {
       "id": "encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266",
-      "route": "inmuebles/ficha/?id=encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266",
+      "route": "inmuebles/encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266/",
       "image": "assets/inmuebles/encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266/principal.webp",
       "types": [
         "casa",
         "villa",
-        "jard\u00EDn",
+        "jardín",
         "terraza"
       ],
       "data": "data/properties/encantadora-villa-con-jardin-de-5-dormitorios-immogirona-266.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Encantadora villa con jard\u00EDn de 5 dormitorios",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
+          "tag": "Villa",
+          "title": "Encantadora villa con jardín de 5 dormitorios",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
           "excerpt": "Se trata de una casa de dos plantas completamente reformada en 2016 con materiales de primera calidad, ideal para quienes buscan el confort de una casa moderna dentro de un entorno de descanso.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Encantadora vila de 5 dormitoris amb jard\u00ED",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
-          "excerpt": "Es tracta d\u0027una casa de dues plantes que es va reformar completament el 2016 amb materials de primera qualitat, ideal per a aquells que busquen la comoditat d\u0027un habitatge modern en un entorn tranquil.",
+          "tag": "Vil·la",
+          "title": "Encantadora vila de 5 dormitoris amb jardí",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
+          "excerpt": "Es tracta d'una casa de dues plantes que es va reformar completament el 2016 amb materials de primera qualitat, ideal per a aquells que busquen la comoditat d'un habitatge modern en un entorn tranquil.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "Villa",
           "title": "Charming 5-bedroom villa with a garden",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
           "excerpt": "This is a two-story home that was completely renovated in 2016 using top-quality materials, ideal for those seeking the comfort of a modern home in a relaxing setting.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
+          "tag": "Villa",
           "title": "Charmante villa avec jardin, comprenant 5 chambres",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
-          "excerpt": "Il s\u0027agit d\u0027une maison \u00E0 deux \u00E9tages enti\u00E8rement r\u00E9nov\u00E9e en 2016 avec des mat\u00E9riaux de premi\u00E8re qualit\u00E9, id\u00E9ale pour ceux qui recherchent le confort d\u0027une maison moderne dans un cadre propice \u00E0 la d\u00E9tente.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
+          "excerpt": "Il s'agit d'une maison à deux étages entièrement rénovée en 2016 avec des matériaux de première qualité, idéale pour ceux qui recherchent le confort d'une maison moderne dans un cadre propice à la détente.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Villa",
           "title": "Bezaubernde Villa mit Garten und 5 Schlafzimmern",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
-          "excerpt": "Es handelt sich um ein zweist\u00F6ckiges Haus, das 2016 mit hochwertigen Materialien komplett renoviert wurde und sich ideal f\u00FCr diejenigen eignet, die den Komfort eines modernen Hauses in einer erholsamen Umgebung suchen.",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
+          "excerpt": "Es handelt sich um ein zweistöckiges Haus, das 2016 mit hochwertigen Materialien komplett renoviert wurde und sich ideal für diejenigen eignet, die den Komfort eines modernen Hauses in einer erholsamen Umgebung suchen.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0441 \u0441\u0430\u0434\u043E\u043C \u0438 5 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.200.000 \u20AC",
-          "excerpt": "\u0420\u0435\u0447\u044C \u0438\u0434\u0435\u0442 \u043E \u0434\u0432\u0443\u0445\u044D\u0442\u0430\u0436\u043D\u043E\u043C \u0434\u043E\u043C\u0435, \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u043C \u0432 2016 \u0433\u043E\u0434\u0443 \u0441 \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u043E\u0432 \u0432\u044B\u0441\u0448\u0435\u0433\u043E \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u043F\u043E\u0434\u0445\u043E\u0434\u0438\u0442 \u0434\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u0438\u0449\u0435\u0442 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0433\u043E \u0434\u043E\u043C\u0430 \u0432 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E\u0439 \u043E\u0431\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0435.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Вилла",
+          "title": "Очаровательная вилла с садом и 5 спальнями",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.200.000 €",
+          "excerpt": "Речь идет о двухэтажном доме, полностью отремонтированном в 2016 году с использованием материалов высшего качества, который идеально подходит для тех, кто ищет комфорт современного дома в спокойной обстановке.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -504,63 +504,63 @@
     },
     {
       "id": "exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
-      "route": "inmuebles/ficha/?id=exclusiva-casa-independiente-con-amplio-jardin-immogirona-267",
+      "route": "inmuebles/exclusiva-casa-independiente-con-amplio-jardin-immogirona-267/",
       "image": "assets/inmuebles/exclusiva-casa-independiente-con-amplio-jardin-immogirona-267/principal.webp",
       "types": [
         "casa",
-        "jard\u00EDn",
+        "jardín",
         "terraza",
         "costa brava"
       ],
       "data": "data/properties/exclusiva-casa-independiente-con-amplio-jardin-immogirona-267.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Exclusiva Casa Independiente con Amplio Jard\u00EDn",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
-          "excerpt": "Tu Sue\u00F1o Mediterr\u00E1neo en la Costa Brava Como tu experto inmobiliario de confianza, estoy encantado de presentarte esta magn\u00EDfica casa independiente , ubicada idealmente en la cotizada zona de Playa de Aro , en la impresi...",
+          "tag": "Casa",
+          "title": "Exclusiva Casa Independiente con Amplio Jardín",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
+          "excerpt": "Tu Sueño Mediterráneo en la Costa Brava Como tu experto inmobiliario de confianza, estoy encantado de presentarte esta magnífica casa independiente , ubicada idealmente en la cotizada zona de Playa de Aro , en la impresi...",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Casa adossada exclusiva amb jard\u00ED espai\u00F3s",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
-          "excerpt": "El teu somni mediterrani a la Costa Brava Com a expert immobiliari de confian\u00E7a, em complau presentar aquesta magn\u00EDfica casa independent, idealment situada a la zona molt cotitzada de Platja d\u0027Aro, en l\u0027impressionant...",
+          "tag": "Casa",
+          "title": "Casa adossada exclusiva amb jardí espaiós",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
+          "excerpt": "El teu somni mediterrani a la Costa Brava Com a expert immobiliari de confiança, em complau presentar aquesta magnífica casa independent, idealment situada a la zona molt cotitzada de Platja d'Aro, en l'impressionant...",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "House",
           "title": "Exclusive Detached House with Spacious Garden",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
           "excerpt": "Your Mediterranean Dream on the Costa Brava As your trusted real estate expert, I am delighted to present this magnificent single-family home, ideally located in the sought-after area of Playa de Aro, in the impressive...",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
+          "tag": "Maison",
           "title": "Maison individuelle exclusive avec grand jardin",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
-          "excerpt": "Votre r\u00EAve m\u00E9diterran\u00E9en sur la Costa Brava. En tant qu\u2019expert immobilier de confiance, je suis ravi de vous pr\u00E9senter cette magnifique maison individuelle, id\u00E9alement situ\u00E9e dans le quartier tr\u00E8s pris\u00E9 de Playa de Aro, dans le cadre impressionnant...",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
+          "excerpt": "Votre rêve méditerranéen sur la Costa Brava. En tant qu’expert immobilier de confiance, je suis ravi de vous présenter cette magnifique maison individuelle, idéalement située dans le quartier très prisé de Playa de Aro, dans le cadre impressionnant...",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Exklusives Einfamilienhaus mit gro\u00DFz\u00FCgigem Garten",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
-          "excerpt": "Ihr mediterraner Traum an der Costa Brava Als Ihr vertrauensw\u00FCrdiger Immobilienexperte freue ich mich, Ihnen dieses herrliche Einfamilienhaus vorstellen zu d\u00FCrfen, das ideal in der begehrten Gegend von Playa de Aro gelegen ist, in der beeindruckenden...",
+          "tag": "Haus",
+          "title": "Exklusives Einfamilienhaus mit großzügigem Garten",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
+          "excerpt": "Ihr mediterraner Traum an der Costa Brava Als Ihr vertrauenswürdiger Immobilienexperte freue ich mich, Ihnen dieses herrliche Einfamilienhaus vorstellen zu dürfen, das ideal in der begehrten Gegend von Playa de Aro gelegen ist, in der beeindruckenden...",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u042D\u043A\u0441\u043A\u043B\u044E\u0437\u0438\u0432\u043D\u044B\u0439 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0434\u043E\u043C \u0441 \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C \u0441\u0430\u0434\u043E\u043C",
-          "location": "Castell-Platja D\u0027aro I S\u0027agaro \u00B7 17249 \u00B7 Girona",
-          "price": "1.500.000 \u20AC",
-          "excerpt": "\u0412\u0430\u0448\u0430 \u0441\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C\u043E\u0440\u0441\u043A\u0430\u044F \u043C\u0435\u0447\u0442\u0430 \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430. \u041A\u0430\u043A \u0432\u0430\u0448 \u043D\u0430\u0434\u0435\u0436\u043D\u044B\u0439 \u044D\u043A\u0441\u043F\u0435\u0440\u0442 \u043F\u043E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438, \u044F \u0441 \u0443\u0434\u043E\u0432\u043E\u043B\u044C\u0441\u0442\u0432\u0438\u0435\u043C \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E \u0432\u0430\u043C \u044D\u0442\u043E\u0442 \u0432\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u044B\u0439 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0434\u043E\u043C, \u0438\u0434\u0435\u0430\u043B\u044C\u043D\u043E \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0439 \u0432 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041F\u043B\u0430\u0439\u044F-\u0434\u0435-\u0410\u0440\u043E, \u0432 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0435\u043C...",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Дом",
+          "title": "Эксклюзивный отдельно стоящий дом с просторным садом",
+          "location": "Castell-Platja D'aro I S'agaro · 17249 · Girona",
+          "price": "1.500.000 €",
+          "excerpt": "Ваша средиземноморская мечта на побережье Коста-Брава. Как ваш надежный эксперт по недвижимости, я с удовольствием представляю вам этот великолепный отдельно стоящий дом, идеально расположенный в престижном районе Плайя-де-Аро, в впечатляющем...",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -570,11 +570,11 @@
     },
     {
       "id": "una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
-      "route": "inmuebles/ficha/?id=una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277",
+      "route": "inmuebles/una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277/",
       "image": "assets/inmuebles/una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277/principal.webp",
       "types": [
         "casa",
-        "jard\u00EDn",
+        "jardín",
         "terraza",
         "piscina",
         "costa brava"
@@ -582,52 +582,52 @@
       "data": "data/properties/una-casa-de-sueno-en-la-costa-brava-modernidad-y-confo-immogirona-277.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Una Casa de Sue\u00F1o en la Costa Brava: Modernidad y Confort en San Antonio de Calonge, Mas Vilar, en Torre Valentina",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "Una Casa de Sue\u00F1o en la Costa Brava: Modernidad y Confort en Calonge y Sant Antoni Te presento una oportunidad excepcional en la deseada localidad de San Antonio de Calonge , concretamente en la tranquila zona de Mas Vil...",
+          "tag": "Casa",
+          "title": "Una Casa de Sueño en la Costa Brava: Modernidad y Confort en San Antonio de Calonge, Mas Vilar, en Torre Valentina",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "Una Casa de Sueño en la Costa Brava: Modernidad y Confort en Calonge y Sant Antoni Te presento una oportunidad excepcional en la deseada localidad de San Antonio de Calonge , concretamente en la tranquila zona de Mas Vil...",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
+          "tag": "Casa",
           "title": "Una casa de somni a la Costa Brava: modernitat i confort a San Antonio de Calonge, Mas Vilar, a Torre Valentina",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "Una casa de somni a la Costa Brava: modernitat i confort a Calonge i Sant Antoni. Em complau presentar una oportunitat excepcional al molt cobejat municipi de Sant Antoni de Calonge, concretament a la tranquil\u00B7la zona de Mas Vil...",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "Una casa de somni a la Costa Brava: modernitat i confort a Calonge i Sant Antoni. Em complau presentar una oportunitat excepcional al molt cobejat municipi de Sant Antoni de Calonge, concretament a la tranquil·la zona de Mas Vil...",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "House",
           "title": "A Dream Home on the Costa Brava: Modernity and Comfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "A Dream Home on the Costa Brava: Modernity and Comfort in Calonge and Sant Antoni I\u2019d like to present you with an exceptional opportunity in the sought-after town of Sant Antoni de Calonge, specifically in the quiet neighborhood of Mas Vil...",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "A Dream Home on the Costa Brava: Modernity and Comfort in Calonge and Sant Antoni I’d like to present you with an exceptional opportunity in the sought-after town of Sant Antoni de Calonge, specifically in the quiet neighborhood of Mas Vil...",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 San Antonio de Calonge, Mas Vilar, \u00E0 Torre Valentina",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "Une maison de r\u00EAve sur la Costa Brava : modernit\u00E9 et confort \u00E0 Calonge et Sant Antoni. Je vous pr\u00E9sente une opportunit\u00E9 exceptionnelle dans la localit\u00E9 tr\u00E8s pris\u00E9e de Sant Antoni de Calonge, plus pr\u00E9cis\u00E9ment dans le quartier paisible de Mas Vil...",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Maison",
+          "title": "Une maison de rêve sur la Costa Brava : modernité et confort à San Antonio de Calonge, Mas Vilar, à Torre Valentina",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "Une maison de rêve sur la Costa Brava : modernité et confort à Calonge et Sant Antoni. Je vous présente une opportunité exceptionnelle dans la localité très prisée de Sant Antoni de Calonge, plus précisément dans le quartier paisible de Mas Vil...",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "Ein Traumhaus an der Costa Brava: Modernit\u00E4t und Komfort in Calonge und Sant Antoni Ich pr\u00E4sentiere Ihnen eine au\u00DFergew\u00F6hnliche Gelegenheit in der begehrten Ortschaft San Antonio de Calonge, genauer gesagt in der ruhigen Gegend von Mas Vil...",
+          "tag": "Haus",
+          "title": "Ein Traumhaus an der Costa Brava: Modernität und Komfort in San Antonio de Calonge, Mas Vilar, in Torre Valentina",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "Ein Traumhaus an der Costa Brava: Modernität und Komfort in Calonge und Sant Antoni Ich präsentiere Ihnen eine außergewöhnliche Gelegenheit in der begehrten Ortschaft San Antonio de Calonge, genauer gesagt in der ruhigen Gegend von Mas Vil...",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u041C\u0430\u0441-\u0412\u0438\u043B\u0430\u0440, \u0432 \u0422\u043E\u0440\u0440\u0435-\u0412\u0430\u043B\u0435\u043D\u0442\u0438\u043D\u0430",
-          "location": "Calonge I Sant Antoni \u00B7 17252 \u00B7 Girona",
-          "price": "895.000 \u20AC",
-          "excerpt": "\u0414\u043E\u043C \u0432\u0430\u0448\u0435\u0439 \u043C\u0435\u0447\u0442\u044B \u043D\u0430 \u043F\u043E\u0431\u0435\u0440\u0435\u0436\u044C\u0435 \u041A\u043E\u0441\u0442\u0430-\u0411\u0440\u0430\u0432\u0430: \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u044C \u0438 \u043A\u043E\u043C\u0444\u043E\u0440\u0442 \u0432 \u041A\u0430\u043B\u043E\u043D\u0433\u0435 \u0438 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E. \u041F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u044E \u0432\u0430\u0448\u0435\u043C\u0443 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u044E \u0438\u0441\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u043E\u043C \u043A\u0443\u0440\u043E\u0440\u0442\u043D\u043E\u043C \u0433\u043E\u0440\u043E\u0434\u043A\u0435 \u0421\u0430\u043D-\u0410\u043D\u0442\u043E\u043D\u0438\u043E-\u0434\u0435-\u041A\u0430\u043B\u043E\u043D\u0433\u0435, \u0430 \u0438\u043C\u0435\u043D\u043D\u043E \u0432 \u0442\u0438\u0445\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0435 \u041C\u0430\u0441-\u0412\u0438\u043B\u044C...",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Дом",
+          "title": "Дом вашей мечты на побережье Коста-Брава: современность и комфорт в Сан-Антонио-де-Калонге, Мас-Вилар, в Торре-Валентина",
+          "location": "Calonge I Sant Antoni · 17252 · Girona",
+          "price": "895.000 €",
+          "excerpt": "Дом вашей мечты на побережье Коста-Брава: современность и комфорт в Калонге и Сан-Антонио. Предлагаю вашему вниманию исключительную возможность в популярном курортном городке Сан-Антонио-де-Калонге, а именно в тихом районе Мас-Виль...",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -637,63 +637,63 @@
     },
     {
       "id": "oportunidad-estrategica-para-inversores-nuda-propiedad-immogirona-283",
-      "route": "inmuebles/ficha/?id=oportunidad-estrategica-para-inversores-nuda-propiedad-immogirona-283",
+      "route": "inmuebles/oportunidad-estrategica-para-inversores-nuda-propiedad-immogirona-283/",
       "image": "assets/inmuebles/oportunidad-estrategica-para-inversores-nuda-propiedad-immogirona-283/principal.webp",
       "types": [
         "obra nueva",
-        "inversi\u00F3n",
+        "inversión",
         "piscina",
         "costa brava"
       ],
       "data": "data/properties/oportunidad-estrategica-para-inversores-nuda-propiedad-immogirona-283.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Oportunidad Estrat\u00E9gica para Inversores: Nuda propiedad de Obra Nueva en el Alt Empord\u00E0",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "Presentamos esta espectacular propiedad de dise\u00F1o contempor\u00E1neo situada en L\u0027Armentera , un municipio que combina la serenidad del Empord\u00E0 con una ubicaci\u00F3n log\u00EDstica inmejorable.",
+          "tag": "Inmueble",
+          "title": "Oportunidad Estratégica para Inversores: Nuda propiedad de Obra Nueva en el Alt Empordà",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "Presentamos esta espectacular propiedad de diseño contemporáneo situada en L'Armentera , un municipio que combina la serenidad del Empordà con una ubicación logística inmejorable.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Oportunitat estrat\u00E8gica per a inversors: propietat en nuda propietat d\u0027un immoble de nova construcci\u00F3 a l\u0027Alt Empord\u00E0",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "Ens complau presentar aquesta espectacular propietat d\u0027estil contemporani situada a L\u0027Armentera, un poble que combina la tranquil\u00B7litat de l\u0027Empord\u00E0 amb una ubicaci\u00F3 inigualable.",
+          "tag": "Immoble",
+          "title": "Oportunitat estratègica per a inversors: propietat en nuda propietat d'un immoble de nova construcció a l'Alt Empordà",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "Ens complau presentar aquesta espectacular propietat d'estil contemporani situada a L'Armentera, un poble que combina la tranquil·litat de l'Empordà amb una ubicació inigualable.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
-          "title": "Strategic Opportunity for Investors: Bare Ownership of a New Construction Property in the Alt Empord\u00E0",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "We are pleased to present this spectacular contemporary-style property located in L\u0027Armentera, a town that combines the serenity of the Empord\u00E0 region with an unbeatable location.",
+          "tag": "Property",
+          "title": "Strategic Opportunity for Investors: Bare Ownership of a New Construction Property in the Alt Empordà",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "We are pleased to present this spectacular contemporary-style property located in L'Armentera, a town that combines the serenity of the Empordà region with an unbeatable location.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Opportunit\u00E9 strat\u00E9gique pour les investisseurs : propri\u00E9t\u00E9 nue d\u2019un bien neuf dans l\u2019Alt Empord\u00E0",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "Nous vous pr\u00E9sentons cette spectaculaire propri\u00E9t\u00E9 au design contemporain situ\u00E9e \u00E0 L\u0027Armentera, une commune qui allie la s\u00E9r\u00E9nit\u00E9 de l\u0027Empord\u00E0 \u00E0 un emplacement strat\u00E9gique imbattable.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Bien immobilier",
+          "title": "Opportunité stratégique pour les investisseurs : propriété nue d’un bien neuf dans l’Alt Empordà",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "Nous vous présentons cette spectaculaire propriété au design contemporain située à L'Armentera, une commune qui allie la sérénité de l'Empordà à un emplacement stratégique imbattable.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
-          "title": "Strategische Investitionschance: Eigentumsanteil an einem Neubau im Alt Empord\u00E0",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "Wir pr\u00E4sentieren Ihnen diese spektakul\u00E4re Immobilie in zeitgen\u00F6ssischem Design in L\u2019Armentera, einer Gemeinde, die die Ruhe des Empord\u00E0 mit einer un\u00FCbertrefflichen Lage verbindet.",
+          "tag": "Immobilie",
+          "title": "Strategische Investitionschance: Eigentumsanteil an einem Neubau im Alt Empordà",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "Wir präsentieren Ihnen diese spektakuläre Immobilie in zeitgenössischem Design in L’Armentera, einer Gemeinde, die die Ruhe des Empordà mit einer unübertrefflichen Lage verbindet.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0434\u043B\u044F \u0438\u043D\u0432\u0435\u0441\u0442\u043E\u0440\u043E\u0432: \u043F\u0440\u0430\u0432\u043E \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0441\u0442\u0438 \u043D\u0430 \u043D\u043E\u0432\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0443 \u0432 \u0440\u0435\u0433\u0438\u043E\u043D\u0435 \u0410\u043B\u044C\u0442-\u042D\u043C\u043F\u043E\u0440\u0434\u0430",
-          "location": "L\u0027armentera \u00B7 17472 \u00B7 Girona",
-          "price": "260.000 \u20AC",
-          "excerpt": "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u043C \u0432\u0430\u043C \u044D\u0442\u0443 \u0432\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0443\u044E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C \u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u043C \u0441\u0442\u0438\u043B\u0435, \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u043D\u0443\u044E \u0432 \u041B\u2019\u0410\u0440\u043C\u0435\u043D\u0442\u0435\u0440\u0430 \u2014 \u043C\u0443\u043D\u0438\u0446\u0438\u043F\u0430\u043B\u0438\u0442\u0435\u0442\u0435, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043E\u0447\u0435\u0442\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u0435 \u0441\u043F\u043E\u043A\u043E\u0439\u0441\u0442\u0432\u0438\u0435 \u0440\u0435\u0433\u0438\u043E\u043D\u0430 \u042D\u043C\u043F\u043E\u0440\u0434\u0430 \u0441 \u043D\u0435\u043F\u0440\u0435\u0432\u0437\u043E\u0439\u0434\u0435\u043D\u043D\u044B\u043C \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u043D\u044B\u043C \u0440\u0430\u0441\u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435\u043C.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Недвижимость",
+          "title": "Стратегическая возможность для инвесторов: право собственности на новостройку в регионе Альт-Эмпорда",
+          "location": "L'armentera · 17472 · Girona",
+          "price": "260.000 €",
+          "excerpt": "Представляем вам эту впечатляющую недвижимость в современном стиле, расположенную в Л’Арментера — муниципалитете, который сочетает в себе спокойствие региона Эмпорда с непревзойденным транспортным расположением.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -703,7 +703,7 @@
     },
     {
       "id": "casa-canal-piscina-empuriabrava-immogirona-298",
-      "route": "inmuebles/ficha/?id=casa-canal-piscina-empuriabrava-immogirona-298",
+      "route": "inmuebles/casa-canal-piscina-empuriabrava-immogirona-298/",
       "image": "assets/inmuebles/casa-canal-piscina-empuriabrava-immogirona-298/principal.jpeg",
       "types": [
         "casa",
@@ -717,52 +717,52 @@
       "data": "data/properties/casa-canal-piscina-empuriabrava-immogirona-298.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
+          "tag": "Casa",
           "title": "Casa soleada al canal con piscina en Empuriabrava",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
-          "excerpt": "Casa independiente en primera l\u00EDnea de canal en Empuriabrava, reformada y lista para entrar a vivir, con piscina privada, terrazas exteriores, 4 dormitorios y 3 ba\u00F1os.",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
+          "excerpt": "Casa independiente en primera línea de canal en Empuriabrava, reformada y lista para entrar a vivir, con piscina privada, terrazas exteriores, 4 dormitorios y 3 baños.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
+          "tag": "Casa",
           "title": "Casa assolellada al costat del canal amb piscina a Empuriabrava",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
           "excerpt": "Casa adossada davant del canal a Empuriabrava, reformada i llesta per entrar-hi a viure, amb piscina privada, terrasses exteriors, 4 dormitoris i 3 banys.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "House",
           "title": "Sunny canal-side home with a pool in Empuriabrava",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
           "excerpt": "Detached house on the canalfront in Empuriabrava, renovated and ready to move in, with a private pool, outdoor terraces, 4 bedrooms, and 3 bathrooms.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Maison ensoleill\u00E9e au bord du canal avec piscine \u00E0 Empuriabrava",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
-          "excerpt": "Maison individuelle en bordure de canal \u00E0 Empuriabrava, r\u00E9nov\u00E9e et pr\u00EAte \u00E0 emm\u00E9nager, avec piscine priv\u00E9e, terrasses ext\u00E9rieures, 4 chambres et 3 salles de bains.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Maison",
+          "title": "Maison ensoleillée au bord du canal avec piscine à Empuriabrava",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
+          "excerpt": "Maison individuelle en bordure de canal à Empuriabrava, rénovée et prête à emménager, avec piscine privée, terrasses extérieures, 4 chambres et 3 salles de bains.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Haus",
           "title": "Sonniges Haus am Kanal mit Pool in Empuriabrava",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
-          "excerpt": "Freistehendes Haus in erster Kanalreihe in Empuriabrava, renoviert und bezugsfertig, mit privatem Pool, Au\u00DFenterrassen, 4 Schlafzimmern und 3 Badezimmern.",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
+          "excerpt": "Freistehendes Haus in erster Kanalreihe in Empuriabrava, renoviert und bezugsfertig, mit privatem Pool, Außenterrassen, 4 Schlafzimmern und 3 Badezimmern.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0421\u043E\u043B\u043D\u0435\u0447\u043D\u044B\u0439 \u0434\u043E\u043C \u0441 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043A\u0430\u043D\u0430\u043B \u0438 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C \u0432 \u042D\u043C\u043F\u0443\u0440\u0438\u0430\u0431\u0440\u0430\u0432\u0435",
-          "location": "Empuriabrava \u00B7 Castell\u00F3 d\u0027Emp\u00FAries \u00B7 Alt Empord\u00E0 \u00B7 Girona",
-          "price": "1.085.000 \u20AC",
-          "excerpt": "\u041E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u0434\u043E\u043C \u043D\u0430 \u043F\u0435\u0440\u0432\u043E\u0439 \u043B\u0438\u043D\u0438\u0438 \u043A\u0430\u043D\u0430\u043B\u0430 \u0432 \u042D\u043C\u043F\u0443\u0440\u0438\u0430\u0431\u0440\u0430\u0432\u0435, \u043E\u0442\u0440\u0435\u043C\u043E\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0438 \u0433\u043E\u0442\u043E\u0432\u044B\u0439 \u043A \u0437\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044E, \u0441 \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u043C\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430\u043C\u0438, 4 \u0441\u043F\u0430\u043B\u044C\u043D\u044F\u043C\u0438 \u0438 3 \u0432\u0430\u043D\u043D\u044B\u043C\u0438 \u043A\u043E\u043C\u043D\u0430\u0442\u0430\u043C\u0438.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Дом",
+          "title": "Солнечный дом с видом на канал и бассейном в Эмпуриабраве",
+          "location": "Empuriabrava · Castelló d'Empúries · Alt Empordà · Girona",
+          "price": "1.085.000 €",
+          "excerpt": "Отдельно стоящий дом на первой линии канала в Эмпуриабраве, отремонтированный и готовый к заселению, с частным бассейном, открытыми террасами, 4 спальнями и 3 ванными комнатами.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -772,7 +772,7 @@
     },
     {
       "id": "villa-zen-vistas-mar-lloret-mar-immogirona-301",
-      "route": "inmuebles/ficha/?id=villa-zen-vistas-mar-lloret-mar-immogirona-301",
+      "route": "inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/",
       "image": "assets/inmuebles/villa-zen-vistas-mar-lloret-mar-immogirona-301/principal.webp",
       "types": [
         "villa",
@@ -783,59 +783,59 @@
         "spa",
         "sauna",
         "vistas al mar",
-        "jard\u00EDn",
+        "jardín",
         "lloret de mar",
         "segunda mano"
       ],
       "data": "data/properties/villa-zen-vistas-mar-lloret-mar-immogirona-301.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
+          "tag": "Villa",
           "title": "Villa zen con piscina, spa y vistas al mar en Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "Villa unifamiliar de inspiraci\u00F3n zen y r\u00FAstica en Lloret de Mar, con parcela de 806 m\u00B2, piscina privada, pabell\u00F3n wellness con sauna, garaje amplio y vistas panor\u00E1micas al mar.",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "Villa unifamiliar de inspiración zen y rústica en Lloret de Mar, con parcela de 806 m², piscina privada, pabellón wellness con sauna, garaje amplio y vistas panorámicas al mar.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Vila d\u0027estil zen amb piscina, spa i vistes al mar a Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "Una vila adossada d\u0027inspiraci\u00F3 zen i r\u00FAstica a Lloret de Mar, amb una parcel\u00B7la de 806 m\u00B2, piscina privada, pavell\u00F3 de benestar amb sauna, garatge espai\u00F3s i vistes panor\u00E0miques al mar.",
+          "tag": "Vil·la",
+          "title": "Vila d'estil zen amb piscina, spa i vistes al mar a Lloret de Mar",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "Una vila adossada d'inspiració zen i rústica a Lloret de Mar, amb una parcel·la de 806 m², piscina privada, pavelló de benestar amb sauna, garatge espaiós i vistes panoràmiques al mar.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "Villa",
           "title": "Zen-style villa with a pool, spa, and ocean views in Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "A Zen- and rustic-inspired single-family villa in Lloret de Mar, featuring an 806 m\u00B2 lot, a private pool, a wellness pavilion with a sauna, a spacious garage, and panoramic ocean views.",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "A Zen- and rustic-inspired single-family villa in Lloret de Mar, featuring an 806 m² lot, a private pool, a wellness pavilion with a sauna, a spacious garage, and panoramic ocean views.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Villa zen avec piscine, spa et vue sur la mer \u00E0 Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "Villa individuelle d\u0027inspiration zen et rustique \u00E0 Lloret de Mar, avec un terrain de 806 m\u00B2, une piscine priv\u00E9e, un pavillon de bien-\u00EAtre avec sauna, un grand garage et une vue panoramique sur la mer.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Villa",
+          "title": "Villa zen avec piscine, spa et vue sur la mer à Lloret de Mar",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "Villa individuelle d'inspiration zen et rustique à Lloret de Mar, avec un terrain de 806 m², une piscine privée, un pavillon de bien-être avec sauna, un grand garage et une vue panoramique sur la mer.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Villa",
           "title": "Zen-Villa mit Pool, Spa und Meerblick in Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "Einfamilienvilla im Zen- und Landhausstil in Lloret de Mar, mit einem 806 m\u00B2 gro\u00DFen Grundst\u00FCck, privatem Pool, Wellnessbereich mit Sauna, ger\u00E4umiger Garage und Panoramablick auf das Meer.",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "Einfamilienvilla im Zen- und Landhausstil in Lloret de Mar, mit einem 806 m² großen Grundstück, privatem Pool, Wellnessbereich mit Sauna, geräumiger Garage und Panoramablick auf das Meer.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0412\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0441\u043F\u0430-\u0446\u0435\u043D\u0442\u0440\u043E\u043C \u0438 \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "920.000 \u20AC",
-          "excerpt": "\u041E\u0434\u043D\u043E\u0441\u0435\u043C\u0435\u0439\u043D\u0430\u044F \u0432\u0438\u043B\u043B\u0430 \u0432 \u0441\u0442\u0438\u043B\u0435 \u0434\u0437\u0435\u043D \u0438 \u0440\u0443\u0441\u0442\u0438\u043A \u0432 \u041B\u043B\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440, \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 806 \u043C\u00B2, \u0447\u0430\u0441\u0442\u043D\u044B\u043C \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u043E\u0437\u0434\u043E\u0440\u043E\u0432\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u043C \u043F\u0430\u0432\u0438\u043B\u044C\u043E\u043D\u043E\u043C \u0441 \u0441\u0430\u0443\u043D\u043E\u0439, \u043F\u0440\u043E\u0441\u0442\u043E\u0440\u043D\u044B\u043C \u0433\u0430\u0440\u0430\u0436\u043E\u043C \u0438 \u043F\u0430\u043D\u043E\u0440\u0430\u043C\u043D\u044B\u043C \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Вилла",
+          "title": "Вилла в стиле дзен с бассейном, спа-центром и видом на море в Льорет-де-Мар",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "920.000 €",
+          "excerpt": "Односемейная вилла в стиле дзен и рустик в Ллорет-де-Мар, с участком площадью 806 м², частным бассейном, оздоровительным павильоном с сауной, просторным гаражом и панорамным видом на море.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": true,
@@ -845,11 +845,11 @@
     },
     {
       "id": "hotel-montanamar-inversion-lloret-de-mar",
-      "route": "inmuebles/ficha/?id=hotel-montanamar-inversion-lloret-de-mar",
+      "route": "inmuebles/hotel-montanamar-inversion-lloret-de-mar/",
       "image": "assets/inmuebles/hotel-montanamar-inversion-lloret-de-mar/principal.jpg",
       "types": [
         "hotel",
-        "inversi\u00F3n",
+        "inversión",
         "costa brava",
         "piscina",
         "restaurante",
@@ -858,52 +858,52 @@
       "data": "data/properties/hotel-montanamar-inversion-lloret-de-mar.json",
       "translations": {
         "es": {
-          "tag": "Proyecto hotelero",
-          "title": "Hotel Monta\u00F1a Mar: inversi\u00F3n hotelera en Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
-          "excerpt": "Oportunidad de inversi\u00F3n hotelera en Lloret de Mar, con piscina, zonas de restauraci\u00F3n, habitaciones con balc\u00F3n, vistas al mar y material gr\u00E1fico para valorar su reposicionamiento.",
+          "tag": "Hotel",
+          "title": "Hotel Montaña Mar: inversión hotelera en Lloret de Mar",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
+          "excerpt": "Oportunidad de inversión hotelera en Lloret de Mar, con piscina, zonas de restauración, habitaciones con balcón, vistas al mar y material gráfico para valorar su reposicionamiento.",
           "cta": "Ver inmueble"
         },
         "ca": {
-          "tag": "Projecte hoteler",
-          "title": "Hotel Montanamar: inversi\u00F3 en un hotel a Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
-          "excerpt": "Una oportunitat d\u0027inversi\u00F3 hotelera a Lloret de Mar, que inclou una piscina, zones de restauraci\u00F3, habitacions amb balc\u00F3, vistes al mar i material visual per avaluar-ne el reposicionament.",
+          "tag": "Hotel",
+          "title": "Hotel Montanamar: inversió en un hotel a Lloret de Mar",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
+          "excerpt": "Una oportunitat d'inversió hotelera a Lloret de Mar, que inclou una piscina, zones de restauració, habitacions amb balcó, vistes al mar i material visual per avaluar-ne el reposicionament.",
           "cta": "Veure immoble"
         },
         "en": {
-          "tag": "Hotel project",
+          "tag": "Hotel",
           "title": "Hotel Montanamar: Hotel Investment in Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
           "excerpt": "Hotel investment opportunity in Lloret de Mar, featuring a pool, dining areas, rooms with balconies, ocean views, and visual materials to assess its repositioning.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "H\u00F4tel Montanamar : investissement h\u00F4telier \u00E0 Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
-          "excerpt": "Opportunit\u00E9 d\u0027investissement h\u00F4telier \u00E0 Lloret de Mar, avec piscine, espaces de restauration, chambres dot\u00E9es d\u0027un balcon, vue sur la mer et supports visuels permettant d\u0027\u00E9valuer son repositionnement.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Hôtel",
+          "title": "Hôtel Montanamar : investissement hôtelier à Lloret de Mar",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
+          "excerpt": "Opportunité d'investissement hôtelier à Lloret de Mar, avec piscine, espaces de restauration, chambres dotées d'un balcon, vue sur la mer et supports visuels permettant d'évaluer son repositionnement.",
+          "cta": "Voir la propriété"
         },
         "de": {
-          "tag": "Hotelprojekt",
+          "tag": "Hotel",
           "title": "Hotel Montanamar: Hotelinvestition in Lloret de Mar",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
-          "excerpt": "Investitionsm\u00F6glichkeit im Hotelbereich in Lloret de Mar, mit Swimmingpool, Gastronomiebereichen, Zimmern mit Balkon, Meerblick und Bildmaterial zur Bewertung einer Neupositionierung.",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
+          "excerpt": "Investitionsmöglichkeit im Hotelbereich in Lloret de Mar, mit Swimmingpool, Gastronomiebereichen, Zimmern mit Balkon, Meerblick und Bildmaterial zur Bewertung einer Neupositionierung.",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u041E\u0442\u0435\u043B\u044C \u00AB\u041C\u043E\u043D\u0442\u0430\u043D\u0430\u043C\u0430\u0440\u00BB: \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u0432 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u0431\u0438\u0437\u043D\u0435\u0441 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440",
-          "location": "Lloret de Mar \u00B7 Selva \u00B7 Girona",
-          "price": "2.700.000 \u20AC",
-          "excerpt": "\u0418\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u044C \u0432 \u0441\u0444\u0435\u0440\u0435 \u0433\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u043E\u0433\u043E \u0431\u0438\u0437\u043D\u0435\u0441\u0430 \u0432 \u041B\u044C\u043E\u0440\u0435\u0442-\u0434\u0435-\u041C\u0430\u0440: \u043E\u0431\u044A\u0435\u043A\u0442 \u0441 \u0431\u0430\u0441\u0441\u0435\u0439\u043D\u043E\u043C, \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u043D\u044B\u043C\u0438 \u0437\u043E\u043D\u0430\u043C\u0438, \u043D\u043E\u043C\u0435\u0440\u0430\u043C\u0438 \u0441 \u0431\u0430\u043B\u043A\u043E\u043D\u0430\u043C\u0438, \u0432\u0438\u0434\u043E\u043C \u043D\u0430 \u043C\u043E\u0440\u0435 \u0438 \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0430\u043C\u0438 \u0434\u043B\u044F \u043E\u0446\u0435\u043D\u043A\u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0438 \u0435\u0433\u043E \u0440\u0435\u043F\u043E\u0437\u0438\u0446\u0438\u043E\u043D\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Отель",
+          "title": "Отель «Монтанамар»: инвестиции в гостиничный бизнес в Льорет-де-Мар",
+          "location": "Lloret de Mar · Selva · Girona",
+          "price": "2.700.000 €",
+          "excerpt": "Инвестиционная возможность в сфере гостиничного бизнеса в Льорет-де-Мар: объект с бассейном, ресторанными зонами, номерами с балконами, видом на море и графическими материалами для оценки возможности его репозиционирования.",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": false,
@@ -913,7 +913,7 @@
     },
     {
       "id": "mas-candell-hotel-4-estrellas-platja-daro",
-      "route": "inmuebles/ficha/?id=mas-candell-hotel-4-estrellas-platja-daro",
+      "route": "inmuebles/mas-candell-hotel-4-estrellas-platja-daro/",
       "image": "assets/inmueble-masia/1.jpg",
       "types": [
         "masia",
@@ -923,51 +923,51 @@
       "translations": {
         "es": {
           "tag": "Proyecto hotelero",
-          "title": "Mas\u00EDa hist\u00F3rica fortificada del siglo XVI",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "Mas\u00EDa fortificada patrimonial del siglo XVI en Port d\u0027Aro, con parcela de 10.860 m\u00B2.",
+          "title": "Masía histórica fortificada del siglo XVI",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "Masía fortificada patrimonial del siglo XVI en Port d'Aro, con parcela de 10.860 m².",
           "cta": "Ver inmueble"
         },
         "ca": {
           "tag": "Projecte hoteler",
-          "title": "Mas hist\u00F2ric fortificat del segle XVI",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "Una masia fortificada del segle XVI catalogada com a patrimoni a Port d\u0027Aro, amb una parcel\u00B7la de 10.860 m\u00B2.",
+          "title": "Mas històric fortificat del segle XVI",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "Una masia fortificada del segle XVI catalogada com a patrimoni a Port d'Aro, amb una parcel·la de 10.860 m².",
           "cta": "Veure immoble"
         },
         "en": {
           "tag": "Hotel project",
           "title": "Historic fortified farmhouse from the 16th century",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "A 16th-century heritage-listed fortified farmhouse in Port d\u0027Aro, with a 10,860 m\u00B2 lot.",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "A 16th-century heritage-listed fortified farmhouse in Port d'Aro, with a 10,860 m² lot.",
           "cta": "View property"
         },
         "fr": {
-          "tag": "Projet h\u00F4telier",
-          "title": "Maison de campagne historique fortifi\u00E9e du XVIe si\u00E8cle",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "Maison de campagne fortifi\u00E9e class\u00E9e au patrimoine, datant du XVIe si\u00E8cle, situ\u00E9e \u00E0 Port d\u0027Aro, avec un terrain de 10 860 m\u00B2.",
-          "cta": "Voir la propri\u00E9t\u00E9"
+          "tag": "Projet hôtelier",
+          "title": "Maison de campagne historique fortifiée du XVIe siècle",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "Maison de campagne fortifiée classée au patrimoine, datant du XVIe siècle, située à Port d'Aro, avec un terrain de 10 860 m².",
+          "cta": "Voir la propriété"
         },
         "de": {
           "tag": "Hotelprojekt",
           "title": "Historisches, befestigtes Landhaus aus dem 16. Jahrhundert",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "Befestigtes, denkmalgesch\u00FCtztes Landhaus aus dem 16. Jahrhundert in Port d\u2019Aro mit einem Grundst\u00FCck von 10.860 m\u00B2.",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "Befestigtes, denkmalgeschütztes Landhaus aus dem 16. Jahrhundert in Port d’Aro mit einem Grundstück von 10.860 m².",
           "cta": "Immobilie ansehen"
         },
         "ru": {
-          "tag": "\u0413\u043E\u0441\u0442\u0438\u043D\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442",
-          "title": "\u0418\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0443\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430",
-          "location": "Port d\u0027Aro \u00B7 Platja d\u0027Aro \u00B7 Castell-Platja d\u0027Aro \u00B7 Carrer d\u0027Aro 5",
-          "price": "2.995.000 \u20AC",
-          "excerpt": "\u0423\u043A\u0440\u0435\u043F\u043B\u0451\u043D\u043D\u0430\u044F \u0443\u0441\u0430\u0434\u044C\u0431\u0430 XVI \u0432\u0435\u043A\u0430, \u044F\u0432\u043B\u044F\u044E\u0449\u0430\u044F\u0441\u044F \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u043C \u043A\u0443\u043B\u044C\u0442\u0443\u0440\u043D\u043E\u0433\u043E \u043D\u0430\u0441\u043B\u0435\u0434\u0438\u044F, \u0432 \u041F\u043E\u0440\u0442-\u0434\u0027\u0410\u0440\u043E \u0441 \u0443\u0447\u0430\u0441\u0442\u043A\u043E\u043C \u043F\u043B\u043E\u0449\u0430\u0434\u044C\u044E 10 860 \u043C\u00B2.",
-          "cta": "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043E\u0431\u044A\u0435\u043A\u0442"
+          "tag": "Гостиничный проект",
+          "title": "Историческая укреплённая усадьба XVI века",
+          "location": "Port d'Aro · Platja d'Aro · Castell-Platja d'Aro · Carrer d'Aro 5",
+          "price": "2.600.000 €",
+          "excerpt": "Укреплённая усадьба XVI века, являющаяся объектом культурного наследия, в Порт-д'Аро с участком площадью 10 860 м².",
+          "cta": "Смотреть объект"
         }
       },
       "otherAgency": false,

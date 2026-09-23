@@ -1023,7 +1023,7 @@ header li:hover > a {
     background-image:
       linear-gradient(90deg, rgba(5, 13, 25, .95) 0%, rgba(5, 13, 25, .82) 58%, rgba(5, 13, 25, .48) 100%),
       linear-gradient(180deg, rgba(5, 13, 25, .22) 0%, rgba(5, 13, 25, .82) 100%),
-      url("assets/hero-principal.png");
+      url("assets/hero-principal-medium.jpg");
     background-position: center;
   }
   header ul {
@@ -1135,6 +1135,38 @@ header li:hover > a {
   .catalog-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+}
+
+/* Contact status and crawlable catalog fallback */
+.contact-form-status {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: .95rem;
+  line-height: 1.5;
+}
+
+.contact-form-status--success { color: #a8e6c1; }
+.contact-form-status--error { color: #ffd6a0; }
+.contact-form-status a { color: #f2d59d; font-weight: 800; }
+
+.catalog-seo-fallback,
+.property-seo-fallback {
+  display: grid;
+  gap: 18px;
+}
+
+.catalog-seo-item a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.catalog-seo-item img,
+.property-seo-fallback img {
+  display: block;
+  width: min(100%, 720px);
+  max-height: 420px;
+  object-fit: cover;
 }
 
 @media (max-width: 560px) {

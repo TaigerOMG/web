@@ -4,7 +4,7 @@
   const SCROLL_RESTORE_KEY = "lacostahaus_restore_scroll";
   const scriptUrl = document.currentScript ? document.currentScript.src : window.location.href;
   const baseUrl = new URL(".", scriptUrl);
-  const DATA_VERSION = "20260718-hide-ideas";
+  const DATA_VERSION = "20260918-content-seo";
   const page = document.body.dataset.page || "home";
 
   function repairTextValue(value) {
@@ -106,6 +106,45 @@
     fr: "Nous contacter pour ce bien",
     de: "Kontakt zu dieser Immobilie",
     ru: "Связаться по этому объекту"
+  };
+
+  const contactFormStatusLabels = {
+    es: {
+      sending: "Enviando mensaje…",
+      success: "Mensaje enviado correctamente. Te contactaremos pronto.",
+      error: "No se ha podido enviar ahora. Puedes abrir Telegram y enviarlo manualmente.",
+      fallback: "Abrir Telegram"
+    },
+    ca: {
+      sending: "Enviant el missatge…",
+      success: "Missatge enviat correctament. Et contactarem aviat.",
+      error: "No s'ha pogut enviar ara. Pots obrir Telegram i enviar-lo manualment.",
+      fallback: "Obrir Telegram"
+    },
+    en: {
+      sending: "Sending message…",
+      success: "Message sent successfully. We will contact you soon.",
+      error: "The message could not be sent now. You can open Telegram and send it manually.",
+      fallback: "Open Telegram"
+    },
+    fr: {
+      sending: "Envoi du message…",
+      success: "Message envoyé. Nous vous contacterons bientôt.",
+      error: "Le message n'a pas pu être envoyé. Vous pouvez ouvrir Telegram et l'envoyer manuellement.",
+      fallback: "Ouvrir Telegram"
+    },
+    de: {
+      sending: "Nachricht wird gesendet…",
+      success: "Nachricht erfolgreich gesendet. Wir melden uns bald.",
+      error: "Die Nachricht konnte nicht gesendet werden. Sie können Telegram öffnen und sie manuell senden.",
+      fallback: "Telegram öffnen"
+    },
+    ru: {
+      sending: "Сообщение отправляется…",
+      success: "Сообщение отправлено. Мы скоро свяжемся с вами.",
+      error: "Сообщение не удалось отправить. Можно открыть Telegram и отправить его вручную.",
+      fallback: "Открыть Telegram"
+    }
   };
 
   const contactPropertyLabels = {
@@ -737,6 +776,7 @@
     try {
       const response = await fetch(url.href, {
         headers: backendHeaders(config),
+        signal: AbortSignal.timeout(8000),
         cache: "no-store"
       });
       if (!response.ok) throw new Error("Supabase properties " + response.status);
@@ -837,6 +877,12 @@
   }
 
   function currentPageUrl(lang = currentLanguage) {
+    if (page === "catalog") {
+      const target = new URL(site.routes.properties || "inmuebles/", baseUrl);
+      target.search = "";
+      target.searchParams.set("lang", lang);
+      return target.href;
+    }
     if (page === "property") {
       const property = propertyById(currentPropertyId());
       return propertyUrl(property, lang);
@@ -964,6 +1010,7 @@
       image: logoUrl,
       telephone: phone,
       email,
+      sameAs: [site.contact?.telegram, ...Object.values(site.social || {})].filter(Boolean),
       areaServed: ["Costa Brava", "Platja d'Aro", "S'Agaró", "Begur", "Sant Feliu de Guíxols", "Baix Empordà"],
       availableLanguage: ["es", "ca", "ro", "fr", "de", "ru"],
       address: {
@@ -1021,6 +1068,11 @@
     const bedrooms = detailValue(details, ["Dormitorios", "Habitaciones", "Bedrooms", "Chambres", "Schlafzimmer"]);
     const bathrooms = detailValue(details, ["Banos", "Bathrooms", "Salles de bain", "Badezimmer"]);
     const propertyType = propertySchemaType(registryProperty, propertyText);
+    const numericValue = (value) => {
+      const parsed = euroAmountFromText(value);
+      return parsed > 0 ? parsed : null;
+    };
+    const locality = String(propertyText.location_text || "").split(/[·|,]/)[0].trim() || "Costa Brava";
 
     const itemOffered = {
       "@type": propertyType,
@@ -1030,14 +1082,17 @@
       image: imageUrls,
       address: {
         "@type": "PostalAddress",
-        addressLocality: propertyText.location_text || "Costa Brava",
+        addressLocality: locality,
         addressRegion: "Girona",
         addressCountry: "ES"
       }
     };
-    if (livingArea) itemOffered.floorSize = { "@type": "QuantitativeValue", value: livingArea };
-    if (bedrooms) itemOffered.numberOfBedrooms = bedrooms;
-    if (bathrooms) itemOffered.numberOfBathroomsTotal = bathrooms;
+    const livingAreaValue = numericValue(livingArea);
+    const bedroomValue = numericValue(bedrooms);
+    const bathroomValue = numericValue(bathrooms);
+    if (livingAreaValue !== null) itemOffered.floorSize = { "@type": "QuantitativeValue", value: livingAreaValue, unitCode: "MTK" };
+    if (bedroomValue !== null) itemOffered.numberOfBedrooms = bedroomValue;
+    if (bathroomValue !== null) itemOffered.numberOfBathroomsTotal = bathroomValue;
 
     const offer = {
       "@context": "https://schema.org",
@@ -1203,22 +1258,22 @@
     const socialLinks = [
       {
         label: "Facebook",
-        href: "https://www.facebook.com/",
+        href: site.social?.facebook || "",
         svg: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#6f8cff" d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5.02 3.66 9.18 8.44 9.94v-7.03H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.92 3.77-3.92 1.09 0 2.23.2 2.23.2v2.47h-1.26c-1.24 0-1.63.78-1.63 1.57v1.89h2.78l-.44 2.91h-2.34V22C18.34 21.24 22 17.08 22 12.06Z"/></svg>'
       },
       {
         label: "Instagram",
-        href: "https://www.instagram.com/",
+        href: site.social?.instagram || "",
         svg: '<svg viewBox="0 0 24 24" aria-hidden="true"><defs><linearGradient id="ig" x1="4" y1="20" x2="20" y2="4"><stop stop-color="#feda75"/><stop offset=".35" stop-color="#d62976"/><stop offset=".7" stop-color="#962fbf"/><stop offset="1" stop-color="#4f5bd5"/></linearGradient></defs><path fill="url(#ig)" d="M7.5 2h9A5.5 5.5 0 0 1 22 7.5v9a5.5 5.5 0 0 1-5.5 5.5h-9A5.5 5.5 0 0 1 2 16.5v-9A5.5 5.5 0 0 1 7.5 2Zm0 2A3.5 3.5 0 0 0 4 7.5v9A3.5 3.5 0 0 0 7.5 20h9a3.5 3.5 0 0 0 3.5-3.5v-9A3.5 3.5 0 0 0 16.5 4h-9Zm4.5 3.35A4.65 4.65 0 1 1 12 16.65a4.65 4.65 0 0 1 0-9.3Zm0 2A2.65 2.65 0 1 0 12 14.65a2.65 2.65 0 0 0 0-5.3Zm5.15-2.52a1.05 1.05 0 1 1-1.05 1.05 1.05 1.05 0 0 1 1.05-1.05Z"/></svg>'
       },
       {
         label: "X",
-        href: "https://x.com/",
+        href: site.social?.x || "",
         svg: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#f4f7fb" d="M13.74 10.62 21.02 2h-1.73l-6.32 7.48L7.92 2H2.1l7.64 11.32L2.1 22h1.73l6.68-7.56L15.84 22h5.82l-7.92-11.38Zm-2.36 2.67-.78-1.13L4.45 3.32h2.64l4.97 7.14.77 1.13 6.45 9.18h-2.64l-5.26-7.48Z"/></svg>'
       },
       {
         label: "Telegram",
-        href: "https://t.me/",
+        href: site.contact?.telegram || "",
         svg: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#2aabee" d="M21.93 4.18 18.6 19.86c-.25 1.11-.9 1.38-1.82.86l-5.03-3.71-2.43 2.34c-.27.27-.5.5-1.02.5l.36-5.12 9.32-8.42c.4-.36-.09-.56-.63-.2L5.83 13.36.87 11.81c-1.08-.34-1.1-1.08.23-1.6L20.5 2.72c.9-.34 1.69.2 1.43 1.46Z"/></svg>'
       }
     ];
@@ -1263,7 +1318,7 @@
         <div>
           <h3>${currentText.footer.socialTitle}</h3>
           <div class="footer-social-home">
-            ${socialLinks.map((item) => `<a href="${item.href}" aria-label="${item.label}" title="${item.label}">${item.svg}</a>`).join("")}
+            ${socialLinks.filter((item) => item.href).map((item) => `<a href="${item.href}" aria-label="${item.label}" title="${item.label}">${item.svg}</a>`).join("")}
           </div>
           <a class="footer-agent-qr" href="${absoluteRoute("agent")}" aria-label="Agente inmobiliario Sergiu Crudu">
             <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&margin=10&data=${encodeURIComponent("https://lacostahaus.com/agente-inmobiliario/")}" alt="QR agente inmobiliario Sergiu Crudu">
@@ -1593,10 +1648,22 @@
   }
 
   function catalogLocationSegments(locationText) {
+    const ignored = /^(girona|spain|españa|catalunya|catalonia)$/i;
+    const streetLike = /(^|\s)(carrer|calle|avenida|av\.?|plaça|plaza|passeig|paseo|carretera|camí|camino|street|road|rue|straße)\b/i;
     return String(locationText || "")
       .split(/[·|,]/)
       .map((item) => item.trim().replace(/^Barrio\s+/i, "").replace(/\s+area$/i, ""))
-      .filter((item) => item.length > 1 && !/^\d+$/.test(item));
+      .filter((item) => item.length > 1 && !/^\d{4,5}$/.test(item) && !ignored.test(item) && !streetLike.test(item) && !/\d/.test(item));
+  }
+
+  function catalogLocationKey(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .replace(/['’]/g, "")
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
   }
 
   function catalogCardMarkup(property, text) {
@@ -1626,7 +1693,13 @@
     container.classList.toggle("catalog-filters--compact", !showPriceFilter);
     const minPrice = hasPrices ? Math.floor(Math.min(...priceValues)) : "";
     const maxPrice = hasPrices ? Math.ceil(Math.max(...priceValues)) : "";
-    const locations = Array.from(new Set(enrichedProperties.flatMap((item) => item.locations))).sort((a, b) => a.localeCompare(b, currentLanguage));
+    const locationsByKey = new Map();
+    enrichedProperties.flatMap((item) => item.locations).forEach((location) => {
+      const key = catalogLocationKey(location);
+      if (key && !locationsByKey.has(key)) locationsByKey.set(key, location);
+    });
+    const locations = Array.from(locationsByKey, ([value, label]) => ({ value, label }))
+      .sort((a, b) => a.label.localeCompare(b.label, currentLanguage));
 
     container.innerHTML = `
       <div class="catalog-filter-field catalog-filter-field--search">
@@ -1637,7 +1710,7 @@
         <label for="catalogLocation">${labels.location}</label>
         <select id="catalogLocation" data-catalog-location>
           <option value="">${labels.allLocations}</option>
-          ${locations.map((location) => `<option value="${escapeAttribute(location)}">${location}</option>`).join("")}
+          ${locations.map(({ value, label: location }) => `<option value="${escapeAttribute(value)}">${escapeAttribute(location)}</option>`).join("")}
         </select>
       </div>
       <div class="catalog-filter-field">
@@ -1695,6 +1768,37 @@
     if (!grid) return;
     setSeo(currentText.catalog.title + " | LacostaHaus", currentText.catalog.text);
     const properties = orderedProperties(propertiesData.catalog);
+    setJsonLd("catalogStructuredData", {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: currentText.catalog.title || "Inmuebles LacostaHaus",
+      url: productionUrlForPath(site.routes.properties, currentLanguage),
+      numberOfItems: properties.length,
+      itemListElement: properties.map((property, index) => {
+        const text = propertyTranslation(property);
+        const location = String(text.location || text.location_text || "Costa Brava").split(/[·|,]/)[0].trim() || "Costa Brava";
+        return {
+          "@type": "ListItem",
+          position: index + 1,
+          url: productionUrlForPath(property.route || site.routes.properties, currentLanguage),
+          name: text.title || property.id,
+          image: property.image ? [productionAssetUrl(property.image)] : [],
+          item: {
+            "@type": propertySchemaType(property, text),
+            name: text.title || property.id,
+            description: text.excerpt || text.seo_description || "",
+            url: productionUrlForPath(property.route || site.routes.properties, currentLanguage),
+            image: property.image ? [productionAssetUrl(property.image)] : [],
+            address: {
+              "@type": "PostalAddress",
+              addressLocality: location,
+              addressRegion: "Girona",
+              addressCountry: "ES"
+            }
+          }
+        };
+      })
+    });
     if (!properties.length) {
       if (filters) filters.innerHTML = "";
       grid.innerHTML = '<p class="catalog-empty">No hay inmuebles publicados todavia.</p>';
@@ -1792,7 +1896,7 @@
 
       let results = enriched.filter((item) => {
         const matchesQuery = !query || item.haystack.includes(query);
-        const matchesLocation = !selectedLocation || item.locations.includes(selectedLocation);
+        const matchesLocation = !selectedLocation || item.locations.some((location) => catalogLocationKey(location) === selectedLocation);
         const matchesPrice = item.price === null || (item.price >= min && item.price <= max);
         return matchesQuery && matchesLocation && matchesPrice;
       });
@@ -1844,6 +1948,21 @@
     window.addEventListener("resize", updatePriceRangeUi);
     updatePriceRangeUi();
     applyFilters();
+  }
+
+  function telegramShareUrl(text) {
+    const target = new URL("https://t.me/share/url");
+    target.searchParams.set("url", window.location.href);
+    target.searchParams.set("text", text);
+    return target.href;
+  }
+
+  function setContactStatus(form, message, tone = "") {
+    const status = form?.querySelector("[data-contact-status]");
+    if (!status) return;
+    status.textContent = message;
+    status.className = `contact-form-status${tone ? ` contact-form-status--${tone}` : ""}`;
+    status.hidden = !message;
   }
 
   function initCoverflow() {
@@ -2947,7 +3066,7 @@
     document.addEventListener("submit", (event) => {
       const form = event.target.closest("form");
       if (!form) return;
-      trackEvent("generate_lead", {
+      trackEvent("form_submit_attempt", {
         method: "contact_form",
         form_id: form.id || "",
         form_name: form.getAttribute("name") || eventLabel(form)
@@ -2958,7 +3077,7 @@
         const formData = new FormData(form);
         if ((formData.get("_honey") || "").trim()) return;
 
-        const recipient = site?.contact?.email || "lacostahaus@gmail.com";
+        const labels = contactFormStatusLabels[currentLanguage] || contactFormStatusLabels.es;
         const subject = formData.get("_subject") || "Nueva solicitud desde LacostaHaus";
         const property = formData.get("property");
         const lines = [
@@ -2970,8 +3089,46 @@
           "Mensaje:",
           formData.get("message") || ""
         ].filter((line, index) => line || index === 4);
+        const submit = form.querySelector("[data-contact-submit]");
+        const endpoint = site?.contact?.formEndpoint || "/api/telegram";
+        const payload = {
+          name: String(formData.get("name") || "").trim(),
+          email: String(formData.get("email") || "").trim(),
+          phone: String(formData.get("phone") || "").trim(),
+          message: String(formData.get("message") || "").trim(),
+          property: property ? String(property).trim() : "",
+          subject: String(subject),
+          language: currentLanguage,
+          page_url: window.location.href
+        };
 
-        window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.join("\n"))}`;
+        setContactStatus(form, labels.sending);
+        if (submit) submit.disabled = true;
+
+        fetch(new URL(endpoint, window.location.origin).href, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Accept: "application/json" },
+          body: JSON.stringify(payload)
+        }).then((response) => {
+          if (!response.ok) throw new Error("Contact endpoint " + response.status);
+          trackEvent("generate_lead", { method: "contact_form", form_id: form.id || "" });
+          form.reset();
+          setContactStatus(form, labels.success, "success");
+        }).catch(() => {
+          const fallback = document.createElement("a");
+          fallback.href = telegramShareUrl(lines.join("\n"));
+          fallback.target = "_blank";
+          fallback.rel = "noopener";
+          fallback.textContent = labels.fallback;
+          setContactStatus(form, "", "error");
+          const status = form.querySelector("[data-contact-status]");
+          if (status) {
+            status.append(document.createTextNode(labels.error + " "), fallback);
+            status.hidden = false;
+          }
+        }).finally(() => {
+          if (submit) submit.disabled = false;
+        });
       }
     });
   }

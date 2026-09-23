@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "sourceMode": "merge",
-  "supabaseUrl": "",
-  "anonKey": "",
+  "supabaseUrl": "https://rmtynozdaxukvmyltulv.supabase.co",
+  "anonKey": "sb_publishable_sxLZq4B5GjOZI6nUeAMz4Q_S_fXz79i",
   "storageBucket": "property-images"
 }
